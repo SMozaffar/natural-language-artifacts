@@ -154,12 +154,6 @@ def main():
     if training_args.do_train:
         trainer.train()
         trainer.save_model()
-        # If you want to customize the way the loss is computed, you should subclass Trainer and override the "compute_loss"
-        # method (see https://huggingface.co/transformers/_modules/transformers/trainer.html#Trainer.compute_loss).
-        #
-        # You can also add training hooks using Trainer.add_callback:
-        #   See https://huggingface.co/transformers/main_classes/trainer.html#transformers.Trainer.add_callback
-        #   and https://huggingface.co/transformers/main_classes/callback.html#transformers.TrainerCallback
 
     if training_args.do_eval:
         results = trainer.evaluate(**eval_kwargs)
