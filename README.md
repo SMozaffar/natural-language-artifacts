@@ -1,5 +1,7 @@
 # Investigation and Mitigation of Dataset Artifacts in Natural Language Inference (NLI)
 
+View the full NeurIPS style report [here](https://github.com/SMozaffar/natural-language-artifacts/blob/main/Report.pdf).
+
 ## Abstract
 
 This project investigates dataset artifacts in Natural Language Inference (NLI) using model ablations and adversarial challenge sets. We explore how state-of-the-art NLP models can unintentionally learn and rely on unintended dataset artifacts, leading to biased results. The study employs the TextAttack framework and an ELECTRA-small model to identify and quantify these artifacts. We propose data augmentation and model fine-tuning as methods to improve model robustness, particularly towards neutral-labeled examples, enhancing accuracy and generalizability in NLI tasks.
