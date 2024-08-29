@@ -64,7 +64,7 @@ def main():
         # Load the raw data
         dataset = datasets.load_dataset(*dataset_id)
     
-    # NLI models need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
+    # need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
     task_kwargs = {'num_labels': 3} if args.task == 'nli' else {}
 
     # select the right model fine-tuning head
