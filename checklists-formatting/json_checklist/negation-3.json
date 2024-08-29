@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Kathy is an accountant but Dan is not.",
+        "hypothesis": "Dan is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is an aviator but Martha is not.",
+        "hypothesis": "Martha is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is a nurse but Edwin is not.",
+        "hypothesis": "Edwin is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a dentist but Walter is not.",
+        "hypothesis": "Walter is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is a writer but Ruth is not.",
+        "hypothesis": "Ruth is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a judge but Wendy is not.",
+        "hypothesis": "Wendy is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is an accountant but Brian is not.",
+        "hypothesis": "Brian is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a tailor but Amy is not.",
+        "hypothesis": "Amy is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "George is a butler but Julia is not.",
+        "hypothesis": "Julia is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a teacher but Marilyn is not.",
+        "hypothesis": "Marilyn is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Dave is a hairdresser but Thomas is not.",
+        "hypothesis": "Thomas is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is a dietitian but Fred is not.",
+        "hypothesis": "Fred is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is a hairdresser but Hugh is not.",
+        "hypothesis": "Hugh is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a designer but Ken is not.",
+        "hypothesis": "Ken is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a lecturer but Andrew is not.",
+        "hypothesis": "Andrew is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is a lecturer but Kathryn is not.",
+        "hypothesis": "Kathryn is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is a cook but Lisa is not.",
+        "hypothesis": "Lisa is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is a photographer but Patrick is not.",
+        "hypothesis": "Patrick is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a nurse but Katie is not.",
+        "hypothesis": "Katie is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a lawyer but Amanda is not.",
+        "hypothesis": "Amanda is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is a butler but Jim is not.",
+        "hypothesis": "Jim is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is a plumber but Ellen is not.",
+        "hypothesis": "Ellen is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a police officer but Nick is not.",
+        "hypothesis": "Nick is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is a firefighter but Johnny is not.",
+        "hypothesis": "Johnny is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a judge but Steven is not.",
+        "hypothesis": "Steven is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is an actor but Matt is not.",
+        "hypothesis": "Matt is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a lawyer but Brian is not.",
+        "hypothesis": "Brian is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a chef but Louise is not.",
+        "hypothesis": "Louise is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a librarian but Caroline is not.",
+        "hypothesis": "Caroline is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is an architect but Martha is not.",
+        "hypothesis": "Martha is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Al is a farmer but Albert is not.",
+        "hypothesis": "Albert is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is a tailor but Edward is not.",
+        "hypothesis": "Edward is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is a cook but George is not.",
+        "hypothesis": "George is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is a writer but Sandra is not.",
+        "hypothesis": "Sandra is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a teacher but Claire is not.",
+        "hypothesis": "Claire is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is an accountant but Ruth is not.",
+        "hypothesis": "Ruth is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is an artist but Robert is not.",
+        "hypothesis": "Robert is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is an engineer but Philip is not.",
+        "hypothesis": "Philip is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is a judge but Jason is not.",
+        "hypothesis": "Jason is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is a judge but Alfred is not.",
+        "hypothesis": "Alfred is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is an accountant but Matt is not.",
+        "hypothesis": "Matt is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a nurse but Carol is not.",
+        "hypothesis": "Carol is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a photographer but Francis is not.",
+        "hypothesis": "Francis is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is an actor but Alex is not.",
+        "hypothesis": "Alex is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is a cook but Anne is not.",
+        "hypothesis": "Anne is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "David is a police officer but Ruth is not.",
+        "hypothesis": "Ruth is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is a cook but Helen is not.",
+        "hypothesis": "Helen is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is a tailor but Cynthia is not.",
+        "hypothesis": "Cynthia is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is a chef but Kim is not.",
+        "hypothesis": "Kim is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a butler but Benjamin is not.",
+        "hypothesis": "Benjamin is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a scientist but Louis is not.",
+        "hypothesis": "Louis is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is a teacher but Marie is not.",
+        "hypothesis": "Marie is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is an author but Brian is not.",
+        "hypothesis": "Brian is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is a police officer but Kevin is not.",
+        "hypothesis": "Kevin is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is a butler but Alison is not.",
+        "hypothesis": "Alison is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is an accountant but Albert is not.",
+        "hypothesis": "Albert is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is a photographer but Christine is not.",
+        "hypothesis": "Christine is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a scientist but Sam is not.",
+        "hypothesis": "Sam is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is a plumber but Patricia is not.",
+        "hypothesis": "Patricia is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "William is an artist but Ron is not.",
+        "hypothesis": "Ron is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is an economist but Eric is not.",
+        "hypothesis": "Eric is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Dave is an author but Sharon is not.",
+        "hypothesis": "Sharon is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is a farmer but Nicole is not.",
+        "hypothesis": "Nicole is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is an accountant but Jane is not.",
+        "hypothesis": "Jane is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is a plumber but Carolyn is not.",
+        "hypothesis": "Carolyn is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a photographer but Charlotte is not.",
+        "hypothesis": "Charlotte is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a secretary but Carol is not.",
+        "hypothesis": "Carol is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is an aviator but Julie is not.",
+        "hypothesis": "Julie is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is a mechanic but Arthur is not.",
+        "hypothesis": "Arthur is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is an artist but Amy is not.",
+        "hypothesis": "Amy is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is a judge but Robert is not.",
+        "hypothesis": "Robert is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a firefighter but Barbara is not.",
+        "hypothesis": "Barbara is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is a tailor but Ray is not.",
+        "hypothesis": "Ray is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a plumber but Carl is not.",
+        "hypothesis": "Carl is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is an artist but Samuel is not.",
+        "hypothesis": "Samuel is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is a lecturer but Anne is not.",
+        "hypothesis": "Anne is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is an actor but Katherine is not.",
+        "hypothesis": "Katherine is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is an accountant but Nick is not.",
+        "hypothesis": "Nick is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Al is an actor but Matt is not.",
+        "hypothesis": "Matt is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is a hairdresser but Frances is not.",
+        "hypothesis": "Frances is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a judge but Wendy is not.",
+        "hypothesis": "Wendy is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is a farmer but Nick is not.",
+        "hypothesis": "Nick is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "William is an actor but Thomas is not.",
+        "hypothesis": "Thomas is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a lecturer but Jeff is not.",
+        "hypothesis": "Jeff is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is an accountant but Susan is not.",
+        "hypothesis": "Susan is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is a hairdresser but Harold is not.",
+        "hypothesis": "Harold is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is an accountant but Frederick is not.",
+        "hypothesis": "Frederick is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is a model but Donna is not.",
+        "hypothesis": "Donna is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is a hairdresser but Lauren is not.",
+        "hypothesis": "Lauren is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a cook but Jack is not.",
+        "hypothesis": "Jack is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is a secretary but Stephen is not.",
+        "hypothesis": "Stephen is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is an electrician but Anthony is not.",
+        "hypothesis": "Anthony is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is a lecturer but Benjamin is not.",
+        "hypothesis": "Benjamin is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a teacher but Benjamin is not.",
+        "hypothesis": "Benjamin is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is an architect but Sally is not.",
+        "hypothesis": "Sally is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is an electrician but Michael is not.",
+        "hypothesis": "Michael is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a cook but Joe is not.",
+        "hypothesis": "Joe is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander is a butler but Dave is not.",
+        "hypothesis": "Dave is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a mechanic but Leslie is not.",
+        "hypothesis": "Leslie is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is a butler but Deborah is not.",
+        "hypothesis": "Deborah is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is a photographer but Hugh is not.",
+        "hypothesis": "Hugh is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a scientist but Tim is not.",
+        "hypothesis": "Tim is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is a judge but Greg is not.",
+        "hypothesis": "Greg is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is an electrician but Heather is not.",
+        "hypothesis": "Heather is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is an aviator but Edwin is not.",
+        "hypothesis": "Edwin is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is an economist but Emma is not.",
+        "hypothesis": "Emma is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a dietitian but Lynn is not.",
+        "hypothesis": "Lynn is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is a photographer but Pamela is not.",
+        "hypothesis": "Pamela is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is a designer but Matthew is not.",
+        "hypothesis": "Matthew is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a teacher but Jane is not.",
+        "hypothesis": "Jane is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is a butler but Roy is not.",
+        "hypothesis": "Roy is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is a tailor but Samuel is not.",
+        "hypothesis": "Samuel is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is a designer but Adam is not.",
+        "hypothesis": "Adam is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is a firefighter but Virginia is not.",
+        "hypothesis": "Virginia is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is an economist but Fred is not.",
+        "hypothesis": "Fred is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is a professor but Betty is not.",
+        "hypothesis": "Betty is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a butler but Joan is not.",
+        "hypothesis": "Joan is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is a farmer but Gary is not.",
+        "hypothesis": "Gary is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is a butler but Melissa is not.",
+        "hypothesis": "Melissa is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is a writer but Laura is not.",
+        "hypothesis": "Laura is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is an artist but Heather is not.",
+        "hypothesis": "Heather is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is an engineer but Edward is not.",
+        "hypothesis": "Edward is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is a journalist but Jay is not.",
+        "hypothesis": "Jay is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is a plumber but Virginia is not.",
+        "hypothesis": "Virginia is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a librarian but Francis is not.",
+        "hypothesis": "Francis is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a model but Mark is not.",
+        "hypothesis": "Mark is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is a lawyer but Jean is not.",
+        "hypothesis": "Jean is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is a lecturer but Jane is not.",
+        "hypothesis": "Jane is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is an aviator but Frederick is not.",
+        "hypothesis": "Frederick is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is an author but Wendy is not.",
+        "hypothesis": "Wendy is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is a dietitian but Janet is not.",
+        "hypothesis": "Janet is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is a dentist but Sara is not.",
+        "hypothesis": "Sara is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is a plumber but Greg is not.",
+        "hypothesis": "Greg is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a butler but Ken is not.",
+        "hypothesis": "Ken is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is a photographer but Caroline is not.",
+        "hypothesis": "Caroline is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is an author but Ron is not.",
+        "hypothesis": "Ron is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a scientist but Virginia is not.",
+        "hypothesis": "Virginia is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is an electrician but Mark is not.",
+        "hypothesis": "Mark is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor is an aviator but Harry is not.",
+        "hypothesis": "Harry is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Don is an accountant but Harry is not.",
+        "hypothesis": "Harry is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is a lecturer but Richard is not.",
+        "hypothesis": "Richard is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is a model but Thomas is not.",
+        "hypothesis": "Thomas is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is a photographer but Bruce is not.",
+        "hypothesis": "Bruce is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a writer but Anne is not.",
+        "hypothesis": "Anne is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a physician but Donna is not.",
+        "hypothesis": "Donna is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is a secretary but Walter is not.",
+        "hypothesis": "Walter is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is a teacher but Emma is not.",
+        "hypothesis": "Emma is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is a librarian but Melissa is not.",
+        "hypothesis": "Melissa is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is an artist but John is not.",
+        "hypothesis": "John is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is a tailor but Peter is not.",
+        "hypothesis": "Peter is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is an author but Sue is not.",
+        "hypothesis": "Sue is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a writer but Frederick is not.",
+        "hypothesis": "Frederick is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is a model but Sara is not.",
+        "hypothesis": "Sara is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is a writer but Helen is not.",
+        "hypothesis": "Helen is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a judge but Jack is not.",
+        "hypothesis": "Jack is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is an engineer but Kenneth is not.",
+        "hypothesis": "Kenneth is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is an aviator but Matthew is not.",
+        "hypothesis": "Matthew is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a cook but Eric is not.",
+        "hypothesis": "Eric is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a lawyer but Amanda is not.",
+        "hypothesis": "Amanda is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is a model but Ann is not.",
+        "hypothesis": "Ann is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a nurse but Francis is not.",
+        "hypothesis": "Francis is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is a dietitian but Joan is not.",
+        "hypothesis": "Joan is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is an architect but Roger is not.",
+        "hypothesis": "Roger is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is an electrician but Kathryn is not.",
+        "hypothesis": "Kathryn is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a butler but Rebecca is not.",
+        "hypothesis": "Rebecca is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a dietitian but Mark is not.",
+        "hypothesis": "Mark is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is an artist but Frances is not.",
+        "hypothesis": "Frances is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is an architect but Robin is not.",
+        "hypothesis": "Robin is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is a librarian but Jeff is not.",
+        "hypothesis": "Jeff is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is a butler but Rose is not.",
+        "hypothesis": "Rose is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is a cook but Matt is not.",
+        "hypothesis": "Matt is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is a chef but Marie is not.",
+        "hypothesis": "Marie is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is an architect but Thomas is not.",
+        "hypothesis": "Thomas is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is a librarian but Walter is not.",
+        "hypothesis": "Walter is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is a hairdresser but Christine is not.",
+        "hypothesis": "Christine is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is an engineer but Richard is not.",
+        "hypothesis": "Richard is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is a cook but Henry is not.",
+        "hypothesis": "Henry is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is a dietitian but Jerry is not.",
+        "hypothesis": "Jerry is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is a police officer but Alexandra is not.",
+        "hypothesis": "Alexandra is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is a butler but Joe is not.",
+        "hypothesis": "Joe is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is an economist but Steve is not.",
+        "hypothesis": "Steve is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is an artist but Eleanor is not.",
+        "hypothesis": "Eleanor is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith is an author but Diana is not.",
+        "hypothesis": "Diana is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is a physician but Kathleen is not.",
+        "hypothesis": "Kathleen is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a police officer but Thomas is not.",
+        "hypothesis": "Thomas is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is an architect but Frederick is not.",
+        "hypothesis": "Frederick is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is a police officer but Virginia is not.",
+        "hypothesis": "Virginia is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is a librarian but Sue is not.",
+        "hypothesis": "Sue is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is an electrician but Louis is not.",
+        "hypothesis": "Louis is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is a nurse but Larry is not.",
+        "hypothesis": "Larry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a model but Charlotte is not.",
+        "hypothesis": "Charlotte is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a secretary but Katie is not.",
+        "hypothesis": "Katie is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is an economist but Roger is not.",
+        "hypothesis": "Roger is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn is a librarian but Ron is not.",
+        "hypothesis": "Ron is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "James is an aviator but Ron is not.",
+        "hypothesis": "Ron is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is a professor but Jack is not.",
+        "hypothesis": "Jack is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a teacher but Jerry is not.",
+        "hypothesis": "Jerry is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is an accountant but Barbara is not.",
+        "hypothesis": "Barbara is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is a lawyer but Patrick is not.",
+        "hypothesis": "Patrick is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a mechanic but Lauren is not.",
+        "hypothesis": "Lauren is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is a chef but Jane is not.",
+        "hypothesis": "Jane is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a nurse but Joe is not.",
+        "hypothesis": "Joe is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is an actor but Jimmy is not.",
+        "hypothesis": "Jimmy is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a secretary but Alexander is not.",
+        "hypothesis": "Alexander is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a professor but Frederick is not.",
+        "hypothesis": "Frederick is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is a tailor but Ed is not.",
+        "hypothesis": "Ed is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is a photographer but Johnny is not.",
+        "hypothesis": "Johnny is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a butler but Deborah is not.",
+        "hypothesis": "Deborah is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is an artist but Henry is not.",
+        "hypothesis": "Henry is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a lawyer but Martha is not.",
+        "hypothesis": "Martha is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is an electrician but Frank is not.",
+        "hypothesis": "Frank is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a lawyer but Martin is not.",
+        "hypothesis": "Martin is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is an electrician but Ken is not.",
+        "hypothesis": "Ken is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is an architect but Francis is not.",
+        "hypothesis": "Francis is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is a police officer but Lawrence is not.",
+        "hypothesis": "Lawrence is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a judge but Grace is not.",
+        "hypothesis": "Grace is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is a dietitian but Wendy is not.",
+        "hypothesis": "Wendy is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is an economist but Ashley is not.",
+        "hypothesis": "Ashley is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is a firefighter but Fiona is not.",
+        "hypothesis": "Fiona is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is a cook but Thomas is not.",
+        "hypothesis": "Thomas is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is an engineer but Heather is not.",
+        "hypothesis": "Heather is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is an economist but Jean is not.",
+        "hypothesis": "Jean is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is an engineer but Pamela is not.",
+        "hypothesis": "Pamela is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a writer but Catherine is not.",
+        "hypothesis": "Catherine is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is a farmer but Hugh is not.",
+        "hypothesis": "Hugh is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is a photographer but Ben is not.",
+        "hypothesis": "Ben is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is a dentist but Jill is not.",
+        "hypothesis": "Jill is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a plumber but Thomas is not.",
+        "hypothesis": "Thomas is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is a lawyer but Philip is not.",
+        "hypothesis": "Philip is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is a writer but Rachel is not.",
+        "hypothesis": "Rachel is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is a professor but Billy is not.",
+        "hypothesis": "Billy is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is a secretary but Karen is not.",
+        "hypothesis": "Karen is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is a tailor but Jennifer is not.",
+        "hypothesis": "Jennifer is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a dietitian but Daniel is not.",
+        "hypothesis": "Daniel is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is a tailor but John is not.",
+        "hypothesis": "John is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is a plumber but Donna is not.",
+        "hypothesis": "Donna is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is a mechanic but Roger is not.",
+        "hypothesis": "Roger is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is a writer but Alex is not.",
+        "hypothesis": "Alex is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is a firefighter but Sandra is not.",
+        "hypothesis": "Sandra is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is a tailor but Harold is not.",
+        "hypothesis": "Harold is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is a tailor but Patrick is not.",
+        "hypothesis": "Patrick is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Philip is an engineer but Alfred is not.",
+        "hypothesis": "Alfred is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a physician but Alexander is not.",
+        "hypothesis": "Alexander is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a writer but George is not.",
+        "hypothesis": "George is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is an engineer but Dick is not.",
+        "hypothesis": "Dick is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is an author but Grace is not.",
+        "hypothesis": "Grace is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is a designer but Barbara is not.",
+        "hypothesis": "Barbara is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is an accountant but Karen is not.",
+        "hypothesis": "Karen is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is a teacher but Bruce is not.",
+        "hypothesis": "Bruce is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is a writer but Anthony is not.",
+        "hypothesis": "Anthony is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Chris is a dentist but Frank is not.",
+        "hypothesis": "Frank is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is a chef but Andrew is not.",
+        "hypothesis": "Andrew is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a farmer but Arthur is not.",
+        "hypothesis": "Arthur is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is a professor but Roger is not.",
+        "hypothesis": "Roger is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is an engineer but Rebecca is not.",
+        "hypothesis": "Rebecca is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is a cook but Katherine is not.",
+        "hypothesis": "Katherine is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "William is a model but Ed is not.",
+        "hypothesis": "Ed is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is a writer but Emily is not.",
+        "hypothesis": "Emily is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a chef but Margaret is not.",
+        "hypothesis": "Margaret is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is an engineer but Florence is not.",
+        "hypothesis": "Florence is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a nurse but Leslie is not.",
+        "hypothesis": "Leslie is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is a model but Eleanor is not.",
+        "hypothesis": "Eleanor is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is a hairdresser but Rachel is not.",
+        "hypothesis": "Rachel is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is a firefighter but Dave is not.",
+        "hypothesis": "Dave is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn is an aviator but Roy is not.",
+        "hypothesis": "Roy is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a mechanic but Leslie is not.",
+        "hypothesis": "Leslie is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is an engineer but Alex is not.",
+        "hypothesis": "Alex is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a designer but Tom is not.",
+        "hypothesis": "Tom is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is an artist but Rose is not.",
+        "hypothesis": "Rose is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is a mechanic but Susan is not.",
+        "hypothesis": "Susan is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a model but Joe is not.",
+        "hypothesis": "Joe is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is a dentist but Ian is not.",
+        "hypothesis": "Ian is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is a lawyer but Kim is not.",
+        "hypothesis": "Kim is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a farmer but Joe is not.",
+        "hypothesis": "Joe is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is a teacher but Eleanor is not.",
+        "hypothesis": "Eleanor is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a physician but Roger is not.",
+        "hypothesis": "Roger is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is a nurse but Chris is not.",
+        "hypothesis": "Chris is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is a police officer but Richard is not.",
+        "hypothesis": "Richard is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is an artist but Julie is not.",
+        "hypothesis": "Julie is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is a nurse but Alexandra is not.",
+        "hypothesis": "Alexandra is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is a dietitian but Albert is not.",
+        "hypothesis": "Albert is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is an electrician but Tony is not.",
+        "hypothesis": "Tony is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is a cook but Jean is not.",
+        "hypothesis": "Jean is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is a lecturer but Claire is not.",
+        "hypothesis": "Claire is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is an economist but Kathy is not.",
+        "hypothesis": "Kathy is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a dentist but Peter is not.",
+        "hypothesis": "Peter is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a mechanic but Ann is not.",
+        "hypothesis": "Ann is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a journalist but Matt is not.",
+        "hypothesis": "Matt is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is an author but Dorothy is not.",
+        "hypothesis": "Dorothy is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a lecturer but Carol is not.",
+        "hypothesis": "Carol is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is a photographer but Ian is not.",
+        "hypothesis": "Ian is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is a photographer but Ashley is not.",
+        "hypothesis": "Ashley is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is an architect but Tom is not.",
+        "hypothesis": "Tom is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is a scientist but Jerry is not.",
+        "hypothesis": "Jerry is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is an accountant but Ron is not.",
+        "hypothesis": "Ron is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is a designer but Ben is not.",
+        "hypothesis": "Ben is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is an aviator but Sharon is not.",
+        "hypothesis": "Sharon is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is an author but Philip is not.",
+        "hypothesis": "Philip is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is a judge but Ellen is not.",
+        "hypothesis": "Ellen is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is a chef but Edith is not.",
+        "hypothesis": "Edith is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a cook but Joe is not.",
+        "hypothesis": "Joe is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is a teacher but Thomas is not.",
+        "hypothesis": "Thomas is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is a mechanic but Jack is not.",
+        "hypothesis": "Jack is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is an accountant but Carol is not.",
+        "hypothesis": "Carol is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a nurse but Edwin is not.",
+        "hypothesis": "Edwin is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a mechanic but Ryan is not.",
+        "hypothesis": "Ryan is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a lawyer but Sally is not.",
+        "hypothesis": "Sally is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is a police officer but Lawrence is not.",
+        "hypothesis": "Lawrence is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a chef but Kathleen is not.",
+        "hypothesis": "Kathleen is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is an aviator but Christopher is not.",
+        "hypothesis": "Christopher is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is an architect but Bruce is not.",
+        "hypothesis": "Bruce is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a professor but Evelyn is not.",
+        "hypothesis": "Evelyn is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is a butler but Gary is not.",
+        "hypothesis": "Gary is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a plumber but Grace is not.",
+        "hypothesis": "Grace is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is a secretary but Philip is not.",
+        "hypothesis": "Philip is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is an economist but Victoria is not.",
+        "hypothesis": "Victoria is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is a tailor but Mary is not.",
+        "hypothesis": "Mary is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is an economist but Patrick is not.",
+        "hypothesis": "Patrick is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "David is a lawyer but Emily is not.",
+        "hypothesis": "Emily is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is an accountant but Cynthia is not.",
+        "hypothesis": "Cynthia is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is an accountant but Donna is not.",
+        "hypothesis": "Donna is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "John is a secretary but Louis is not.",
+        "hypothesis": "Louis is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "George is an electrician but Anna is not.",
+        "hypothesis": "Anna is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Karen is a police officer but Alison is not.",
+        "hypothesis": "Alison is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is a journalist but Greg is not.",
+        "hypothesis": "Greg is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is an actor but Edwin is not.",
+        "hypothesis": "Edwin is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn is a dietitian but Jerry is not.",
+        "hypothesis": "Jerry is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is a librarian but Mary is not.",
+        "hypothesis": "Mary is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is a designer but Anne is not.",
+        "hypothesis": "Anne is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Al is an electrician but Jonathan is not.",
+        "hypothesis": "Jonathan is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a tailor but Alexandra is not.",
+        "hypothesis": "Alexandra is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is a journalist but Cynthia is not.",
+        "hypothesis": "Cynthia is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a tailor but Al is not.",
+        "hypothesis": "Al is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is a physician but Michelle is not.",
+        "hypothesis": "Michelle is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a cook but Andrea is not.",
+        "hypothesis": "Andrea is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a judge but George is not.",
+        "hypothesis": "George is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is a chef but Jack is not.",
+        "hypothesis": "Jack is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is a librarian but George is not.",
+        "hypothesis": "George is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is an aviator but Martha is not.",
+        "hypothesis": "Martha is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is a mechanic but Daniel is not.",
+        "hypothesis": "Daniel is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is a lawyer but Nick is not.",
+        "hypothesis": "Nick is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a tailor but Sam is not.",
+        "hypothesis": "Sam is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is a writer but Linda is not.",
+        "hypothesis": "Linda is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is a judge but Eleanor is not.",
+        "hypothesis": "Eleanor is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is a physician but Amy is not.",
+        "hypothesis": "Amy is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is a tailor but Ben is not.",
+        "hypothesis": "Ben is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is a physician but Eric is not.",
+        "hypothesis": "Eric is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is an engineer but Marie is not.",
+        "hypothesis": "Marie is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is a lawyer but Kelly is not.",
+        "hypothesis": "Kelly is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is an author but Sharon is not.",
+        "hypothesis": "Sharon is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is a lawyer but Julia is not.",
+        "hypothesis": "Julia is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is a dietitian but Judy is not.",
+        "hypothesis": "Judy is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a dentist but Colin is not.",
+        "hypothesis": "Colin is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is a photographer but Wendy is not.",
+        "hypothesis": "Wendy is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is an electrician but Ryan is not.",
+        "hypothesis": "Ryan is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a hairdresser but Kim is not.",
+        "hypothesis": "Kim is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is a mechanic but James is not.",
+        "hypothesis": "James is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is a writer but Keith is not.",
+        "hypothesis": "Keith is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a model but Kelly is not.",
+        "hypothesis": "Kelly is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is an author but Samuel is not.",
+        "hypothesis": "Samuel is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a nurse but Stephen is not.",
+        "hypothesis": "Stephen is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is a photographer but Lisa is not.",
+        "hypothesis": "Lisa is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is an electrician but Melissa is not.",
+        "hypothesis": "Melissa is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is a butler but Margaret is not.",
+        "hypothesis": "Margaret is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a farmer but Annie is not.",
+        "hypothesis": "Annie is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is a mechanic but Ron is not.",
+        "hypothesis": "Ron is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is a teacher but Henry is not.",
+        "hypothesis": "Henry is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a lawyer but Howard is not.",
+        "hypothesis": "Howard is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Keith is a judge but Rebecca is not.",
+        "hypothesis": "Rebecca is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is a librarian but Harold is not.",
+        "hypothesis": "Harold is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is a farmer but Gary is not.",
+        "hypothesis": "Gary is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a model but Dan is not.",
+        "hypothesis": "Dan is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is a professor but Jason is not.",
+        "hypothesis": "Jason is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is an architect but Frank is not.",
+        "hypothesis": "Frank is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "David is an actor but Lisa is not.",
+        "hypothesis": "Lisa is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is a hairdresser but Rose is not.",
+        "hypothesis": "Rose is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is a mechanic but Florence is not.",
+        "hypothesis": "Florence is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a dentist but Thomas is not.",
+        "hypothesis": "Thomas is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is an economist but Marie is not.",
+        "hypothesis": "Marie is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is a physician but Kim is not.",
+        "hypothesis": "Kim is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "James is a butler but Wendy is not.",
+        "hypothesis": "Wendy is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is an accountant but Peter is not.",
+        "hypothesis": "Peter is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a judge but Frances is not.",
+        "hypothesis": "Frances is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a librarian but Martin is not.",
+        "hypothesis": "Martin is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is a lecturer but Louis is not.",
+        "hypothesis": "Louis is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is an author but William is not.",
+        "hypothesis": "William is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is an engineer but Louis is not.",
+        "hypothesis": "Louis is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is a journalist but Nancy is not.",
+        "hypothesis": "Nancy is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is a judge but Robert is not.",
+        "hypothesis": "Robert is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "John is a mechanic but Kenneth is not.",
+        "hypothesis": "Kenneth is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a physician but Bobby is not.",
+        "hypothesis": "Bobby is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is a physician but Harriet is not.",
+        "hypothesis": "Harriet is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is a chef but Sam is not.",
+        "hypothesis": "Sam is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is an actor but Joan is not.",
+        "hypothesis": "Joan is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a judge but Larry is not.",
+        "hypothesis": "Larry is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is a teacher but Peter is not.",
+        "hypothesis": "Peter is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is a librarian but Steve is not.",
+        "hypothesis": "Steve is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is an aviator but Florence is not.",
+        "hypothesis": "Florence is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a physician but Alex is not.",
+        "hypothesis": "Alex is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a farmer but Ray is not.",
+        "hypothesis": "Ray is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is an economist but Kevin is not.",
+        "hypothesis": "Kevin is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is a chef but Ralph is not.",
+        "hypothesis": "Ralph is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is a tailor but Elaine is not.",
+        "hypothesis": "Elaine is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is a physician but Fred is not.",
+        "hypothesis": "Fred is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Walter is a physician but Susan is not.",
+        "hypothesis": "Susan is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is a butler but Alex is not.",
+        "hypothesis": "Alex is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is an engineer but Nick is not.",
+        "hypothesis": "Nick is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a nurse but Ed is not.",
+        "hypothesis": "Ed is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is a mechanic but Ryan is not.",
+        "hypothesis": "Ryan is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is a dietitian but George is not.",
+        "hypothesis": "George is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is a model but Henry is not.",
+        "hypothesis": "Henry is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is a cook but Louise is not.",
+        "hypothesis": "Louise is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is a judge but Rebecca is not.",
+        "hypothesis": "Rebecca is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is a cook but Eric is not.",
+        "hypothesis": "Eric is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a firefighter but Donald is not.",
+        "hypothesis": "Donald is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is a farmer but Barbara is not.",
+        "hypothesis": "Barbara is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is a lecturer but Jessica is not.",
+        "hypothesis": "Jessica is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is an artist but Amanda is not.",
+        "hypothesis": "Amanda is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is an aviator but Simon is not.",
+        "hypothesis": "Simon is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is an economist but Christine is not.",
+        "hypothesis": "Christine is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is an actor but Frank is not.",
+        "hypothesis": "Frank is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a plumber but Howard is not.",
+        "hypothesis": "Howard is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is a writer but Sue is not.",
+        "hypothesis": "Sue is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a librarian but Roy is not.",
+        "hypothesis": "Roy is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a lecturer but Andrea is not.",
+        "hypothesis": "Andrea is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is a plumber but Sally is not.",
+        "hypothesis": "Sally is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a nurse but Larry is not.",
+        "hypothesis": "Larry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is a scientist but Charlotte is not.",
+        "hypothesis": "Charlotte is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is an accountant but Kim is not.",
+        "hypothesis": "Kim is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is a secretary but Ann is not.",
+        "hypothesis": "Ann is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a lecturer but Ken is not.",
+        "hypothesis": "Ken is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a designer but Albert is not.",
+        "hypothesis": "Albert is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is a model but Jerry is not.",
+        "hypothesis": "Jerry is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is a butler but Sue is not.",
+        "hypothesis": "Sue is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is a dietitian but Lynn is not.",
+        "hypothesis": "Lynn is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is a scientist but Howard is not.",
+        "hypothesis": "Howard is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is an engineer but Gary is not.",
+        "hypothesis": "Gary is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter is an architect but Fiona is not.",
+        "hypothesis": "Fiona is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is a farmer but Nick is not.",
+        "hypothesis": "Nick is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander is a farmer but Scott is not.",
+        "hypothesis": "Scott is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is a writer but Alice is not.",
+        "hypothesis": "Alice is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is a secretary but Margaret is not.",
+        "hypothesis": "Margaret is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is a teacher but Jean is not.",
+        "hypothesis": "Jean is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is a lawyer but Sam is not.",
+        "hypothesis": "Sam is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is a judge but Brian is not.",
+        "hypothesis": "Brian is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a writer but Claire is not.",
+        "hypothesis": "Claire is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is a librarian but Julia is not.",
+        "hypothesis": "Julia is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is a plumber but Claire is not.",
+        "hypothesis": "Claire is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is a teacher but Roger is not.",
+        "hypothesis": "Roger is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth is a butler but Emma is not.",
+        "hypothesis": "Emma is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is an accountant but Katie is not.",
+        "hypothesis": "Katie is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is a physician but Betty is not.",
+        "hypothesis": "Betty is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a plumber but Daniel is not.",
+        "hypothesis": "Daniel is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is a cook but Robin is not.",
+        "hypothesis": "Robin is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is a photographer but Ray is not.",
+        "hypothesis": "Ray is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a firefighter but Deborah is not.",
+        "hypothesis": "Deborah is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is a writer but Hugh is not.",
+        "hypothesis": "Hugh is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is a firefighter but Claire is not.",
+        "hypothesis": "Claire is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is an actor but Anthony is not.",
+        "hypothesis": "Anthony is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is an author but Emily is not.",
+        "hypothesis": "Emily is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a lawyer but Adam is not.",
+        "hypothesis": "Adam is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is a police officer but Daniel is not.",
+        "hypothesis": "Daniel is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is an artist but Donna is not.",
+        "hypothesis": "Donna is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a firefighter but Dick is not.",
+        "hypothesis": "Dick is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a hairdresser but Charlie is not.",
+        "hypothesis": "Charlie is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is a mechanic but Kathryn is not.",
+        "hypothesis": "Kathryn is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is a dietitian but Julia is not.",
+        "hypothesis": "Julia is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a dentist but Kathy is not.",
+        "hypothesis": "Kathy is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is a butler but Andrew is not.",
+        "hypothesis": "Andrew is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a dietitian but Dave is not.",
+        "hypothesis": "Dave is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is a farmer but Tony is not.",
+        "hypothesis": "Tony is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is a mechanic but Martha is not.",
+        "hypothesis": "Martha is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is a tailor but Diana is not.",
+        "hypothesis": "Diana is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a lawyer but Tom is not.",
+        "hypothesis": "Tom is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is a librarian but Harriet is not.",
+        "hypothesis": "Harriet is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is an accountant but Greg is not.",
+        "hypothesis": "Greg is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a cook but Ray is not.",
+        "hypothesis": "Ray is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "John is a hairdresser but Jay is not.",
+        "hypothesis": "Jay is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Al is a photographer but Diana is not.",
+        "hypothesis": "Diana is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "David is a librarian but Carolyn is not.",
+        "hypothesis": "Carolyn is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Sue is a writer but Keith is not.",
+        "hypothesis": "Keith is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is a secretary but Patrick is not.",
+        "hypothesis": "Patrick is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a cook but Sharon is not.",
+        "hypothesis": "Sharon is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is a judge but Adam is not.",
+        "hypothesis": "Adam is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is a physician but Frank is not.",
+        "hypothesis": "Frank is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is an actor but Jennifer is not.",
+        "hypothesis": "Jennifer is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is a butler but Alice is not.",
+        "hypothesis": "Alice is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is an economist but Jeff is not.",
+        "hypothesis": "Jeff is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is a firefighter but Carl is not.",
+        "hypothesis": "Carl is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is a lawyer but Wendy is not.",
+        "hypothesis": "Wendy is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is an economist but William is not.",
+        "hypothesis": "William is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is a cook but Albert is not.",
+        "hypothesis": "Albert is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is a lecturer but Jessica is not.",
+        "hypothesis": "Jessica is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is an actor but Ray is not.",
+        "hypothesis": "Ray is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is a designer but Victoria is not.",
+        "hypothesis": "Victoria is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is a chef but Richard is not.",
+        "hypothesis": "Richard is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a nurse but Kelly is not.",
+        "hypothesis": "Kelly is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is a nurse but Bill is not.",
+        "hypothesis": "Bill is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a firefighter but Alan is not.",
+        "hypothesis": "Alan is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is a judge but Caroline is not.",
+        "hypothesis": "Caroline is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is a librarian but Robin is not.",
+        "hypothesis": "Robin is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a secretary but Nicole is not.",
+        "hypothesis": "Nicole is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is a judge but Daniel is not.",
+        "hypothesis": "Daniel is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is an architect but Mike is not.",
+        "hypothesis": "Mike is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "David is a dentist but Richard is not.",
+        "hypothesis": "Richard is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a model but Annie is not.",
+        "hypothesis": "Annie is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is an electrician but Paul is not.",
+        "hypothesis": "Paul is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a librarian but Charlie is not.",
+        "hypothesis": "Charlie is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is a secretary but Al is not.",
+        "hypothesis": "Al is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is an aviator but Betty is not.",
+        "hypothesis": "Betty is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is an engineer but Alexander is not.",
+        "hypothesis": "Alexander is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a police officer but Francis is not.",
+        "hypothesis": "Francis is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle is a professor but Larry is not.",
+        "hypothesis": "Larry is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a butler but Emily is not.",
+        "hypothesis": "Emily is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a dietitian but Ryan is not.",
+        "hypothesis": "Ryan is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is a professor but Amanda is not.",
+        "hypothesis": "Amanda is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is a photographer but Julia is not.",
+        "hypothesis": "Julia is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is a librarian but Kenneth is not.",
+        "hypothesis": "Kenneth is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Karen is a police officer but Al is not.",
+        "hypothesis": "Al is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is a designer but Christopher is not.",
+        "hypothesis": "Christopher is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is a firefighter but Amanda is not.",
+        "hypothesis": "Amanda is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "John is an economist but Kelly is not.",
+        "hypothesis": "Kelly is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is an economist but Ashley is not.",
+        "hypothesis": "Ashley is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is a chef but Anne is not.",
+        "hypothesis": "Anne is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is a judge but Charles is not.",
+        "hypothesis": "Charles is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "John is an architect but Annie is not.",
+        "hypothesis": "Annie is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is an author but Diane is not.",
+        "hypothesis": "Diane is an author.",
+        "label": 2
+    },
+    {
+        "premise": "David is an accountant but Florence is not.",
+        "hypothesis": "Florence is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is a hairdresser but Amanda is not.",
+        "hypothesis": "Amanda is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a journalist but Kate is not.",
+        "hypothesis": "Kate is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is an actor but Stephen is not.",
+        "hypothesis": "Stephen is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a writer but Robert is not.",
+        "hypothesis": "Robert is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is a photographer but Caroline is not.",
+        "hypothesis": "Caroline is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a chef but Tom is not.",
+        "hypothesis": "Tom is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a chef but Michael is not.",
+        "hypothesis": "Michael is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is a firefighter but Charles is not.",
+        "hypothesis": "Charles is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is a model but Robert is not.",
+        "hypothesis": "Robert is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is a teacher but Ray is not.",
+        "hypothesis": "Ray is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is a cook but Roger is not.",
+        "hypothesis": "Roger is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is an actor but Ellen is not.",
+        "hypothesis": "Ellen is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is a nurse but Christine is not.",
+        "hypothesis": "Christine is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is an engineer but Harry is not.",
+        "hypothesis": "Harry is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a model but Leslie is not.",
+        "hypothesis": "Leslie is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is an economist but Scott is not.",
+        "hypothesis": "Scott is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a plumber but Hugh is not.",
+        "hypothesis": "Hugh is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a scientist but Betty is not.",
+        "hypothesis": "Betty is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is a lecturer but Ann is not.",
+        "hypothesis": "Ann is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is an architect but Colin is not.",
+        "hypothesis": "Colin is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is a dietitian but Albert is not.",
+        "hypothesis": "Albert is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a professor but Rachel is not.",
+        "hypothesis": "Rachel is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is a writer but Julia is not.",
+        "hypothesis": "Julia is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is a dentist but Alan is not.",
+        "hypothesis": "Alan is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is an electrician but Matt is not.",
+        "hypothesis": "Matt is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a designer but Frederick is not.",
+        "hypothesis": "Frederick is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is an aviator but Emma is not.",
+        "hypothesis": "Emma is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is a photographer but Suzanne is not.",
+        "hypothesis": "Suzanne is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is a mechanic but Sandra is not.",
+        "hypothesis": "Sandra is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is a photographer but Alexandra is not.",
+        "hypothesis": "Alexandra is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a teacher but Kim is not.",
+        "hypothesis": "Kim is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is an artist but Benjamin is not.",
+        "hypothesis": "Benjamin is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Philip is a chef but Alison is not.",
+        "hypothesis": "Alison is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a police officer but Charlie is not.",
+        "hypothesis": "Charlie is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is a judge but Robert is not.",
+        "hypothesis": "Robert is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is a tailor but Bobby is not.",
+        "hypothesis": "Bobby is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is a tailor but Heather is not.",
+        "hypothesis": "Heather is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is a writer but Robin is not.",
+        "hypothesis": "Robin is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is a journalist but Emma is not.",
+        "hypothesis": "Emma is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is an artist but Judith is not.",
+        "hypothesis": "Judith is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a nurse but Lisa is not.",
+        "hypothesis": "Lisa is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is a tailor but Kelly is not.",
+        "hypothesis": "Kelly is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is a hairdresser but Patricia is not.",
+        "hypothesis": "Patricia is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is a judge but Emma is not.",
+        "hypothesis": "Emma is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is an artist but Lisa is not.",
+        "hypothesis": "Lisa is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is a firefighter but Ed is not.",
+        "hypothesis": "Ed is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is a physician but Catherine is not.",
+        "hypothesis": "Catherine is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is an accountant but Tony is not.",
+        "hypothesis": "Tony is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is a librarian but Dick is not.",
+        "hypothesis": "Dick is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a lecturer but Tom is not.",
+        "hypothesis": "Tom is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is an electrician but Angela is not.",
+        "hypothesis": "Angela is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is a writer but Martha is not.",
+        "hypothesis": "Martha is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is a police officer but Rose is not.",
+        "hypothesis": "Rose is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Don is a nurse but Nicole is not.",
+        "hypothesis": "Nicole is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is a nurse but Tony is not.",
+        "hypothesis": "Tony is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is a professor but Charlie is not.",
+        "hypothesis": "Charlie is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is an accountant but Michael is not.",
+        "hypothesis": "Michael is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a writer but Chris is not.",
+        "hypothesis": "Chris is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a mechanic but Jay is not.",
+        "hypothesis": "Jay is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is a plumber but Joan is not.",
+        "hypothesis": "Joan is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is a butler but Jack is not.",
+        "hypothesis": "Jack is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is a nurse but Catherine is not.",
+        "hypothesis": "Catherine is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a dentist but Matt is not.",
+        "hypothesis": "Matt is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is a lecturer but Jay is not.",
+        "hypothesis": "Jay is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine is a librarian but Robert is not.",
+        "hypothesis": "Robert is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a physician but Brian is not.",
+        "hypothesis": "Brian is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a plumber but Christine is not.",
+        "hypothesis": "Christine is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is a secretary but Charlie is not.",
+        "hypothesis": "Charlie is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Don is an actor but Dorothy is not.",
+        "hypothesis": "Dorothy is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is a mechanic but Alison is not.",
+        "hypothesis": "Alison is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is a butler but Bob is not.",
+        "hypothesis": "Bob is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is a photographer but Michelle is not.",
+        "hypothesis": "Michelle is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is a writer but Benjamin is not.",
+        "hypothesis": "Benjamin is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is a lecturer but Cynthia is not.",
+        "hypothesis": "Cynthia is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a tailor but Elizabeth is not.",
+        "hypothesis": "Elizabeth is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is a dentist but Henry is not.",
+        "hypothesis": "Henry is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is a designer but Ed is not.",
+        "hypothesis": "Ed is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is an actor but Ashley is not.",
+        "hypothesis": "Ashley is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a professor but Anna is not.",
+        "hypothesis": "Anna is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is a chef but Greg is not.",
+        "hypothesis": "Greg is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is a writer but James is not.",
+        "hypothesis": "James is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is a secretary but Virginia is not.",
+        "hypothesis": "Virginia is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is an accountant but Sarah is not.",
+        "hypothesis": "Sarah is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine is a model but Chris is not.",
+        "hypothesis": "Chris is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is an aviator but Jimmy is not.",
+        "hypothesis": "Jimmy is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a secretary but Annie is not.",
+        "hypothesis": "Annie is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is an author but Richard is not.",
+        "hypothesis": "Richard is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is a mechanic but Carl is not.",
+        "hypothesis": "Carl is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a writer but Steven is not.",
+        "hypothesis": "Steven is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is a police officer but Christopher is not.",
+        "hypothesis": "Christopher is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is a hairdresser but Gary is not.",
+        "hypothesis": "Gary is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is a plumber but Louise is not.",
+        "hypothesis": "Louise is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a designer but Charlie is not.",
+        "hypothesis": "Charlie is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Al is a writer but Rebecca is not.",
+        "hypothesis": "Rebecca is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a dietitian but Eric is not.",
+        "hypothesis": "Eric is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is a butler but Ralph is not.",
+        "hypothesis": "Ralph is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is a mechanic but Linda is not.",
+        "hypothesis": "Linda is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a dietitian but Deborah is not.",
+        "hypothesis": "Deborah is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is an architect but Charlie is not.",
+        "hypothesis": "Charlie is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is a plumber but Alice is not.",
+        "hypothesis": "Alice is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is a firefighter but Sophie is not.",
+        "hypothesis": "Sophie is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is an author but Virginia is not.",
+        "hypothesis": "Virginia is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is a model but Jeff is not.",
+        "hypothesis": "Jeff is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is a judge but Greg is not.",
+        "hypothesis": "Greg is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a lawyer but Fiona is not.",
+        "hypothesis": "Fiona is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is a chef but Heather is not.",
+        "hypothesis": "Heather is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is a hairdresser but Ashley is not.",
+        "hypothesis": "Ashley is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is a hairdresser but Grace is not.",
+        "hypothesis": "Grace is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a professor but Leslie is not.",
+        "hypothesis": "Leslie is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is a physician but Fred is not.",
+        "hypothesis": "Fred is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is an electrician but Jimmy is not.",
+        "hypothesis": "Jimmy is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Chris is a physician but Sarah is not.",
+        "hypothesis": "Sarah is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is a writer but Alfred is not.",
+        "hypothesis": "Alfred is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is an engineer but Alan is not.",
+        "hypothesis": "Alan is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is a lawyer but Bill is not.",
+        "hypothesis": "Bill is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a chef but Ralph is not.",
+        "hypothesis": "Ralph is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is an architect but Cynthia is not.",
+        "hypothesis": "Cynthia is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is an engineer but Barbara is not.",
+        "hypothesis": "Barbara is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is a butler but Francis is not.",
+        "hypothesis": "Francis is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle is a police officer but Sharon is not.",
+        "hypothesis": "Sharon is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is an actor but Jack is not.",
+        "hypothesis": "Jack is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Dave is an economist but Patrick is not.",
+        "hypothesis": "Patrick is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is an artist but Ben is not.",
+        "hypothesis": "Ben is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is a designer but Keith is not.",
+        "hypothesis": "Keith is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is a police officer but Victoria is not.",
+        "hypothesis": "Victoria is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a police officer but Donna is not.",
+        "hypothesis": "Donna is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is a nurse but Rebecca is not.",
+        "hypothesis": "Rebecca is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is a judge but Nancy is not.",
+        "hypothesis": "Nancy is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is an actor but Matthew is not.",
+        "hypothesis": "Matthew is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is a hairdresser but Samuel is not.",
+        "hypothesis": "Samuel is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is an accountant but Benjamin is not.",
+        "hypothesis": "Benjamin is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a journalist but Michelle is not.",
+        "hypothesis": "Michelle is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a hairdresser but Fiona is not.",
+        "hypothesis": "Fiona is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a hairdresser but Keith is not.",
+        "hypothesis": "Keith is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is an artist but Annie is not.",
+        "hypothesis": "Annie is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is a nurse but Melissa is not.",
+        "hypothesis": "Melissa is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is an electrician but Ruth is not.",
+        "hypothesis": "Ruth is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is a physician but Judy is not.",
+        "hypothesis": "Judy is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is a nurse but Fiona is not.",
+        "hypothesis": "Fiona is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is an accountant but Don is not.",
+        "hypothesis": "Don is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is a writer but Annie is not.",
+        "hypothesis": "Annie is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is a hairdresser but Deborah is not.",
+        "hypothesis": "Deborah is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is a police officer but Jimmy is not.",
+        "hypothesis": "Jimmy is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is an electrician but Henry is not.",
+        "hypothesis": "Henry is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is a writer but Martin is not.",
+        "hypothesis": "Martin is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a physician but Lawrence is not.",
+        "hypothesis": "Lawrence is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a firefighter but Peter is not.",
+        "hypothesis": "Peter is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is a cook but Angela is not.",
+        "hypothesis": "Angela is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is a judge but Angela is not.",
+        "hypothesis": "Angela is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is a dentist but Patrick is not.",
+        "hypothesis": "Patrick is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is a photographer but Jessica is not.",
+        "hypothesis": "Jessica is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is a hairdresser but Joan is not.",
+        "hypothesis": "Joan is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is a scientist but Daniel is not.",
+        "hypothesis": "Daniel is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is an electrician but Jessica is not.",
+        "hypothesis": "Jessica is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is a secretary but Don is not.",
+        "hypothesis": "Don is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is a librarian but Florence is not.",
+        "hypothesis": "Florence is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is an aviator but Suzanne is not.",
+        "hypothesis": "Suzanne is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is a writer but Ben is not.",
+        "hypothesis": "Ben is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Karen is an aviator but Ron is not.",
+        "hypothesis": "Ron is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a model but Patricia is not.",
+        "hypothesis": "Patricia is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is an author but Jerry is not.",
+        "hypothesis": "Jerry is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a librarian but Greg is not.",
+        "hypothesis": "Greg is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is a firefighter but Sarah is not.",
+        "hypothesis": "Sarah is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is a butler but Nick is not.",
+        "hypothesis": "Nick is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is a nurse but Jerry is not.",
+        "hypothesis": "Jerry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a scientist but Christine is not.",
+        "hypothesis": "Christine is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is an actor but James is not.",
+        "hypothesis": "James is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a photographer but Janet is not.",
+        "hypothesis": "Janet is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is a mechanic but James is not.",
+        "hypothesis": "James is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is a butler but Walter is not.",
+        "hypothesis": "Walter is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is an artist but Leslie is not.",
+        "hypothesis": "Leslie is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is a chef but Johnny is not.",
+        "hypothesis": "Johnny is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "James is a farmer but Caroline is not.",
+        "hypothesis": "Caroline is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is a judge but Diana is not.",
+        "hypothesis": "Diana is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a tailor but Dave is not.",
+        "hypothesis": "Dave is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a hairdresser but Lawrence is not.",
+        "hypothesis": "Lawrence is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is a butler but Ryan is not.",
+        "hypothesis": "Ryan is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is an engineer but Francis is not.",
+        "hypothesis": "Francis is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a librarian but Lisa is not.",
+        "hypothesis": "Lisa is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is a chef but Nick is not.",
+        "hypothesis": "Nick is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is a tailor but Eleanor is not.",
+        "hypothesis": "Eleanor is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is a teacher but Johnny is not.",
+        "hypothesis": "Johnny is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is a chef but Jim is not.",
+        "hypothesis": "Jim is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is an electrician but Sandra is not.",
+        "hypothesis": "Sandra is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is a librarian but Barbara is not.",
+        "hypothesis": "Barbara is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is an architect but Alice is not.",
+        "hypothesis": "Alice is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a dietitian but Edwin is not.",
+        "hypothesis": "Edwin is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is a secretary but Nancy is not.",
+        "hypothesis": "Nancy is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sue is a secretary but Dick is not.",
+        "hypothesis": "Dick is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Dave is a scientist but Christine is not.",
+        "hypothesis": "Christine is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is a cook but Stephanie is not.",
+        "hypothesis": "Stephanie is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "William is a chef but Jack is not.",
+        "hypothesis": "Jack is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a physician but Edward is not.",
+        "hypothesis": "Edward is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is a photographer but Katherine is not.",
+        "hypothesis": "Katherine is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor is a farmer but Bill is not.",
+        "hypothesis": "Bill is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is a chef but Karen is not.",
+        "hypothesis": "Karen is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is an author but Sam is not.",
+        "hypothesis": "Sam is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a judge but Jane is not.",
+        "hypothesis": "Jane is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is an artist but Rachel is not.",
+        "hypothesis": "Rachel is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is an engineer but Victoria is not.",
+        "hypothesis": "Victoria is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a journalist but Robert is not.",
+        "hypothesis": "Robert is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is a tailor but Karen is not.",
+        "hypothesis": "Karen is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is a writer but Melissa is not.",
+        "hypothesis": "Melissa is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a model but John is not.",
+        "hypothesis": "John is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is a tailor but Colin is not.",
+        "hypothesis": "Colin is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a police officer but Dick is not.",
+        "hypothesis": "Dick is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is a farmer but Elaine is not.",
+        "hypothesis": "Elaine is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is an actor but Kim is not.",
+        "hypothesis": "Kim is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is a designer but Simon is not.",
+        "hypothesis": "Simon is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a librarian but Daniel is not.",
+        "hypothesis": "Daniel is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is an aviator but Alexander is not.",
+        "hypothesis": "Alexander is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander is a writer but Laura is not.",
+        "hypothesis": "Laura is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is an accountant but Adam is not.",
+        "hypothesis": "Adam is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is a judge but Evelyn is not.",
+        "hypothesis": "Evelyn is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is a scientist but Marilyn is not.",
+        "hypothesis": "Marilyn is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is a journalist but Fred is not.",
+        "hypothesis": "Fred is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is a photographer but Nick is not.",
+        "hypothesis": "Nick is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a tailor but Mike is not.",
+        "hypothesis": "Mike is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "John is a police officer but Linda is not.",
+        "hypothesis": "Linda is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is a secretary but Jean is not.",
+        "hypothesis": "Jean is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is a mechanic but Harriet is not.",
+        "hypothesis": "Harriet is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is an accountant but Catherine is not.",
+        "hypothesis": "Catherine is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is a secretary but Roger is not.",
+        "hypothesis": "Roger is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is an accountant but Ralph is not.",
+        "hypothesis": "Ralph is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is a cook but Ann is not.",
+        "hypothesis": "Ann is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a tailor but Grace is not.",
+        "hypothesis": "Grace is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a physician but Pamela is not.",
+        "hypothesis": "Pamela is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is a dentist but Jennifer is not.",
+        "hypothesis": "Jennifer is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is a plumber but Nick is not.",
+        "hypothesis": "Nick is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is a physician but Kathleen is not.",
+        "hypothesis": "Kathleen is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is an engineer but Alan is not.",
+        "hypothesis": "Alan is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is an artist but Virginia is not.",
+        "hypothesis": "Virginia is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is a designer but Diana is not.",
+        "hypothesis": "Diana is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is a writer but Ruth is not.",
+        "hypothesis": "Ruth is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is a teacher but Louise is not.",
+        "hypothesis": "Louise is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is a plumber but Grace is not.",
+        "hypothesis": "Grace is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a professor but Bob is not.",
+        "hypothesis": "Bob is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a cook but Julie is not.",
+        "hypothesis": "Julie is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a physician but Rebecca is not.",
+        "hypothesis": "Rebecca is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is a scientist but Bobby is not.",
+        "hypothesis": "Bobby is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is a librarian but Katie is not.",
+        "hypothesis": "Katie is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is a plumber but Amanda is not.",
+        "hypothesis": "Amanda is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is a journalist but Martin is not.",
+        "hypothesis": "Martin is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a butler but Maria is not.",
+        "hypothesis": "Maria is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a hairdresser but Amanda is not.",
+        "hypothesis": "Amanda is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is a firefighter but Susan is not.",
+        "hypothesis": "Susan is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is a writer but Dick is not.",
+        "hypothesis": "Dick is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is a photographer but Fred is not.",
+        "hypothesis": "Fred is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a designer but Christine is not.",
+        "hypothesis": "Christine is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is a hairdresser but Billy is not.",
+        "hypothesis": "Billy is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a firefighter but Amanda is not.",
+        "hypothesis": "Amanda is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is an economist but Billy is not.",
+        "hypothesis": "Billy is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is a farmer but Claire is not.",
+        "hypothesis": "Claire is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a dietitian but Fiona is not.",
+        "hypothesis": "Fiona is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is an electrician but Virginia is not.",
+        "hypothesis": "Virginia is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a teacher but Barbara is not.",
+        "hypothesis": "Barbara is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is a scientist but George is not.",
+        "hypothesis": "George is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is a cook but Thomas is not.",
+        "hypothesis": "Thomas is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is an electrician but Cynthia is not.",
+        "hypothesis": "Cynthia is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is an aviator but Sandra is not.",
+        "hypothesis": "Sandra is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a journalist but Katherine is not.",
+        "hypothesis": "Katherine is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is a photographer but Suzanne is not.",
+        "hypothesis": "Suzanne is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a designer but Nicole is not.",
+        "hypothesis": "Nicole is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is an actor but Bruce is not.",
+        "hypothesis": "Bruce is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is an accountant but Edwin is not.",
+        "hypothesis": "Edwin is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is a cook but Colin is not.",
+        "hypothesis": "Colin is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is an economist but Charlie is not.",
+        "hypothesis": "Charlie is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is a secretary but Scott is not.",
+        "hypothesis": "Scott is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sue is a teacher but Tom is not.",
+        "hypothesis": "Tom is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is a lawyer but Michelle is not.",
+        "hypothesis": "Michelle is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is an actor but Diane is not.",
+        "hypothesis": "Diane is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is a model but Janet is not.",
+        "hypothesis": "Janet is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is an electrician but Jonathan is not.",
+        "hypothesis": "Jonathan is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a dietitian but Colin is not.",
+        "hypothesis": "Colin is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is a tailor but Jason is not.",
+        "hypothesis": "Jason is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "James is a farmer but Cynthia is not.",
+        "hypothesis": "Cynthia is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a cook but Henry is not.",
+        "hypothesis": "Henry is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is an author but Evelyn is not.",
+        "hypothesis": "Evelyn is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a professor but Scott is not.",
+        "hypothesis": "Scott is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is an author but Jimmy is not.",
+        "hypothesis": "Jimmy is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is an architect but Elizabeth is not.",
+        "hypothesis": "Elizabeth is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is a hairdresser but Ken is not.",
+        "hypothesis": "Ken is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a firefighter but Robert is not.",
+        "hypothesis": "Robert is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is an aviator but Carol is not.",
+        "hypothesis": "Carol is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine is a dentist but Sue is not.",
+        "hypothesis": "Sue is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is a photographer but Samuel is not.",
+        "hypothesis": "Samuel is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a police officer but Kenneth is not.",
+        "hypothesis": "Kenneth is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is an architect but Wendy is not.",
+        "hypothesis": "Wendy is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is an actor but Christopher is not.",
+        "hypothesis": "Christopher is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is an electrician but Al is not.",
+        "hypothesis": "Al is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is a farmer but Grace is not.",
+        "hypothesis": "Grace is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle is a professor but Dick is not.",
+        "hypothesis": "Dick is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is a designer but Carolyn is not.",
+        "hypothesis": "Carolyn is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is a farmer but Roy is not.",
+        "hypothesis": "Roy is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is a dietitian but Stephen is not.",
+        "hypothesis": "Stephen is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is an accountant but Peter is not.",
+        "hypothesis": "Peter is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is a farmer but Robin is not.",
+        "hypothesis": "Robin is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is a mechanic but Lawrence is not.",
+        "hypothesis": "Lawrence is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is a physician but Daniel is not.",
+        "hypothesis": "Daniel is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is a nurse but Mary is not.",
+        "hypothesis": "Mary is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is an artist but Paul is not.",
+        "hypothesis": "Paul is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is a butler but Simon is not.",
+        "hypothesis": "Simon is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is a nurse but Roy is not.",
+        "hypothesis": "Roy is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is an author but Sandra is not.",
+        "hypothesis": "Sandra is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is a designer but Frances is not.",
+        "hypothesis": "Frances is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is a police officer but Amy is not.",
+        "hypothesis": "Amy is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "John is a tailor but Catherine is not.",
+        "hypothesis": "Catherine is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is a nurse but Melissa is not.",
+        "hypothesis": "Melissa is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is a cook but Kenneth is not.",
+        "hypothesis": "Kenneth is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is an engineer but Mary is not.",
+        "hypothesis": "Mary is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is a dietitian but George is not.",
+        "hypothesis": "George is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a designer but Amanda is not.",
+        "hypothesis": "Amanda is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a police officer but Carl is not.",
+        "hypothesis": "Carl is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a librarian but Evelyn is not.",
+        "hypothesis": "Evelyn is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is an accountant but Nicole is not.",
+        "hypothesis": "Nicole is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a physician but Charles is not.",
+        "hypothesis": "Charles is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is an engineer but Jane is not.",
+        "hypothesis": "Jane is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "John is an economist but Heather is not.",
+        "hypothesis": "Heather is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a farmer but Frances is not.",
+        "hypothesis": "Frances is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is a physician but Joe is not.",
+        "hypothesis": "Joe is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a mechanic but Sue is not.",
+        "hypothesis": "Sue is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a tailor but Kim is not.",
+        "hypothesis": "Kim is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is a judge but Grace is not.",
+        "hypothesis": "Grace is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is a tailor but Gary is not.",
+        "hypothesis": "Gary is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is a physician but Laura is not.",
+        "hypothesis": "Laura is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is an engineer but Frank is not.",
+        "hypothesis": "Frank is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is a scientist but Karen is not.",
+        "hypothesis": "Karen is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is a photographer but Fred is not.",
+        "hypothesis": "Fred is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is a nurse but Stephen is not.",
+        "hypothesis": "Stephen is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a lawyer but Ed is not.",
+        "hypothesis": "Ed is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is a nurse but Larry is not.",
+        "hypothesis": "Larry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is a nurse but Louise is not.",
+        "hypothesis": "Louise is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is a lecturer but Rose is not.",
+        "hypothesis": "Rose is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is an accountant but Ed is not.",
+        "hypothesis": "Ed is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is a police officer but Nick is not.",
+        "hypothesis": "Nick is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Joe is a judge but Laura is not.",
+        "hypothesis": "Laura is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a librarian but Alfred is not.",
+        "hypothesis": "Alfred is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is a scientist but Karen is not.",
+        "hypothesis": "Karen is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is an artist but Henry is not.",
+        "hypothesis": "Henry is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is a firefighter but Kate is not.",
+        "hypothesis": "Kate is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a farmer but Linda is not.",
+        "hypothesis": "Linda is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is an actor but Matthew is not.",
+        "hypothesis": "Matthew is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is a writer but Alice is not.",
+        "hypothesis": "Alice is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is an accountant but Brian is not.",
+        "hypothesis": "Brian is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is a hairdresser but William is not.",
+        "hypothesis": "William is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is an artist but Carolyn is not.",
+        "hypothesis": "Carolyn is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a farmer but Steve is not.",
+        "hypothesis": "Steve is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is a lawyer but Dave is not.",
+        "hypothesis": "Dave is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is a lecturer but Matt is not.",
+        "hypothesis": "Matt is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is an aviator but Ian is not.",
+        "hypothesis": "Ian is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a judge but Dave is not.",
+        "hypothesis": "Dave is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a hairdresser but Sally is not.",
+        "hypothesis": "Sally is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is a writer but Albert is not.",
+        "hypothesis": "Albert is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is a judge but Peter is not.",
+        "hypothesis": "Peter is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is an economist but Jim is not.",
+        "hypothesis": "Jim is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is a designer but Jennifer is not.",
+        "hypothesis": "Jennifer is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is a cook but Stephen is not.",
+        "hypothesis": "Stephen is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is an aviator but Evelyn is not.",
+        "hypothesis": "Evelyn is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is an artist but Nicole is not.",
+        "hypothesis": "Nicole is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is a physician but Alison is not.",
+        "hypothesis": "Alison is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is an architect but Jill is not.",
+        "hypothesis": "Jill is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a butler but Melissa is not.",
+        "hypothesis": "Melissa is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is a designer but Eleanor is not.",
+        "hypothesis": "Eleanor is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is an architect but Dave is not.",
+        "hypothesis": "Dave is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is a hairdresser but Robin is not.",
+        "hypothesis": "Robin is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a tailor but Pamela is not.",
+        "hypothesis": "Pamela is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Chris is a nurse but Stephanie is not.",
+        "hypothesis": "Stephanie is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is an actor but Hugh is not.",
+        "hypothesis": "Hugh is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is an author but Annie is not.",
+        "hypothesis": "Annie is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is an accountant but Sandra is not.",
+        "hypothesis": "Sandra is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a physician but Alice is not.",
+        "hypothesis": "Alice is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is a designer but Judy is not.",
+        "hypothesis": "Judy is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is a nurse but Charlotte is not.",
+        "hypothesis": "Charlotte is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is an electrician but Helen is not.",
+        "hypothesis": "Helen is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is an artist but Kathleen is not.",
+        "hypothesis": "Kathleen is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is a professor but Tony is not.",
+        "hypothesis": "Tony is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is a model but Alfred is not.",
+        "hypothesis": "Alfred is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a librarian but Suzanne is not.",
+        "hypothesis": "Suzanne is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is a mechanic but Martin is not.",
+        "hypothesis": "Martin is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is a dietitian but William is not.",
+        "hypothesis": "William is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is a cook but Marie is not.",
+        "hypothesis": "Marie is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is a teacher but Carl is not.",
+        "hypothesis": "Carl is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is a farmer but Helen is not.",
+        "hypothesis": "Helen is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Karen is a dentist but Jim is not.",
+        "hypothesis": "Jim is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is a tailor but Eleanor is not.",
+        "hypothesis": "Eleanor is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is a firefighter but Eric is not.",
+        "hypothesis": "Eric is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Don is a lawyer but Claire is not.",
+        "hypothesis": "Claire is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is a tailor but Michelle is not.",
+        "hypothesis": "Michelle is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is a secretary but Jack is not.",
+        "hypothesis": "Jack is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is a farmer but Gary is not.",
+        "hypothesis": "Gary is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is an author but Paul is not.",
+        "hypothesis": "Paul is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is a librarian but Steven is not.",
+        "hypothesis": "Steven is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a professor but Jean is not.",
+        "hypothesis": "Jean is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is a butler but Kathleen is not.",
+        "hypothesis": "Kathleen is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is a teacher but Frank is not.",
+        "hypothesis": "Frank is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is an economist but Ryan is not.",
+        "hypothesis": "Ryan is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is a nurse but Sam is not.",
+        "hypothesis": "Sam is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is a writer but Charlotte is not.",
+        "hypothesis": "Charlotte is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is a chef but Sally is not.",
+        "hypothesis": "Sally is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is a lawyer but Kathleen is not.",
+        "hypothesis": "Kathleen is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Don is a lawyer but Annie is not.",
+        "hypothesis": "Annie is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is an economist but Donald is not.",
+        "hypothesis": "Donald is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Philip is a secretary but Sam is not.",
+        "hypothesis": "Sam is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is a journalist but Edward is not.",
+        "hypothesis": "Edward is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is an economist but Julie is not.",
+        "hypothesis": "Julie is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is a writer but Wendy is not.",
+        "hypothesis": "Wendy is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is a lawyer but Evelyn is not.",
+        "hypothesis": "Evelyn is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is a writer but Tom is not.",
+        "hypothesis": "Tom is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is a photographer but Heather is not.",
+        "hypothesis": "Heather is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is a plumber but Leslie is not.",
+        "hypothesis": "Leslie is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is an economist but Elizabeth is not.",
+        "hypothesis": "Elizabeth is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is an architect but Emily is not.",
+        "hypothesis": "Emily is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is an accountant but David is not.",
+        "hypothesis": "David is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is a butler but Kevin is not.",
+        "hypothesis": "Kevin is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is a dietitian but James is not.",
+        "hypothesis": "James is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is a police officer but Louis is not.",
+        "hypothesis": "Louis is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is a secretary but Emma is not.",
+        "hypothesis": "Emma is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is a firefighter but Albert is not.",
+        "hypothesis": "Albert is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is an author but Deborah is not.",
+        "hypothesis": "Deborah is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is a secretary but Annie is not.",
+        "hypothesis": "Annie is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is a journalist but Evelyn is not.",
+        "hypothesis": "Evelyn is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is a chef but Jeff is not.",
+        "hypothesis": "Jeff is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a photographer but Pamela is not.",
+        "hypothesis": "Pamela is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is an engineer but Bill is not.",
+        "hypothesis": "Bill is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is an accountant but Jessica is not.",
+        "hypothesis": "Jessica is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is a librarian but Nicole is not.",
+        "hypothesis": "Nicole is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is an accountant but Florence is not.",
+        "hypothesis": "Florence is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is a teacher but Ron is not.",
+        "hypothesis": "Ron is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is an economist but Rachel is not.",
+        "hypothesis": "Rachel is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is a scientist but Fred is not.",
+        "hypothesis": "Fred is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is a firefighter but Mark is not.",
+        "hypothesis": "Mark is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is a designer but George is not.",
+        "hypothesis": "George is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is a scientist but Deborah is not.",
+        "hypothesis": "Deborah is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is a tailor but Patrick is not.",
+        "hypothesis": "Patrick is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is a lawyer but Leslie is not.",
+        "hypothesis": "Leslie is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is an economist but Linda is not.",
+        "hypothesis": "Linda is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is a teacher but Louise is not.",
+        "hypothesis": "Louise is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is a plumber but Julie is not.",
+        "hypothesis": "Julie is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is an engineer but Sarah is not.",
+        "hypothesis": "Sarah is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is a butler but Tony is not.",
+        "hypothesis": "Tony is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a teacher but Alexandra is not.",
+        "hypothesis": "Alexandra is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel is an architect but Thomas is not.",
+        "hypothesis": "Thomas is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is a mechanic but Fiona is not.",
+        "hypothesis": "Fiona is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is an engineer but Matthew is not.",
+        "hypothesis": "Matthew is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is a writer but Arthur is not.",
+        "hypothesis": "Arthur is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is a lecturer but Frank is not.",
+        "hypothesis": "Frank is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is a scientist but Ruth is not.",
+        "hypothesis": "Ruth is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is an electrician but Rebecca is not.",
+        "hypothesis": "Rebecca is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is an actor but Dave is not.",
+        "hypothesis": "Dave is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is a mechanic but Rachel is not.",
+        "hypothesis": "Rachel is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is a hairdresser but Amanda is not.",
+        "hypothesis": "Amanda is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is a dietitian but Thomas is not.",
+        "hypothesis": "Thomas is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is an aviator but Carolyn is not.",
+        "hypothesis": "Carolyn is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a lecturer but Frances is not.",
+        "hypothesis": "Frances is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is a journalist but Lucy is not.",
+        "hypothesis": "Lucy is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is a mechanic but Anna is not.",
+        "hypothesis": "Anna is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is a dentist but Martha is not.",
+        "hypothesis": "Martha is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is a farmer but Matt is not.",
+        "hypothesis": "Matt is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is a tailor but Al is not.",
+        "hypothesis": "Al is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is an artist but Sophie is not.",
+        "hypothesis": "Sophie is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is a lawyer but Tim is not.",
+        "hypothesis": "Tim is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is an accountant but Kathryn is not.",
+        "hypothesis": "Kathryn is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is a secretary but Susan is not.",
+        "hypothesis": "Susan is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is an accountant but Steven is not.",
+        "hypothesis": "Steven is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "George is a model but Judy is not.",
+        "hypothesis": "Judy is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is a dietitian but Marie is not.",
+        "hypothesis": "Marie is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is a plumber but Charlie is not.",
+        "hypothesis": "Charlie is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is a lawyer but Edwin is not.",
+        "hypothesis": "Edwin is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is a farmer but Adam is not.",
+        "hypothesis": "Adam is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is a photographer but Carl is not.",
+        "hypothesis": "Carl is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is an engineer but Julia is not.",
+        "hypothesis": "Julia is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is an author but Andrew is not.",
+        "hypothesis": "Andrew is an author.",
+        "label": 2
+    }
+]

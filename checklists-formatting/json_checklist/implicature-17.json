@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Joe asked Jessica for 300 dollars. Jessica had 50.",
+        "hypothesis": "Jessica had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Kathleen for 100 dollars. Kathleen had 40.",
+        "hypothesis": "Kathleen had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Frances for 30 dollars. Frances had 10.",
+        "hypothesis": "Frances had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Richard for 20 dollars. Richard had 10.",
+        "hypothesis": "Richard had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Edward for 1000 dollars. Edward had 400.",
+        "hypothesis": "Edward had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia asked Matt for 300 dollars. Matt had 20.",
+        "hypothesis": "Matt had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Marie for 1000 dollars. Marie had 200.",
+        "hypothesis": "Marie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Sandra for 30 dollars. Sandra had 20.",
+        "hypothesis": "Sandra had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Michelle for 50 dollars. Michelle had 30.",
+        "hypothesis": "Michelle had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Michael for 20 dollars. Michael had 10.",
+        "hypothesis": "Michael had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia asked John for 1000 dollars. John had 20.",
+        "hypothesis": "John had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roger asked Walter for 400 dollars. Walter had 10.",
+        "hypothesis": "Walter had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick asked Rachel for 100 dollars. Rachel had 40.",
+        "hypothesis": "Rachel had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth asked Victoria for 200 dollars. Victoria had 10.",
+        "hypothesis": "Victoria had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Rachel for 200 dollars. Rachel had 30.",
+        "hypothesis": "Rachel had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Keith asked Jessica for 20 dollars. Jessica had 10.",
+        "hypothesis": "Jessica had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew asked Daniel for 200 dollars. Daniel had 30.",
+        "hypothesis": "Daniel had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Laura for 500 dollars. Laura had 400.",
+        "hypothesis": "Laura had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica asked Charles for 1000 dollars. Charles had 400.",
+        "hypothesis": "Charles had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Richard for 40 dollars. Richard had 10.",
+        "hypothesis": "Richard had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine asked Cynthia for 30 dollars. Cynthia had 20.",
+        "hypothesis": "Cynthia had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Sandra for 30 dollars. Sandra had 20.",
+        "hypothesis": "Sandra had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tim asked Pamela for 20 dollars. Pamela had 10.",
+        "hypothesis": "Pamela had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Annie asked Larry for 200 dollars. Larry had 20.",
+        "hypothesis": "Larry had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robert asked Lawrence for 400 dollars. Lawrence had 40.",
+        "hypothesis": "Lawrence had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robert asked Katherine for 30 dollars. Katherine had 20.",
+        "hypothesis": "Katherine had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julie asked Grace for 50 dollars. Grace had 20.",
+        "hypothesis": "Grace had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sara asked Katherine for 1000 dollars. Katherine had 200.",
+        "hypothesis": "Katherine had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dan asked Karen for 40 dollars. Karen had 10.",
+        "hypothesis": "Karen had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly asked Ben for 200 dollars. Ben had 30.",
+        "hypothesis": "Ben had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Claire asked Bruce for 100 dollars. Bruce had 10.",
+        "hypothesis": "Bruce had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff asked Karen for 400 dollars. Karen had 10.",
+        "hypothesis": "Karen had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Alison for 200 dollars. Alison had 100.",
+        "hypothesis": "Alison had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Pamela for 20 dollars. Pamela had 10.",
+        "hypothesis": "Pamela had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Samuel for 400 dollars. Samuel had 20.",
+        "hypothesis": "Samuel had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Maria asked Edward for 50 dollars. Edward had 10.",
+        "hypothesis": "Edward had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Tony for 50 dollars. Tony had 40.",
+        "hypothesis": "Tony had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Albert asked Betty for 30 dollars. Betty had 10.",
+        "hypothesis": "Betty had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Elaine for 300 dollars. Elaine had 40.",
+        "hypothesis": "Elaine had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley asked Sally for 1000 dollars. Sally had 20.",
+        "hypothesis": "Sally had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Roy for 1000 dollars. Roy had 300.",
+        "hypothesis": "Roy had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Keith asked Paul for 300 dollars. Paul had 50.",
+        "hypothesis": "Paul had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Keith asked Karen for 30 dollars. Karen had 20.",
+        "hypothesis": "Karen had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marie asked Peter for 30 dollars. Peter had 20.",
+        "hypothesis": "Peter had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Frank for 500 dollars. Frank had 40.",
+        "hypothesis": "Frank had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica asked Larry for 50 dollars. Larry had 30.",
+        "hypothesis": "Larry had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Bob for 20 dollars. Bob had 10.",
+        "hypothesis": "Bob had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Barbara for 50 dollars. Barbara had 30.",
+        "hypothesis": "Barbara had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Steven for 30 dollars. Steven had 10.",
+        "hypothesis": "Steven had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce asked Ralph for 200 dollars. Ralph had 10.",
+        "hypothesis": "Ralph had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tim asked Roy for 50 dollars. Roy had 10.",
+        "hypothesis": "Roy had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Martha for 500 dollars. Martha had 20.",
+        "hypothesis": "Martha had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amy asked Katie for 100 dollars. Katie had 20.",
+        "hypothesis": "Katie had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine asked Carol for 1000 dollars. Carol had 40.",
+        "hypothesis": "Carol had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carol asked Suzanne for 1000 dollars. Suzanne had 300.",
+        "hypothesis": "Suzanne had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Angela for 1000 dollars. Angela had 50.",
+        "hypothesis": "Angela had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked Stephanie for 1000 dollars. Stephanie had 20.",
+        "hypothesis": "Stephanie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Sarah for 400 dollars. Sarah had 10.",
+        "hypothesis": "Sarah had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Judith for 400 dollars. Judith had 10.",
+        "hypothesis": "Judith had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Richard asked Tim for 30 dollars. Tim had 10.",
+        "hypothesis": "Tim had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra asked Don for 1000 dollars. Don had 100.",
+        "hypothesis": "Don had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie asked Steven for 1000 dollars. Steven had 100.",
+        "hypothesis": "Steven had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Florence for 50 dollars. Florence had 30.",
+        "hypothesis": "Florence had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roger asked Francis for 500 dollars. Francis had 300.",
+        "hypothesis": "Francis had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Keith for 400 dollars. Keith had 40.",
+        "hypothesis": "Keith had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine asked Catherine for 1000 dollars. Catherine had 300.",
+        "hypothesis": "Catherine had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick asked Alison for 30 dollars. Alison had 10.",
+        "hypothesis": "Alison had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marie asked Joseph for 40 dollars. Joseph had 20.",
+        "hypothesis": "Joseph had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Edward for 200 dollars. Edward had 30.",
+        "hypothesis": "Edward had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Victoria for 1000 dollars. Victoria had 10.",
+        "hypothesis": "Victoria had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dan asked Arthur for 1000 dollars. Arthur had 300.",
+        "hypothesis": "Arthur had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Howard for 500 dollars. Howard had 200.",
+        "hypothesis": "Howard had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked Adam for 100 dollars. Adam had 50.",
+        "hypothesis": "Adam had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Karen for 50 dollars. Karen had 30.",
+        "hypothesis": "Karen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Jean for 30 dollars. Jean had 20.",
+        "hypothesis": "Jean had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia asked Donald for 50 dollars. Donald had 40.",
+        "hypothesis": "Donald had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Larry for 1000 dollars. Larry had 50.",
+        "hypothesis": "Larry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Helen for 400 dollars. Helen had 50.",
+        "hypothesis": "Helen had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Katie for 500 dollars. Katie had 400.",
+        "hypothesis": "Katie had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Ron for 300 dollars. Ron had 50.",
+        "hypothesis": "Ron had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle asked Francis for 200 dollars. Francis had 50.",
+        "hypothesis": "Francis had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew asked Barbara for 200 dollars. Barbara had 40.",
+        "hypothesis": "Barbara had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dave asked Jack for 50 dollars. Jack had 30.",
+        "hypothesis": "Jack had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Margaret for 1000 dollars. Margaret had 40.",
+        "hypothesis": "Margaret had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce asked Linda for 50 dollars. Linda had 10.",
+        "hypothesis": "Linda had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Colin for 400 dollars. Colin had 30.",
+        "hypothesis": "Colin had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Betty asked Howard for 50 dollars. Howard had 10.",
+        "hypothesis": "Howard had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Christopher for 100 dollars. Christopher had 30.",
+        "hypothesis": "Christopher had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley asked Jill for 1000 dollars. Jill had 300.",
+        "hypothesis": "Jill had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Bobby for 200 dollars. Bobby had 40.",
+        "hypothesis": "Bobby had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Annie asked Diane for 50 dollars. Diane had 20.",
+        "hypothesis": "Diane had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Edith for 30 dollars. Edith had 20.",
+        "hypothesis": "Edith had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Al asked Bruce for 30 dollars. Bruce had 10.",
+        "hypothesis": "Bruce had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bill asked Caroline for 20 dollars. Caroline had 10.",
+        "hypothesis": "Caroline had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Colin asked Lawrence for 300 dollars. Lawrence had 10.",
+        "hypothesis": "Lawrence had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Kathy for 300 dollars. Kathy had 100.",
+        "hypothesis": "Kathy had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Heather for 100 dollars. Heather had 20.",
+        "hypothesis": "Heather had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Simon for 30 dollars. Simon had 10.",
+        "hypothesis": "Simon had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley asked Harriet for 50 dollars. Harriet had 20.",
+        "hypothesis": "Harriet had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Elizabeth for 30 dollars. Elizabeth had 10.",
+        "hypothesis": "Elizabeth had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Donald for 20 dollars. Donald had 10.",
+        "hypothesis": "Donald had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Sara for 400 dollars. Sara had 40.",
+        "hypothesis": "Sara had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Howard for 300 dollars. Howard had 200.",
+        "hypothesis": "Howard had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria asked Sharon for 1000 dollars. Sharon had 300.",
+        "hypothesis": "Sharon had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Helen for 50 dollars. Helen had 40.",
+        "hypothesis": "Helen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly asked Keith for 30 dollars. Keith had 10.",
+        "hypothesis": "Keith had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Francis asked Adam for 40 dollars. Adam had 10.",
+        "hypothesis": "Adam had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea asked Patricia for 500 dollars. Patricia had 10.",
+        "hypothesis": "Patricia had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Jonathan for 300 dollars. Jonathan had 50.",
+        "hypothesis": "Jonathan had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dan asked Judy for 1000 dollars. Judy had 50.",
+        "hypothesis": "Judy had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Hugh for 1000 dollars. Hugh had 400.",
+        "hypothesis": "Hugh had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Lucy for 40 dollars. Lucy had 10.",
+        "hypothesis": "Lucy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Mary for 500 dollars. Mary had 100.",
+        "hypothesis": "Mary had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nick asked Jimmy for 20 dollars. Jimmy had 10.",
+        "hypothesis": "Jimmy had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Ann for 100 dollars. Ann had 40.",
+        "hypothesis": "Ann had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Helen for 50 dollars. Helen had 20.",
+        "hypothesis": "Helen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Fiona for 50 dollars. Fiona had 10.",
+        "hypothesis": "Fiona had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tim asked Scott for 1000 dollars. Scott had 20.",
+        "hypothesis": "Scott had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne asked Kenneth for 20 dollars. Kenneth had 10.",
+        "hypothesis": "Kenneth had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diana asked Henry for 30 dollars. Henry had 10.",
+        "hypothesis": "Henry had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria asked Walter for 20 dollars. Walter had 10.",
+        "hypothesis": "Walter had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emily asked Karen for 200 dollars. Karen had 50.",
+        "hypothesis": "Karen had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Rachel for 30 dollars. Rachel had 10.",
+        "hypothesis": "Rachel had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Amanda for 40 dollars. Amanda had 20.",
+        "hypothesis": "Amanda had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff asked Marilyn for 100 dollars. Marilyn had 30.",
+        "hypothesis": "Marilyn had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Howard for 300 dollars. Howard had 30.",
+        "hypothesis": "Howard had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Walter asked Dave for 400 dollars. Dave had 20.",
+        "hypothesis": "Dave had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Katherine for 20 dollars. Katherine had 10.",
+        "hypothesis": "Katherine had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Edwin for 200 dollars. Edwin had 100.",
+        "hypothesis": "Edwin had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Joe for 40 dollars. Joe had 10.",
+        "hypothesis": "Joe had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harry asked Sharon for 200 dollars. Sharon had 50.",
+        "hypothesis": "Sharon had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Elizabeth for 20 dollars. Elizabeth had 10.",
+        "hypothesis": "Elizabeth had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie asked Jennifer for 30 dollars. Jennifer had 10.",
+        "hypothesis": "Jennifer had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Johnny for 100 dollars. Johnny had 40.",
+        "hypothesis": "Johnny had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Sally for 30 dollars. Sally had 20.",
+        "hypothesis": "Sally had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie asked Marie for 200 dollars. Marie had 30.",
+        "hypothesis": "Marie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly asked Jean for 50 dollars. Jean had 40.",
+        "hypothesis": "Jean had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn asked Susan for 300 dollars. Susan had 10.",
+        "hypothesis": "Susan had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "James asked Martin for 1000 dollars. Martin had 10.",
+        "hypothesis": "Martin had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah asked Ron for 30 dollars. Ron had 20.",
+        "hypothesis": "Ron had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica asked Sarah for 30 dollars. Sarah had 20.",
+        "hypothesis": "Sarah had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Carl for 1000 dollars. Carl had 100.",
+        "hypothesis": "Carl had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Sophie for 200 dollars. Sophie had 10.",
+        "hypothesis": "Sophie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Jessica for 500 dollars. Jessica had 100.",
+        "hypothesis": "Jessica had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Ralph for 50 dollars. Ralph had 40.",
+        "hypothesis": "Ralph had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Victoria for 20 dollars. Victoria had 10.",
+        "hypothesis": "Victoria had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Benjamin for 500 dollars. Benjamin had 30.",
+        "hypothesis": "Benjamin had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Heather for 20 dollars. Heather had 10.",
+        "hypothesis": "Heather had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas asked Jimmy for 30 dollars. Jimmy had 10.",
+        "hypothesis": "Jimmy had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Judith for 40 dollars. Judith had 30.",
+        "hypothesis": "Judith had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Marie for 300 dollars. Marie had 10.",
+        "hypothesis": "Marie had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Sam for 40 dollars. Sam had 20.",
+        "hypothesis": "Sam had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher asked Dorothy for 400 dollars. Dorothy had 50.",
+        "hypothesis": "Dorothy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan asked Jim for 20 dollars. Jim had 10.",
+        "hypothesis": "Jim had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Ryan for 20 dollars. Ryan had 10.",
+        "hypothesis": "Ryan had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda asked Simon for 40 dollars. Simon had 20.",
+        "hypothesis": "Simon had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Thomas for 40 dollars. Thomas had 20.",
+        "hypothesis": "Thomas had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frances asked Jonathan for 500 dollars. Jonathan had 400.",
+        "hypothesis": "Jonathan had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Florence for 300 dollars. Florence had 20.",
+        "hypothesis": "Florence had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Keith for 50 dollars. Keith had 30.",
+        "hypothesis": "Keith had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry asked Adam for 400 dollars. Adam had 200.",
+        "hypothesis": "Adam had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine asked Hugh for 500 dollars. Hugh had 30.",
+        "hypothesis": "Hugh had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Kelly for 40 dollars. Kelly had 20.",
+        "hypothesis": "Kelly had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donna asked Roger for 400 dollars. Roger had 30.",
+        "hypothesis": "Roger had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Harry for 20 dollars. Harry had 10.",
+        "hypothesis": "Harry had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Nicole for 50 dollars. Nicole had 20.",
+        "hypothesis": "Nicole had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Marie for 500 dollars. Marie had 30.",
+        "hypothesis": "Marie had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked Judith for 100 dollars. Judith had 20.",
+        "hypothesis": "Judith had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michael asked Martin for 30 dollars. Martin had 20.",
+        "hypothesis": "Martin had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked Claire for 300 dollars. Claire had 50.",
+        "hypothesis": "Claire had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew asked Mike for 300 dollars. Mike had 30.",
+        "hypothesis": "Mike had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Al asked Mary for 30 dollars. Mary had 20.",
+        "hypothesis": "Mary had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Chris for 200 dollars. Chris had 100.",
+        "hypothesis": "Chris had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Bobby for 30 dollars. Bobby had 10.",
+        "hypothesis": "Bobby had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judith asked Billy for 400 dollars. Billy had 20.",
+        "hypothesis": "Billy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Kenneth for 500 dollars. Kenneth had 200.",
+        "hypothesis": "Kenneth had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Patricia for 400 dollars. Patricia had 200.",
+        "hypothesis": "Patricia had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Marie for 100 dollars. Marie had 40.",
+        "hypothesis": "Marie had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Christopher for 40 dollars. Christopher had 30.",
+        "hypothesis": "Christopher had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel asked Michael for 200 dollars. Michael had 30.",
+        "hypothesis": "Michael had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Richard asked Jane for 500 dollars. Jane had 400.",
+        "hypothesis": "Jane had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra asked Robin for 400 dollars. Robin had 20.",
+        "hypothesis": "Robin had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Caroline for 100 dollars. Caroline had 40.",
+        "hypothesis": "Caroline had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Judy for 50 dollars. Judy had 30.",
+        "hypothesis": "Judy had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony asked Sally for 30 dollars. Sally had 20.",
+        "hypothesis": "Sally had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline asked Anthony for 50 dollars. Anthony had 30.",
+        "hypothesis": "Anthony had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Sharon for 500 dollars. Sharon had 40.",
+        "hypothesis": "Sharon had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marie asked Mark for 200 dollars. Mark had 10.",
+        "hypothesis": "Mark had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Susan for 50 dollars. Susan had 20.",
+        "hypothesis": "Susan had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Charles for 30 dollars. Charles had 20.",
+        "hypothesis": "Charles had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Michael for 100 dollars. Michael had 40.",
+        "hypothesis": "Michael had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matt asked Jason for 200 dollars. Jason had 10.",
+        "hypothesis": "Jason had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Kenneth for 20 dollars. Kenneth had 10.",
+        "hypothesis": "Kenneth had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jane asked Ed for 20 dollars. Ed had 10.",
+        "hypothesis": "Ed had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Joe for 400 dollars. Joe had 40.",
+        "hypothesis": "Joe had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jay asked Alexandra for 100 dollars. Alexandra had 10.",
+        "hypothesis": "Alexandra had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Sharon for 1000 dollars. Sharon had 20.",
+        "hypothesis": "Sharon had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Marie for 100 dollars. Marie had 50.",
+        "hypothesis": "Marie had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Alexander for 20 dollars. Alexander had 10.",
+        "hypothesis": "Alexander had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Michelle for 30 dollars. Michelle had 20.",
+        "hypothesis": "Michelle had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Grace for 100 dollars. Grace had 50.",
+        "hypothesis": "Grace had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara asked Jessica for 100 dollars. Jessica had 40.",
+        "hypothesis": "Jessica had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Elaine for 300 dollars. Elaine had 20.",
+        "hypothesis": "Elaine had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Ray for 30 dollars. Ray had 10.",
+        "hypothesis": "Ray had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Anthony for 300 dollars. Anthony had 30.",
+        "hypothesis": "Anthony had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria asked Matt for 50 dollars. Matt had 10.",
+        "hypothesis": "Matt had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth asked Sally for 300 dollars. Sally had 40.",
+        "hypothesis": "Sally had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle asked Bob for 100 dollars. Bob had 20.",
+        "hypothesis": "Bob had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Sara for 20 dollars. Sara had 10.",
+        "hypothesis": "Sara had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Deborah for 200 dollars. Deborah had 10.",
+        "hypothesis": "Deborah had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Frances for 30 dollars. Frances had 10.",
+        "hypothesis": "Frances had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Frederick for 500 dollars. Frederick had 30.",
+        "hypothesis": "Frederick had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Tony for 200 dollars. Tony had 10.",
+        "hypothesis": "Tony had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Jerry for 1000 dollars. Jerry had 30.",
+        "hypothesis": "Jerry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Hugh for 1000 dollars. Hugh had 40.",
+        "hypothesis": "Hugh had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph asked James for 40 dollars. James had 10.",
+        "hypothesis": "James had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Brian asked Louise for 300 dollars. Louise had 30.",
+        "hypothesis": "Louise had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Eleanor for 500 dollars. Eleanor had 200.",
+        "hypothesis": "Eleanor had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Arthur for 50 dollars. Arthur had 20.",
+        "hypothesis": "Arthur had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Amy for 400 dollars. Amy had 20.",
+        "hypothesis": "Amy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Sandra for 400 dollars. Sandra had 30.",
+        "hypothesis": "Sandra had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Catherine for 100 dollars. Catherine had 20.",
+        "hypothesis": "Catherine had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nick asked Michelle for 20 dollars. Michelle had 10.",
+        "hypothesis": "Michelle had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Betty asked Edith for 20 dollars. Edith had 10.",
+        "hypothesis": "Edith had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roger asked Dick for 30 dollars. Dick had 20.",
+        "hypothesis": "Dick had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine asked Annie for 30 dollars. Annie had 20.",
+        "hypothesis": "Annie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah asked Christine for 50 dollars. Christine had 40.",
+        "hypothesis": "Christine had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Jennifer for 30 dollars. Jennifer had 20.",
+        "hypothesis": "Jennifer had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie asked Alan for 30 dollars. Alan had 10.",
+        "hypothesis": "Alan had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Howard asked Louis for 20 dollars. Louis had 10.",
+        "hypothesis": "Louis had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Robert for 1000 dollars. Robert had 400.",
+        "hypothesis": "Robert had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin asked John for 500 dollars. John had 200.",
+        "hypothesis": "John had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea asked Roy for 40 dollars. Roy had 10.",
+        "hypothesis": "Roy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel asked Tom for 300 dollars. Tom had 50.",
+        "hypothesis": "Tom had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca asked Larry for 50 dollars. Larry had 10.",
+        "hypothesis": "Larry had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Billy for 200 dollars. Billy had 50.",
+        "hypothesis": "Billy had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Heather asked Suzanne for 40 dollars. Suzanne had 10.",
+        "hypothesis": "Suzanne had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Jean for 300 dollars. Jean had 40.",
+        "hypothesis": "Jean had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Judy for 200 dollars. Judy had 30.",
+        "hypothesis": "Judy had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Don for 400 dollars. Don had 300.",
+        "hypothesis": "Don had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matt asked Leslie for 400 dollars. Leslie had 20.",
+        "hypothesis": "Leslie had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Frances for 500 dollars. Frances had 200.",
+        "hypothesis": "Frances had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Samuel for 200 dollars. Samuel had 30.",
+        "hypothesis": "Samuel had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Angela asked Jack for 300 dollars. Jack had 20.",
+        "hypothesis": "Jack had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra asked Edward for 500 dollars. Edward had 10.",
+        "hypothesis": "Edward had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Amanda for 50 dollars. Amanda had 10.",
+        "hypothesis": "Amanda had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn asked Emma for 500 dollars. Emma had 20.",
+        "hypothesis": "Emma had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph asked Michelle for 100 dollars. Michelle had 50.",
+        "hypothesis": "Michelle had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Tim for 200 dollars. Tim had 30.",
+        "hypothesis": "Tim had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Walter for 1000 dollars. Walter had 30.",
+        "hypothesis": "Walter had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Fiona for 100 dollars. Fiona had 40.",
+        "hypothesis": "Fiona had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Alan for 50 dollars. Alan had 10.",
+        "hypothesis": "Alan had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charles asked Frederick for 100 dollars. Frederick had 50.",
+        "hypothesis": "Frederick had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emily asked Mark for 500 dollars. Mark had 20.",
+        "hypothesis": "Mark had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Nicole for 500 dollars. Nicole had 400.",
+        "hypothesis": "Nicole had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Virginia for 100 dollars. Virginia had 40.",
+        "hypothesis": "Virginia had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Ryan for 40 dollars. Ryan had 30.",
+        "hypothesis": "Ryan had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine asked Jay for 300 dollars. Jay had 100.",
+        "hypothesis": "Jay had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Jack for 30 dollars. Jack had 20.",
+        "hypothesis": "Jack had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jay asked Christopher for 300 dollars. Christopher had 30.",
+        "hypothesis": "Christopher had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ron asked Louise for 500 dollars. Louise had 50.",
+        "hypothesis": "Louise had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Albert asked Jim for 500 dollars. Jim had 100.",
+        "hypothesis": "Jim had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn asked Diana for 1000 dollars. Diana had 500.",
+        "hypothesis": "Diana had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Kathryn for 1000 dollars. Kathryn had 200.",
+        "hypothesis": "Kathryn had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Anna for 400 dollars. Anna had 100.",
+        "hypothesis": "Anna had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Alison for 40 dollars. Alison had 30.",
+        "hypothesis": "Alison had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy asked Elizabeth for 100 dollars. Elizabeth had 20.",
+        "hypothesis": "Elizabeth had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Martha for 500 dollars. Martha had 50.",
+        "hypothesis": "Martha had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Bruce for 200 dollars. Bruce had 20.",
+        "hypothesis": "Bruce had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fred asked Charles for 500 dollars. Charles had 30.",
+        "hypothesis": "Charles had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Laura asked Ian for 300 dollars. Ian had 20.",
+        "hypothesis": "Ian had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine asked Barbara for 500 dollars. Barbara had 200.",
+        "hypothesis": "Barbara had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony asked Henry for 1000 dollars. Henry had 500.",
+        "hypothesis": "Henry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Richard for 100 dollars. Richard had 40.",
+        "hypothesis": "Richard had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Judy for 40 dollars. Judy had 10.",
+        "hypothesis": "Judy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sara asked Sam for 400 dollars. Sam had 10.",
+        "hypothesis": "Sam had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah asked Jerry for 20 dollars. Jerry had 10.",
+        "hypothesis": "Jerry had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Sophie for 40 dollars. Sophie had 20.",
+        "hypothesis": "Sophie had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Lynn for 200 dollars. Lynn had 50.",
+        "hypothesis": "Lynn had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Victoria for 40 dollars. Victoria had 10.",
+        "hypothesis": "Victoria had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah asked Dorothy for 200 dollars. Dorothy had 10.",
+        "hypothesis": "Dorothy had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Ralph for 500 dollars. Ralph had 20.",
+        "hypothesis": "Ralph had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Richard asked Kathy for 400 dollars. Kathy had 200.",
+        "hypothesis": "Kathy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Walter for 300 dollars. Walter had 100.",
+        "hypothesis": "Walter had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Dave for 1000 dollars. Dave had 400.",
+        "hypothesis": "Dave had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Scott for 100 dollars. Scott had 40.",
+        "hypothesis": "Scott had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Martha for 20 dollars. Martha had 10.",
+        "hypothesis": "Martha had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edward asked Cynthia for 400 dollars. Cynthia had 40.",
+        "hypothesis": "Cynthia had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Nick for 50 dollars. Nick had 40.",
+        "hypothesis": "Nick had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Mark for 1000 dollars. Mark had 30.",
+        "hypothesis": "Mark had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Angela for 20 dollars. Angela had 10.",
+        "hypothesis": "Angela had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Melissa for 1000 dollars. Melissa had 300.",
+        "hypothesis": "Melissa had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Walter asked Lawrence for 300 dollars. Lawrence had 50.",
+        "hypothesis": "Lawrence had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Sarah for 1000 dollars. Sarah had 10.",
+        "hypothesis": "Sarah had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Alice for 40 dollars. Alice had 20.",
+        "hypothesis": "Alice had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Anne for 100 dollars. Anne had 20.",
+        "hypothesis": "Anne had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Frank for 500 dollars. Frank had 10.",
+        "hypothesis": "Frank had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Paul for 40 dollars. Paul had 30.",
+        "hypothesis": "Paul had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Al for 200 dollars. Al had 10.",
+        "hypothesis": "Al had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Susan asked Pamela for 40 dollars. Pamela had 10.",
+        "hypothesis": "Pamela had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carol asked Harold for 20 dollars. Harold had 10.",
+        "hypothesis": "Harold had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Julia for 50 dollars. Julia had 40.",
+        "hypothesis": "Julia had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne asked Bob for 100 dollars. Bob had 10.",
+        "hypothesis": "Bob had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Matt for 20 dollars. Matt had 10.",
+        "hypothesis": "Matt had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Janet asked Eric for 1000 dollars. Eric had 100.",
+        "hypothesis": "Eric had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Sharon for 30 dollars. Sharon had 20.",
+        "hypothesis": "Sharon had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Harold for 20 dollars. Harold had 10.",
+        "hypothesis": "Harold had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Larry asked Jason for 30 dollars. Jason had 20.",
+        "hypothesis": "Jason had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Harriet for 400 dollars. Harriet had 10.",
+        "hypothesis": "Harriet had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Harriet for 50 dollars. Harriet had 30.",
+        "hypothesis": "Harriet had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan asked Steven for 40 dollars. Steven had 30.",
+        "hypothesis": "Steven had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Diana for 20 dollars. Diana had 10.",
+        "hypothesis": "Diana had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Diana for 30 dollars. Diana had 10.",
+        "hypothesis": "Diana had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ken asked Billy for 200 dollars. Billy had 100.",
+        "hypothesis": "Billy had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie asked Kathleen for 400 dollars. Kathleen had 10.",
+        "hypothesis": "Kathleen had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Albert asked Jay for 40 dollars. Jay had 30.",
+        "hypothesis": "Jay had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Annie for 50 dollars. Annie had 40.",
+        "hypothesis": "Annie had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steve asked Jim for 1000 dollars. Jim had 200.",
+        "hypothesis": "Jim had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen asked Edwin for 20 dollars. Edwin had 10.",
+        "hypothesis": "Edwin had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Suzanne for 300 dollars. Suzanne had 50.",
+        "hypothesis": "Suzanne had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Anna for 400 dollars. Anna had 200.",
+        "hypothesis": "Anna had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Dorothy for 30 dollars. Dorothy had 10.",
+        "hypothesis": "Dorothy had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Anne for 30 dollars. Anne had 20.",
+        "hypothesis": "Anne had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Donna for 300 dollars. Donna had 200.",
+        "hypothesis": "Donna had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Carol for 200 dollars. Carol had 10.",
+        "hypothesis": "Carol had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole asked Tim for 100 dollars. Tim had 10.",
+        "hypothesis": "Tim had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frank asked Martha for 30 dollars. Martha had 20.",
+        "hypothesis": "Martha had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Mary for 100 dollars. Mary had 30.",
+        "hypothesis": "Mary had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah asked Thomas for 400 dollars. Thomas had 10.",
+        "hypothesis": "Thomas had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Paul asked Simon for 400 dollars. Simon had 100.",
+        "hypothesis": "Simon had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth asked Harriet for 50 dollars. Harriet had 40.",
+        "hypothesis": "Harriet had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martin asked Christine for 50 dollars. Christine had 20.",
+        "hypothesis": "Christine had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Grace for 30 dollars. Grace had 10.",
+        "hypothesis": "Grace had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie asked Kim for 30 dollars. Kim had 20.",
+        "hypothesis": "Kim had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Harriet for 20 dollars. Harriet had 10.",
+        "hypothesis": "Harriet had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Kathy for 100 dollars. Kathy had 30.",
+        "hypothesis": "Kathy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn asked Richard for 20 dollars. Richard had 10.",
+        "hypothesis": "Richard had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michael asked Anne for 20 dollars. Anne had 10.",
+        "hypothesis": "Anne had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Wendy for 100 dollars. Wendy had 20.",
+        "hypothesis": "Wendy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Louis for 300 dollars. Louis had 200.",
+        "hypothesis": "Louis had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda asked Bobby for 200 dollars. Bobby had 30.",
+        "hypothesis": "Bobby had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Janet asked Katherine for 500 dollars. Katherine had 100.",
+        "hypothesis": "Katherine had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Andrea for 40 dollars. Andrea had 10.",
+        "hypothesis": "Andrea had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine asked Samuel for 1000 dollars. Samuel had 300.",
+        "hypothesis": "Samuel had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Philip asked Diane for 40 dollars. Diane had 10.",
+        "hypothesis": "Diane had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah asked Elaine for 400 dollars. Elaine had 40.",
+        "hypothesis": "Elaine had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frank asked Michelle for 200 dollars. Michelle had 10.",
+        "hypothesis": "Michelle had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Sandra for 50 dollars. Sandra had 10.",
+        "hypothesis": "Sandra had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Walter asked Susan for 20 dollars. Susan had 10.",
+        "hypothesis": "Susan had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia asked Michael for 500 dollars. Michael had 50.",
+        "hypothesis": "Michael had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jean asked Diane for 100 dollars. Diane had 50.",
+        "hypothesis": "Diane had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Edith for 30 dollars. Edith had 20.",
+        "hypothesis": "Edith had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dan asked Evelyn for 400 dollars. Evelyn had 10.",
+        "hypothesis": "Evelyn had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Kathleen for 400 dollars. Kathleen had 30.",
+        "hypothesis": "Kathleen had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Susan asked Dan for 20 dollars. Dan had 10.",
+        "hypothesis": "Dan had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Hugh for 300 dollars. Hugh had 200.",
+        "hypothesis": "Hugh had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Maria for 400 dollars. Maria had 100.",
+        "hypothesis": "Maria had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Ralph for 200 dollars. Ralph had 30.",
+        "hypothesis": "Ralph had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Ryan for 40 dollars. Ryan had 20.",
+        "hypothesis": "Ryan had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charles asked Angela for 300 dollars. Angela had 50.",
+        "hypothesis": "Angela had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Frances for 200 dollars. Frances had 100.",
+        "hypothesis": "Frances had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy asked Dorothy for 500 dollars. Dorothy had 50.",
+        "hypothesis": "Dorothy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy asked Annie for 500 dollars. Annie had 300.",
+        "hypothesis": "Annie had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Brian asked Laura for 30 dollars. Laura had 10.",
+        "hypothesis": "Laura had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Frances for 400 dollars. Frances had 100.",
+        "hypothesis": "Frances had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie asked Melissa for 400 dollars. Melissa had 50.",
+        "hypothesis": "Melissa had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry asked Ralph for 400 dollars. Ralph had 50.",
+        "hypothesis": "Ralph had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Tony for 30 dollars. Tony had 10.",
+        "hypothesis": "Tony had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Louis for 50 dollars. Louis had 40.",
+        "hypothesis": "Louis had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan asked Cynthia for 500 dollars. Cynthia had 200.",
+        "hypothesis": "Cynthia had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donna asked Christine for 1000 dollars. Christine had 10.",
+        "hypothesis": "Christine had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Rose for 1000 dollars. Rose had 400.",
+        "hypothesis": "Rose had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn asked Alexander for 100 dollars. Alexander had 10.",
+        "hypothesis": "Alexander had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Pamela for 40 dollars. Pamela had 10.",
+        "hypothesis": "Pamela had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Roger for 30 dollars. Roger had 10.",
+        "hypothesis": "Roger had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julie asked Bruce for 200 dollars. Bruce had 50.",
+        "hypothesis": "Bruce had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Margaret for 50 dollars. Margaret had 30.",
+        "hypothesis": "Margaret had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kim asked Grace for 200 dollars. Grace had 10.",
+        "hypothesis": "Grace had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Michelle for 300 dollars. Michelle had 50.",
+        "hypothesis": "Michelle had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robert asked Jill for 500 dollars. Jill had 300.",
+        "hypothesis": "Jill had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Jimmy for 1000 dollars. Jimmy had 20.",
+        "hypothesis": "Jimmy had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Annie for 50 dollars. Annie had 40.",
+        "hypothesis": "Annie had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Anthony for 50 dollars. Anthony had 20.",
+        "hypothesis": "Anthony had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harold asked Ralph for 300 dollars. Ralph had 200.",
+        "hypothesis": "Ralph had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Laura for 50 dollars. Laura had 20.",
+        "hypothesis": "Laura had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Stephanie for 300 dollars. Stephanie had 30.",
+        "hypothesis": "Stephanie had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Heather for 500 dollars. Heather had 100.",
+        "hypothesis": "Heather had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked Ann for 1000 dollars. Ann had 30.",
+        "hypothesis": "Ann had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew asked Kathryn for 100 dollars. Kathryn had 40.",
+        "hypothesis": "Kathryn had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matt asked Linda for 100 dollars. Linda had 20.",
+        "hypothesis": "Linda had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sara asked Mike for 300 dollars. Mike had 200.",
+        "hypothesis": "Mike had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alan asked Ron for 1000 dollars. Ron had 100.",
+        "hypothesis": "Ron had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Sophie for 40 dollars. Sophie had 20.",
+        "hypothesis": "Sophie had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Alice for 100 dollars. Alice had 20.",
+        "hypothesis": "Alice had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carol asked Matthew for 30 dollars. Matthew had 10.",
+        "hypothesis": "Matthew had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Steve for 40 dollars. Steve had 20.",
+        "hypothesis": "Steve had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Larry asked Amy for 400 dollars. Amy had 20.",
+        "hypothesis": "Amy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela asked Roy for 40 dollars. Roy had 20.",
+        "hypothesis": "Roy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Tony for 300 dollars. Tony had 30.",
+        "hypothesis": "Tony had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Kim for 30 dollars. Kim had 20.",
+        "hypothesis": "Kim had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Mike for 500 dollars. Mike had 200.",
+        "hypothesis": "Mike had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle asked Dick for 300 dollars. Dick had 50.",
+        "hypothesis": "Dick had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Frank for 100 dollars. Frank had 40.",
+        "hypothesis": "Frank had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Jay for 50 dollars. Jay had 40.",
+        "hypothesis": "Jay had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Fred for 1000 dollars. Fred had 20.",
+        "hypothesis": "Fred had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Alexandra for 100 dollars. Alexandra had 50.",
+        "hypothesis": "Alexandra had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Don for 20 dollars. Don had 10.",
+        "hypothesis": "Don had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Colin for 100 dollars. Colin had 10.",
+        "hypothesis": "Colin had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nick asked Stephen for 20 dollars. Stephen had 10.",
+        "hypothesis": "Stephen had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Joan for 100 dollars. Joan had 40.",
+        "hypothesis": "Joan had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony asked Dave for 300 dollars. Dave had 30.",
+        "hypothesis": "Dave had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle asked Kelly for 500 dollars. Kelly had 300.",
+        "hypothesis": "Kelly had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Heather for 30 dollars. Heather had 10.",
+        "hypothesis": "Heather had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frances asked Philip for 300 dollars. Philip had 200.",
+        "hypothesis": "Philip had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie asked David for 200 dollars. David had 100.",
+        "hypothesis": "David had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Martha for 1000 dollars. Martha had 20.",
+        "hypothesis": "Martha had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emily asked Lisa for 30 dollars. Lisa had 10.",
+        "hypothesis": "Lisa had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Betty for 400 dollars. Betty had 50.",
+        "hypothesis": "Betty had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Diane for 1000 dollars. Diane had 500.",
+        "hypothesis": "Diane had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Linda for 300 dollars. Linda had 40.",
+        "hypothesis": "Linda had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Ian for 200 dollars. Ian had 100.",
+        "hypothesis": "Ian had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Richard asked Stephen for 40 dollars. Stephen had 10.",
+        "hypothesis": "Stephen had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher asked Sandra for 200 dollars. Sandra had 40.",
+        "hypothesis": "Sandra had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah asked Edwin for 40 dollars. Edwin had 30.",
+        "hypothesis": "Edwin had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn asked Marie for 40 dollars. Marie had 20.",
+        "hypothesis": "Marie had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Steven for 100 dollars. Steven had 40.",
+        "hypothesis": "Steven had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline asked Jim for 1000 dollars. Jim had 400.",
+        "hypothesis": "Jim had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel asked Kenneth for 100 dollars. Kenneth had 40.",
+        "hypothesis": "Kenneth had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Edward for 400 dollars. Edward had 200.",
+        "hypothesis": "Edward had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "James asked Evelyn for 100 dollars. Evelyn had 50.",
+        "hypothesis": "Evelyn had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Ron for 200 dollars. Ron had 30.",
+        "hypothesis": "Ron had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Diana for 100 dollars. Diana had 30.",
+        "hypothesis": "Diana had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alan asked Roger for 400 dollars. Roger had 50.",
+        "hypothesis": "Roger had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emily asked Wendy for 50 dollars. Wendy had 20.",
+        "hypothesis": "Wendy had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charles asked Sharon for 500 dollars. Sharon had 100.",
+        "hypothesis": "Sharon had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Brian asked Anna for 500 dollars. Anna had 50.",
+        "hypothesis": "Anna had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Kelly for 200 dollars. Kelly had 100.",
+        "hypothesis": "Kelly had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ben asked Bobby for 100 dollars. Bobby had 20.",
+        "hypothesis": "Bobby had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona asked Matthew for 400 dollars. Matthew had 30.",
+        "hypothesis": "Matthew had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Mary for 100 dollars. Mary had 40.",
+        "hypothesis": "Mary had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Eric for 30 dollars. Eric had 20.",
+        "hypothesis": "Eric had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie asked Caroline for 300 dollars. Caroline had 50.",
+        "hypothesis": "Caroline had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara asked Sara for 500 dollars. Sara had 50.",
+        "hypothesis": "Sara had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Marie for 1000 dollars. Marie had 20.",
+        "hypothesis": "Marie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Melissa for 400 dollars. Melissa had 20.",
+        "hypothesis": "Melissa had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte asked Stephanie for 30 dollars. Stephanie had 20.",
+        "hypothesis": "Stephanie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Rose for 200 dollars. Rose had 30.",
+        "hypothesis": "Rose had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony asked Kathy for 500 dollars. Kathy had 20.",
+        "hypothesis": "Kathy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nick asked Thomas for 300 dollars. Thomas had 100.",
+        "hypothesis": "Thomas had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Johnny for 30 dollars. Johnny had 10.",
+        "hypothesis": "Johnny had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Joan for 400 dollars. Joan had 40.",
+        "hypothesis": "Joan had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Diana for 400 dollars. Diana had 300.",
+        "hypothesis": "Diana had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Howard for 500 dollars. Howard had 300.",
+        "hypothesis": "Howard had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked Albert for 400 dollars. Albert had 300.",
+        "hypothesis": "Albert had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steve asked Richard for 40 dollars. Richard had 30.",
+        "hypothesis": "Richard had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "William asked Joseph for 500 dollars. Joseph had 10.",
+        "hypothesis": "Joseph had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Richard asked Elizabeth for 50 dollars. Elizabeth had 40.",
+        "hypothesis": "Elizabeth had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martin asked Sophie for 300 dollars. Sophie had 100.",
+        "hypothesis": "Sophie had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca asked Carl for 500 dollars. Carl had 20.",
+        "hypothesis": "Carl had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Julia asked Charlie for 20 dollars. Charlie had 10.",
+        "hypothesis": "Charlie had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frances asked Mark for 300 dollars. Mark had 20.",
+        "hypothesis": "Mark had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Arthur for 50 dollars. Arthur had 30.",
+        "hypothesis": "Arthur had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel asked Harriet for 200 dollars. Harriet had 100.",
+        "hypothesis": "Harriet had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Joan for 300 dollars. Joan had 200.",
+        "hypothesis": "Joan had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra asked Bruce for 100 dollars. Bruce had 20.",
+        "hypothesis": "Bruce had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Kim for 400 dollars. Kim had 100.",
+        "hypothesis": "Kim had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Ralph for 400 dollars. Ralph had 10.",
+        "hypothesis": "Ralph had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Paul for 500 dollars. Paul had 50.",
+        "hypothesis": "Paul had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Heather asked Lynn for 20 dollars. Lynn had 10.",
+        "hypothesis": "Lynn had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Frederick for 500 dollars. Frederick had 40.",
+        "hypothesis": "Frederick had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Peter for 20 dollars. Peter had 10.",
+        "hypothesis": "Peter had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona asked Tony for 300 dollars. Tony had 100.",
+        "hypothesis": "Tony had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Alice for 20 dollars. Alice had 10.",
+        "hypothesis": "Alice had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Edward for 1000 dollars. Edward had 40.",
+        "hypothesis": "Edward had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michael asked Lawrence for 40 dollars. Lawrence had 20.",
+        "hypothesis": "Lawrence had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Alexander for 200 dollars. Alexander had 20.",
+        "hypothesis": "Alexander had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tim asked Betty for 100 dollars. Betty had 40.",
+        "hypothesis": "Betty had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked James for 40 dollars. James had 30.",
+        "hypothesis": "James had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Suzanne for 30 dollars. Suzanne had 20.",
+        "hypothesis": "Suzanne had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harold asked Margaret for 200 dollars. Margaret had 10.",
+        "hypothesis": "Margaret had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona asked Rebecca for 500 dollars. Rebecca had 400.",
+        "hypothesis": "Rebecca had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bill asked Alfred for 100 dollars. Alfred had 40.",
+        "hypothesis": "Alfred had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Eleanor for 30 dollars. Eleanor had 20.",
+        "hypothesis": "Eleanor had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Mark for 20 dollars. Mark had 10.",
+        "hypothesis": "Mark had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Ashley for 30 dollars. Ashley had 20.",
+        "hypothesis": "Ashley had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Chris for 30 dollars. Chris had 10.",
+        "hypothesis": "Chris had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Simon for 100 dollars. Simon had 30.",
+        "hypothesis": "Simon had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Betty for 20 dollars. Betty had 10.",
+        "hypothesis": "Betty had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Julie for 200 dollars. Julie had 30.",
+        "hypothesis": "Julie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ben asked Margaret for 20 dollars. Margaret had 10.",
+        "hypothesis": "Margaret had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Walter for 20 dollars. Walter had 10.",
+        "hypothesis": "Walter had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn asked Nancy for 500 dollars. Nancy had 200.",
+        "hypothesis": "Nancy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alex asked Diane for 300 dollars. Diane had 50.",
+        "hypothesis": "Diane had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Martin for 200 dollars. Martin had 40.",
+        "hypothesis": "Martin had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine asked Tony for 40 dollars. Tony had 20.",
+        "hypothesis": "Tony had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher asked Julia for 1000 dollars. Julia had 50.",
+        "hypothesis": "Julia had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jean asked Emma for 200 dollars. Emma had 10.",
+        "hypothesis": "Emma had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph asked Steve for 200 dollars. Steve had 40.",
+        "hypothesis": "Steve had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Jennifer for 1000 dollars. Jennifer had 300.",
+        "hypothesis": "Jennifer had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Grace for 30 dollars. Grace had 10.",
+        "hypothesis": "Grace had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Sophie for 100 dollars. Sophie had 40.",
+        "hypothesis": "Sophie had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Florence asked Lisa for 500 dollars. Lisa had 20.",
+        "hypothesis": "Lisa had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Barbara for 40 dollars. Barbara had 30.",
+        "hypothesis": "Barbara had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie asked Sarah for 20 dollars. Sarah had 10.",
+        "hypothesis": "Sarah had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Alexandra for 50 dollars. Alexandra had 40.",
+        "hypothesis": "Alexandra had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Scott for 300 dollars. Scott had 20.",
+        "hypothesis": "Scott had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby asked Fiona for 100 dollars. Fiona had 20.",
+        "hypothesis": "Fiona had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy asked Cynthia for 20 dollars. Cynthia had 10.",
+        "hypothesis": "Cynthia had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Tony for 300 dollars. Tony had 200.",
+        "hypothesis": "Tony had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emily asked Howard for 30 dollars. Howard had 10.",
+        "hypothesis": "Howard had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Simon for 1000 dollars. Simon had 20.",
+        "hypothesis": "Simon had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eric asked Harry for 1000 dollars. Harry had 30.",
+        "hypothesis": "Harry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Margaret for 100 dollars. Margaret had 20.",
+        "hypothesis": "Margaret had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Robin for 40 dollars. Robin had 20.",
+        "hypothesis": "Robin had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea asked Jason for 500 dollars. Jason had 100.",
+        "hypothesis": "Jason had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Scott for 500 dollars. Scott had 50.",
+        "hypothesis": "Scott had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matt asked Simon for 200 dollars. Simon had 50.",
+        "hypothesis": "Simon had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Kevin for 20 dollars. Kevin had 10.",
+        "hypothesis": "Kevin had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Fiona for 500 dollars. Fiona had 40.",
+        "hypothesis": "Fiona had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel asked Kevin for 500 dollars. Kevin had 300.",
+        "hypothesis": "Kevin had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Pamela for 50 dollars. Pamela had 40.",
+        "hypothesis": "Pamela had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bill asked Bobby for 300 dollars. Bobby had 20.",
+        "hypothesis": "Bobby had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donna asked Carl for 30 dollars. Carl had 10.",
+        "hypothesis": "Carl had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alex asked Rose for 300 dollars. Rose had 20.",
+        "hypothesis": "Rose had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie asked Matt for 100 dollars. Matt had 50.",
+        "hypothesis": "Matt had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Greg for 400 dollars. Greg had 50.",
+        "hypothesis": "Greg had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Dave for 400 dollars. Dave had 50.",
+        "hypothesis": "Dave had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Howard asked Carol for 200 dollars. Carol had 30.",
+        "hypothesis": "Carol had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Simon for 300 dollars. Simon had 10.",
+        "hypothesis": "Simon had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Walter asked Ken for 20 dollars. Ken had 10.",
+        "hypothesis": "Ken had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Bill for 1000 dollars. Bill had 400.",
+        "hypothesis": "Bill had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donna asked Lisa for 40 dollars. Lisa had 10.",
+        "hypothesis": "Lisa had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria asked Angela for 40 dollars. Angela had 30.",
+        "hypothesis": "Angela had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Victoria for 1000 dollars. Victoria had 40.",
+        "hypothesis": "Victoria had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Scott asked Ruth for 40 dollars. Ruth had 20.",
+        "hypothesis": "Ruth had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kim asked Richard for 300 dollars. Richard had 20.",
+        "hypothesis": "Richard had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Betty for 200 dollars. Betty had 20.",
+        "hypothesis": "Betty had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amy asked Ashley for 30 dollars. Ashley had 20.",
+        "hypothesis": "Ashley had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Sharon for 50 dollars. Sharon had 10.",
+        "hypothesis": "Sharon had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Stephanie for 200 dollars. Stephanie had 30.",
+        "hypothesis": "Stephanie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Ashley for 300 dollars. Ashley had 30.",
+        "hypothesis": "Ashley had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Diane for 50 dollars. Diane had 20.",
+        "hypothesis": "Diane had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Michael asked Ken for 200 dollars. Ken had 40.",
+        "hypothesis": "Ken had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen asked Ralph for 400 dollars. Ralph had 20.",
+        "hypothesis": "Ralph had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Kathleen for 20 dollars. Kathleen had 10.",
+        "hypothesis": "Kathleen had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Carl for 500 dollars. Carl had 40.",
+        "hypothesis": "Carl had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Samuel for 500 dollars. Samuel had 20.",
+        "hypothesis": "Samuel had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Edward for 30 dollars. Edward had 10.",
+        "hypothesis": "Edward had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Kevin for 1000 dollars. Kevin had 400.",
+        "hypothesis": "Kevin had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Ann for 300 dollars. Ann had 200.",
+        "hypothesis": "Ann had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Susan asked Adam for 40 dollars. Adam had 20.",
+        "hypothesis": "Adam had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ron asked Howard for 400 dollars. Howard had 40.",
+        "hypothesis": "Howard had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Jill for 300 dollars. Jill had 100.",
+        "hypothesis": "Jill had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Maria asked Alexandra for 20 dollars. Alexandra had 10.",
+        "hypothesis": "Alexandra had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela asked Joseph for 300 dollars. Joseph had 50.",
+        "hypothesis": "Joseph had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tim asked Susan for 200 dollars. Susan had 50.",
+        "hypothesis": "Susan had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Robert for 300 dollars. Robert had 10.",
+        "hypothesis": "Robert had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence asked Bill for 30 dollars. Bill had 20.",
+        "hypothesis": "Bill had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Martin for 300 dollars. Martin had 100.",
+        "hypothesis": "Martin had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Greg asked Ian for 40 dollars. Ian had 20.",
+        "hypothesis": "Ian had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Sophie for 300 dollars. Sophie had 200.",
+        "hypothesis": "Sophie had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Catherine for 40 dollars. Catherine had 20.",
+        "hypothesis": "Catherine had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry asked Heather for 20 dollars. Heather had 10.",
+        "hypothesis": "Heather had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher asked Larry for 300 dollars. Larry had 10.",
+        "hypothesis": "Larry had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Lucy for 100 dollars. Lucy had 20.",
+        "hypothesis": "Lucy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Ellen for 40 dollars. Ellen had 20.",
+        "hypothesis": "Ellen had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Claire asked Anne for 1000 dollars. Anne had 400.",
+        "hypothesis": "Anne had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Carl for 300 dollars. Carl had 200.",
+        "hypothesis": "Carl had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly asked Fred for 50 dollars. Fred had 40.",
+        "hypothesis": "Fred had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jay asked Patricia for 30 dollars. Patricia had 10.",
+        "hypothesis": "Patricia had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Billy for 400 dollars. Billy had 40.",
+        "hypothesis": "Billy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marie asked Hugh for 200 dollars. Hugh had 50.",
+        "hypothesis": "Hugh had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Albert asked Rose for 500 dollars. Rose had 50.",
+        "hypothesis": "Rose had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence asked Simon for 300 dollars. Simon had 100.",
+        "hypothesis": "Simon had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline asked Rose for 500 dollars. Rose had 300.",
+        "hypothesis": "Rose had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara asked Lynn for 500 dollars. Lynn had 40.",
+        "hypothesis": "Lynn had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte asked Wendy for 100 dollars. Wendy had 40.",
+        "hypothesis": "Wendy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Christopher for 50 dollars. Christopher had 20.",
+        "hypothesis": "Christopher had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked James for 400 dollars. James had 30.",
+        "hypothesis": "James had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth asked Katherine for 400 dollars. Katherine had 200.",
+        "hypothesis": "Katherine had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alex asked Anna for 40 dollars. Anna had 30.",
+        "hypothesis": "Anna had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Brian asked Elaine for 20 dollars. Elaine had 10.",
+        "hypothesis": "Elaine had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Emma for 20 dollars. Emma had 10.",
+        "hypothesis": "Emma had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Lawrence for 1000 dollars. Lawrence had 100.",
+        "hypothesis": "Lawrence had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Johnny for 400 dollars. Johnny had 50.",
+        "hypothesis": "Johnny had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jim asked Dave for 40 dollars. Dave had 30.",
+        "hypothesis": "Dave had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kim asked Sara for 300 dollars. Sara had 200.",
+        "hypothesis": "Sara had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria asked Matthew for 50 dollars. Matthew had 40.",
+        "hypothesis": "Matthew had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Jason for 20 dollars. Jason had 10.",
+        "hypothesis": "Jason had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth asked Sam for 400 dollars. Sam had 200.",
+        "hypothesis": "Sam had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Greg asked Alan for 300 dollars. Alan had 200.",
+        "hypothesis": "Alan had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Claire for 400 dollars. Claire had 200.",
+        "hypothesis": "Claire had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Lauren for 400 dollars. Lauren had 10.",
+        "hypothesis": "Lauren had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Charlotte for 300 dollars. Charlotte had 200.",
+        "hypothesis": "Charlotte had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Alex for 500 dollars. Alex had 10.",
+        "hypothesis": "Alex had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Tim for 20 dollars. Tim had 10.",
+        "hypothesis": "Tim had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Jonathan for 20 dollars. Jonathan had 10.",
+        "hypothesis": "Jonathan had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Mike for 200 dollars. Mike had 10.",
+        "hypothesis": "Mike had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy asked Billy for 40 dollars. Billy had 20.",
+        "hypothesis": "Billy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alex asked Kathleen for 40 dollars. Kathleen had 20.",
+        "hypothesis": "Kathleen had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy asked Samuel for 400 dollars. Samuel had 50.",
+        "hypothesis": "Samuel had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Jessica for 100 dollars. Jessica had 10.",
+        "hypothesis": "Jessica had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence asked Benjamin for 50 dollars. Benjamin had 40.",
+        "hypothesis": "Benjamin had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Kim for 50 dollars. Kim had 10.",
+        "hypothesis": "Kim had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "William asked Tim for 300 dollars. Tim had 40.",
+        "hypothesis": "Tim had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Sarah for 40 dollars. Sarah had 20.",
+        "hypothesis": "Sarah had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Jim for 1000 dollars. Jim had 40.",
+        "hypothesis": "Jim had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Francis for 100 dollars. Francis had 40.",
+        "hypothesis": "Francis had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Annie asked Claire for 40 dollars. Claire had 10.",
+        "hypothesis": "Claire had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frances asked Edwin for 30 dollars. Edwin had 10.",
+        "hypothesis": "Edwin had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Ralph for 40 dollars. Ralph had 20.",
+        "hypothesis": "Ralph had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Bruce for 300 dollars. Bruce had 200.",
+        "hypothesis": "Bruce had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine asked Tim for 100 dollars. Tim had 10.",
+        "hypothesis": "Tim had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth asked Francis for 500 dollars. Francis had 30.",
+        "hypothesis": "Francis had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Michael for 500 dollars. Michael had 100.",
+        "hypothesis": "Michael had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Carol for 1000 dollars. Carol had 20.",
+        "hypothesis": "Carol had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joe asked Harry for 50 dollars. Harry had 40.",
+        "hypothesis": "Harry had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce asked Roger for 400 dollars. Roger had 40.",
+        "hypothesis": "Roger had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara asked Alexander for 40 dollars. Alexander had 30.",
+        "hypothesis": "Alexander had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew asked John for 100 dollars. John had 50.",
+        "hypothesis": "John had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Andrea for 400 dollars. Andrea had 200.",
+        "hypothesis": "Andrea had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Gary for 500 dollars. Gary had 50.",
+        "hypothesis": "Gary had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Betty asked Laura for 50 dollars. Laura had 20.",
+        "hypothesis": "Laura had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jane asked Albert for 300 dollars. Albert had 40.",
+        "hypothesis": "Albert had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley asked Linda for 30 dollars. Linda had 10.",
+        "hypothesis": "Linda had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Jerry for 300 dollars. Jerry had 40.",
+        "hypothesis": "Jerry had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Linda for 100 dollars. Linda had 30.",
+        "hypothesis": "Linda had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ben asked Frances for 20 dollars. Frances had 10.",
+        "hypothesis": "Frances had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robin asked Janet for 100 dollars. Janet had 30.",
+        "hypothesis": "Janet had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tony asked Edith for 1000 dollars. Edith had 500.",
+        "hypothesis": "Edith had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Catherine for 20 dollars. Catherine had 10.",
+        "hypothesis": "Catherine had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joe asked Lisa for 300 dollars. Lisa had 40.",
+        "hypothesis": "Lisa had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martin asked Julie for 40 dollars. Julie had 20.",
+        "hypothesis": "Julie had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Nancy for 500 dollars. Nancy had 30.",
+        "hypothesis": "Nancy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Edith for 1000 dollars. Edith had 40.",
+        "hypothesis": "Edith had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Leslie for 200 dollars. Leslie had 20.",
+        "hypothesis": "Leslie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew asked Lawrence for 500 dollars. Lawrence had 40.",
+        "hypothesis": "Lawrence had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked David for 20 dollars. David had 10.",
+        "hypothesis": "David had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie asked Nick for 300 dollars. Nick had 40.",
+        "hypothesis": "Nick had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole asked Edwin for 200 dollars. Edwin had 50.",
+        "hypothesis": "Edwin had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alan asked Nick for 20 dollars. Nick had 10.",
+        "hypothesis": "Nick had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Leslie for 30 dollars. Leslie had 10.",
+        "hypothesis": "Leslie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas asked Stephanie for 200 dollars. Stephanie had 100.",
+        "hypothesis": "Stephanie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Robin for 100 dollars. Robin had 30.",
+        "hypothesis": "Robin had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carol asked Kathleen for 50 dollars. Kathleen had 30.",
+        "hypothesis": "Kathleen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Ian for 50 dollars. Ian had 20.",
+        "hypothesis": "Ian had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Amy for 20 dollars. Amy had 10.",
+        "hypothesis": "Amy had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry asked Elaine for 40 dollars. Elaine had 10.",
+        "hypothesis": "Elaine had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Rose for 40 dollars. Rose had 30.",
+        "hypothesis": "Rose had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph asked Ruth for 500 dollars. Ruth had 40.",
+        "hypothesis": "Ruth had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine asked Donna for 100 dollars. Donna had 50.",
+        "hypothesis": "Donna had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine asked Jimmy for 30 dollars. Jimmy had 10.",
+        "hypothesis": "Jimmy had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Nancy for 100 dollars. Nancy had 40.",
+        "hypothesis": "Nancy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diane asked Donald for 30 dollars. Donald had 10.",
+        "hypothesis": "Donald had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Ron for 30 dollars. Ron had 10.",
+        "hypothesis": "Ron had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked George for 500 dollars. George had 300.",
+        "hypothesis": "George had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Dick for 100 dollars. Dick had 10.",
+        "hypothesis": "Dick had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra asked Mark for 1000 dollars. Mark had 100.",
+        "hypothesis": "Mark had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Benjamin for 30 dollars. Benjamin had 10.",
+        "hypothesis": "Benjamin had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Paul asked Don for 100 dollars. Don had 10.",
+        "hypothesis": "Don had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Ben for 1000 dollars. Ben had 50.",
+        "hypothesis": "Ben had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara asked Katherine for 200 dollars. Katherine had 40.",
+        "hypothesis": "Katherine had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence asked Charlie for 30 dollars. Charlie had 20.",
+        "hypothesis": "Charlie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Michael for 30 dollars. Michael had 10.",
+        "hypothesis": "Michael had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Francis asked Jay for 200 dollars. Jay had 10.",
+        "hypothesis": "Jay had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Dan for 500 dollars. Dan had 20.",
+        "hypothesis": "Dan had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole asked Virginia for 40 dollars. Virginia had 10.",
+        "hypothesis": "Virginia had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked George for 400 dollars. George had 200.",
+        "hypothesis": "George had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda asked Ed for 300 dollars. Ed had 50.",
+        "hypothesis": "Ed had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Marie for 500 dollars. Marie had 100.",
+        "hypothesis": "Marie had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Simon for 100 dollars. Simon had 10.",
+        "hypothesis": "Simon had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Laura for 50 dollars. Laura had 10.",
+        "hypothesis": "Laura had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ron asked Edwin for 200 dollars. Edwin had 50.",
+        "hypothesis": "Edwin had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan asked Gary for 500 dollars. Gary had 100.",
+        "hypothesis": "Gary had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Bobby for 100 dollars. Bobby had 40.",
+        "hypothesis": "Bobby had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Sally for 400 dollars. Sally had 40.",
+        "hypothesis": "Sally had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Kathryn for 400 dollars. Kathryn had 20.",
+        "hypothesis": "Kathryn had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Charles for 500 dollars. Charles had 30.",
+        "hypothesis": "Charles had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Jerry for 400 dollars. Jerry had 10.",
+        "hypothesis": "Jerry had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew asked Jim for 40 dollars. Jim had 30.",
+        "hypothesis": "Jim had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Bill for 40 dollars. Bill had 10.",
+        "hypothesis": "Bill had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Janet asked Greg for 300 dollars. Greg had 200.",
+        "hypothesis": "Greg had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Charlotte for 200 dollars. Charlotte had 50.",
+        "hypothesis": "Charlotte had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Roger for 500 dollars. Roger had 300.",
+        "hypothesis": "Roger had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Heather asked Karen for 100 dollars. Karen had 40.",
+        "hypothesis": "Karen had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Dick for 30 dollars. Dick had 20.",
+        "hypothesis": "Dick had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Charlie for 200 dollars. Charlie had 20.",
+        "hypothesis": "Charlie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harry asked Sandra for 200 dollars. Sandra had 100.",
+        "hypothesis": "Sandra had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joe asked Alice for 100 dollars. Alice had 40.",
+        "hypothesis": "Alice had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eric asked Janet for 500 dollars. Janet had 50.",
+        "hypothesis": "Janet had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Kathleen for 50 dollars. Kathleen had 30.",
+        "hypothesis": "Kathleen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Michael for 300 dollars. Michael had 200.",
+        "hypothesis": "Michael had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mark asked Caroline for 100 dollars. Caroline had 40.",
+        "hypothesis": "Caroline had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Betty asked Johnny for 1000 dollars. Johnny had 30.",
+        "hypothesis": "Johnny had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie asked Kim for 40 dollars. Kim had 10.",
+        "hypothesis": "Kim had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Simon for 40 dollars. Simon had 20.",
+        "hypothesis": "Simon had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph asked Harry for 200 dollars. Harry had 30.",
+        "hypothesis": "Harry had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Walter for 500 dollars. Walter had 300.",
+        "hypothesis": "Walter had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy asked Colin for 100 dollars. Colin had 50.",
+        "hypothesis": "Colin had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charles asked Stephanie for 500 dollars. Stephanie had 40.",
+        "hypothesis": "Stephanie had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked Diana for 1000 dollars. Diana had 30.",
+        "hypothesis": "Diana had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked Stephanie for 100 dollars. Stephanie had 40.",
+        "hypothesis": "Stephanie had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Amanda for 100 dollars. Amanda had 30.",
+        "hypothesis": "Amanda had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Helen for 20 dollars. Helen had 10.",
+        "hypothesis": "Helen had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Karen for 500 dollars. Karen had 100.",
+        "hypothesis": "Karen had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Laura asked Roger for 200 dollars. Roger had 40.",
+        "hypothesis": "Roger had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Simon for 50 dollars. Simon had 20.",
+        "hypothesis": "Simon had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Sam for 400 dollars. Sam had 100.",
+        "hypothesis": "Sam had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harry asked Kathryn for 1000 dollars. Kathryn had 300.",
+        "hypothesis": "Kathryn had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Charlie for 30 dollars. Charlie had 20.",
+        "hypothesis": "Charlie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Amanda for 20 dollars. Amanda had 10.",
+        "hypothesis": "Amanda had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Robert for 300 dollars. Robert had 30.",
+        "hypothesis": "Robert had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Susan for 40 dollars. Susan had 20.",
+        "hypothesis": "Susan had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph asked Kevin for 1000 dollars. Kevin had 200.",
+        "hypothesis": "Kevin had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew asked Walter for 30 dollars. Walter had 10.",
+        "hypothesis": "Walter had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Peter for 30 dollars. Peter had 20.",
+        "hypothesis": "Peter had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mark asked Barbara for 1000 dollars. Barbara had 10.",
+        "hypothesis": "Barbara had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rose asked Jerry for 1000 dollars. Jerry had 100.",
+        "hypothesis": "Jerry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Philip asked Sara for 1000 dollars. Sara had 40.",
+        "hypothesis": "Sara had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Heather for 40 dollars. Heather had 20.",
+        "hypothesis": "Heather had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Rachel for 300 dollars. Rachel had 30.",
+        "hypothesis": "Rachel had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Laura asked Frank for 500 dollars. Frank had 30.",
+        "hypothesis": "Frank had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "David asked Benjamin for 20 dollars. Benjamin had 10.",
+        "hypothesis": "Benjamin had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Brian for 200 dollars. Brian had 20.",
+        "hypothesis": "Brian had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte asked Amy for 500 dollars. Amy had 20.",
+        "hypothesis": "Amy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Linda for 40 dollars. Linda had 30.",
+        "hypothesis": "Linda had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick asked Evelyn for 40 dollars. Evelyn had 30.",
+        "hypothesis": "Evelyn had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Mike for 20 dollars. Mike had 10.",
+        "hypothesis": "Mike had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Grace for 300 dollars. Grace had 100.",
+        "hypothesis": "Grace had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mark asked Florence for 300 dollars. Florence had 10.",
+        "hypothesis": "Florence had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia asked Charlie for 1000 dollars. Charlie had 40.",
+        "hypothesis": "Charlie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Dave for 200 dollars. Dave had 100.",
+        "hypothesis": "Dave had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Benjamin for 40 dollars. Benjamin had 20.",
+        "hypothesis": "Benjamin had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby asked Kelly for 300 dollars. Kelly had 100.",
+        "hypothesis": "Kelly had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "John asked William for 40 dollars. William had 20.",
+        "hypothesis": "William had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Alexander for 200 dollars. Alexander had 10.",
+        "hypothesis": "Alexander had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn asked Jill for 300 dollars. Jill had 200.",
+        "hypothesis": "Jill had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Henry for 40 dollars. Henry had 10.",
+        "hypothesis": "Henry had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Sophie for 400 dollars. Sophie had 200.",
+        "hypothesis": "Sophie had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Joan for 200 dollars. Joan had 50.",
+        "hypothesis": "Joan had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Victoria for 200 dollars. Victoria had 20.",
+        "hypothesis": "Victoria had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ron asked Laura for 40 dollars. Laura had 20.",
+        "hypothesis": "Laura had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Diane for 20 dollars. Diane had 10.",
+        "hypothesis": "Diane had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Al asked Jimmy for 40 dollars. Jimmy had 20.",
+        "hypothesis": "Jimmy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Paul for 20 dollars. Paul had 10.",
+        "hypothesis": "Paul had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ed asked Alfred for 100 dollars. Alfred had 20.",
+        "hypothesis": "Alfred had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen asked Edwin for 30 dollars. Edwin had 20.",
+        "hypothesis": "Edwin had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Sharon for 50 dollars. Sharon had 10.",
+        "hypothesis": "Sharon had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Bobby for 40 dollars. Bobby had 10.",
+        "hypothesis": "Bobby had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steve asked Michael for 20 dollars. Michael had 10.",
+        "hypothesis": "Michael had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked Jerry for 1000 dollars. Jerry had 30.",
+        "hypothesis": "Jerry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Florence asked Frederick for 40 dollars. Frederick had 20.",
+        "hypothesis": "Frederick had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Caroline for 500 dollars. Caroline had 30.",
+        "hypothesis": "Caroline had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jim asked Daniel for 30 dollars. Daniel had 10.",
+        "hypothesis": "Daniel had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Jean for 300 dollars. Jean had 40.",
+        "hypothesis": "Jean had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Albert for 300 dollars. Albert had 10.",
+        "hypothesis": "Albert had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Ellen for 400 dollars. Ellen had 30.",
+        "hypothesis": "Ellen had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jason asked Hugh for 300 dollars. Hugh had 50.",
+        "hypothesis": "Hugh had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela asked James for 50 dollars. James had 20.",
+        "hypothesis": "James had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick asked Charles for 40 dollars. Charles had 30.",
+        "hypothesis": "Charles had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judith asked James for 30 dollars. James had 20.",
+        "hypothesis": "James had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eric asked Alex for 50 dollars. Alex had 40.",
+        "hypothesis": "Alex had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jill asked Angela for 400 dollars. Angela had 200.",
+        "hypothesis": "Angela had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Helen asked Mary for 1000 dollars. Mary had 10.",
+        "hypothesis": "Mary had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roger asked Louise for 1000 dollars. Louise had 200.",
+        "hypothesis": "Louise had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Bob for 30 dollars. Bob had 10.",
+        "hypothesis": "Bob had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia asked Christopher for 1000 dollars. Christopher had 40.",
+        "hypothesis": "Christopher had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Brian for 200 dollars. Brian had 100.",
+        "hypothesis": "Brian had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ray asked Lynn for 100 dollars. Lynn had 50.",
+        "hypothesis": "Lynn had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Henry asked Al for 1000 dollars. Al had 20.",
+        "hypothesis": "Al had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Janet for 500 dollars. Janet had 50.",
+        "hypothesis": "Janet had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Diane for 300 dollars. Diane had 200.",
+        "hypothesis": "Diane had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry asked Maria for 20 dollars. Maria had 10.",
+        "hypothesis": "Maria had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Linda for 300 dollars. Linda had 10.",
+        "hypothesis": "Linda had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin asked Ralph for 100 dollars. Ralph had 50.",
+        "hypothesis": "Ralph had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Brian for 200 dollars. Brian had 50.",
+        "hypothesis": "Brian had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin asked Lynn for 500 dollars. Lynn had 300.",
+        "hypothesis": "Lynn had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Eleanor for 50 dollars. Eleanor had 30.",
+        "hypothesis": "Eleanor had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas asked Arthur for 50 dollars. Arthur had 20.",
+        "hypothesis": "Arthur had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ron asked Ken for 20 dollars. Ken had 10.",
+        "hypothesis": "Ken had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Kathleen for 500 dollars. Kathleen had 30.",
+        "hypothesis": "Kathleen had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah asked Matthew for 300 dollars. Matthew had 100.",
+        "hypothesis": "Matthew had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Kevin for 50 dollars. Kevin had 40.",
+        "hypothesis": "Kevin had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Betty asked Jessica for 20 dollars. Jessica had 10.",
+        "hypothesis": "Jessica had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Diana asked Annie for 40 dollars. Annie had 30.",
+        "hypothesis": "Annie had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne asked Angela for 400 dollars. Angela had 200.",
+        "hypothesis": "Angela had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Fred for 100 dollars. Fred had 20.",
+        "hypothesis": "Fred had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Susan for 50 dollars. Susan had 40.",
+        "hypothesis": "Susan had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Edith for 40 dollars. Edith had 10.",
+        "hypothesis": "Edith had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Steve for 40 dollars. Steve had 20.",
+        "hypothesis": "Steve had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Andrea for 500 dollars. Andrea had 200.",
+        "hypothesis": "Andrea had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Bill for 50 dollars. Bill had 40.",
+        "hypothesis": "Bill had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ken asked Ryan for 200 dollars. Ryan had 40.",
+        "hypothesis": "Ryan had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dick asked David for 200 dollars. David had 40.",
+        "hypothesis": "David had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Cynthia for 200 dollars. Cynthia had 20.",
+        "hypothesis": "Cynthia had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Elaine for 30 dollars. Elaine had 20.",
+        "hypothesis": "Elaine had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jean asked Barbara for 50 dollars. Barbara had 10.",
+        "hypothesis": "Barbara had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carol asked Howard for 100 dollars. Howard had 10.",
+        "hypothesis": "Howard had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Adam for 20 dollars. Adam had 10.",
+        "hypothesis": "Adam had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas asked Robert for 30 dollars. Robert had 20.",
+        "hypothesis": "Robert had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judith asked Christopher for 20 dollars. Christopher had 10.",
+        "hypothesis": "Christopher had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dave asked Jerry for 50 dollars. Jerry had 40.",
+        "hypothesis": "Jerry had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robert asked Francis for 50 dollars. Francis had 10.",
+        "hypothesis": "Francis had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louise asked Rebecca for 300 dollars. Rebecca had 200.",
+        "hypothesis": "Rebecca had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Susan for 100 dollars. Susan had 10.",
+        "hypothesis": "Susan had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Emma for 300 dollars. Emma had 40.",
+        "hypothesis": "Emma had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Sam for 300 dollars. Sam had 100.",
+        "hypothesis": "Sam had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Robert asked Martha for 30 dollars. Martha had 20.",
+        "hypothesis": "Martha had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Judy for 30 dollars. Judy had 10.",
+        "hypothesis": "Judy had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked James for 1000 dollars. James had 300.",
+        "hypothesis": "James had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ben asked Ian for 200 dollars. Ian had 30.",
+        "hypothesis": "Ian had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel asked Ron for 200 dollars. Ron had 20.",
+        "hypothesis": "Ron had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Ellen for 50 dollars. Ellen had 10.",
+        "hypothesis": "Ellen had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ann asked Jennifer for 20 dollars. Jennifer had 10.",
+        "hypothesis": "Jennifer had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Joseph for 200 dollars. Joseph had 20.",
+        "hypothesis": "Joseph had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sara asked Jane for 20 dollars. Jane had 10.",
+        "hypothesis": "Jane had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Martin for 400 dollars. Martin had 100.",
+        "hypothesis": "Martin had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Edward for 400 dollars. Edward had 20.",
+        "hypothesis": "Edward had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah asked Steven for 200 dollars. Steven had 50.",
+        "hypothesis": "Steven had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Ian for 50 dollars. Ian had 20.",
+        "hypothesis": "Ian had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea asked Chris for 100 dollars. Chris had 50.",
+        "hypothesis": "Chris had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Paul asked Kate for 20 dollars. Kate had 10.",
+        "hypothesis": "Kate had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Paul asked William for 500 dollars. William had 30.",
+        "hypothesis": "William had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alice asked Hugh for 500 dollars. Hugh had 20.",
+        "hypothesis": "Hugh had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alex asked Steve for 100 dollars. Steve had 10.",
+        "hypothesis": "Steve had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Donald asked Cynthia for 40 dollars. Cynthia had 20.",
+        "hypothesis": "Cynthia had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Larry for 1000 dollars. Larry had 200.",
+        "hypothesis": "Larry had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Jean for 100 dollars. Jean had 30.",
+        "hypothesis": "Jean had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Joan asked Richard for 500 dollars. Richard had 20.",
+        "hypothesis": "Richard had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Sharon for 20 dollars. Sharon had 10.",
+        "hypothesis": "Sharon had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Linda for 50 dollars. Linda had 20.",
+        "hypothesis": "Linda had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Peter for 400 dollars. Peter had 30.",
+        "hypothesis": "Peter had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amy asked Ben for 300 dollars. Ben had 40.",
+        "hypothesis": "Ben had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher asked Walter for 200 dollars. Walter had 100.",
+        "hypothesis": "Walter had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff asked Cynthia for 40 dollars. Cynthia had 10.",
+        "hypothesis": "Cynthia had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Alfred for 30 dollars. Alfred had 20.",
+        "hypothesis": "Alfred had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick asked Samuel for 1000 dollars. Samuel had 300.",
+        "hypothesis": "Samuel had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly asked Kathy for 40 dollars. Kathy had 20.",
+        "hypothesis": "Kathy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Sam for 200 dollars. Sam had 50.",
+        "hypothesis": "Sam had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline asked Steve for 1000 dollars. Steve had 200.",
+        "hypothesis": "Steve had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel asked Anna for 400 dollars. Anna had 200.",
+        "hypothesis": "Anna had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Peter asked Charlotte for 40 dollars. Charlotte had 20.",
+        "hypothesis": "Charlotte had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Jim for 100 dollars. Jim had 50.",
+        "hypothesis": "Jim had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea asked Janet for 40 dollars. Janet had 20.",
+        "hypothesis": "Janet had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Lisa for 300 dollars. Lisa had 10.",
+        "hypothesis": "Lisa had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Eric for 100 dollars. Eric had 40.",
+        "hypothesis": "Eric had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Anne for 30 dollars. Anne had 10.",
+        "hypothesis": "Anne had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole asked Laura for 20 dollars. Laura had 10.",
+        "hypothesis": "Laura had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby asked Kate for 30 dollars. Kate had 20.",
+        "hypothesis": "Kate had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet asked Fiona for 20 dollars. Fiona had 10.",
+        "hypothesis": "Fiona had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "James asked Martha for 20 dollars. Martha had 10.",
+        "hypothesis": "Martha had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Rachel for 300 dollars. Rachel had 100.",
+        "hypothesis": "Rachel had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fred asked Howard for 30 dollars. Howard had 10.",
+        "hypothesis": "Howard had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Donna for 50 dollars. Donna had 10.",
+        "hypothesis": "Donna had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Mary for 20 dollars. Mary had 10.",
+        "hypothesis": "Mary had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jim asked Larry for 100 dollars. Larry had 40.",
+        "hypothesis": "Larry had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne asked Sophie for 1000 dollars. Sophie had 200.",
+        "hypothesis": "Sophie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Amy asked Margaret for 500 dollars. Margaret had 20.",
+        "hypothesis": "Margaret had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Stephen for 1000 dollars. Stephen had 30.",
+        "hypothesis": "Stephen had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Carl for 500 dollars. Carl had 300.",
+        "hypothesis": "Carl had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Nancy for 100 dollars. Nancy had 40.",
+        "hypothesis": "Nancy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer asked Kathy for 1000 dollars. Kathy had 500.",
+        "hypothesis": "Kathy had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sally asked Simon for 1000 dollars. Simon had 40.",
+        "hypothesis": "Simon had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Steven asked Jason for 300 dollars. Jason had 200.",
+        "hypothesis": "Jason had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nick asked Susan for 50 dollars. Susan had 20.",
+        "hypothesis": "Susan had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Barbara for 1000 dollars. Barbara had 20.",
+        "hypothesis": "Barbara had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bill asked Sharon for 100 dollars. Sharon had 10.",
+        "hypothesis": "Sharon had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ian asked Billy for 400 dollars. Billy had 100.",
+        "hypothesis": "Billy had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Jack for 500 dollars. Jack had 200.",
+        "hypothesis": "Jack had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte asked Ann for 400 dollars. Ann had 20.",
+        "hypothesis": "Ann had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Melissa for 400 dollars. Melissa had 50.",
+        "hypothesis": "Melissa had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy asked Margaret for 30 dollars. Margaret had 20.",
+        "hypothesis": "Margaret had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Angela asked Steven for 20 dollars. Steven had 10.",
+        "hypothesis": "Steven had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Emily for 40 dollars. Emily had 30.",
+        "hypothesis": "Emily had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred asked Kenneth for 300 dollars. Kenneth had 100.",
+        "hypothesis": "Kenneth had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Frances for 500 dollars. Frances had 300.",
+        "hypothesis": "Frances had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Claire asked Laura for 30 dollars. Laura had 10.",
+        "hypothesis": "Laura had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret asked Thomas for 400 dollars. Thomas had 200.",
+        "hypothesis": "Thomas had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Bill for 200 dollars. Bill had 40.",
+        "hypothesis": "Bill had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Dave for 30 dollars. Dave had 10.",
+        "hypothesis": "Dave had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren asked Chris for 100 dollars. Chris had 20.",
+        "hypothesis": "Chris had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bill asked Laura for 50 dollars. Laura had 40.",
+        "hypothesis": "Laura had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Dan for 200 dollars. Dan had 10.",
+        "hypothesis": "Dan had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Diane for 300 dollars. Diane had 40.",
+        "hypothesis": "Diane had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Chris asked Robin for 100 dollars. Robin had 20.",
+        "hypothesis": "Robin had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Billy asked Lisa for 400 dollars. Lisa had 50.",
+        "hypothesis": "Lisa had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Chris asked Albert for 40 dollars. Albert had 20.",
+        "hypothesis": "Albert had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy asked Robert for 40 dollars. Robert had 20.",
+        "hypothesis": "Robert had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sue asked Charles for 100 dollars. Charles had 40.",
+        "hypothesis": "Charles had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew asked Kim for 40 dollars. Kim had 10.",
+        "hypothesis": "Kim had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Jean for 100 dollars. Jean had 20.",
+        "hypothesis": "Jean had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bob asked Mark for 40 dollars. Mark had 10.",
+        "hypothesis": "Mark had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anna asked Wendy for 500 dollars. Wendy had 300.",
+        "hypothesis": "Wendy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Bob for 30 dollars. Bob had 20.",
+        "hypothesis": "Bob had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine asked Jennifer for 500 dollars. Jennifer had 300.",
+        "hypothesis": "Jennifer had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jack asked Ruth for 1000 dollars. Ruth had 300.",
+        "hypothesis": "Ruth had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony asked Judy for 100 dollars. Judy had 20.",
+        "hypothesis": "Judy had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Emma asked Christopher for 300 dollars. Christopher had 20.",
+        "hypothesis": "Christopher had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Evelyn for 300 dollars. Evelyn had 50.",
+        "hypothesis": "Evelyn had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alison asked Emily for 30 dollars. Emily had 20.",
+        "hypothesis": "Emily had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Claire asked Benjamin for 100 dollars. Benjamin had 40.",
+        "hypothesis": "Benjamin had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Angela for 30 dollars. Angela had 10.",
+        "hypothesis": "Angela had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Florence asked Jessica for 40 dollars. Jessica had 20.",
+        "hypothesis": "Jessica had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Florence asked Kevin for 500 dollars. Kevin had 50.",
+        "hypothesis": "Kevin had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Howard asked Julie for 200 dollars. Julie had 100.",
+        "hypothesis": "Julie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Don asked Rose for 40 dollars. Rose had 30.",
+        "hypothesis": "Rose had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Florence asked Janet for 50 dollars. Janet had 20.",
+        "hypothesis": "Janet had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked Kathy for 50 dollars. Kathy had 10.",
+        "hypothesis": "Kathy had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine asked Margaret for 1000 dollars. Margaret had 500.",
+        "hypothesis": "Margaret had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin asked Annie for 200 dollars. Annie had 10.",
+        "hypothesis": "Annie had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kate asked Elaine for 400 dollars. Elaine had 100.",
+        "hypothesis": "Elaine had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Angela asked Kelly for 300 dollars. Kelly had 200.",
+        "hypothesis": "Kelly had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Roy for 40 dollars. Roy had 20.",
+        "hypothesis": "Roy had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martin asked Patricia for 200 dollars. Patricia had 20.",
+        "hypothesis": "Patricia had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela asked Jeff for 300 dollars. Jeff had 50.",
+        "hypothesis": "Jeff had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Scott asked Eleanor for 200 dollars. Eleanor had 50.",
+        "hypothesis": "Eleanor had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Martha asked Betty for 30 dollars. Betty had 10.",
+        "hypothesis": "Betty had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen asked Jean for 400 dollars. Jean had 300.",
+        "hypothesis": "Jean had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Howard asked Jennifer for 1000 dollars. Jennifer had 20.",
+        "hypothesis": "Jennifer had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence asked Diana for 30 dollars. Diana had 20.",
+        "hypothesis": "Diana had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Michael for 40 dollars. Michael had 20.",
+        "hypothesis": "Michael had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Claire asked Howard for 400 dollars. Howard had 10.",
+        "hypothesis": "Howard had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce asked Linda for 200 dollars. Linda had 10.",
+        "hypothesis": "Linda had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Judy asked Benjamin for 300 dollars. Benjamin had 200.",
+        "hypothesis": "Benjamin had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth asked Al for 1000 dollars. Al had 50.",
+        "hypothesis": "Al had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Alex for 1000 dollars. Alex had 40.",
+        "hypothesis": "Alex had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph asked Marilyn for 400 dollars. Marilyn had 30.",
+        "hypothesis": "Marilyn had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor asked Frederick for 100 dollars. Frederick had 40.",
+        "hypothesis": "Frederick had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Edith for 20 dollars. Edith had 10.",
+        "hypothesis": "Edith had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Patrick for 500 dollars. Patrick had 400.",
+        "hypothesis": "Patrick had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Marilyn for 200 dollars. Marilyn had 10.",
+        "hypothesis": "Marilyn had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Chris asked Barbara for 40 dollars. Barbara had 10.",
+        "hypothesis": "Barbara had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Bill for 100 dollars. Bill had 50.",
+        "hypothesis": "Bill had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Adam asked Charles for 40 dollars. Charles had 30.",
+        "hypothesis": "Charles had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Harry for 40 dollars. Harry had 10.",
+        "hypothesis": "Harry had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Eric asked Deborah for 500 dollars. Deborah had 100.",
+        "hypothesis": "Deborah had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Francis asked Andrea for 40 dollars. Andrea had 10.",
+        "hypothesis": "Andrea had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked William for 1000 dollars. William had 400.",
+        "hypothesis": "William had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Tom asked Maria for 100 dollars. Maria had 30.",
+        "hypothesis": "Maria had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn asked Ron for 50 dollars. Ron had 40.",
+        "hypothesis": "Ron had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Philip for 100 dollars. Philip had 30.",
+        "hypothesis": "Philip had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fred asked Jimmy for 300 dollars. Jimmy had 10.",
+        "hypothesis": "Jimmy had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Linda asked Florence for 20 dollars. Florence had 10.",
+        "hypothesis": "Florence had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jane asked Tim for 40 dollars. Tim had 30.",
+        "hypothesis": "Tim had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Brian asked Jay for 300 dollars. Jay had 20.",
+        "hypothesis": "Jay had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Annie for 400 dollars. Annie had 50.",
+        "hypothesis": "Annie had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Charlotte for 100 dollars. Charlotte had 10.",
+        "hypothesis": "Charlotte had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Laura asked Eric for 500 dollars. Eric had 400.",
+        "hypothesis": "Eric had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mark asked Tony for 400 dollars. Tony had 10.",
+        "hypothesis": "Tony had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Katie asked John for 500 dollars. John had 40.",
+        "hypothesis": "John had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jay asked Dan for 300 dollars. Dan had 10.",
+        "hypothesis": "Dan had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mike asked Samuel for 20 dollars. Samuel had 10.",
+        "hypothesis": "Samuel had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona asked Michael for 500 dollars. Michael had 50.",
+        "hypothesis": "Michael had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley asked Virginia for 500 dollars. Virginia had 20.",
+        "hypothesis": "Virginia had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth asked Mark for 400 dollars. Mark had 40.",
+        "hypothesis": "Mark had 400 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Christine asked Tom for 200 dollars. Tom had 30.",
+        "hypothesis": "Tom had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Carl asked Alison for 1000 dollars. Alison had 50.",
+        "hypothesis": "Alison had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa asked Jimmy for 20 dollars. Jimmy had 10.",
+        "hypothesis": "Jimmy had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel asked Jack for 20 dollars. Jack had 10.",
+        "hypothesis": "Jack had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked Leslie for 30 dollars. Leslie had 20.",
+        "hypothesis": "Leslie had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel asked Marie for 1000 dollars. Marie had 40.",
+        "hypothesis": "Marie had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Grace asked Janet for 30 dollars. Janet had 20.",
+        "hypothesis": "Janet had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur asked Janet for 100 dollars. Janet had 10.",
+        "hypothesis": "Janet had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy asked Catherine for 500 dollars. Catherine had 10.",
+        "hypothesis": "Catherine had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Dave asked James for 40 dollars. James had 30.",
+        "hypothesis": "James had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Bob for 50 dollars. Bob had 10.",
+        "hypothesis": "Bob had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen asked Charlotte for 30 dollars. Charlotte had 10.",
+        "hypothesis": "Charlotte had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Mary asked Laura for 20 dollars. Laura had 10.",
+        "hypothesis": "Laura had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jay asked Andrew for 200 dollars. Andrew had 10.",
+        "hypothesis": "Andrew had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny asked Charles for 50 dollars. Charles had 10.",
+        "hypothesis": "Charles had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "George asked Edith for 50 dollars. Edith had 10.",
+        "hypothesis": "Edith had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy asked Angela for 100 dollars. Angela had 20.",
+        "hypothesis": "Angela had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edith asked Susan for 50 dollars. Susan had 10.",
+        "hypothesis": "Susan had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa asked Dan for 100 dollars. Dan had 20.",
+        "hypothesis": "Dan had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Colin asked Steven for 100 dollars. Steven had 40.",
+        "hypothesis": "Steven had 100 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Karen asked Jeff for 300 dollars. Jeff had 40.",
+        "hypothesis": "Jeff had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "William asked Alan for 40 dollars. Alan had 20.",
+        "hypothesis": "Alan had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Christine for 40 dollars. Christine had 30.",
+        "hypothesis": "Christine had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander asked Walter for 50 dollars. Walter had 40.",
+        "hypothesis": "Walter had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Annie asked Alison for 200 dollars. Alison had 10.",
+        "hypothesis": "Alison had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin asked Gary for 20 dollars. Gary had 10.",
+        "hypothesis": "Gary had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Alan asked Bob for 200 dollars. Bob had 40.",
+        "hypothesis": "Bob had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin asked Emily for 50 dollars. Emily had 20.",
+        "hypothesis": "Emily had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth asked Johnny for 300 dollars. Johnny had 100.",
+        "hypothesis": "Johnny had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh asked Alice for 30 dollars. Alice had 10.",
+        "hypothesis": "Alice had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ed asked Benjamin for 30 dollars. Benjamin had 10.",
+        "hypothesis": "Benjamin had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Matt asked Alfred for 1000 dollars. Alfred had 500.",
+        "hypothesis": "Alfred had 1000 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff asked Lynn for 20 dollars. Lynn had 10.",
+        "hypothesis": "Lynn had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth asked Wendy for 500 dollars. Wendy had 30.",
+        "hypothesis": "Wendy had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn asked Edith for 30 dollars. Edith had 10.",
+        "hypothesis": "Edith had 30 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Simon asked John for 200 dollars. John had 40.",
+        "hypothesis": "John had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sam asked Gary for 500 dollars. Gary had 400.",
+        "hypothesis": "Gary had 500 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Anne asked Billy for 50 dollars. Billy had 20.",
+        "hypothesis": "Billy had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Louis asked Bobby for 300 dollars. Bobby had 200.",
+        "hypothesis": "Bobby had 300 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon asked Jack for 200 dollars. Jack had 50.",
+        "hypothesis": "Jack had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Albert asked Mary for 50 dollars. Mary had 20.",
+        "hypothesis": "Mary had 50 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Roy asked Grace for 200 dollars. Grace had 100.",
+        "hypothesis": "Grace had 200 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Colin asked Charlotte for 20 dollars. Charlotte had 10.",
+        "hypothesis": "Charlotte had 20 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen asked John for 40 dollars. John had 10.",
+        "hypothesis": "John had 40 dollars.",
+        "label": 2
+    },
+    {
+        "premise": "Gary asked Frank for 500 dollars. Frank had 100.",
+        "hypothesis": "Frank had 500 dollars.",
+        "label": 2
+    }
+]

@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Amanda is weak. Kim is weaker.",
+        "hypothesis": "Kim is weaker than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is dumb. Rachel is dumber.",
+        "hypothesis": "Rachel is dumber than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is lazy. Kenneth is lazier.",
+        "hypothesis": "Kenneth is lazier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is bold. Jason is bolder.",
+        "hypothesis": "Jason is bolder than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is dumb. Dan is dumber.",
+        "hypothesis": "Dan is dumber than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is friendly. Carol is friendlier.",
+        "hypothesis": "Carol is friendlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is bold. Joan is bolder.",
+        "hypothesis": "Joan is bolder than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is clever. Jeff is cleverer.",
+        "hypothesis": "Jeff is cleverer than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is sharp. Roy is sharper.",
+        "hypothesis": "Roy is sharper than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is busy. Arthur is busier.",
+        "hypothesis": "Arthur is busier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is tiny. Kathy is tinier.",
+        "hypothesis": "Kathy is tinier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is guilty. Stephen is guilter.",
+        "hypothesis": "Stephen is guilter than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is angry. Kelly is angrier.",
+        "hypothesis": "Kelly is angrier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is clever. Keith is more clever.",
+        "hypothesis": "Keith is more clever than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is attractive. Kathryn is more attractive.",
+        "hypothesis": "Kathryn is more attractive than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is crazy. Margaret is crazier.",
+        "hypothesis": "Margaret is crazier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is guilty. Melissa is guilter.",
+        "hypothesis": "Melissa is guilter than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is big. Jerry is bigger.",
+        "hypothesis": "Jerry is bigger than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "George is gentle. Fiona is gentler.",
+        "hypothesis": "Fiona is gentler than George.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is humble. Martin is humbler.",
+        "hypothesis": "Martin is humbler than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is hot. Daniel is hotter.",
+        "hypothesis": "Daniel is hotter than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is healthy. Patrick is healthier.",
+        "hypothesis": "Patrick is healthier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is fat. Alan is fatter.",
+        "hypothesis": "Alan is fatter than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "George is friendly. Angela is friendlier.",
+        "hypothesis": "Angela is friendlier than George.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is fast. Roger is faster.",
+        "hypothesis": "Roger is faster than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is brave. Florence is braver.",
+        "hypothesis": "Florence is braver than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is gentle. Kelly is gentler.",
+        "hypothesis": "Kelly is gentler than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is happy. Wendy is happier.",
+        "hypothesis": "Wendy is happier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is calm. Alan is calmer.",
+        "hypothesis": "Alan is calmer than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is funny. Simon is funnier.",
+        "hypothesis": "Simon is funnier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is dull. Rebecca is duller.",
+        "hypothesis": "Rebecca is duller than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is chubby. Fred is chubbier.",
+        "hypothesis": "Fred is chubbier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is small. William is smaller.",
+        "hypothesis": "William is smaller than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is tall. Susan is taller.",
+        "hypothesis": "Susan is taller than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is tough. Ellen is tougher.",
+        "hypothesis": "Ellen is tougher than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is healthy. Anne is healthier.",
+        "hypothesis": "Anne is healthier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is ugly. Thomas is uglier.",
+        "hypothesis": "Thomas is uglier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is calm. Deborah is calmer.",
+        "hypothesis": "Deborah is calmer than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is cruel. Paul is crueller.",
+        "hypothesis": "Paul is crueller than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is polite. Lauren is more polite.",
+        "hypothesis": "Lauren is more polite than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is sweet. Peter is sweeter.",
+        "hypothesis": "Peter is sweeter than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is sharp. Linda is sharper.",
+        "hypothesis": "Linda is sharper than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is friendly. Robin is friendlier.",
+        "hypothesis": "Robin is friendlier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is fast. Ed is faster.",
+        "hypothesis": "Ed is faster than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is sad. Kathleen is sadder.",
+        "hypothesis": "Kathleen is sadder than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is messy. Katie is messier.",
+        "hypothesis": "Katie is messier than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "George is humble. Annie is humbler.",
+        "hypothesis": "Annie is humbler than George.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is attractive. Catherine is more attractive.",
+        "hypothesis": "Catherine is more attractive than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is renowned. Martha is more renowned.",
+        "hypothesis": "Martha is more renowned than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is greedy. Sharon is greedier.",
+        "hypothesis": "Sharon is greedier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is fit. Larry is fitter.",
+        "hypothesis": "Larry is fitter than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is small. Andrew is smaller.",
+        "hypothesis": "Andrew is smaller than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is gloomy. Jay is gloomier.",
+        "hypothesis": "Jay is gloomier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is salty. Kenneth is saltier.",
+        "hypothesis": "Kenneth is saltier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is bitter. Evelyn is bitterer.",
+        "hypothesis": "Evelyn is bitterer than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "George is renowned. Sam is more renowned.",
+        "hypothesis": "Sam is more renowned than George.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is poor. Katie is poorer.",
+        "hypothesis": "Katie is poorer than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is humble. Tom is humbler.",
+        "hypothesis": "Tom is humbler than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is cute. Martin is cuter.",
+        "hypothesis": "Martin is cuter than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Don is old. William is older.",
+        "hypothesis": "William is older than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is loud. Larry is louder.",
+        "hypothesis": "Larry is louder than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is healthy. Keith is healthier.",
+        "hypothesis": "Keith is healthier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is fit. Donna is fitter.",
+        "hypothesis": "Donna is fitter than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is good. Sara is better.",
+        "hypothesis": "Sara is better than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is sincere. Ben is sincerer.",
+        "hypothesis": "Ben is sincerer than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is beautiful. Martin is more beautiful.",
+        "hypothesis": "Martin is more beautiful than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is poor. Janet is poorer.",
+        "hypothesis": "Janet is poorer than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is fair. Albert is fairer.",
+        "hypothesis": "Albert is fairer than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is bitter. Ashley is more bitter.",
+        "hypothesis": "Ashley is more bitter than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is old. Dick is older.",
+        "hypothesis": "Dick is older than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is cute. Frederick is cuter.",
+        "hypothesis": "Frederick is cuter than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is messy. Lucy is messier.",
+        "hypothesis": "Lucy is messier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is bad. Lauren is worse.",
+        "hypothesis": "Lauren is worse than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is poor. Kelly is poorer.",
+        "hypothesis": "Kelly is poorer than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is long. Edward is longer.",
+        "hypothesis": "Edward is longer than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is loud. Amanda is louder.",
+        "hypothesis": "Amanda is louder than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is polite. Jason is politer.",
+        "hypothesis": "Jason is politer than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is gloomy. Dorothy is gloomier.",
+        "hypothesis": "Dorothy is gloomier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is sharp. Simon is sharper.",
+        "hypothesis": "Simon is sharper than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is sincere. Joseph is sincerer.",
+        "hypothesis": "Joseph is sincerer than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is fat. Bruce is fatter.",
+        "hypothesis": "Bruce is fatter than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is fat. Dan is fatter.",
+        "hypothesis": "Dan is fatter than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is rich. Charles is richer.",
+        "hypothesis": "Charles is richer than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Al is gentle. Angela is gentler.",
+        "hypothesis": "Angela is gentler than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is cute. Jimmy is cuter.",
+        "hypothesis": "Jimmy is cuter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is dumb. Bruce is dumber.",
+        "hypothesis": "Bruce is dumber than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is hot. Katherine is hotter.",
+        "hypothesis": "Katherine is hotter than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is bitter. Sally is more bitter.",
+        "hypothesis": "Sally is more bitter than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is clever. Johnny is more clever.",
+        "hypothesis": "Johnny is more clever than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is shy. Emma is shyer.",
+        "hypothesis": "Emma is shyer than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is young. Sam is younger.",
+        "hypothesis": "Sam is younger than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is messy. Cynthia is messier.",
+        "hypothesis": "Cynthia is messier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is classy. Kim is classier.",
+        "hypothesis": "Kim is classier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is shy. Alexandra is shyer.",
+        "hypothesis": "Alexandra is shyer than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is handsome. Tom is more handsome.",
+        "hypothesis": "Tom is more handsome than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is popular. Chris is more popular.",
+        "hypothesis": "Chris is more popular than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is polite. Patricia is politer.",
+        "hypothesis": "Patricia is politer than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is tough. Jay is tougher.",
+        "hypothesis": "Jay is tougher than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is polite. Suzanne is more polite.",
+        "hypothesis": "Suzanne is more polite than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is sincere. Fiona is sincerer.",
+        "hypothesis": "Fiona is sincerer than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is slim. Johnny is slimmer.",
+        "hypothesis": "Johnny is slimmer than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is creepy. Catherine is creepier.",
+        "hypothesis": "Catherine is creepier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is brave. George is braver.",
+        "hypothesis": "George is braver than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is gloomy. Martin is gloomier.",
+        "hypothesis": "Martin is gloomier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is poor. Stephen is poorer.",
+        "hypothesis": "Stephen is poorer than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is bright. Dave is brighter.",
+        "hypothesis": "Dave is brighter than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is friendly. Ralph is friendlier.",
+        "hypothesis": "Ralph is friendlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Don is tall. Richard is taller.",
+        "hypothesis": "Richard is taller than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is sad. Virginia is sadder.",
+        "hypothesis": "Virginia is sadder than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is friendly. Daniel is friendlier.",
+        "hypothesis": "Daniel is friendlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is guilty. Adam is guilter.",
+        "hypothesis": "Adam is guilter than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is hungry. Carl is hungrier.",
+        "hypothesis": "Carl is hungrier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is messy. Edward is messier.",
+        "hypothesis": "Edward is messier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is tough. Katherine is tougher.",
+        "hypothesis": "Katherine is tougher than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is dense. Joe is denser.",
+        "hypothesis": "Joe is denser than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is shy. Jimmy is shyer.",
+        "hypothesis": "Jimmy is shyer than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is proud. Matthew is prouder.",
+        "hypothesis": "Matthew is prouder than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is wise. Laura is wiser.",
+        "hypothesis": "Laura is wiser than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is tall. Jill is taller.",
+        "hypothesis": "Jill is taller than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is kind. Billy is kinder.",
+        "hypothesis": "Billy is kinder than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is clumsy. Betty is clumsier.",
+        "hypothesis": "Betty is clumsier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is big. Thomas is bigger.",
+        "hypothesis": "Thomas is bigger than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is fit. Jean is fitter.",
+        "hypothesis": "Jean is fitter than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is quiet. Samuel is quieter.",
+        "hypothesis": "Samuel is quieter than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is cute. Robert is cuter.",
+        "hypothesis": "Robert is cuter than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is loud. Alison is louder.",
+        "hypothesis": "Alison is louder than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is dumb. Claire is dumber.",
+        "hypothesis": "Claire is dumber than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is friendly. Pamela is friendlier.",
+        "hypothesis": "Pamela is friendlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is kind. Jessica is kinder.",
+        "hypothesis": "Jessica is kinder than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is scary. Samuel is scarier.",
+        "hypothesis": "Samuel is scarier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "David is wise. Martha is wiser.",
+        "hypothesis": "Martha is wiser than David.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is classy. Anne is classier.",
+        "hypothesis": "Anne is classier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is happy. Frederick is happier.",
+        "hypothesis": "Frederick is happier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is fair. Jerry is fairer.",
+        "hypothesis": "Jerry is fairer than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is clever. Janet is more clever.",
+        "hypothesis": "Janet is more clever than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is bitter. Johnny is bitterer.",
+        "hypothesis": "Johnny is bitterer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is tall. Lucy is taller.",
+        "hypothesis": "Lucy is taller than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is chubby. Alice is chubbier.",
+        "hypothesis": "Alice is chubbier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is slim. James is slimmer.",
+        "hypothesis": "James is slimmer than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is loud. Larry is louder.",
+        "hypothesis": "Larry is louder than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is gross. Frank is grosser.",
+        "hypothesis": "Frank is grosser than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is handsome. Margaret is more handsome.",
+        "hypothesis": "Margaret is more handsome than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is skinny. Anna is skinnier.",
+        "hypothesis": "Anna is skinnier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is cruel. Dave is crueller.",
+        "hypothesis": "Dave is crueller than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is angry. Tony is angrier.",
+        "hypothesis": "Tony is angrier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is bright. Amy is brighter.",
+        "hypothesis": "Amy is brighter than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is sad. Bob is sadder.",
+        "hypothesis": "Bob is sadder than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is guilty. Chris is guilter.",
+        "hypothesis": "Chris is guilter than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is bright. Tony is brighter.",
+        "hypothesis": "Tony is brighter than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is handsome. Claire is more handsome.",
+        "hypothesis": "Claire is more handsome than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is messy. Ashley is messier.",
+        "hypothesis": "Ashley is messier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is polite. Heather is politer.",
+        "hypothesis": "Heather is politer than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "James is tired. Kelly is more tired.",
+        "hypothesis": "Kelly is more tired than James.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is fit. Jim is fitter.",
+        "hypothesis": "Jim is fitter than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is cruel. Nick is crueller.",
+        "hypothesis": "Nick is crueller than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is harsh. Eleanor is harsher.",
+        "hypothesis": "Eleanor is harsher than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is hairy. Jill is hairier.",
+        "hypothesis": "Jill is hairier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is bad. Laura is worse.",
+        "hypothesis": "Laura is worse than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Al is gentle. Hugh is gentler.",
+        "hypothesis": "Hugh is gentler than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is tall. Billy is taller.",
+        "hypothesis": "Billy is taller than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is pretty. Emily is prettier.",
+        "hypothesis": "Emily is prettier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is slow. Ann is slower.",
+        "hypothesis": "Ann is slower than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is creepy. Eric is creepier.",
+        "hypothesis": "Eric is creepier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is bright. Kate is brighter.",
+        "hypothesis": "Kate is brighter than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is shy. Matt is shyer.",
+        "hypothesis": "Matt is shyer than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is bossy. Amanda is bossier.",
+        "hypothesis": "Amanda is bossier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is scary. Alison is scarier.",
+        "hypothesis": "Alison is scarier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is attractive. Johnny is more attractive.",
+        "hypothesis": "Johnny is more attractive than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is bad. Ryan is worse.",
+        "hypothesis": "Ryan is worse than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is interesting. Paul is more interesting.",
+        "hypothesis": "Paul is more interesting than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is bad. Michelle is worse.",
+        "hypothesis": "Michelle is worse than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is sad. Roy is sadder.",
+        "hypothesis": "Roy is sadder than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is polite. Pamela is politer.",
+        "hypothesis": "Pamela is politer than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is chubby. Annie is chubbier.",
+        "hypothesis": "Annie is chubbier than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is gloomy. Michelle is gloomier.",
+        "hypothesis": "Michelle is gloomier than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is wise. Ian is wiser.",
+        "hypothesis": "Ian is wiser than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is proud. Janet is prouder.",
+        "hypothesis": "Janet is prouder than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is bossy. Lynn is bossier.",
+        "hypothesis": "Lynn is bossier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is bold. Henry is bolder.",
+        "hypothesis": "Henry is bolder than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is strong. Diane is stronger.",
+        "hypothesis": "Diane is stronger than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is clumsy. Andrew is clumsier.",
+        "hypothesis": "Andrew is clumsier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is clever. Ruth is cleverer.",
+        "hypothesis": "Ruth is cleverer than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is salty. Ron is saltier.",
+        "hypothesis": "Ron is saltier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is silly. Don is sillier.",
+        "hypothesis": "Don is sillier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is tall. Henry is taller.",
+        "hypothesis": "Henry is taller than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is busy. Sam is busier.",
+        "hypothesis": "Sam is busier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is fit. Kevin is fitter.",
+        "hypothesis": "Kevin is fitter than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is sharp. Lisa is sharper.",
+        "hypothesis": "Lisa is sharper than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is nice. Louise is nicer.",
+        "hypothesis": "Louise is nicer than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is bossy. Janet is bossier.",
+        "hypothesis": "Janet is bossier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is curvy. Louis is curvier.",
+        "hypothesis": "Louis is curvier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is healthy. Carolyn is healthier.",
+        "hypothesis": "Carolyn is healthier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is clumsy. Carl is clumsier.",
+        "hypothesis": "Carl is clumsier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is funny. Charles is funnier.",
+        "hypothesis": "Charles is funnier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is modern. Ed is more modern.",
+        "hypothesis": "Ed is more modern than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is cute. Sarah is cuter.",
+        "hypothesis": "Sarah is cuter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is bold. Rebecca is bolder.",
+        "hypothesis": "Rebecca is bolder than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is classy. Robert is classier.",
+        "hypothesis": "Robert is classier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is classy. Kathy is classier.",
+        "hypothesis": "Kathy is classier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is bad. Ben is worse.",
+        "hypothesis": "Ben is worse than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is small. Sophie is smaller.",
+        "hypothesis": "Sophie is smaller than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is nice. Frank is nicer.",
+        "hypothesis": "Frank is nicer than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is naughty. Michelle is naughtier.",
+        "hypothesis": "Michelle is naughtier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is busy. Mary is busier.",
+        "hypothesis": "Mary is busier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is tough. Sophie is tougher.",
+        "hypothesis": "Sophie is tougher than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is good. Frederick is better.",
+        "hypothesis": "Frederick is better than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is long. Grace is longer.",
+        "hypothesis": "Grace is longer than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is brave. Dick is braver.",
+        "hypothesis": "Dick is braver than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is happy. Keith is happier.",
+        "hypothesis": "Keith is happier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is fast. Richard is faster.",
+        "hypothesis": "Richard is faster than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is nice. Alison is nicer.",
+        "hypothesis": "Alison is nicer than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is naughty. Diane is naughtier.",
+        "hypothesis": "Diane is naughtier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is clumsy. Joseph is clumsier.",
+        "hypothesis": "Joseph is clumsier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is salty. Alexandra is saltier.",
+        "hypothesis": "Alexandra is saltier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is fair. Dorothy is fairer.",
+        "hypothesis": "Dorothy is fairer than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is salty. Cynthia is saltier.",
+        "hypothesis": "Cynthia is saltier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is gentle. Matt is gentler.",
+        "hypothesis": "Matt is gentler than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is sad. Alfred is sadder.",
+        "hypothesis": "Alfred is sadder than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is shy. Louise is shyer.",
+        "hypothesis": "Louise is shyer than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Don is happy. Lynn is happier.",
+        "hypothesis": "Lynn is happier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is sharp. Stephanie is sharper.",
+        "hypothesis": "Stephanie is sharper than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is proud. Sam is prouder.",
+        "hypothesis": "Sam is prouder than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is beautiful. Carol is more beautiful.",
+        "hypothesis": "Carol is more beautiful than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is harsh. Jim is harsher.",
+        "hypothesis": "Jim is harsher than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is poor. Betty is poorer.",
+        "hypothesis": "Betty is poorer than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is funny. Marilyn is funnier.",
+        "hypothesis": "Marilyn is funnier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is angry. Charlotte is angrier.",
+        "hypothesis": "Charlotte is angrier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is fat. Tony is fatter.",
+        "hypothesis": "Tony is fatter than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "David is small. Kate is smaller.",
+        "hypothesis": "Kate is smaller than David.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is kind. Albert is kinder.",
+        "hypothesis": "Albert is kinder than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is renowned. Sandra is more renowned.",
+        "hypothesis": "Sandra is more renowned than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is slim. Greg is slimmer.",
+        "hypothesis": "Greg is slimmer than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is skinny. Amanda is skinnier.",
+        "hypothesis": "Amanda is skinnier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is tiny. Alison is tinier.",
+        "hypothesis": "Alison is tinier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is bitter. Ray is more bitter.",
+        "hypothesis": "Ray is more bitter than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is calm. Matthew is calmer.",
+        "hypothesis": "Matthew is calmer than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is sharp. Grace is sharper.",
+        "hypothesis": "Grace is sharper than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is classy. Fred is classier.",
+        "hypothesis": "Fred is classier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is ugly. Ron is uglier.",
+        "hypothesis": "Ron is uglier than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is short. Mary is shorter.",
+        "hypothesis": "Mary is shorter than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is messy. Elizabeth is messier.",
+        "hypothesis": "Elizabeth is messier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is sorry. Andrea is sorrier.",
+        "hypothesis": "Andrea is sorrier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "George is shy. Mike is shyer.",
+        "hypothesis": "Mike is shyer than George.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is hot. Al is hotter.",
+        "hypothesis": "Al is hotter than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is hot. Suzanne is hotter.",
+        "hypothesis": "Suzanne is hotter than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is proud. Karen is prouder.",
+        "hypothesis": "Karen is prouder than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is clever. Betty is more clever.",
+        "hypothesis": "Betty is more clever than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is lonely. Ken is lonlier.",
+        "hypothesis": "Ken is lonlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is attractive. Rachel is more attractive.",
+        "hypothesis": "Rachel is more attractive than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is weak. Joan is weaker.",
+        "hypothesis": "Joan is weaker than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "George is renowned. Emily is more renowned.",
+        "hypothesis": "Emily is more renowned than George.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is firm. Alex is firmer.",
+        "hypothesis": "Alex is firmer than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "John is slow. Kim is slower.",
+        "hypothesis": "Kim is slower than John.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is happy. Marilyn is happier.",
+        "hypothesis": "Marilyn is happier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is hungry. David is hungrier.",
+        "hypothesis": "David is hungrier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is dull. Harold is duller.",
+        "hypothesis": "Harold is duller than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is tiny. Bruce is tinier.",
+        "hypothesis": "Bruce is tinier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is curvy. Joseph is curvier.",
+        "hypothesis": "Joseph is curvier than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is handsome. Annie is more handsome.",
+        "hypothesis": "Annie is more handsome than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is beautiful. Margaret is more beautiful.",
+        "hypothesis": "Margaret is more beautiful than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is bold. Rachel is bolder.",
+        "hypothesis": "Rachel is bolder than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is sleepy. Alexander is sleepier.",
+        "hypothesis": "Alexander is sleepier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is fit. Kim is fitter.",
+        "hypothesis": "Kim is fitter than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is sad. Helen is sadder.",
+        "hypothesis": "Helen is sadder than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is tough. William is tougher.",
+        "hypothesis": "William is tougher than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is noisy. Matthew is noisier.",
+        "hypothesis": "Matthew is noisier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is chubby. Lawrence is chubbier.",
+        "hypothesis": "Lawrence is chubbier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is long. Andrew is longer.",
+        "hypothesis": "Andrew is longer than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is bright. Elizabeth is brighter.",
+        "hypothesis": "Elizabeth is brighter than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is popular. Kathy is more popular.",
+        "hypothesis": "Kathy is more popular than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is naughty. Patricia is naughtier.",
+        "hypothesis": "Patricia is naughtier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is bitter. Tim is bitterer.",
+        "hypothesis": "Tim is bitterer than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is great. Susan is greater.",
+        "hypothesis": "Susan is greater than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is small. Pamela is smaller.",
+        "hypothesis": "Pamela is smaller than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is pretty. Samuel is prettier.",
+        "hypothesis": "Samuel is prettier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is thin. Diana is thinner.",
+        "hypothesis": "Diana is thinner than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is bright. Ben is brighter.",
+        "hypothesis": "Ben is brighter than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is fair. Thomas is fairer.",
+        "hypothesis": "Thomas is fairer than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is sorry. Amy is sorrier.",
+        "hypothesis": "Amy is sorrier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "David is slim. Edith is slimmer.",
+        "hypothesis": "Edith is slimmer than David.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is hairy. Ellen is hairier.",
+        "hypothesis": "Ellen is hairier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is guilty. Ian is guilter.",
+        "hypothesis": "Ian is guilter than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is loud. Howard is louder.",
+        "hypothesis": "Howard is louder than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is clumsy. Edith is clumsier.",
+        "hypothesis": "Edith is clumsier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is brave. Jane is braver.",
+        "hypothesis": "Jane is braver than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is renowned. Frederick is more renowned.",
+        "hypothesis": "Frederick is more renowned than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is thin. Bill is thinner.",
+        "hypothesis": "Bill is thinner than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is crazy. Larry is crazier.",
+        "hypothesis": "Larry is crazier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is important. Kevin is more important.",
+        "hypothesis": "Kevin is more important than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is weird. Brian is weirder.",
+        "hypothesis": "Brian is weirder than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is modern. Ann is more modern.",
+        "hypothesis": "Ann is more modern than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Al is calm. Jonathan is calmer.",
+        "hypothesis": "Jonathan is calmer than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Al is good. Wendy is better.",
+        "hypothesis": "Wendy is better than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is fat. Eleanor is fatter.",
+        "hypothesis": "Eleanor is fatter than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is brave. Bob is braver.",
+        "hypothesis": "Bob is braver than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is chubby. Jessica is chubbier.",
+        "hypothesis": "Jessica is chubbier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is mean. Billy is meaner.",
+        "hypothesis": "Billy is meaner than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is humble. Sharon is humbler.",
+        "hypothesis": "Sharon is humbler than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is bitter. Francis is bitterer.",
+        "hypothesis": "Francis is bitterer than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is smart. Sara is smarter.",
+        "hypothesis": "Sara is smarter than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is proud. Louise is prouder.",
+        "hypothesis": "Louise is prouder than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is lazy. Brian is lazier.",
+        "hypothesis": "Brian is lazier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is angry. Patrick is angrier.",
+        "hypothesis": "Patrick is angrier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is strong. Rebecca is stronger.",
+        "hypothesis": "Rebecca is stronger than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is fat. Virginia is fatter.",
+        "hypothesis": "Virginia is fatter than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is good. Robert is better.",
+        "hypothesis": "Robert is better than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is lazy. Ben is lazier.",
+        "hypothesis": "Ben is lazier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is polite. Alan is politer.",
+        "hypothesis": "Alan is politer than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is friendly. Louise is friendlier.",
+        "hypothesis": "Louise is friendlier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is cute. Johnny is cuter.",
+        "hypothesis": "Johnny is cuter than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is shallow. Julia is shallower.",
+        "hypothesis": "Julia is shallower than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is proud. Jimmy is prouder.",
+        "hypothesis": "Jimmy is prouder than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is skinny. Sharon is skinnier.",
+        "hypothesis": "Sharon is skinnier than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is smart. Keith is smarter.",
+        "hypothesis": "Keith is smarter than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is interesting. Fiona is more interesting.",
+        "hypothesis": "Fiona is more interesting than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is tiny. Greg is tinier.",
+        "hypothesis": "Greg is tinier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is lazy. Ben is lazier.",
+        "hypothesis": "Ben is lazier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is interesting. Jonathan is more interesting.",
+        "hypothesis": "Jonathan is more interesting than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is young. James is younger.",
+        "hypothesis": "James is younger than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is long. David is longer.",
+        "hypothesis": "David is longer than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is scary. Carol is scarier.",
+        "hypothesis": "Carol is scarier than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is modern. John is more modern.",
+        "hypothesis": "John is more modern than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is nice. George is nicer.",
+        "hypothesis": "George is nicer than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is sorry. Robert is sorrier.",
+        "hypothesis": "Robert is sorrier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is strong. Anthony is stronger.",
+        "hypothesis": "Anthony is stronger than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is messy. Edward is messier.",
+        "hypothesis": "Edward is messier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is healthy. Carol is healthier.",
+        "hypothesis": "Carol is healthier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "John is polite. Christopher is more polite.",
+        "hypothesis": "Christopher is more polite than John.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is healthy. Christine is healthier.",
+        "hypothesis": "Christine is healthier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is friendly. Joan is friendlier.",
+        "hypothesis": "Joan is friendlier than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is sad. Katie is sadder.",
+        "hypothesis": "Katie is sadder than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is bold. Colin is bolder.",
+        "hypothesis": "Colin is bolder than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is firm. Roy is firmer.",
+        "hypothesis": "Roy is firmer than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is popular. Richard is more popular.",
+        "hypothesis": "Richard is more popular than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is beautiful. Wendy is more beautiful.",
+        "hypothesis": "Wendy is more beautiful than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is small. Victoria is smaller.",
+        "hypothesis": "Victoria is smaller than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is bright. Greg is brighter.",
+        "hypothesis": "Greg is brighter than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is shallow. Ed is shallower.",
+        "hypothesis": "Ed is shallower than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is brave. Fiona is braver.",
+        "hypothesis": "Fiona is braver than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is sleepy. Howard is sleepier.",
+        "hypothesis": "Howard is sleepier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is pretty. Barbara is prettier.",
+        "hypothesis": "Barbara is prettier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is hot. Katie is hotter.",
+        "hypothesis": "Katie is hotter than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is weak. Mary is weaker.",
+        "hypothesis": "Mary is weaker than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is lonely. Kelly is lonlier.",
+        "hypothesis": "Kelly is lonlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is gross. Jennifer is grosser.",
+        "hypothesis": "Jennifer is grosser than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is weird. Mark is weirder.",
+        "hypothesis": "Mark is weirder than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is chubby. Edwin is chubbier.",
+        "hypothesis": "Edwin is chubbier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is greedy. Maria is greedier.",
+        "hypothesis": "Maria is greedier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is slow. Judith is slower.",
+        "hypothesis": "Judith is slower than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is sweet. Carolyn is sweeter.",
+        "hypothesis": "Carolyn is sweeter than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is small. Rebecca is smaller.",
+        "hypothesis": "Rebecca is smaller than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is funny. Ruth is funnier.",
+        "hypothesis": "Ruth is funnier than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is sad. Lynn is sadder.",
+        "hypothesis": "Lynn is sadder than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is loud. Emma is louder.",
+        "hypothesis": "Emma is louder than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is sorry. Joseph is sorrier.",
+        "hypothesis": "Joseph is sorrier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is hot. Daniel is hotter.",
+        "hypothesis": "Daniel is hotter than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is shallow. Anne is shallower.",
+        "hypothesis": "Anne is shallower than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is angry. Elizabeth is angrier.",
+        "hypothesis": "Elizabeth is angrier than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is slow. Rachel is slower.",
+        "hypothesis": "Rachel is slower than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is fast. Virginia is faster.",
+        "hypothesis": "Virginia is faster than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is cruel. Sandra is crueller.",
+        "hypothesis": "Sandra is crueller than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is silly. Jane is sillier.",
+        "hypothesis": "Jane is sillier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is cute. Angela is cuter.",
+        "hypothesis": "Angela is cuter than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is small. Stephen is smaller.",
+        "hypothesis": "Stephen is smaller than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is popular. Suzanne is more popular.",
+        "hypothesis": "Suzanne is more popular than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is weird. Sue is weirder.",
+        "hypothesis": "Sue is weirder than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is shy. Deborah is shyer.",
+        "hypothesis": "Deborah is shyer than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is modern. Victoria is more modern.",
+        "hypothesis": "Victoria is more modern than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is shallow. Alex is shallower.",
+        "hypothesis": "Alex is shallower than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is harsh. Jerry is harsher.",
+        "hypothesis": "Jerry is harsher than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is lovely. Lawrence is lovelier.",
+        "hypothesis": "Lawrence is lovelier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is dense. Evelyn is denser.",
+        "hypothesis": "Evelyn is denser than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "John is popular. Kathy is more popular.",
+        "hypothesis": "Kathy is more popular than John.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is sorry. Keith is sorrier.",
+        "hypothesis": "Keith is sorrier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is strong. Margaret is stronger.",
+        "hypothesis": "Margaret is stronger than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is ugly. Heather is uglier.",
+        "hypothesis": "Heather is uglier than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is firm. Lisa is firmer.",
+        "hypothesis": "Lisa is firmer than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is sharp. Lawrence is sharper.",
+        "hypothesis": "Lawrence is sharper than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is pretty. Kate is prettier.",
+        "hypothesis": "Kate is prettier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is popular. Adam is more popular.",
+        "hypothesis": "Adam is more popular than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is healthy. Dan is healthier.",
+        "hypothesis": "Dan is healthier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is bossy. Jennifer is bossier.",
+        "hypothesis": "Jennifer is bossier than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is hairy. Jean is hairier.",
+        "hypothesis": "Jean is hairier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is dumb. Rachel is dumber.",
+        "hypothesis": "Rachel is dumber than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is handsome. Claire is more handsome.",
+        "hypothesis": "Claire is more handsome than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is loud. Sara is louder.",
+        "hypothesis": "Sara is louder than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is bright. Maria is brighter.",
+        "hypothesis": "Maria is brighter than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is loud. Virginia is louder.",
+        "hypothesis": "Virginia is louder than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is slim. Jane is slimmer.",
+        "hypothesis": "Jane is slimmer than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is thin. Philip is thinner.",
+        "hypothesis": "Philip is thinner than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is dense. Virginia is denser.",
+        "hypothesis": "Virginia is denser than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "James is crazy. Richard is crazier.",
+        "hypothesis": "Richard is crazier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is greedy. Alison is greedier.",
+        "hypothesis": "Alison is greedier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is tiny. Steven is tinier.",
+        "hypothesis": "Steven is tinier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "William is shy. Wendy is shyer.",
+        "hypothesis": "Wendy is shyer than William.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is quiet. Keith is quieter.",
+        "hypothesis": "Keith is quieter than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "William is short. Anna is shorter.",
+        "hypothesis": "Anna is shorter than William.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is hot. Judith is hotter.",
+        "hypothesis": "Judith is hotter than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is mean. Diana is meaner.",
+        "hypothesis": "Diana is meaner than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is fast. Grace is faster.",
+        "hypothesis": "Grace is faster than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is mean. David is meaner.",
+        "hypothesis": "David is meaner than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is greedy. Linda is greedier.",
+        "hypothesis": "Linda is greedier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is brave. Claire is braver.",
+        "hypothesis": "Claire is braver than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is hungry. Diana is hungrier.",
+        "hypothesis": "Diana is hungrier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "David is sincere. Sam is sincerer.",
+        "hypothesis": "Sam is sincerer than David.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is friendly. Nick is friendlier.",
+        "hypothesis": "Nick is friendlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is attractive. Henry is more attractive.",
+        "hypothesis": "Henry is more attractive than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is crazy. Nick is crazier.",
+        "hypothesis": "Nick is crazier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is small. Rachel is smaller.",
+        "hypothesis": "Rachel is smaller than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is lazy. Rose is lazier.",
+        "hypothesis": "Rose is lazier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is bossy. Anthony is bossier.",
+        "hypothesis": "Anthony is bossier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is tired. Diana is more tired.",
+        "hypothesis": "Diana is more tired than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is thin. Frank is thinner.",
+        "hypothesis": "Frank is thinner than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is friendly. Alice is friendlier.",
+        "hypothesis": "Alice is friendlier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is gloomy. Kim is gloomier.",
+        "hypothesis": "Kim is gloomier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is small. Katherine is smaller.",
+        "hypothesis": "Katherine is smaller than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is bright. Hugh is brighter.",
+        "hypothesis": "Hugh is brighter than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is happy. Sally is happier.",
+        "hypothesis": "Sally is happier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is clumsy. Steven is clumsier.",
+        "hypothesis": "Steven is clumsier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is bossy. Patrick is bossier.",
+        "hypothesis": "Patrick is bossier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is great. Angela is greater.",
+        "hypothesis": "Angela is greater than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is interesting. Katherine is more interesting.",
+        "hypothesis": "Katherine is more interesting than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is classy. Carol is classier.",
+        "hypothesis": "Carol is classier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is bossy. Kathleen is bossier.",
+        "hypothesis": "Kathleen is bossier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is polite. Richard is more polite.",
+        "hypothesis": "Richard is more polite than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is curvy. Francis is curvier.",
+        "hypothesis": "Francis is curvier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Don is old. Suzanne is older.",
+        "hypothesis": "Suzanne is older than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is hungry. Ashley is hungrier.",
+        "hypothesis": "Ashley is hungrier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is polite. Samuel is politer.",
+        "hypothesis": "Samuel is politer than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is mean. Katie is meaner.",
+        "hypothesis": "Katie is meaner than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is bitter. Harry is bitterer.",
+        "hypothesis": "Harry is bitterer than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is crazy. Joan is crazier.",
+        "hypothesis": "Joan is crazier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is happy. Marilyn is happier.",
+        "hypothesis": "Marilyn is happier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is old. Greg is older.",
+        "hypothesis": "Greg is older than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is greedy. Charlotte is greedier.",
+        "hypothesis": "Charlotte is greedier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is cute. Donald is cuter.",
+        "hypothesis": "Donald is cuter than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is harsh. Martha is harsher.",
+        "hypothesis": "Martha is harsher than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is bitter. Ron is bitterer.",
+        "hypothesis": "Ron is bitterer than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is rude. Alfred is ruder.",
+        "hypothesis": "Alfred is ruder than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is tough. Margaret is tougher.",
+        "hypothesis": "Margaret is tougher than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is sharp. Marilyn is sharper.",
+        "hypothesis": "Marilyn is sharper than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is greedy. William is greedier.",
+        "hypothesis": "William is greedier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is humble. Gary is humbler.",
+        "hypothesis": "Gary is humbler than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is chubby. Caroline is chubbier.",
+        "hypothesis": "Caroline is chubbier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is bitter. Steven is bitterer.",
+        "hypothesis": "Steven is bitterer than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is ugly. Nick is uglier.",
+        "hypothesis": "Nick is uglier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is old. Sophie is older.",
+        "hypothesis": "Sophie is older than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is greedy. Karen is greedier.",
+        "hypothesis": "Karen is greedier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is busy. Roger is busier.",
+        "hypothesis": "Roger is busier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is bitter. Rebecca is bitterer.",
+        "hypothesis": "Rebecca is bitterer than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is curvy. Grace is curvier.",
+        "hypothesis": "Grace is curvier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is hungry. Amanda is hungrier.",
+        "hypothesis": "Amanda is hungrier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is hairy. Ralph is hairier.",
+        "hypothesis": "Ralph is hairier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is dull. Julie is duller.",
+        "hypothesis": "Julie is duller than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is silly. Daniel is sillier.",
+        "hypothesis": "Daniel is sillier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is long. Rachel is longer.",
+        "hypothesis": "Rachel is longer than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is strong. Johnny is stronger.",
+        "hypothesis": "Johnny is stronger than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is kind. Wendy is kinder.",
+        "hypothesis": "Wendy is kinder than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is beautiful. Alan is more beautiful.",
+        "hypothesis": "Alan is more beautiful than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is wealthy. Heather is wealthier.",
+        "hypothesis": "Heather is wealthier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is gross. Kathy is grosser.",
+        "hypothesis": "Kathy is grosser than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is dull. Susan is duller.",
+        "hypothesis": "Susan is duller than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "James is slim. Heather is slimmer.",
+        "hypothesis": "Heather is slimmer than James.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is slim. Greg is slimmer.",
+        "hypothesis": "Greg is slimmer than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is bossy. Matt is bossier.",
+        "hypothesis": "Matt is bossier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is smart. Brian is smarter.",
+        "hypothesis": "Brian is smarter than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is hairy. Jean is hairier.",
+        "hypothesis": "Jean is hairier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is weak. Michael is weaker.",
+        "hypothesis": "Michael is weaker than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is hot. Sally is hotter.",
+        "hypothesis": "Sally is hotter than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is shy. Joan is shyer.",
+        "hypothesis": "Joan is shyer than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is brave. Colin is braver.",
+        "hypothesis": "Colin is braver than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is bitter. Frank is bitterer.",
+        "hypothesis": "Frank is bitterer than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is healthy. Stephen is healthier.",
+        "hypothesis": "Stephen is healthier than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is curvy. Grace is curvier.",
+        "hypothesis": "Grace is curvier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is funny. Lucy is funnier.",
+        "hypothesis": "Lucy is funnier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is polite. James is more polite.",
+        "hypothesis": "James is more polite than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is noisy. Emma is noisier.",
+        "hypothesis": "Emma is noisier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is happy. Florence is happier.",
+        "hypothesis": "Florence is happier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is angry. Daniel is angrier.",
+        "hypothesis": "Daniel is angrier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is messy. Kathy is messier.",
+        "hypothesis": "Kathy is messier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is tiny. Joseph is tinier.",
+        "hypothesis": "Joseph is tinier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is friendly. Ed is friendlier.",
+        "hypothesis": "Ed is friendlier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is chubby. Colin is chubbier.",
+        "hypothesis": "Colin is chubbier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is great. Dick is greater.",
+        "hypothesis": "Dick is greater than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is bad. Fred is worse.",
+        "hypothesis": "Fred is worse than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is noisy. Albert is noisier.",
+        "hypothesis": "Albert is noisier than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is tall. Diane is taller.",
+        "hypothesis": "Diane is taller than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is gross. Nancy is grosser.",
+        "hypothesis": "Nancy is grosser than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is thin. Alexandra is thinner.",
+        "hypothesis": "Alexandra is thinner than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is harsh. Jason is harsher.",
+        "hypothesis": "Jason is harsher than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is clumsy. Donald is clumsier.",
+        "hypothesis": "Donald is clumsier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is tough. Maria is tougher.",
+        "hypothesis": "Maria is tougher than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is bad. Andrea is worse.",
+        "hypothesis": "Andrea is worse than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is proud. Mary is prouder.",
+        "hypothesis": "Mary is prouder than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is noisy. Alice is noisier.",
+        "hypothesis": "Alice is noisier than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is dense. Jeff is denser.",
+        "hypothesis": "Jeff is denser than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is skinny. Joseph is skinnier.",
+        "hypothesis": "Joseph is skinnier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is clever. Frank is more clever.",
+        "hypothesis": "Frank is more clever than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is clever. Al is more clever.",
+        "hypothesis": "Al is more clever than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is humble. Eleanor is humbler.",
+        "hypothesis": "Eleanor is humbler than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is cruel. Kathy is crueller.",
+        "hypothesis": "Kathy is crueller than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is smart. Martha is smarter.",
+        "hypothesis": "Martha is smarter than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is brave. Harry is braver.",
+        "hypothesis": "Harry is braver than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is hungry. Nicole is hungrier.",
+        "hypothesis": "Nicole is hungrier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is polite. Alice is more polite.",
+        "hypothesis": "Alice is more polite than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is attractive. Walter is more attractive.",
+        "hypothesis": "Walter is more attractive than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is polite. Kim is more polite.",
+        "hypothesis": "Kim is more polite than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is polite. Dorothy is politer.",
+        "hypothesis": "Dorothy is politer than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is slim. Colin is slimmer.",
+        "hypothesis": "Colin is slimmer than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is thin. Kathy is thinner.",
+        "hypothesis": "Kathy is thinner than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Don is salty. Sophie is saltier.",
+        "hypothesis": "Sophie is saltier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is angry. Tim is angrier.",
+        "hypothesis": "Tim is angrier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is skinny. Alexandra is skinnier.",
+        "hypothesis": "Alexandra is skinnier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is pretty. Michael is prettier.",
+        "hypothesis": "Michael is prettier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is cute. Ian is cuter.",
+        "hypothesis": "Ian is cuter than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is gloomy. Ashley is gloomier.",
+        "hypothesis": "Ashley is gloomier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is bad. Lauren is worse.",
+        "hypothesis": "Lauren is worse than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is bossy. Kathy is bossier.",
+        "hypothesis": "Kathy is bossier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is lazy. Lynn is lazier.",
+        "hypothesis": "Lynn is lazier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is greedy. Jay is greedier.",
+        "hypothesis": "Jay is greedier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is skinny. Ian is skinnier.",
+        "hypothesis": "Ian is skinnier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is cruel. Roy is crueller.",
+        "hypothesis": "Roy is crueller than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is wealthy. Fred is wealthier.",
+        "hypothesis": "Fred is wealthier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is gentle. Betty is gentler.",
+        "hypothesis": "Betty is gentler than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is hungry. Jonathan is hungrier.",
+        "hypothesis": "Jonathan is hungrier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is tiny. Steven is tinier.",
+        "hypothesis": "Steven is tinier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is thin. Linda is thinner.",
+        "hypothesis": "Linda is thinner than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is mean. Sue is meaner.",
+        "hypothesis": "Sue is meaner than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is fast. Bobby is faster.",
+        "hypothesis": "Bobby is faster than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is long. Judy is longer.",
+        "hypothesis": "Judy is longer than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is shallow. Alice is shallower.",
+        "hypothesis": "Alice is shallower than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is quiet. George is quieter.",
+        "hypothesis": "George is quieter than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "John is modern. Frederick is more modern.",
+        "hypothesis": "Frederick is more modern than John.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is hungry. Frederick is hungrier.",
+        "hypothesis": "Frederick is hungrier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is beautiful. Donna is more beautiful.",
+        "hypothesis": "Donna is more beautiful than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is pretty. Bob is prettier.",
+        "hypothesis": "Bob is prettier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is strong. Larry is stronger.",
+        "hypothesis": "Larry is stronger than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is quiet. Florence is quieter.",
+        "hypothesis": "Florence is quieter than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is tough. Anthony is tougher.",
+        "hypothesis": "Anthony is tougher than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is guilty. Sally is guilter.",
+        "hypothesis": "Sally is guilter than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is lonely. James is lonlier.",
+        "hypothesis": "James is lonlier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is sorry. Edwin is sorrier.",
+        "hypothesis": "Edwin is sorrier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is thin. Adam is thinner.",
+        "hypothesis": "Adam is thinner than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is poor. Gary is poorer.",
+        "hypothesis": "Gary is poorer than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is calm. Katherine is calmer.",
+        "hypothesis": "Katherine is calmer than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is gloomy. David is gloomier.",
+        "hypothesis": "David is gloomier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is sorry. Jeff is sorrier.",
+        "hypothesis": "Jeff is sorrier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is clever. Jill is cleverer.",
+        "hypothesis": "Jill is cleverer than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is greedy. Samuel is greedier.",
+        "hypothesis": "Samuel is greedier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is handsome. Louis is more handsome.",
+        "hypothesis": "Louis is more handsome than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is gross. Diane is grosser.",
+        "hypothesis": "Diane is grosser than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is skinny. Emma is skinnier.",
+        "hypothesis": "Emma is skinnier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is fit. Karen is fitter.",
+        "hypothesis": "Karen is fitter than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is dense. Billy is denser.",
+        "hypothesis": "Billy is denser than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is dull. Evelyn is duller.",
+        "hypothesis": "Evelyn is duller than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is slow. Michael is slower.",
+        "hypothesis": "Michael is slower than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is proud. Frank is prouder.",
+        "hypothesis": "Frank is prouder than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is messy. Judy is messier.",
+        "hypothesis": "Judy is messier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is ugly. Fiona is uglier.",
+        "hypothesis": "Fiona is uglier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is gross. Alexandra is grosser.",
+        "hypothesis": "Alexandra is grosser than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is dull. Frederick is duller.",
+        "hypothesis": "Frederick is duller than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is sorry. Rose is sorrier.",
+        "hypothesis": "Rose is sorrier than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is friendly. Donna is friendlier.",
+        "hypothesis": "Donna is friendlier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is rude. Fiona is ruder.",
+        "hypothesis": "Fiona is ruder than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is interesting. Sharon is more interesting.",
+        "hypothesis": "Sharon is more interesting than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is proud. Frederick is prouder.",
+        "hypothesis": "Frederick is prouder than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is important. David is more important.",
+        "hypothesis": "David is more important than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is bright. Jean is brighter.",
+        "hypothesis": "Jean is brighter than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is loud. Peter is louder.",
+        "hypothesis": "Peter is louder than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is hot. Amanda is hotter.",
+        "hypothesis": "Amanda is hotter than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is tall. Frederick is taller.",
+        "hypothesis": "Frederick is taller than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is great. Colin is greater.",
+        "hypothesis": "Colin is greater than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is slim. Christine is slimmer.",
+        "hypothesis": "Christine is slimmer than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is gross. Edwin is grosser.",
+        "hypothesis": "Edwin is grosser than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is sorry. Matt is sorrier.",
+        "hypothesis": "Matt is sorrier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is polite. Benjamin is more polite.",
+        "hypothesis": "Benjamin is more polite than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is popular. Robin is more popular.",
+        "hypothesis": "Robin is more popular than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is popular. Diane is more popular.",
+        "hypothesis": "Diane is more popular than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is brave. Julia is braver.",
+        "hypothesis": "Julia is braver than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is bright. Ellen is brighter.",
+        "hypothesis": "Ellen is brighter than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is fit. Edward is fitter.",
+        "hypothesis": "Edward is fitter than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is sweet. Bobby is sweeter.",
+        "hypothesis": "Bobby is sweeter than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is healthy. Maria is healthier.",
+        "hypothesis": "Maria is healthier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is clumsy. Deborah is clumsier.",
+        "hypothesis": "Deborah is clumsier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is fat. Sam is fatter.",
+        "hypothesis": "Sam is fatter than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is chubby. Katherine is chubbier.",
+        "hypothesis": "Katherine is chubbier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is popular. Bobby is more popular.",
+        "hypothesis": "Bobby is more popular than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is bitter. Ed is more bitter.",
+        "hypothesis": "Ed is more bitter than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is dumb. Lucy is dumber.",
+        "hypothesis": "Lucy is dumber than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is wealthy. Barbara is wealthier.",
+        "hypothesis": "Barbara is wealthier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is poor. Sara is poorer.",
+        "hypothesis": "Sara is poorer than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is loud. Alison is louder.",
+        "hypothesis": "Alison is louder than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is handsome. Leslie is more handsome.",
+        "hypothesis": "Leslie is more handsome than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is good. Ann is better.",
+        "hypothesis": "Ann is better than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is mean. Jim is meaner.",
+        "hypothesis": "Jim is meaner than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is gross. Jane is grosser.",
+        "hypothesis": "Jane is grosser than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is messy. Mark is messier.",
+        "hypothesis": "Mark is messier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "James is lonely. Angela is lonlier.",
+        "hypothesis": "Angela is lonlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is old. Stephanie is older.",
+        "hypothesis": "Stephanie is older than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is slow. Fred is slower.",
+        "hypothesis": "Fred is slower than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is clever. Sam is cleverer.",
+        "hypothesis": "Sam is cleverer than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is tough. Fred is tougher.",
+        "hypothesis": "Fred is tougher than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is ugly. Lucy is uglier.",
+        "hypothesis": "Lucy is uglier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is good. Julie is better.",
+        "hypothesis": "Julie is better than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is harsh. Anthony is harsher.",
+        "hypothesis": "Anthony is harsher than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is slim. Leslie is slimmer.",
+        "hypothesis": "Leslie is slimmer than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is calm. Johnny is calmer.",
+        "hypothesis": "Johnny is calmer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is gentle. Martin is gentler.",
+        "hypothesis": "Martin is gentler than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is interesting. Claire is more interesting.",
+        "hypothesis": "Claire is more interesting than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is ugly. Anne is uglier.",
+        "hypothesis": "Anne is uglier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is sincere. Ann is sincerer.",
+        "hypothesis": "Ann is sincerer than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is sharp. Edwin is sharper.",
+        "hypothesis": "Edwin is sharper than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is ugly. Edward is uglier.",
+        "hypothesis": "Edward is uglier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is quiet. Dorothy is quieter.",
+        "hypothesis": "Dorothy is quieter than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is bright. Eleanor is brighter.",
+        "hypothesis": "Eleanor is brighter than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is crazy. Kathryn is crazier.",
+        "hypothesis": "Kathryn is crazier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is kind. Ken is kinder.",
+        "hypothesis": "Ken is kinder than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is calm. Stephen is calmer.",
+        "hypothesis": "Stephen is calmer than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is poor. Sophie is poorer.",
+        "hypothesis": "Sophie is poorer than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is fair. Christine is fairer.",
+        "hypothesis": "Christine is fairer than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is greedy. Annie is greedier.",
+        "hypothesis": "Annie is greedier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is poor. Lynn is poorer.",
+        "hypothesis": "Lynn is poorer than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is humble. Claire is humbler.",
+        "hypothesis": "Claire is humbler than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is pretty. Kate is prettier.",
+        "hypothesis": "Kate is prettier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is hairy. Claire is hairier.",
+        "hypothesis": "Claire is hairier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is weird. Johnny is weirder.",
+        "hypothesis": "Johnny is weirder than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is quiet. Ralph is quieter.",
+        "hypothesis": "Ralph is quieter than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is clever. George is cleverer.",
+        "hypothesis": "George is cleverer than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is smart. Francis is smarter.",
+        "hypothesis": "Francis is smarter than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is cruel. Jim is crueller.",
+        "hypothesis": "Jim is crueller than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is fat. Matthew is fatter.",
+        "hypothesis": "Matthew is fatter than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is skinny. Eric is skinnier.",
+        "hypothesis": "Eric is skinnier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is beautiful. Kevin is more beautiful.",
+        "hypothesis": "Kevin is more beautiful than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is gentle. Philip is gentler.",
+        "hypothesis": "Philip is gentler than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is strong. Charlotte is stronger.",
+        "hypothesis": "Charlotte is stronger than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is clever. Martin is more clever.",
+        "hypothesis": "Martin is more clever than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is good. Fiona is better.",
+        "hypothesis": "Fiona is better than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is dull. James is duller.",
+        "hypothesis": "James is duller than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is ugly. Jane is uglier.",
+        "hypothesis": "Jane is uglier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is fit. Lisa is fitter.",
+        "hypothesis": "Lisa is fitter than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is bad. Peter is worse.",
+        "hypothesis": "Peter is worse than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is busy. Eric is busier.",
+        "hypothesis": "Eric is busier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is strong. Angela is stronger.",
+        "hypothesis": "Angela is stronger than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is naughty. Lawrence is naughtier.",
+        "hypothesis": "Lawrence is naughtier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is humble. Patrick is humbler.",
+        "hypothesis": "Patrick is humbler than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is sincere. Emily is sincerer.",
+        "hypothesis": "Emily is sincerer than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is bitter. Ray is bitterer.",
+        "hypothesis": "Ray is bitterer than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is shy. Mike is shyer.",
+        "hypothesis": "Mike is shyer than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is brave. Richard is braver.",
+        "hypothesis": "Richard is braver than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is hungry. Catherine is hungrier.",
+        "hypothesis": "Catherine is hungrier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is smart. Judith is smarter.",
+        "hypothesis": "Judith is smarter than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is young. Stephen is younger.",
+        "hypothesis": "Stephen is younger than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is fat. Sara is fatter.",
+        "hypothesis": "Sara is fatter than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is lazy. Robert is lazier.",
+        "hypothesis": "Robert is lazier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is gentle. Edward is gentler.",
+        "hypothesis": "Edward is gentler than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is weird. Ed is weirder.",
+        "hypothesis": "Ed is weirder than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is kind. Louise is kinder.",
+        "hypothesis": "Louise is kinder than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is brave. Mike is braver.",
+        "hypothesis": "Mike is braver than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is mean. Charlotte is meaner.",
+        "hypothesis": "Charlotte is meaner than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is kind. Kim is kinder.",
+        "hypothesis": "Kim is kinder than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is polite. Margaret is politer.",
+        "hypothesis": "Margaret is politer than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is sleepy. Lisa is sleepier.",
+        "hypothesis": "Lisa is sleepier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is shy. Ellen is shyer.",
+        "hypothesis": "Ellen is shyer than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is sad. Alison is sadder.",
+        "hypothesis": "Alison is sadder than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is good. Andrea is better.",
+        "hypothesis": "Andrea is better than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is weird. Jeff is weirder.",
+        "hypothesis": "Jeff is weirder than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "James is weird. Fiona is weirder.",
+        "hypothesis": "Fiona is weirder than James.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is bright. Johnny is brighter.",
+        "hypothesis": "Johnny is brighter than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is bitter. Robin is bitterer.",
+        "hypothesis": "Robin is bitterer than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is noisy. Jack is noisier.",
+        "hypothesis": "Jack is noisier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is sleepy. Ruth is sleepier.",
+        "hypothesis": "Ruth is sleepier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is cute. Dick is cuter.",
+        "hypothesis": "Dick is cuter than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is busy. Sue is busier.",
+        "hypothesis": "Sue is busier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is bitter. Joan is more bitter.",
+        "hypothesis": "Joan is more bitter than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is interesting. Eric is more interesting.",
+        "hypothesis": "Eric is more interesting than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is chubby. Richard is chubbier.",
+        "hypothesis": "Richard is chubbier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is scary. Eleanor is scarier.",
+        "hypothesis": "Eleanor is scarier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is slow. Joe is slower.",
+        "hypothesis": "Joe is slower than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is calm. Carolyn is calmer.",
+        "hypothesis": "Carolyn is calmer than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is lonely. Bruce is lonlier.",
+        "hypothesis": "Bruce is lonlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "John is shallow. Ashley is shallower.",
+        "hypothesis": "Ashley is shallower than John.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is hairy. Jane is hairier.",
+        "hypothesis": "Jane is hairier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is shy. Ron is shyer.",
+        "hypothesis": "Ron is shyer than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is quiet. Ron is quieter.",
+        "hypothesis": "Ron is quieter than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is fit. Larry is fitter.",
+        "hypothesis": "Larry is fitter than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is calm. Simon is calmer.",
+        "hypothesis": "Simon is calmer than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is skinny. Sharon is skinnier.",
+        "hypothesis": "Sharon is skinnier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is calm. Steven is calmer.",
+        "hypothesis": "Steven is calmer than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is crazy. Fiona is crazier.",
+        "hypothesis": "Fiona is crazier than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is weird. Alexandra is weirder.",
+        "hypothesis": "Alexandra is weirder than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is pretty. James is prettier.",
+        "hypothesis": "James is prettier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is firm. Cynthia is firmer.",
+        "hypothesis": "Cynthia is firmer than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is kind. Pamela is kinder.",
+        "hypothesis": "Pamela is kinder than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "George is young. Sally is younger.",
+        "hypothesis": "Sally is younger than George.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is hot. Diane is hotter.",
+        "hypothesis": "Diane is hotter than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is bossy. Jeff is bossier.",
+        "hypothesis": "Jeff is bossier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is chubby. Johnny is chubbier.",
+        "hypothesis": "Johnny is chubbier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is good. Colin is better.",
+        "hypothesis": "Colin is better than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is bitter. Anna is more bitter.",
+        "hypothesis": "Anna is more bitter than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is dumb. Benjamin is dumber.",
+        "hypothesis": "Benjamin is dumber than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is sincere. Andrew is sincerer.",
+        "hypothesis": "Andrew is sincerer than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Don is proud. Jean is prouder.",
+        "hypothesis": "Jean is prouder than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is nice. Jim is nicer.",
+        "hypothesis": "Jim is nicer than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is hungry. Bob is hungrier.",
+        "hypothesis": "Bob is hungrier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is slow. Tony is slower.",
+        "hypothesis": "Tony is slower than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is chubby. Maria is chubbier.",
+        "hypothesis": "Maria is chubbier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is dull. Jean is duller.",
+        "hypothesis": "Jean is duller than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is crazy. Eleanor is crazier.",
+        "hypothesis": "Eleanor is crazier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is hungry. Sara is hungrier.",
+        "hypothesis": "Sara is hungrier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is skinny. Louise is skinnier.",
+        "hypothesis": "Louise is skinnier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is handsome. Stephanie is more handsome.",
+        "hypothesis": "Stephanie is more handsome than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is shy. Donald is shyer.",
+        "hypothesis": "Donald is shyer than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is big. Lawrence is bigger.",
+        "hypothesis": "Lawrence is bigger than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is clever. Eleanor is more clever.",
+        "hypothesis": "Eleanor is more clever than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is dense. Jimmy is denser.",
+        "hypothesis": "Jimmy is denser than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is strong. Benjamin is stronger.",
+        "hypothesis": "Benjamin is stronger than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "David is happy. Colin is happier.",
+        "hypothesis": "Colin is happier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is dumb. Catherine is dumber.",
+        "hypothesis": "Catherine is dumber than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is quiet. Walter is quieter.",
+        "hypothesis": "Walter is quieter than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is short. Patrick is shorter.",
+        "hypothesis": "Patrick is shorter than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is rich. Tony is richer.",
+        "hypothesis": "Tony is richer than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is handsome. Jay is more handsome.",
+        "hypothesis": "Jay is more handsome than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is sincere. Lucy is sincerer.",
+        "hypothesis": "Lucy is sincerer than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is big. Jay is bigger.",
+        "hypothesis": "Jay is bigger than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is pretty. Caroline is prettier.",
+        "hypothesis": "Caroline is prettier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is quiet. Bruce is quieter.",
+        "hypothesis": "Bruce is quieter than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is rude. Jerry is ruder.",
+        "hypothesis": "Jerry is ruder than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is renowned. Frederick is more renowned.",
+        "hypothesis": "Frederick is more renowned than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is messy. Alice is messier.",
+        "hypothesis": "Alice is messier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is sincere. Diane is sincerer.",
+        "hypothesis": "Diane is sincerer than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is tough. Lauren is tougher.",
+        "hypothesis": "Lauren is tougher than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is lonely. Pamela is lonlier.",
+        "hypothesis": "Pamela is lonlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is slow. Tony is slower.",
+        "hypothesis": "Tony is slower than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is weak. James is weaker.",
+        "hypothesis": "James is weaker than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is clever. Charlotte is cleverer.",
+        "hypothesis": "Charlotte is cleverer than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is dull. Ed is duller.",
+        "hypothesis": "Ed is duller than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is big. Arthur is bigger.",
+        "hypothesis": "Arthur is bigger than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is classy. Alan is classier.",
+        "hypothesis": "Alan is classier than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is renowned. Jennifer is more renowned.",
+        "hypothesis": "Jennifer is more renowned than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is handsome. Susan is more handsome.",
+        "hypothesis": "Susan is more handsome than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is guilty. Tom is guilter.",
+        "hypothesis": "Tom is guilter than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "George is bitter. Andrew is more bitter.",
+        "hypothesis": "Andrew is more bitter than George.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is hot. Albert is hotter.",
+        "hypothesis": "Albert is hotter than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is scary. Tom is scarier.",
+        "hypothesis": "Tom is scarier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is harsh. Gary is harsher.",
+        "hypothesis": "Gary is harsher than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is sweet. Greg is sweeter.",
+        "hypothesis": "Greg is sweeter than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is polite. Virginia is more polite.",
+        "hypothesis": "Virginia is more polite than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is poor. Ed is poorer.",
+        "hypothesis": "Ed is poorer than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is busy. Richard is busier.",
+        "hypothesis": "Richard is busier than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is clever. Sharon is more clever.",
+        "hypothesis": "Sharon is more clever than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is weird. Jean is weirder.",
+        "hypothesis": "Jean is weirder than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is creepy. Kathy is creepier.",
+        "hypothesis": "Kathy is creepier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is cute. Peter is cuter.",
+        "hypothesis": "Peter is cuter than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is friendly. Carolyn is friendlier.",
+        "hypothesis": "Carolyn is friendlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is friendly. Mike is friendlier.",
+        "hypothesis": "Mike is friendlier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is noisy. Anthony is noisier.",
+        "hypothesis": "Anthony is noisier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is slow. Harold is slower.",
+        "hypothesis": "Harold is slower than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is naughty. Jim is naughtier.",
+        "hypothesis": "Jim is naughtier than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is great. Ben is greater.",
+        "hypothesis": "Ben is greater than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is popular. Dan is more popular.",
+        "hypothesis": "Dan is more popular than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is lonely. Michelle is lonlier.",
+        "hypothesis": "Michelle is lonlier than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is silly. Joan is sillier.",
+        "hypothesis": "Joan is sillier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is polite. Al is politer.",
+        "hypothesis": "Al is politer than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is clever. Jill is more clever.",
+        "hypothesis": "Jill is more clever than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is salty. Grace is saltier.",
+        "hypothesis": "Grace is saltier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is bitter. Benjamin is bitterer.",
+        "hypothesis": "Benjamin is bitterer than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is fair. Katherine is fairer.",
+        "hypothesis": "Katherine is fairer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is tired. Kenneth is more tired.",
+        "hypothesis": "Kenneth is more tired than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is sorry. Ann is sorrier.",
+        "hypothesis": "Ann is sorrier than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is smart. Bill is smarter.",
+        "hypothesis": "Bill is smarter than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is polite. Matthew is politer.",
+        "hypothesis": "Matthew is politer than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is slow. Donald is slower.",
+        "hypothesis": "Donald is slower than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is renowned. Kelly is more renowned.",
+        "hypothesis": "Kelly is more renowned than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "John is great. Jason is greater.",
+        "hypothesis": "Jason is greater than John.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is loud. Lauren is louder.",
+        "hypothesis": "Lauren is louder than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is happy. Margaret is happier.",
+        "hypothesis": "Margaret is happier than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is shallow. Sam is shallower.",
+        "hypothesis": "Sam is shallower than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is fast. Harry is faster.",
+        "hypothesis": "Harry is faster than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is lazy. Matthew is lazier.",
+        "hypothesis": "Matthew is lazier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is skinny. Emily is skinnier.",
+        "hypothesis": "Emily is skinnier than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is firm. Amanda is firmer.",
+        "hypothesis": "Amanda is firmer than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is gross. Bruce is grosser.",
+        "hypothesis": "Bruce is grosser than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is long. Nicole is longer.",
+        "hypothesis": "Nicole is longer than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is dull. Frederick is duller.",
+        "hypothesis": "Frederick is duller than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is gloomy. Robert is gloomier.",
+        "hypothesis": "Robert is gloomier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is clumsy. Julia is clumsier.",
+        "hypothesis": "Julia is clumsier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is long. Joseph is longer.",
+        "hypothesis": "Joseph is longer than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is interesting. Lucy is more interesting.",
+        "hypothesis": "Lucy is more interesting than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is gloomy. Frederick is gloomier.",
+        "hypothesis": "Frederick is gloomier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is long. Fred is longer.",
+        "hypothesis": "Fred is longer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is young. Kathy is younger.",
+        "hypothesis": "Kathy is younger than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is attractive. Mary is more attractive.",
+        "hypothesis": "Mary is more attractive than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is beautiful. Diane is more beautiful.",
+        "hypothesis": "Diane is more beautiful than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is sorry. Virginia is sorrier.",
+        "hypothesis": "Virginia is sorrier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is smart. Patricia is smarter.",
+        "hypothesis": "Patricia is smarter than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is mean. Matthew is meaner.",
+        "hypothesis": "Matthew is meaner than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is polite. Rachel is more polite.",
+        "hypothesis": "Rachel is more polite than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Al is guilty. Charlotte is guilter.",
+        "hypothesis": "Charlotte is guilter than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is salty. Alan is saltier.",
+        "hypothesis": "Alan is saltier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is dumb. Jason is dumber.",
+        "hypothesis": "Jason is dumber than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is ugly. Matt is uglier.",
+        "hypothesis": "Matt is uglier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "James is bitter. Melissa is more bitter.",
+        "hypothesis": "Melissa is more bitter than James.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is thin. Alexandra is thinner.",
+        "hypothesis": "Alexandra is thinner than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is chubby. Jim is chubbier.",
+        "hypothesis": "Jim is chubbier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is happy. Hugh is happier.",
+        "hypothesis": "Hugh is happier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is young. Victoria is younger.",
+        "hypothesis": "Victoria is younger than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is bitter. Colin is bitterer.",
+        "hypothesis": "Colin is bitterer than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is noisy. Frank is noisier.",
+        "hypothesis": "Frank is noisier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is lovely. Philip is lovelier.",
+        "hypothesis": "Philip is lovelier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is bitter. Joseph is bitterer.",
+        "hypothesis": "Joseph is bitterer than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is polite. Ben is more polite.",
+        "hypothesis": "Ben is more polite than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is gentle. Diana is gentler.",
+        "hypothesis": "Diana is gentler than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is sad. Sandra is sadder.",
+        "hypothesis": "Sandra is sadder than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is old. Jonathan is older.",
+        "hypothesis": "Jonathan is older than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is smart. Catherine is smarter.",
+        "hypothesis": "Catherine is smarter than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is weird. Rebecca is weirder.",
+        "hypothesis": "Rebecca is weirder than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is small. Marilyn is smaller.",
+        "hypothesis": "Marilyn is smaller than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is friendly. Howard is friendlier.",
+        "hypothesis": "Howard is friendlier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is dull. Stephanie is duller.",
+        "hypothesis": "Stephanie is duller than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is rude. Wendy is ruder.",
+        "hypothesis": "Wendy is ruder than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is handsome. Grace is more handsome.",
+        "hypothesis": "Grace is more handsome than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is pretty. Thomas is prettier.",
+        "hypothesis": "Thomas is prettier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is cruel. Anthony is crueller.",
+        "hypothesis": "Anthony is crueller than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is bad. Kathy is worse.",
+        "hypothesis": "Kathy is worse than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is guilty. Margaret is guilter.",
+        "hypothesis": "Margaret is guilter than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is interesting. Carol is more interesting.",
+        "hypothesis": "Carol is more interesting than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is crazy. Matt is crazier.",
+        "hypothesis": "Matt is crazier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is sincere. Adam is sincerer.",
+        "hypothesis": "Adam is sincerer than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is skinny. Jim is skinnier.",
+        "hypothesis": "Jim is skinnier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is big. Tim is bigger.",
+        "hypothesis": "Tim is bigger than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is friendly. Rebecca is friendlier.",
+        "hypothesis": "Rebecca is friendlier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is funny. Bruce is funnier.",
+        "hypothesis": "Bruce is funnier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is curvy. Ray is curvier.",
+        "hypothesis": "Ray is curvier than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is mean. Bob is meaner.",
+        "hypothesis": "Bob is meaner than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is angry. Matt is angrier.",
+        "hypothesis": "Matt is angrier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "William is kind. Keith is kinder.",
+        "hypothesis": "Keith is kinder than William.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is tired. Harry is more tired.",
+        "hypothesis": "Harry is more tired than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is mean. Ron is meaner.",
+        "hypothesis": "Ron is meaner than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is wealthy. Betty is wealthier.",
+        "hypothesis": "Betty is wealthier than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is bossy. Dan is bossier.",
+        "hypothesis": "Dan is bossier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is classy. Helen is classier.",
+        "hypothesis": "Helen is classier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is renowned. Kate is more renowned.",
+        "hypothesis": "Kate is more renowned than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is friendly. Jimmy is friendlier.",
+        "hypothesis": "Jimmy is friendlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is bitter. Amanda is bitterer.",
+        "hypothesis": "Amanda is bitterer than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is poor. Donald is poorer.",
+        "hypothesis": "Donald is poorer than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is fair. Roger is fairer.",
+        "hypothesis": "Roger is fairer than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is gross. Paul is grosser.",
+        "hypothesis": "Paul is grosser than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is lonely. Joe is lonlier.",
+        "hypothesis": "Joe is lonlier than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is renowned. Victoria is more renowned.",
+        "hypothesis": "Victoria is more renowned than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is polite. Stephanie is more polite.",
+        "hypothesis": "Stephanie is more polite than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is tired. Elizabeth is more tired.",
+        "hypothesis": "Elizabeth is more tired than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is silly. Margaret is sillier.",
+        "hypothesis": "Margaret is sillier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is tiny. Martha is tinier.",
+        "hypothesis": "Martha is tinier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is great. Jill is greater.",
+        "hypothesis": "Jill is greater than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is proud. Bill is prouder.",
+        "hypothesis": "Bill is prouder than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is interesting. Jerry is more interesting.",
+        "hypothesis": "Jerry is more interesting than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is big. Jane is bigger.",
+        "hypothesis": "Jane is bigger than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is smart. Alison is smarter.",
+        "hypothesis": "Alison is smarter than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is kind. Dorothy is kinder.",
+        "hypothesis": "Dorothy is kinder than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is funny. Sandra is funnier.",
+        "hypothesis": "Sandra is funnier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is busy. Julia is busier.",
+        "hypothesis": "Julia is busier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is firm. Anthony is firmer.",
+        "hypothesis": "Anthony is firmer than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is good. Victoria is better.",
+        "hypothesis": "Victoria is better than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is noisy. Louis is noisier.",
+        "hypothesis": "Louis is noisier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is slim. Helen is slimmer.",
+        "hypothesis": "Helen is slimmer than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is small. Annie is smaller.",
+        "hypothesis": "Annie is smaller than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is nice. Marie is nicer.",
+        "hypothesis": "Marie is nicer than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is nice. Louise is nicer.",
+        "hypothesis": "Louise is nicer than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is silly. Don is sillier.",
+        "hypothesis": "Don is sillier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is clever. Kate is cleverer.",
+        "hypothesis": "Kate is cleverer than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is slim. Joan is slimmer.",
+        "hypothesis": "Joan is slimmer than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is sad. Diana is sadder.",
+        "hypothesis": "Diana is sadder than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is polite. Harold is more polite.",
+        "hypothesis": "Harold is more polite than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is gentle. Frank is gentler.",
+        "hypothesis": "Frank is gentler than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is calm. Victoria is calmer.",
+        "hypothesis": "Victoria is calmer than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is thin. Judy is thinner.",
+        "hypothesis": "Judy is thinner than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is sweet. Jerry is sweeter.",
+        "hypothesis": "Jerry is sweeter than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is poor. Marie is poorer.",
+        "hypothesis": "Marie is poorer than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is gentle. Sandra is gentler.",
+        "hypothesis": "Sandra is gentler than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is tired. Susan is more tired.",
+        "hypothesis": "Susan is more tired than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is kind. Ruth is kinder.",
+        "hypothesis": "Ruth is kinder than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is weird. Alan is weirder.",
+        "hypothesis": "Alan is weirder than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is old. Alice is older.",
+        "hypothesis": "Alice is older than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is bad. Ken is worse.",
+        "hypothesis": "Ken is worse than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is shallow. Katie is shallower.",
+        "hypothesis": "Katie is shallower than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is thin. Billy is thinner.",
+        "hypothesis": "Billy is thinner than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is cruel. Mary is crueller.",
+        "hypothesis": "Mary is crueller than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is angry. Ben is angrier.",
+        "hypothesis": "Ben is angrier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is loud. Roy is louder.",
+        "hypothesis": "Roy is louder than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is quiet. Patricia is quieter.",
+        "hypothesis": "Patricia is quieter than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is crazy. Ralph is crazier.",
+        "hypothesis": "Ralph is crazier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is sleepy. Christine is sleepier.",
+        "hypothesis": "Christine is sleepier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is classy. Cynthia is classier.",
+        "hypothesis": "Cynthia is classier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is tough. Ashley is tougher.",
+        "hypothesis": "Ashley is tougher than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is bold. Martha is bolder.",
+        "hypothesis": "Martha is bolder than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is sincere. Philip is sincerer.",
+        "hypothesis": "Philip is sincerer than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is silly. Larry is sillier.",
+        "hypothesis": "Larry is sillier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is dense. Johnny is denser.",
+        "hypothesis": "Johnny is denser than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is modern. Jason is more modern.",
+        "hypothesis": "Jason is more modern than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is important. Betty is more important.",
+        "hypothesis": "Betty is more important than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is lonely. Ben is lonlier.",
+        "hypothesis": "Ben is lonlier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is happy. Karen is happier.",
+        "hypothesis": "Karen is happier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is handsome. Emma is more handsome.",
+        "hypothesis": "Emma is more handsome than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is sincere. Patrick is sincerer.",
+        "hypothesis": "Patrick is sincerer than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is thin. Lauren is thinner.",
+        "hypothesis": "Lauren is thinner than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is funny. Judith is funnier.",
+        "hypothesis": "Judith is funnier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is bright. Judy is brighter.",
+        "hypothesis": "Judy is brighter than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is kind. Edward is kinder.",
+        "hypothesis": "Edward is kinder than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is polite. Katie is more polite.",
+        "hypothesis": "Katie is more polite than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is beautiful. Steve is more beautiful.",
+        "hypothesis": "Steve is more beautiful than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is bad. Judy is worse.",
+        "hypothesis": "Judy is worse than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is popular. Edith is more popular.",
+        "hypothesis": "Edith is more popular than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is small. Howard is smaller.",
+        "hypothesis": "Howard is smaller than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is short. Jerry is shorter.",
+        "hypothesis": "Jerry is shorter than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is mean. Arthur is meaner.",
+        "hypothesis": "Arthur is meaner than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is dumb. Frank is dumber.",
+        "hypothesis": "Frank is dumber than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is gentle. Anthony is gentler.",
+        "hypothesis": "Anthony is gentler than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is lonely. Carl is lonlier.",
+        "hypothesis": "Carl is lonlier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is big. Kim is bigger.",
+        "hypothesis": "Kim is bigger than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is small. Patrick is smaller.",
+        "hypothesis": "Patrick is smaller than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is greedy. Susan is greedier.",
+        "hypothesis": "Susan is greedier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is curvy. Julia is curvier.",
+        "hypothesis": "Julia is curvier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is rich. Edward is richer.",
+        "hypothesis": "Edward is richer than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is renowned. Arthur is more renowned.",
+        "hypothesis": "Arthur is more renowned than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is sad. Lucy is sadder.",
+        "hypothesis": "Lucy is sadder than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is rude. Claire is ruder.",
+        "hypothesis": "Claire is ruder than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is happy. Sally is happier.",
+        "hypothesis": "Sally is happier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is curvy. John is curvier.",
+        "hypothesis": "John is curvier than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is poor. Ed is poorer.",
+        "hypothesis": "Ed is poorer than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is lonely. Rebecca is lonlier.",
+        "hypothesis": "Rebecca is lonlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is skinny. Rose is skinnier.",
+        "hypothesis": "Rose is skinnier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is young. Robin is younger.",
+        "hypothesis": "Robin is younger than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is harsh. Susan is harsher.",
+        "hypothesis": "Susan is harsher than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is lonely. Arthur is lonlier.",
+        "hypothesis": "Arthur is lonlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is salty. Ed is saltier.",
+        "hypothesis": "Ed is saltier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is sharp. Janet is sharper.",
+        "hypothesis": "Janet is sharper than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is tall. Christine is taller.",
+        "hypothesis": "Christine is taller than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Don is smart. Andrew is smarter.",
+        "hypothesis": "Andrew is smarter than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is lonely. Martin is lonlier.",
+        "hypothesis": "Martin is lonlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is great. Rose is greater.",
+        "hypothesis": "Rose is greater than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is big. John is bigger.",
+        "hypothesis": "John is bigger than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is hungry. Ryan is hungrier.",
+        "hypothesis": "Ryan is hungrier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is lazy. Alfred is lazier.",
+        "hypothesis": "Alfred is lazier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is bad. Lucy is worse.",
+        "hypothesis": "Lucy is worse than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is nice. Eric is nicer.",
+        "hypothesis": "Eric is nicer than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is dense. Diana is denser.",
+        "hypothesis": "Diana is denser than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is scary. Albert is scarier.",
+        "hypothesis": "Albert is scarier than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is poor. Stephen is poorer.",
+        "hypothesis": "Stephen is poorer than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is calm. Tim is calmer.",
+        "hypothesis": "Tim is calmer than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is bitter. Charlotte is more bitter.",
+        "hypothesis": "Charlotte is more bitter than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is salty. Laura is saltier.",
+        "hypothesis": "Laura is saltier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is handsome. Marilyn is more handsome.",
+        "hypothesis": "Marilyn is more handsome than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is attractive. Suzanne is more attractive.",
+        "hypothesis": "Suzanne is more attractive than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is guilty. Ashley is guilter.",
+        "hypothesis": "Ashley is guilter than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is old. Bobby is older.",
+        "hypothesis": "Bobby is older than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is sleepy. Gary is sleepier.",
+        "hypothesis": "Gary is sleepier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is clever. Harriet is more clever.",
+        "hypothesis": "Harriet is more clever than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is lovely. Anne is lovelier.",
+        "hypothesis": "Anne is lovelier than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is dumb. Ron is dumber.",
+        "hypothesis": "Ron is dumber than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is hot. Carolyn is hotter.",
+        "hypothesis": "Carolyn is hotter than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is sweet. Sandra is sweeter.",
+        "hypothesis": "Sandra is sweeter than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is shallow. Fred is shallower.",
+        "hypothesis": "Fred is shallower than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is noisy. Alexander is noisier.",
+        "hypothesis": "Alexander is noisier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is fair. Bruce is fairer.",
+        "hypothesis": "Bruce is fairer than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is happy. Grace is happier.",
+        "hypothesis": "Grace is happier than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is angry. Pamela is angrier.",
+        "hypothesis": "Pamela is angrier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is calm. Dick is calmer.",
+        "hypothesis": "Dick is calmer than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is cruel. Tom is crueller.",
+        "hypothesis": "Tom is crueller than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is firm. Matt is firmer.",
+        "hypothesis": "Matt is firmer than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is bold. Charles is bolder.",
+        "hypothesis": "Charles is bolder than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is sad. Bobby is sadder.",
+        "hypothesis": "Bobby is sadder than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is hairy. Tony is hairier.",
+        "hypothesis": "Tony is hairier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is polite. Sharon is more polite.",
+        "hypothesis": "Sharon is more polite than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is great. Bill is greater.",
+        "hypothesis": "Bill is greater than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is guilty. Laura is guilter.",
+        "hypothesis": "Laura is guilter than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is lonely. Roy is lonlier.",
+        "hypothesis": "Roy is lonlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is tall. Cynthia is taller.",
+        "hypothesis": "Cynthia is taller than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is tired. Hugh is more tired.",
+        "hypothesis": "Hugh is more tired than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "William is wise. Judy is wiser.",
+        "hypothesis": "Judy is wiser than William.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is slim. Tim is slimmer.",
+        "hypothesis": "Tim is slimmer than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is fair. Carolyn is fairer.",
+        "hypothesis": "Carolyn is fairer than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is messy. Heather is messier.",
+        "hypothesis": "Heather is messier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is dense. Donald is denser.",
+        "hypothesis": "Donald is denser than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is hairy. Kenneth is hairier.",
+        "hypothesis": "Kenneth is hairier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is short. Stephen is shorter.",
+        "hypothesis": "Stephen is shorter than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is tired. Lynn is more tired.",
+        "hypothesis": "Lynn is more tired than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is rude. Barbara is ruder.",
+        "hypothesis": "Barbara is ruder than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Don is gloomy. Andrea is gloomier.",
+        "hypothesis": "Andrea is gloomier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is pretty. Adam is prettier.",
+        "hypothesis": "Adam is prettier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is quiet. Barbara is quieter.",
+        "hypothesis": "Barbara is quieter than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "David is funny. Jennifer is funnier.",
+        "hypothesis": "Jennifer is funnier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is humble. Jimmy is humbler.",
+        "hypothesis": "Jimmy is humbler than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is renowned. Julie is more renowned.",
+        "hypothesis": "Julie is more renowned than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is slim. Jean is slimmer.",
+        "hypothesis": "Jean is slimmer than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is long. Frank is longer.",
+        "hypothesis": "Frank is longer than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is curvy. Judy is curvier.",
+        "hypothesis": "Judy is curvier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is crazy. Martin is crazier.",
+        "hypothesis": "Martin is crazier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is gloomy. Elizabeth is gloomier.",
+        "hypothesis": "Elizabeth is gloomier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is young. Edward is younger.",
+        "hypothesis": "Edward is younger than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is young. Kathryn is younger.",
+        "hypothesis": "Kathryn is younger than Jay.",
+        "label": 0
+    }
+]

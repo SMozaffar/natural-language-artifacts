@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Alfred and Anna are friends. He is a dietitian and she is an electrician.",
+        "hypothesis": "Alfred is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Rose are friends. He is a police officer and she is an architect.",
+        "hypothesis": "Dave is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Katie are friends. He is a cook and she is a designer.",
+        "hypothesis": "Jerry is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Ann are friends. He is a farmer and she is a physician.",
+        "hypothesis": "Dave is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ben and Alison are friends. He is a nurse and she is a journalist.",
+        "hypothesis": "Ben is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Emma are friends. He is a mechanic and she is a firefighter.",
+        "hypothesis": "Tom is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Louise are friends. He is a cook and she is an aviator.",
+        "hypothesis": "Stephen is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Judith are friends. He is a dietitian and she is a designer.",
+        "hypothesis": "Ian is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Lucy are friends. He is an electrician and she is an economist.",
+        "hypothesis": "Dick is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy and Leslie are friends. He is an engineer and she is an electrician.",
+        "hypothesis": "Jimmy is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Eleanor are friends. He is a farmer and she is an economist.",
+        "hypothesis": "Ken is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Nicole are friends. He is a physician and she is a farmer.",
+        "hypothesis": "Martin is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Katherine are friends. He is a secretary and she is a judge.",
+        "hypothesis": "Tim is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Elizabeth are friends. He is a farmer and she is a model.",
+        "hypothesis": "Eric is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Alison are friends. He is a farmer and she is a model.",
+        "hypothesis": "Bill is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Sophie are friends. He is an economist and she is a hairdresser.",
+        "hypothesis": "Edwin is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Charlotte are friends. He is an author and she is a firefighter.",
+        "hypothesis": "Hugh is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Jane are friends. He is an electrician and she is a photographer.",
+        "hypothesis": "Chris is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Ashley are friends. He is a farmer and she is an engineer.",
+        "hypothesis": "Dan is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ben and Sharon are friends. He is a scientist and she is a hairdresser.",
+        "hypothesis": "Ben is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Caroline are friends. He is a butler and she is a lawyer.",
+        "hypothesis": "Martin is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Kathleen are friends. He is a nurse and she is an actor.",
+        "hypothesis": "Harold is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Wendy are friends. He is a firefighter and she is a dietitian.",
+        "hypothesis": "Martin is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Melissa are friends. He is an artist and she is a dentist.",
+        "hypothesis": "Arthur is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Nancy are friends. He is an artist and she is a scientist.",
+        "hypothesis": "Edwin is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Emily are friends. He is a professor and she is a hairdresser.",
+        "hypothesis": "Carl is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "James and Louise are friends. He is a lawyer and she is a dietitian.",
+        "hypothesis": "James is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Victoria are friends. He is a firefighter and she is a dentist.",
+        "hypothesis": "Sam is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Charlotte are friends. He is a judge and she is a farmer.",
+        "hypothesis": "Ray is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Louise are friends. He is a firefighter and she is a journalist.",
+        "hypothesis": "Dick is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Lynn are friends. He is a plumber and she is an economist.",
+        "hypothesis": "Keith is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "James and Marilyn are friends. He is a professor and she is an actor.",
+        "hypothesis": "James is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Julia are friends. He is a judge and she is a writer.",
+        "hypothesis": "Mark is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Diana are friends. He is a writer and she is a secretary.",
+        "hypothesis": "Richard is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Ruth are friends. He is an aviator and she is a journalist.",
+        "hypothesis": "Frederick is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Diane are friends. He is a farmer and she is a secretary.",
+        "hypothesis": "Ray is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Andrea are friends. He is a photographer and she is a journalist.",
+        "hypothesis": "Al is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Andrea are friends. He is a designer and she is a photographer.",
+        "hypothesis": "Christopher is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Lynn are friends. He is a model and she is a teacher.",
+        "hypothesis": "Stephen is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Grace are friends. He is a cook and she is a police officer.",
+        "hypothesis": "Ryan is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Sarah are friends. He is a designer and she is a secretary.",
+        "hypothesis": "Harold is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Fiona are friends. He is a judge and she is a journalist.",
+        "hypothesis": "Patrick is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Katie are friends. He is an actor and she is an artist.",
+        "hypothesis": "Alex is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Nancy are friends. He is a journalist and she is a nurse.",
+        "hypothesis": "Lawrence is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Suzanne are friends. He is a judge and she is a dentist.",
+        "hypothesis": "Peter is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Kathleen are friends. He is a nurse and she is a model.",
+        "hypothesis": "Richard is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Patricia are friends. He is an architect and she is a teacher.",
+        "hypothesis": "Gary is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Elizabeth are friends. He is a scientist and she is a model.",
+        "hypothesis": "Philip is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Diane are friends. He is an artist and she is a dentist.",
+        "hypothesis": "Gary is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Sophie are friends. He is a photographer and she is an accountant.",
+        "hypothesis": "Bobby is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Frances are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "Henry is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Sarah are friends. He is a dentist and she is a hairdresser.",
+        "hypothesis": "Carl is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Elizabeth are friends. He is an aviator and she is an artist.",
+        "hypothesis": "Anthony is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Claire are friends. He is a judge and she is a librarian.",
+        "hypothesis": "Joe is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Jessica are friends. He is a police officer and she is a chef.",
+        "hypothesis": "Billy is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "George and Helen are friends. He is a scientist and she is a photographer.",
+        "hypothesis": "George is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Rebecca are friends. He is a teacher and she is a photographer.",
+        "hypothesis": "Stephen is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Sharon are friends. He is a police officer and she is an artist.",
+        "hypothesis": "Eric is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Heather are friends. He is a dietitian and she is a hairdresser.",
+        "hypothesis": "Keith is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Rachel are friends. He is an author and she is a model.",
+        "hypothesis": "Eric is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Wendy are friends. He is a nurse and she is a scientist.",
+        "hypothesis": "Keith is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Ellen are friends. He is a librarian and she is a tailor.",
+        "hypothesis": "Tim is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Marilyn are friends. He is a writer and she is an architect.",
+        "hypothesis": "Greg is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Sandra are friends. He is an electrician and she is a dentist.",
+        "hypothesis": "Christopher is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Lynn are friends. He is an economist and she is a chef.",
+        "hypothesis": "Keith is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Sharon are friends. He is a mechanic and she is an engineer.",
+        "hypothesis": "Arthur is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Ann are friends. He is an engineer and she is an economist.",
+        "hypothesis": "Daniel is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Anna are friends. He is a designer and she is an accountant.",
+        "hypothesis": "Philip is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Diane are friends. He is an architect and she is a lawyer.",
+        "hypothesis": "Bob is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Angela are friends. He is a model and she is a physician.",
+        "hypothesis": "Adam is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Sophie are friends. He is a farmer and she is a chef.",
+        "hypothesis": "Walter is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Sharon are friends. He is a journalist and she is a model.",
+        "hypothesis": "Don is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Nicole are friends. He is a firefighter and she is a photographer.",
+        "hypothesis": "Jim is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Leslie are friends. He is a butler and she is a farmer.",
+        "hypothesis": "Bob is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Frances are friends. He is a butler and she is a designer.",
+        "hypothesis": "Dave is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Joan are friends. He is an aviator and she is a butler.",
+        "hypothesis": "Walter is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Amanda are friends. He is a chef and she is a librarian.",
+        "hypothesis": "Paul is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Lucy are friends. He is a photographer and she is a dentist.",
+        "hypothesis": "Roy is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Patricia are friends. He is a tailor and she is a professor.",
+        "hypothesis": "Donald is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Kim are friends. He is a scientist and she is a model.",
+        "hypothesis": "Henry is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Robin are friends. He is a lawyer and she is an actor.",
+        "hypothesis": "Howard is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Donna are friends. He is a mechanic and she is a writer.",
+        "hypothesis": "Colin is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Ellen are friends. He is a butler and she is a lecturer.",
+        "hypothesis": "Harold is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Sally are friends. He is a police officer and she is a chef.",
+        "hypothesis": "Alan is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Pamela are friends. He is an aviator and she is a secretary.",
+        "hypothesis": "Walter is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Nicole are friends. He is a writer and she is a dentist.",
+        "hypothesis": "Lawrence is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Nicole are friends. He is an electrician and she is a scientist.",
+        "hypothesis": "Roger is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Sophie are friends. He is a plumber and she is an author.",
+        "hypothesis": "Tim is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Katie are friends. He is a farmer and she is a butler.",
+        "hypothesis": "Carl is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Elaine are friends. He is a dentist and she is a nurse.",
+        "hypothesis": "Jerry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Diane are friends. He is a physician and she is a judge.",
+        "hypothesis": "Joseph is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Sally are friends. He is an economist and she is a scientist.",
+        "hypothesis": "Brian is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Dorothy are friends. He is a lecturer and she is a police officer.",
+        "hypothesis": "Matt is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Alexandra are friends. He is a dentist and she is a secretary.",
+        "hypothesis": "Frank is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Julia are friends. He is an author and she is a lecturer.",
+        "hypothesis": "Carl is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason and Judith are friends. He is a lawyer and she is a dietitian.",
+        "hypothesis": "Jason is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Louise are friends. He is a nurse and she is a judge.",
+        "hypothesis": "Kevin is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Martha are friends. He is a model and she is a chef.",
+        "hypothesis": "Donald is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Rebecca are friends. He is a farmer and she is an architect.",
+        "hypothesis": "Patrick is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Kathleen are friends. He is a lecturer and she is a physician.",
+        "hypothesis": "Jack is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Kathleen are friends. He is an author and she is an electrician.",
+        "hypothesis": "Tony is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Florence are friends. He is a police officer and she is a nurse.",
+        "hypothesis": "Ryan is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Eleanor are friends. He is a lawyer and she is a model.",
+        "hypothesis": "Donald is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Julie are friends. He is a journalist and she is a nurse.",
+        "hypothesis": "Steven is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Sandra are friends. He is a librarian and she is a nurse.",
+        "hypothesis": "Stephen is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Sue are friends. He is a plumber and she is an actor.",
+        "hypothesis": "Bruce is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Heather are friends. He is a writer and she is an electrician.",
+        "hypothesis": "Bobby is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Betty are friends. He is a secretary and she is a professor.",
+        "hypothesis": "Tim is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Patricia are friends. He is a teacher and she is a firefighter.",
+        "hypothesis": "Bruce is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "George and Kathryn are friends. He is a dentist and she is an artist.",
+        "hypothesis": "George is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Julie are friends. He is a mechanic and she is a writer.",
+        "hypothesis": "Johnny is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Lisa are friends. He is a plumber and she is an aviator.",
+        "hypothesis": "Bruce is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Ellen are friends. He is an author and she is a tailor.",
+        "hypothesis": "Tim is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Edith are friends. He is a tailor and she is a judge.",
+        "hypothesis": "Ian is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Jill are friends. He is a judge and she is a farmer.",
+        "hypothesis": "Alex is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Sophie are friends. He is a librarian and she is a tailor.",
+        "hypothesis": "Carl is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Angela are friends. He is a hairdresser and she is a physician.",
+        "hypothesis": "Albert is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Deborah are friends. He is a secretary and she is a firefighter.",
+        "hypothesis": "Ken is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Katie are friends. He is an actor and she is a scientist.",
+        "hypothesis": "Frank is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Julia are friends. He is a model and she is a mechanic.",
+        "hypothesis": "Carl is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin and Charlotte are friends. He is a professor and she is a cook.",
+        "hypothesis": "Benjamin is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Barbara are friends. He is a plumber and she is a mechanic.",
+        "hypothesis": "Lawrence is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Katie are friends. He is a tailor and she is a lawyer.",
+        "hypothesis": "Roy is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Judy are friends. He is a hairdresser and she is a judge.",
+        "hypothesis": "Bob is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Sue are friends. He is a cook and she is a hairdresser.",
+        "hypothesis": "Bob is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Fiona are friends. He is a photographer and she is an author.",
+        "hypothesis": "Jerry is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Robert and Sophie are friends. He is a journalist and she is a tailor.",
+        "hypothesis": "Robert is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Robin are friends. He is an architect and she is a dietitian.",
+        "hypothesis": "Larry is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Kate are friends. He is a lawyer and she is a teacher.",
+        "hypothesis": "Anthony is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Marilyn are friends. He is a librarian and she is a lecturer.",
+        "hypothesis": "Edwin is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Diane are friends. He is a dietitian and she is a firefighter.",
+        "hypothesis": "Jim is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Christine are friends. He is a tailor and she is a firefighter.",
+        "hypothesis": "Roy is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Anne are friends. He is a lawyer and she is a scientist.",
+        "hypothesis": "Paul is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Michelle are friends. He is a librarian and she is an engineer.",
+        "hypothesis": "Gary is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Pamela are friends. He is an accountant and she is an economist.",
+        "hypothesis": "Mark is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Louise are friends. He is a lecturer and she is a mechanic.",
+        "hypothesis": "Dave is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Ellen are friends. He is a writer and she is a police officer.",
+        "hypothesis": "Joseph is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Diana are friends. He is a model and she is an author.",
+        "hypothesis": "Gary is an author.",
+        "label": 2
+    },
+    {
+        "premise": "John and Michelle are friends. He is a plumber and she is a scientist.",
+        "hypothesis": "John is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Nancy are friends. He is a photographer and she is a journalist.",
+        "hypothesis": "Samuel is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Dorothy are friends. He is an artist and she is a librarian.",
+        "hypothesis": "Harold is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Pamela are friends. He is a designer and she is an economist.",
+        "hypothesis": "Billy is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Maria are friends. He is an economist and she is an accountant.",
+        "hypothesis": "Jeff is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Julia are friends. He is a hairdresser and she is a farmer.",
+        "hypothesis": "Roger is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Rachel are friends. He is a cook and she is a librarian.",
+        "hypothesis": "Colin is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Rose are friends. He is an aviator and she is an economist.",
+        "hypothesis": "Billy is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Jean are friends. He is an economist and she is a butler.",
+        "hypothesis": "Philip is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Martha are friends. He is a mechanic and she is a butler.",
+        "hypothesis": "Simon is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Frances are friends. He is an economist and she is an accountant.",
+        "hypothesis": "Albert is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Fiona are friends. He is a model and she is a dentist.",
+        "hypothesis": "Thomas is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Rebecca are friends. He is a librarian and she is a photographer.",
+        "hypothesis": "Anthony is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Louise are friends. He is a secretary and she is a model.",
+        "hypothesis": "Andrew is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Rebecca are friends. He is a secretary and she is an artist.",
+        "hypothesis": "Albert is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Elizabeth are friends. He is an architect and she is a lawyer.",
+        "hypothesis": "Gary is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Jane are friends. He is a photographer and she is a police officer.",
+        "hypothesis": "Bruce is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Rachel are friends. He is an architect and she is a dentist.",
+        "hypothesis": "Daniel is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Sophie are friends. He is a model and she is a teacher.",
+        "hypothesis": "Matthew is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Carolyn are friends. He is a teacher and she is an author.",
+        "hypothesis": "Jerry is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Frances are friends. He is a scientist and she is a nurse.",
+        "hypothesis": "Alexander is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Fiona are friends. He is a librarian and she is a nurse.",
+        "hypothesis": "Nick is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Maria are friends. He is a lecturer and she is a dietitian.",
+        "hypothesis": "Bob is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Ellen are friends. He is a farmer and she is a dietitian.",
+        "hypothesis": "Francis is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin and Cynthia are friends. He is a firefighter and she is a farmer.",
+        "hypothesis": "Benjamin is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Donna are friends. He is a teacher and she is an artist.",
+        "hypothesis": "Richard is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Emily are friends. He is an electrician and she is an engineer.",
+        "hypothesis": "Andrew is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Emma are friends. He is a lawyer and she is a farmer.",
+        "hypothesis": "Tony is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Patricia are friends. He is a nurse and she is an economist.",
+        "hypothesis": "Jay is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Sally are friends. He is an engineer and she is a cook.",
+        "hypothesis": "Charlie is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Diane are friends. He is an electrician and she is a firefighter.",
+        "hypothesis": "Billy is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Laura are friends. He is a lecturer and she is a physician.",
+        "hypothesis": "Daniel is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Helen are friends. He is a tailor and she is a hairdresser.",
+        "hypothesis": "Steven is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Caroline are friends. He is an author and she is a professor.",
+        "hypothesis": "Henry is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Robin are friends. He is an electrician and she is a judge.",
+        "hypothesis": "Richard is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Amy are friends. He is a writer and she is a firefighter.",
+        "hypothesis": "Don is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Judith are friends. He is a lecturer and she is a chef.",
+        "hypothesis": "Harold is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Jill are friends. He is a nurse and she is a writer.",
+        "hypothesis": "Joe is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Emily are friends. He is a lawyer and she is a mechanic.",
+        "hypothesis": "Philip is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Laura are friends. He is a teacher and she is an engineer.",
+        "hypothesis": "Christopher is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Judith are friends. He is a lawyer and she is a farmer.",
+        "hypothesis": "Jonathan is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Jessica are friends. He is a plumber and she is an architect.",
+        "hypothesis": "Adam is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Rebecca are friends. He is a physician and she is a cook.",
+        "hypothesis": "Don is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Karen are friends. He is a photographer and she is an aviator.",
+        "hypothesis": "Carl is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Angela are friends. He is a plumber and she is a tailor.",
+        "hypothesis": "Bruce is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Victoria are friends. He is a writer and she is a teacher.",
+        "hypothesis": "Joseph is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Nicole are friends. He is a librarian and she is a lawyer.",
+        "hypothesis": "Bruce is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Karen are friends. He is a butler and she is a lawyer.",
+        "hypothesis": "Greg is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Caroline are friends. He is a scientist and she is an economist.",
+        "hypothesis": "Howard is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Helen are friends. He is an engineer and she is a cook.",
+        "hypothesis": "Gary is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Anne are friends. He is a lawyer and she is a farmer.",
+        "hypothesis": "Fred is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Deborah are friends. He is an accountant and she is a writer.",
+        "hypothesis": "Matt is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Stephanie are friends. He is a scientist and she is a nurse.",
+        "hypothesis": "Chris is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Anne are friends. He is a judge and she is a model.",
+        "hypothesis": "Billy is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Diane are friends. He is a plumber and she is a farmer.",
+        "hypothesis": "Paul is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Lynn are friends. He is an architect and she is an artist.",
+        "hypothesis": "Al is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Nicole are friends. He is a butler and she is a hairdresser.",
+        "hypothesis": "Jack is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Lynn are friends. He is an accountant and she is a scientist.",
+        "hypothesis": "Howard is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Joan are friends. He is a librarian and she is a model.",
+        "hypothesis": "Hugh is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Jessica are friends. He is a firefighter and she is a butler.",
+        "hypothesis": "Roger is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Martha are friends. He is an architect and she is a mechanic.",
+        "hypothesis": "Colin is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Julie are friends. He is a dentist and she is an accountant.",
+        "hypothesis": "Albert is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Amanda are friends. He is a librarian and she is a judge.",
+        "hypothesis": "Dan is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Rose are friends. He is a writer and she is a nurse.",
+        "hypothesis": "Bobby is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Maria are friends. He is an artist and she is a lecturer.",
+        "hypothesis": "Peter is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Patricia are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "Jerry is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Kelly are friends. He is a journalist and she is an engineer.",
+        "hypothesis": "Edward is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Carol are friends. He is a nurse and she is a secretary.",
+        "hypothesis": "Dick is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Ben and Deborah are friends. He is a nurse and she is an author.",
+        "hypothesis": "Ben is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Sue are friends. He is a writer and she is a photographer.",
+        "hypothesis": "Mark is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Charlotte are friends. He is a farmer and she is a journalist.",
+        "hypothesis": "Samuel is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Cynthia are friends. He is an author and she is a lecturer.",
+        "hypothesis": "Adam is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Leslie are friends. He is a chef and she is an author.",
+        "hypothesis": "Matt is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Nicole are friends. He is a physician and she is a professor.",
+        "hypothesis": "Andrew is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Lynn are friends. He is a writer and she is a chef.",
+        "hypothesis": "Joe is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Anne are friends. He is a cook and she is a judge.",
+        "hypothesis": "Donald is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Mary are friends. He is an engineer and she is a chef.",
+        "hypothesis": "Albert is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Linda are friends. He is a professor and she is a scientist.",
+        "hypothesis": "Ron is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Robin are friends. He is an electrician and she is a secretary.",
+        "hypothesis": "Mike is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Judy are friends. He is a scientist and she is a farmer.",
+        "hypothesis": "Steven is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Lauren are friends. He is a nurse and she is an artist.",
+        "hypothesis": "Francis is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Harriet are friends. He is an actor and she is a librarian.",
+        "hypothesis": "Joe is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Karen are friends. He is a model and she is a chef.",
+        "hypothesis": "Lawrence is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Angela are friends. He is a butler and she is an accountant.",
+        "hypothesis": "Gary is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Fiona are friends. He is an actor and she is a photographer.",
+        "hypothesis": "Patrick is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Betty are friends. He is a mechanic and she is a hairdresser.",
+        "hypothesis": "Steven is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Fiona are friends. He is a librarian and she is a firefighter.",
+        "hypothesis": "Jeff is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Anna are friends. He is an economist and she is a chef.",
+        "hypothesis": "Michael is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Virginia are friends. He is a chef and she is an architect.",
+        "hypothesis": "Matt is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Sophie are friends. He is a chef and she is a librarian.",
+        "hypothesis": "Roger is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Suzanne are friends. He is an author and she is a nurse.",
+        "hypothesis": "Steve is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Fiona are friends. He is a lawyer and she is a hairdresser.",
+        "hypothesis": "Ed is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Sue are friends. He is an accountant and she is a lawyer.",
+        "hypothesis": "Gary is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Jill are friends. He is a writer and she is a cook.",
+        "hypothesis": "Brian is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Cynthia are friends. He is an author and she is a hairdresser.",
+        "hypothesis": "Mark is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Rachel are friends. He is a police officer and she is a physician.",
+        "hypothesis": "Bill is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Christine are friends. He is a dentist and she is an accountant.",
+        "hypothesis": "Philip is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Elaine are friends. He is an economist and she is a journalist.",
+        "hypothesis": "Samuel is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Patricia are friends. He is an electrician and she is a plumber.",
+        "hypothesis": "Kevin is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Jill are friends. He is a teacher and she is a writer.",
+        "hypothesis": "Richard is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Sue are friends. He is an author and she is an actor.",
+        "hypothesis": "Adam is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Jessica are friends. He is a teacher and she is a scientist.",
+        "hypothesis": "Ron is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Sophie are friends. He is a teacher and she is an engineer.",
+        "hypothesis": "Alfred is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Eleanor are friends. He is a cook and she is an architect.",
+        "hypothesis": "Paul is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "David and Jill are friends. He is a nurse and she is a librarian.",
+        "hypothesis": "David is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Susan are friends. He is a teacher and she is a professor.",
+        "hypothesis": "Nick is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Pamela are friends. He is a cook and she is a judge.",
+        "hypothesis": "Edwin is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Sara are friends. He is a cook and she is a photographer.",
+        "hypothesis": "Charles is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Evelyn are friends. He is a designer and she is a dietitian.",
+        "hypothesis": "Harry is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Harriet are friends. He is a mechanic and she is a farmer.",
+        "hypothesis": "Nick is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Heather are friends. He is a scientist and she is a mechanic.",
+        "hypothesis": "Kenneth is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Lucy are friends. He is a dentist and she is a librarian.",
+        "hypothesis": "Matt is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Julie are friends. He is a secretary and she is a chef.",
+        "hypothesis": "Ralph is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Amy are friends. He is a teacher and she is a lecturer.",
+        "hypothesis": "Sam is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Elaine are friends. He is an engineer and she is a teacher.",
+        "hypothesis": "Roy is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Ann are friends. He is a mechanic and she is a journalist.",
+        "hypothesis": "Michael is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Jane are friends. He is a plumber and she is an accountant.",
+        "hypothesis": "Matt is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Wendy are friends. He is a physician and she is a lecturer.",
+        "hypothesis": "Bill is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Julia are friends. He is a dentist and she is a designer.",
+        "hypothesis": "Philip is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Katherine are friends. He is a firefighter and she is an accountant.",
+        "hypothesis": "Nick is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Virginia are friends. He is an aviator and she is a physician.",
+        "hypothesis": "Daniel is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Diane are friends. He is a dietitian and she is a physician.",
+        "hypothesis": "Steven is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Michelle are friends. He is a physician and she is a cook.",
+        "hypothesis": "Larry is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Andrea are friends. He is a cook and she is an economist.",
+        "hypothesis": "Howard is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Anne are friends. He is a writer and she is an electrician.",
+        "hypothesis": "Albert is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Catherine are friends. He is an electrician and she is an artist.",
+        "hypothesis": "Samuel is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Kathryn are friends. He is a plumber and she is an artist.",
+        "hypothesis": "Charles is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Lauren are friends. He is an economist and she is a designer.",
+        "hypothesis": "Simon is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Rebecca are friends. He is a dietitian and she is a cook.",
+        "hypothesis": "Larry is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Julie are friends. He is an architect and she is a firefighter.",
+        "hypothesis": "Alexander is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Katherine are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "Mike is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Claire are friends. He is a chef and she is a lawyer.",
+        "hypothesis": "Frank is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Donna are friends. He is a scientist and she is an electrician.",
+        "hypothesis": "Jonathan is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Elaine are friends. He is a mechanic and she is a secretary.",
+        "hypothesis": "Harry is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Judith are friends. He is a physician and she is a nurse.",
+        "hypothesis": "Kevin is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Grace are friends. He is an aviator and she is a judge.",
+        "hypothesis": "Ryan is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Leslie are friends. He is an accountant and she is a lawyer.",
+        "hypothesis": "Stephen is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Caroline are friends. He is an actor and she is a photographer.",
+        "hypothesis": "Steven is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Patricia are friends. He is a journalist and she is a judge.",
+        "hypothesis": "Jim is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Frances are friends. He is a writer and she is a mechanic.",
+        "hypothesis": "Ron is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Ashley are friends. He is a scientist and she is a judge.",
+        "hypothesis": "Jerry is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Carolyn are friends. He is a journalist and she is a farmer.",
+        "hypothesis": "Jack is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Eleanor are friends. He is an architect and she is an economist.",
+        "hypothesis": "Chris is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "David and Julie are friends. He is a librarian and she is a designer.",
+        "hypothesis": "David is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin and Lisa are friends. He is a model and she is a cook.",
+        "hypothesis": "Benjamin is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Melissa are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "Daniel is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Anne are friends. He is a dietitian and she is an engineer.",
+        "hypothesis": "Simon is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Edith are friends. He is a hairdresser and she is a plumber.",
+        "hypothesis": "Tom is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Rose are friends. He is a nurse and she is a tailor.",
+        "hypothesis": "Ken is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Kim are friends. He is a firefighter and she is a professor.",
+        "hypothesis": "Simon is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Anne are friends. He is a hairdresser and she is a police officer.",
+        "hypothesis": "Chris is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "George and Catherine are friends. He is an author and she is an actor.",
+        "hypothesis": "George is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Katie are friends. He is a lawyer and she is a farmer.",
+        "hypothesis": "Stephen is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Margaret are friends. He is an electrician and she is a hairdresser.",
+        "hypothesis": "Ralph is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Angela are friends. He is a lecturer and she is an accountant.",
+        "hypothesis": "Daniel is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Ruth are friends. He is an author and she is an accountant.",
+        "hypothesis": "Alfred is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Ann are friends. He is an economist and she is a hairdresser.",
+        "hypothesis": "Edwin is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Anne are friends. He is a secretary and she is an accountant.",
+        "hypothesis": "Steve is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Joan are friends. He is an actor and she is a writer.",
+        "hypothesis": "Matthew is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Kathryn are friends. He is an actor and she is an electrician.",
+        "hypothesis": "Thomas is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Diane are friends. He is a hairdresser and she is a dentist.",
+        "hypothesis": "Mike is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Margaret are friends. He is a nurse and she is a librarian.",
+        "hypothesis": "Tim is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Diana are friends. He is a secretary and she is a butler.",
+        "hypothesis": "Alexander is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Fiona are friends. He is a nurse and she is a hairdresser.",
+        "hypothesis": "Daniel is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Amanda are friends. He is a police officer and she is a dentist.",
+        "hypothesis": "Dick is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Sarah are friends. He is a scientist and she is a professor.",
+        "hypothesis": "Joseph is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Frances are friends. He is a dietitian and she is a scientist.",
+        "hypothesis": "Edward is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Frances are friends. He is a judge and she is a hairdresser.",
+        "hypothesis": "Matt is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "David and Deborah are friends. He is an economist and she is a journalist.",
+        "hypothesis": "David is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Kim are friends. He is a judge and she is a secretary.",
+        "hypothesis": "Louis is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Catherine are friends. He is an economist and she is a tailor.",
+        "hypothesis": "Fred is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Katie are friends. He is a hairdresser and she is a judge.",
+        "hypothesis": "Harold is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Melissa are friends. He is an accountant and she is an aviator.",
+        "hypothesis": "Colin is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Florence are friends. He is a farmer and she is a writer.",
+        "hypothesis": "Adam is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Ruth are friends. He is a journalist and she is a professor.",
+        "hypothesis": "Charles is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Caroline are friends. He is a photographer and she is a writer.",
+        "hypothesis": "Charles is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Deborah are friends. He is a photographer and she is an aviator.",
+        "hypothesis": "Brian is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Lauren are friends. He is a model and she is an artist.",
+        "hypothesis": "Fred is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Wendy are friends. He is a firefighter and she is an engineer.",
+        "hypothesis": "Walter is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Angela are friends. He is a journalist and she is a mechanic.",
+        "hypothesis": "Alex is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Anna are friends. He is a scientist and she is a butler.",
+        "hypothesis": "Ken is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Christine are friends. He is a mechanic and she is a police officer.",
+        "hypothesis": "Ian is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Anna are friends. He is an engineer and she is a cook.",
+        "hypothesis": "Steve is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Sharon are friends. He is an electrician and she is an aviator.",
+        "hypothesis": "Tony is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Sharon are friends. He is a teacher and she is an architect.",
+        "hypothesis": "Roy is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Fiona are friends. He is a dietitian and she is a mechanic.",
+        "hypothesis": "Louis is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Sophie are friends. He is a librarian and she is a tailor.",
+        "hypothesis": "Ed is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Elaine are friends. He is a photographer and she is a professor.",
+        "hypothesis": "Bob is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Donna are friends. He is a dietitian and she is a photographer.",
+        "hypothesis": "Albert is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Ann are friends. He is a mechanic and she is an aviator.",
+        "hypothesis": "Fred is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Ashley are friends. He is a lecturer and she is a plumber.",
+        "hypothesis": "Tom is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin and Julie are friends. He is a lecturer and she is an author.",
+        "hypothesis": "Benjamin is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Lynn are friends. He is an artist and she is a dentist.",
+        "hypothesis": "Richard is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Victoria are friends. He is an electrician and she is a writer.",
+        "hypothesis": "Adam is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Amy are friends. He is a physician and she is a lecturer.",
+        "hypothesis": "Richard is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Kathryn are friends. He is a professor and she is a scientist.",
+        "hypothesis": "Dave is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Margaret are friends. He is a farmer and she is an author.",
+        "hypothesis": "Ian is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Victoria are friends. He is a dietitian and she is a physician.",
+        "hypothesis": "Thomas is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Elizabeth are friends. He is a teacher and she is a designer.",
+        "hypothesis": "Tom is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Dorothy are friends. He is a photographer and she is a tailor.",
+        "hypothesis": "Edwin is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Martha are friends. He is a dietitian and she is a scientist.",
+        "hypothesis": "Johnny is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Wendy are friends. He is an economist and she is a cook.",
+        "hypothesis": "Roger is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Barbara are friends. He is a photographer and she is an architect.",
+        "hypothesis": "Brian is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Heather are friends. He is a secretary and she is a lawyer.",
+        "hypothesis": "Jerry is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason and Harriet are friends. He is a police officer and she is an aviator.",
+        "hypothesis": "Jason is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Victoria are friends. He is a farmer and she is a mechanic.",
+        "hypothesis": "Alexander is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Nancy are friends. He is a scientist and she is a farmer.",
+        "hypothesis": "Ralph is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Judy are friends. He is a plumber and she is an actor.",
+        "hypothesis": "Matt is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Ann are friends. He is an electrician and she is a professor.",
+        "hypothesis": "Albert is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Barbara are friends. He is a writer and she is a scientist.",
+        "hypothesis": "Roger is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Mary are friends. He is a police officer and she is a scientist.",
+        "hypothesis": "Stephen is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Katherine are friends. He is a physician and she is a farmer.",
+        "hypothesis": "Frank is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Lynn are friends. He is a writer and she is a secretary.",
+        "hypothesis": "Jack is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Martha are friends. He is a designer and she is a dietitian.",
+        "hypothesis": "Anthony is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Elizabeth are friends. He is an actor and she is a professor.",
+        "hypothesis": "Lawrence is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Heather are friends. He is a dietitian and she is a mechanic.",
+        "hypothesis": "Johnny is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Jean are friends. He is a nurse and she is an author.",
+        "hypothesis": "Daniel is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Melissa are friends. He is an author and she is an economist.",
+        "hypothesis": "Bruce is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Jessica are friends. He is an engineer and she is a plumber.",
+        "hypothesis": "Alfred is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Alice are friends. He is a dietitian and she is a cook.",
+        "hypothesis": "Jack is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Jill are friends. He is a scientist and she is a judge.",
+        "hypothesis": "Harry is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Heather are friends. He is an actor and she is a plumber.",
+        "hypothesis": "Frederick is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Emma are friends. He is an accountant and she is a model.",
+        "hypothesis": "Chris is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Lisa are friends. He is an artist and she is a nurse.",
+        "hypothesis": "Ralph is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Maria are friends. He is a firefighter and she is a police officer.",
+        "hypothesis": "Harold is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Heather are friends. He is a scientist and she is a butler.",
+        "hypothesis": "Ralph is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Katie are friends. He is a physician and she is an electrician.",
+        "hypothesis": "Al is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Rose are friends. He is a mechanic and she is a judge.",
+        "hypothesis": "Keith is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Suzanne are friends. He is an aviator and she is a cook.",
+        "hypothesis": "Jeff is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Betty are friends. He is a firefighter and she is a secretary.",
+        "hypothesis": "Peter is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Kim are friends. He is an author and she is an accountant.",
+        "hypothesis": "Jerry is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Melissa are friends. He is a butler and she is an actor.",
+        "hypothesis": "Simon is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Melissa are friends. He is a cook and she is a police officer.",
+        "hypothesis": "Frank is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason and Evelyn are friends. He is a dietitian and she is a police officer.",
+        "hypothesis": "Jason is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Anna are friends. He is a secretary and she is a photographer.",
+        "hypothesis": "Christopher is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Annie are friends. He is an author and she is an actor.",
+        "hypothesis": "Alfred is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Anne are friends. He is a cook and she is a chef.",
+        "hypothesis": "Charlie is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Alison are friends. He is a dietitian and she is an aviator.",
+        "hypothesis": "Thomas is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Jessica are friends. He is a hairdresser and she is a teacher.",
+        "hypothesis": "Andrew is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Janet are friends. He is a designer and she is a journalist.",
+        "hypothesis": "Larry is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Carol are friends. He is an actor and she is a scientist.",
+        "hypothesis": "Paul is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Nancy are friends. He is a plumber and she is a model.",
+        "hypothesis": "Tim is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Alice are friends. He is a plumber and she is a cook.",
+        "hypothesis": "Howard is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Alison are friends. He is an author and she is an architect.",
+        "hypothesis": "Ken is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Betty are friends. He is a firefighter and she is an economist.",
+        "hypothesis": "Carl is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Elizabeth are friends. He is a physician and she is a farmer.",
+        "hypothesis": "Mark is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Kim are friends. He is an artist and she is a writer.",
+        "hypothesis": "Edward is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Sara are friends. He is an accountant and she is a writer.",
+        "hypothesis": "Harry is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Grace are friends. He is a judge and she is a lecturer.",
+        "hypothesis": "Bruce is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Kathy are friends. He is a plumber and she is an electrician.",
+        "hypothesis": "Tim is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Annie are friends. He is a firefighter and she is a nurse.",
+        "hypothesis": "Johnny is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Jessica are friends. He is a plumber and she is a librarian.",
+        "hypothesis": "Bob is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Patricia are friends. He is a police officer and she is a photographer.",
+        "hypothesis": "Charlie is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Lucy are friends. He is a secretary and she is a hairdresser.",
+        "hypothesis": "Brian is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Victoria are friends. He is an engineer and she is an artist.",
+        "hypothesis": "Eric is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Rachel are friends. He is an author and she is a hairdresser.",
+        "hypothesis": "Tony is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Diana are friends. He is a professor and she is a lawyer.",
+        "hypothesis": "Walter is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "James and Deborah are friends. He is a cook and she is a physician.",
+        "hypothesis": "James is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Cynthia are friends. He is a cook and she is an economist.",
+        "hypothesis": "Scott is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Eleanor are friends. He is an accountant and she is a butler.",
+        "hypothesis": "Hugh is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Suzanne are friends. He is an aviator and she is a firefighter.",
+        "hypothesis": "Ron is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Frances are friends. He is an aviator and she is an actor.",
+        "hypothesis": "Ryan is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Eleanor are friends. He is a chef and she is a dentist.",
+        "hypothesis": "Philip is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Lisa are friends. He is an economist and she is a model.",
+        "hypothesis": "Steven is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Jill are friends. He is an architect and she is a secretary.",
+        "hypothesis": "Ray is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Emma are friends. He is a cook and she is a judge.",
+        "hypothesis": "Walter is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Jane are friends. He is an architect and she is a police officer.",
+        "hypothesis": "Edwin is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Suzanne are friends. He is a mechanic and she is an actor.",
+        "hypothesis": "Ralph is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Carol are friends. He is a nurse and she is a photographer.",
+        "hypothesis": "Mark is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Jane are friends. He is a cook and she is a dentist.",
+        "hypothesis": "Fred is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Claire are friends. He is a journalist and she is a professor.",
+        "hypothesis": "Simon is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Linda are friends. He is a nurse and she is a mechanic.",
+        "hypothesis": "Samuel is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Evelyn are friends. He is an accountant and she is a professor.",
+        "hypothesis": "Ed is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Julia are friends. He is a mechanic and she is a hairdresser.",
+        "hypothesis": "Matthew is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Julia are friends. He is a librarian and she is an aviator.",
+        "hypothesis": "Joe is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Lauren are friends. He is a hairdresser and she is a tailor.",
+        "hypothesis": "Walter is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Kate are friends. He is a farmer and she is a nurse.",
+        "hypothesis": "Sam is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Deborah are friends. He is an aviator and she is an engineer.",
+        "hypothesis": "Peter is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Jennifer are friends. He is a chef and she is a secretary.",
+        "hypothesis": "Bill is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Wendy are friends. He is a mechanic and she is a nurse.",
+        "hypothesis": "Richard is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Helen are friends. He is an accountant and she is an engineer.",
+        "hypothesis": "Michael is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Suzanne are friends. He is a secretary and she is an artist.",
+        "hypothesis": "Ed is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Joan are friends. He is a lawyer and she is a chef.",
+        "hypothesis": "Walter is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Julia are friends. He is a lawyer and she is a librarian.",
+        "hypothesis": "Frederick is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Wendy are friends. He is a farmer and she is a cook.",
+        "hypothesis": "Billy is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Diane are friends. He is an electrician and she is a tailor.",
+        "hypothesis": "Greg is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Ellen are friends. He is an accountant and she is a hairdresser.",
+        "hypothesis": "Chris is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Cynthia are friends. He is an aviator and she is a police officer.",
+        "hypothesis": "Jerry is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "David and Jennifer are friends. He is an author and she is a butler.",
+        "hypothesis": "David is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Emma are friends. He is a photographer and she is a tailor.",
+        "hypothesis": "Dan is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Lauren are friends. He is a writer and she is an aviator.",
+        "hypothesis": "Roger is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Cynthia are friends. He is a physician and she is a librarian.",
+        "hypothesis": "Johnny is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Grace are friends. He is a firefighter and she is a professor.",
+        "hypothesis": "Gary is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "George and Diane are friends. He is a photographer and she is a judge.",
+        "hypothesis": "George is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Amanda are friends. He is a hairdresser and she is a cook.",
+        "hypothesis": "Frank is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Virginia are friends. He is a hairdresser and she is an artist.",
+        "hypothesis": "Jim is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Caroline are friends. He is a police officer and she is an engineer.",
+        "hypothesis": "Roger is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Rebecca are friends. He is a journalist and she is a nurse.",
+        "hypothesis": "Larry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Robert and Jill are friends. He is a librarian and she is a dentist.",
+        "hypothesis": "Robert is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Pamela are friends. He is a secretary and she is an actor.",
+        "hypothesis": "Bill is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Fiona are friends. He is an economist and she is a journalist.",
+        "hypothesis": "Carl is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Catherine are friends. He is a dietitian and she is a writer.",
+        "hypothesis": "Bobby is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Margaret are friends. He is a secretary and she is a nurse.",
+        "hypothesis": "Steven is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Jennifer are friends. He is an economist and she is a firefighter.",
+        "hypothesis": "Bruce is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Marie are friends. He is a physician and she is an electrician.",
+        "hypothesis": "Arthur is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Jean are friends. He is a dietitian and she is a journalist.",
+        "hypothesis": "Kevin is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Leslie are friends. He is a cook and she is an electrician.",
+        "hypothesis": "Ryan is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Patricia are friends. He is a lecturer and she is a scientist.",
+        "hypothesis": "Fred is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Ellen are friends. He is a journalist and she is a plumber.",
+        "hypothesis": "Sam is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Christine are friends. He is a tailor and she is a journalist.",
+        "hypothesis": "Mark is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "John and Rachel are friends. He is a journalist and she is a tailor.",
+        "hypothesis": "John is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Melissa are friends. He is a physician and she is a librarian.",
+        "hypothesis": "Francis is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Rebecca are friends. He is a designer and she is a dentist.",
+        "hypothesis": "Stephen is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Angela are friends. He is a nurse and she is a dentist.",
+        "hypothesis": "Alexander is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Emily are friends. He is an aviator and she is a hairdresser.",
+        "hypothesis": "Hugh is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Lucy are friends. He is a professor and she is an architect.",
+        "hypothesis": "Michael is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Harriet are friends. He is a dentist and she is an accountant.",
+        "hypothesis": "Bob is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Sandra are friends. He is an author and she is a hairdresser.",
+        "hypothesis": "Alex is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Angela are friends. He is a physician and she is an accountant.",
+        "hypothesis": "Jeff is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Marilyn are friends. He is an artist and she is a photographer.",
+        "hypothesis": "Thomas is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Susan are friends. He is a hairdresser and she is an architect.",
+        "hypothesis": "Sam is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Jane are friends. He is a librarian and she is a teacher.",
+        "hypothesis": "Hugh is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Alexandra are friends. He is a lecturer and she is a police officer.",
+        "hypothesis": "Jeff is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Laura are friends. He is a physician and she is a plumber.",
+        "hypothesis": "Frederick is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Lauren are friends. He is a dietitian and she is a police officer.",
+        "hypothesis": "Peter is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Charlotte are friends. He is an artist and she is a writer.",
+        "hypothesis": "Daniel is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Kelly are friends. He is a plumber and she is a teacher.",
+        "hypothesis": "Arthur is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Sophie are friends. He is a lecturer and she is a tailor.",
+        "hypothesis": "Steve is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Louise are friends. He is a journalist and she is a cook.",
+        "hypothesis": "Donald is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "James and Jennifer are friends. He is a journalist and she is a model.",
+        "hypothesis": "James is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Nicole are friends. He is a police officer and she is a mechanic.",
+        "hypothesis": "Daniel is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Martha are friends. He is a firefighter and she is an architect.",
+        "hypothesis": "Albert is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Cynthia are friends. He is a professor and she is a journalist.",
+        "hypothesis": "Gary is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Julia are friends. He is a plumber and she is a dietitian.",
+        "hypothesis": "Anthony is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Kim are friends. He is a secretary and she is an aviator.",
+        "hypothesis": "Greg is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Susan are friends. He is a tailor and she is a professor.",
+        "hypothesis": "Arthur is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Julia are friends. He is a chef and she is a writer.",
+        "hypothesis": "Billy is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Caroline are friends. He is a police officer and she is a mechanic.",
+        "hypothesis": "Samuel is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Catherine are friends. He is a librarian and she is a chef.",
+        "hypothesis": "Bob is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Melissa are friends. He is an architect and she is an accountant.",
+        "hypothesis": "Harry is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Diana are friends. He is an engineer and she is a teacher.",
+        "hypothesis": "Jerry is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Frances are friends. He is an electrician and she is a cook.",
+        "hypothesis": "Alan is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Donna are friends. He is a cook and she is an artist.",
+        "hypothesis": "Adam is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Mary are friends. He is a tailor and she is a photographer.",
+        "hypothesis": "Hugh is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Carolyn are friends. He is a lecturer and she is a librarian.",
+        "hypothesis": "Christopher is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Heather are friends. He is a designer and she is a model.",
+        "hypothesis": "Samuel is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Kelly are friends. He is a cook and she is a professor.",
+        "hypothesis": "Steven is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Judith are friends. He is a physician and she is a designer.",
+        "hypothesis": "Daniel is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Frances are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "Ralph is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Claire are friends. He is a tailor and she is a cook.",
+        "hypothesis": "Frank is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Elaine are friends. He is a writer and she is a tailor.",
+        "hypothesis": "Martin is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Ashley are friends. He is a butler and she is a cook.",
+        "hypothesis": "Jack is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Joan are friends. He is an engineer and she is a physician.",
+        "hypothesis": "Christopher is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Caroline are friends. He is a butler and she is a writer.",
+        "hypothesis": "Daniel is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Sandra are friends. He is an author and she is a photographer.",
+        "hypothesis": "Anthony is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Margaret are friends. He is a designer and she is a professor.",
+        "hypothesis": "Billy is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Mary are friends. He is a teacher and she is an electrician.",
+        "hypothesis": "Jerry is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Kim are friends. He is a secretary and she is an actor.",
+        "hypothesis": "Colin is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Victoria are friends. He is an engineer and she is an author.",
+        "hypothesis": "Ian is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Julie are friends. He is an electrician and she is an actor.",
+        "hypothesis": "Bruce is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Margaret are friends. He is an economist and she is a teacher.",
+        "hypothesis": "Jerry is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Caroline are friends. He is a lecturer and she is a police officer.",
+        "hypothesis": "Alex is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Michelle are friends. He is a hairdresser and she is a cook.",
+        "hypothesis": "Ralph is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Catherine are friends. He is a police officer and she is an electrician.",
+        "hypothesis": "Steven is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Diana are friends. He is a dietitian and she is a judge.",
+        "hypothesis": "Roger is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Maria are friends. He is a chef and she is a designer.",
+        "hypothesis": "Harold is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Annie are friends. He is a plumber and she is an electrician.",
+        "hypothesis": "Brian is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Janet are friends. He is an electrician and she is a hairdresser.",
+        "hypothesis": "Bobby is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Julie are friends. He is an aviator and she is a police officer.",
+        "hypothesis": "Arthur is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Nancy are friends. He is a professor and she is a police officer.",
+        "hypothesis": "Charlie is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Rachel are friends. He is a butler and she is an aviator.",
+        "hypothesis": "Walter is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Angela are friends. He is a dentist and she is a professor.",
+        "hypothesis": "Steve is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Catherine are friends. He is a judge and she is a butler.",
+        "hypothesis": "Don is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Grace are friends. He is a plumber and she is a lecturer.",
+        "hypothesis": "Philip is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Jessica are friends. He is a dentist and she is a professor.",
+        "hypothesis": "Larry is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Pamela are friends. He is a cook and she is a firefighter.",
+        "hypothesis": "Simon is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Sara are friends. He is a professor and she is a tailor.",
+        "hypothesis": "Keith is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Edith are friends. He is a writer and she is a hairdresser.",
+        "hypothesis": "Charles is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Alison are friends. He is a model and she is an author.",
+        "hypothesis": "Mike is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Robin are friends. He is a lecturer and she is an actor.",
+        "hypothesis": "Arthur is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Fiona are friends. He is an engineer and she is a secretary.",
+        "hypothesis": "Jay is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Kathleen are friends. He is an accountant and she is a designer.",
+        "hypothesis": "Andrew is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Marie are friends. He is a police officer and she is an accountant.",
+        "hypothesis": "Ken is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Pamela are friends. He is an electrician and she is a dentist.",
+        "hypothesis": "Billy is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Marie are friends. He is a farmer and she is an artist.",
+        "hypothesis": "Michael is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Judy are friends. He is a secretary and she is a writer.",
+        "hypothesis": "Chris is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Angela are friends. He is a lawyer and she is a teacher.",
+        "hypothesis": "Walter is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Rachel are friends. He is a nurse and she is a scientist.",
+        "hypothesis": "Alfred is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Jennifer are friends. He is a farmer and she is a physician.",
+        "hypothesis": "Steven is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Maria are friends. He is a firefighter and she is a mechanic.",
+        "hypothesis": "Jay is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Michelle are friends. He is a farmer and she is a butler.",
+        "hypothesis": "Simon is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Emily are friends. He is an engineer and she is a journalist.",
+        "hypothesis": "Dan is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Sharon are friends. He is a firefighter and she is a secretary.",
+        "hypothesis": "Matthew is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Patricia are friends. He is an aviator and she is an actor.",
+        "hypothesis": "Roger is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Karen are friends. He is a model and she is a chef.",
+        "hypothesis": "Simon is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Katherine are friends. He is a photographer and she is a scientist.",
+        "hypothesis": "Patrick is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "James and Kelly are friends. He is a tailor and she is an electrician.",
+        "hypothesis": "James is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Julie are friends. He is an artist and she is an actor.",
+        "hypothesis": "Edward is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "William and Barbara are friends. He is a lecturer and she is an accountant.",
+        "hypothesis": "William is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Janet are friends. He is a writer and she is a designer.",
+        "hypothesis": "Roy is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Suzanne are friends. He is a librarian and she is a designer.",
+        "hypothesis": "Steven is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Diane are friends. He is an aviator and she is an actor.",
+        "hypothesis": "Hugh is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Cynthia are friends. He is a cook and she is an artist.",
+        "hypothesis": "Daniel is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Martha are friends. He is a photographer and she is a chef.",
+        "hypothesis": "Christopher is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Betty are friends. He is a butler and she is a physician.",
+        "hypothesis": "Ralph is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Carol are friends. He is an actor and she is a physician.",
+        "hypothesis": "Don is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Ruth are friends. He is a photographer and she is a nurse.",
+        "hypothesis": "Martin is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Harriet are friends. He is a secretary and she is a professor.",
+        "hypothesis": "Joe is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Caroline are friends. He is a judge and she is a teacher.",
+        "hypothesis": "Frank is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Deborah are friends. He is a plumber and she is a mechanic.",
+        "hypothesis": "Johnny is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Kathy are friends. He is a librarian and she is an author.",
+        "hypothesis": "Andrew is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Nancy are friends. He is a firefighter and she is a photographer.",
+        "hypothesis": "Larry is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert and Kelly are friends. He is a lecturer and she is an electrician.",
+        "hypothesis": "Robert is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Maria are friends. He is an author and she is a librarian.",
+        "hypothesis": "Joseph is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Caroline are friends. He is a hairdresser and she is an economist.",
+        "hypothesis": "Jack is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Rose are friends. He is a photographer and she is an artist.",
+        "hypothesis": "Jack is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Anne are friends. He is a judge and she is a lecturer.",
+        "hypothesis": "Bruce is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Patricia are friends. He is a chef and she is a secretary.",
+        "hypothesis": "Mike is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Kelly are friends. He is a lecturer and she is a dentist.",
+        "hypothesis": "Alexander is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Ruth are friends. He is an electrician and she is a police officer.",
+        "hypothesis": "Kevin is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Harriet are friends. He is an accountant and she is a mechanic.",
+        "hypothesis": "Joe is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Rachel are friends. He is a photographer and she is a model.",
+        "hypothesis": "Tom is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Annie are friends. He is a judge and she is a farmer.",
+        "hypothesis": "Tim is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Kate are friends. He is an architect and she is a cook.",
+        "hypothesis": "Charles is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Jill are friends. He is an aviator and she is a scientist.",
+        "hypothesis": "Eric is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Patricia are friends. He is an accountant and she is a teacher.",
+        "hypothesis": "Alan is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Victoria are friends. He is a secretary and she is an electrician.",
+        "hypothesis": "Hugh is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "James and Edith are friends. He is a nurse and she is an actor.",
+        "hypothesis": "James is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Judith are friends. He is a lawyer and she is a hairdresser.",
+        "hypothesis": "Samuel is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Helen are friends. He is a plumber and she is an artist.",
+        "hypothesis": "Frank is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Margaret are friends. He is an author and she is a farmer.",
+        "hypothesis": "Paul is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Lynn are friends. He is a butler and she is a chef.",
+        "hypothesis": "Gary is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Heather are friends. He is a librarian and she is an accountant.",
+        "hypothesis": "Jerry is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Pamela are friends. He is an accountant and she is a police officer.",
+        "hypothesis": "Roger is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Ashley are friends. He is a dietitian and she is an aviator.",
+        "hypothesis": "Louis is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Stephanie are friends. He is a lawyer and she is a farmer.",
+        "hypothesis": "Greg is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Janet are friends. He is an artist and she is a teacher.",
+        "hypothesis": "Michael is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Heather are friends. He is an economist and she is an artist.",
+        "hypothesis": "Charles is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Leslie are friends. He is an actor and she is a farmer.",
+        "hypothesis": "Paul is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Elaine are friends. He is an electrician and she is a police officer.",
+        "hypothesis": "Alexander is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "George and Catherine are friends. He is an engineer and she is a dentist.",
+        "hypothesis": "George is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "John and Amanda are friends. He is a dentist and she is an author.",
+        "hypothesis": "John is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Nancy are friends. He is a model and she is an author.",
+        "hypothesis": "Albert is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Jessica are friends. He is a teacher and she is a scientist.",
+        "hypothesis": "Christopher is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Judy are friends. He is a police officer and she is a dentist.",
+        "hypothesis": "Andrew is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Eleanor are friends. He is a firefighter and she is a dentist.",
+        "hypothesis": "Stephen is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin and Anne are friends. He is an accountant and she is a mechanic.",
+        "hypothesis": "Benjamin is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Alexandra are friends. He is a teacher and she is a farmer.",
+        "hypothesis": "Henry is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Emma are friends. He is a librarian and she is an economist.",
+        "hypothesis": "Jim is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Janet are friends. He is a chef and she is a lecturer.",
+        "hypothesis": "Johnny is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Nicole are friends. He is a cook and she is a scientist.",
+        "hypothesis": "Francis is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Kate are friends. He is an artist and she is a nurse.",
+        "hypothesis": "Andrew is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Rachel are friends. He is a model and she is an actor.",
+        "hypothesis": "Kevin is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Alexandra are friends. He is a chef and she is an engineer.",
+        "hypothesis": "Alexander is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Frances are friends. He is a butler and she is an engineer.",
+        "hypothesis": "Scott is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Donna are friends. He is a secretary and she is a teacher.",
+        "hypothesis": "Colin is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Laura are friends. He is a teacher and she is a mechanic.",
+        "hypothesis": "Dave is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "George and Jennifer are friends. He is a librarian and she is a journalist.",
+        "hypothesis": "George is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Deborah are friends. He is a scientist and she is a writer.",
+        "hypothesis": "Bobby is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Ashley are friends. He is an economist and she is a police officer.",
+        "hypothesis": "Ray is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Cynthia are friends. He is an economist and she is a designer.",
+        "hypothesis": "Alexander is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Cynthia are friends. He is a tailor and she is an artist.",
+        "hypothesis": "Lawrence is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Carol are friends. He is an architect and she is an artist.",
+        "hypothesis": "Ron is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Susan are friends. He is a chef and she is an architect.",
+        "hypothesis": "Patrick is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Kathy are friends. He is a secretary and she is a mechanic.",
+        "hypothesis": "Charlie is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Sally are friends. He is an actor and she is a lawyer.",
+        "hypothesis": "Andrew is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Judith are friends. He is a secretary and she is a model.",
+        "hypothesis": "Simon is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Annie are friends. He is an electrician and she is an accountant.",
+        "hypothesis": "Frederick is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Leslie are friends. He is an economist and she is a mechanic.",
+        "hypothesis": "Matthew is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Ruth are friends. He is a librarian and she is a model.",
+        "hypothesis": "Bruce is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ben and Lauren are friends. He is a physician and she is a model.",
+        "hypothesis": "Ben is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Sarah are friends. He is a nurse and she is a model.",
+        "hypothesis": "Johnny is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Ellen are friends. He is a photographer and she is a designer.",
+        "hypothesis": "Johnny is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason and Katie are friends. He is a model and she is an artist.",
+        "hypothesis": "Jason is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Susan are friends. He is a nurse and she is an author.",
+        "hypothesis": "Frank is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Marie are friends. He is a physician and she is a mechanic.",
+        "hypothesis": "Matt is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Eleanor are friends. He is a tailor and she is a scientist.",
+        "hypothesis": "Edward is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Julie are friends. He is an artist and she is a dentist.",
+        "hypothesis": "Fred is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Eleanor are friends. He is an aviator and she is a model.",
+        "hypothesis": "Keith is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Barbara are friends. He is an architect and she is an author.",
+        "hypothesis": "Harold is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Diana are friends. He is a scientist and she is an actor.",
+        "hypothesis": "Ron is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Cynthia are friends. He is a mechanic and she is a butler.",
+        "hypothesis": "Ralph is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Andrea are friends. He is a plumber and she is a cook.",
+        "hypothesis": "Dave is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Janet are friends. He is a model and she is a scientist.",
+        "hypothesis": "Howard is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Emily are friends. He is a butler and she is a judge.",
+        "hypothesis": "Jack is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Jean are friends. He is a scientist and she is a secretary.",
+        "hypothesis": "Alexander is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Rebecca are friends. He is a dietitian and she is an accountant.",
+        "hypothesis": "Louis is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Lauren are friends. He is a photographer and she is an architect.",
+        "hypothesis": "Jim is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Ruth are friends. He is a farmer and she is a librarian.",
+        "hypothesis": "Al is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Dorothy are friends. He is a teacher and she is an actor.",
+        "hypothesis": "Bill is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Janet are friends. He is a scientist and she is a dietitian.",
+        "hypothesis": "Colin is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Susan are friends. He is an economist and she is an artist.",
+        "hypothesis": "Matthew is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Kelly are friends. He is a lecturer and she is an accountant.",
+        "hypothesis": "Tim is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Catherine are friends. He is a firefighter and she is an architect.",
+        "hypothesis": "Andrew is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Karen are friends. He is an aviator and she is a plumber.",
+        "hypothesis": "Roy is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Harriet are friends. He is a writer and she is a plumber.",
+        "hypothesis": "Philip is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Carol are friends. He is a teacher and she is a chef.",
+        "hypothesis": "Francis is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Frances are friends. He is an engineer and she is a plumber.",
+        "hypothesis": "Ralph is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Donna are friends. He is a librarian and she is a plumber.",
+        "hypothesis": "Alex is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Caroline are friends. He is a butler and she is an accountant.",
+        "hypothesis": "Jim is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Betty are friends. He is a dietitian and she is a firefighter.",
+        "hypothesis": "Lawrence is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Kathy are friends. He is a chef and she is a teacher.",
+        "hypothesis": "Albert is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Caroline are friends. He is a writer and she is a journalist.",
+        "hypothesis": "Simon is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Kate are friends. He is an accountant and she is a writer.",
+        "hypothesis": "Harry is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Kathleen are friends. He is a judge and she is a police officer.",
+        "hypothesis": "Bob is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Carol are friends. He is a professor and she is a dietitian.",
+        "hypothesis": "Jack is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Caroline are friends. He is an aviator and she is an artist.",
+        "hypothesis": "Ray is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Helen are friends. He is a nurse and she is a firefighter.",
+        "hypothesis": "Simon is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Carolyn are friends. He is a butler and she is a nurse.",
+        "hypothesis": "Ian is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Ann are friends. He is a plumber and she is a lawyer.",
+        "hypothesis": "Alex is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Claire are friends. He is an accountant and she is an author.",
+        "hypothesis": "Chris is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Karen are friends. He is an aviator and she is a firefighter.",
+        "hypothesis": "Peter is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "John and Melissa are friends. He is a mechanic and she is a tailor.",
+        "hypothesis": "John is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Jessica are friends. He is a hairdresser and she is a tailor.",
+        "hypothesis": "Bob is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Stephanie are friends. He is a dentist and she is an economist.",
+        "hypothesis": "Chris is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Martha are friends. He is a model and she is a cook.",
+        "hypothesis": "Albert is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Carolyn are friends. He is an engineer and she is a writer.",
+        "hypothesis": "Martin is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Amy are friends. He is a butler and she is a hairdresser.",
+        "hypothesis": "Henry is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Barbara are friends. He is a cook and she is a designer.",
+        "hypothesis": "Kevin is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Martha are friends. He is a scientist and she is a judge.",
+        "hypothesis": "Alex is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Carolyn are friends. He is an architect and she is a tailor.",
+        "hypothesis": "Alex is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Kathryn are friends. He is a professor and she is a librarian.",
+        "hypothesis": "Charlie is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Kathryn are friends. He is a photographer and she is an engineer.",
+        "hypothesis": "Frank is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Diana are friends. He is an electrician and she is an actor.",
+        "hypothesis": "Alan is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Alice are friends. He is a designer and she is an author.",
+        "hypothesis": "Tony is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Karen are friends. He is a dentist and she is a professor.",
+        "hypothesis": "Tom is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Wendy are friends. He is a journalist and she is a judge.",
+        "hypothesis": "Matt is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "William and Claire are friends. He is a firefighter and she is a nurse.",
+        "hypothesis": "William is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Katie are friends. He is an economist and she is a butler.",
+        "hypothesis": "Edward is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Susan are friends. He is an architect and she is a lecturer.",
+        "hypothesis": "Fred is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Catherine are friends. He is a journalist and she is a judge.",
+        "hypothesis": "Dave is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Karen are friends. He is a lecturer and she is a tailor.",
+        "hypothesis": "Ryan is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Patricia are friends. He is a physician and she is a judge.",
+        "hypothesis": "Charlie is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Edith are friends. He is a firefighter and she is a teacher.",
+        "hypothesis": "Howard is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Stephanie are friends. He is a librarian and she is an aviator.",
+        "hypothesis": "Harold is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Lucy are friends. He is a physician and she is an artist.",
+        "hypothesis": "Paul is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Barbara are friends. He is a teacher and she is a dietitian.",
+        "hypothesis": "Dick is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Judith are friends. He is a lawyer and she is an economist.",
+        "hypothesis": "Tim is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Michelle are friends. He is a butler and she is a mechanic.",
+        "hypothesis": "Dave is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Donna are friends. He is a police officer and she is a chef.",
+        "hypothesis": "Jonathan is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Angela are friends. He is a secretary and she is an aviator.",
+        "hypothesis": "Jack is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Sara are friends. He is a model and she is a mechanic.",
+        "hypothesis": "Walter is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Alice are friends. He is a judge and she is a cook.",
+        "hypothesis": "Walter is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Christine are friends. He is a dietitian and she is a firefighter.",
+        "hypothesis": "Adam is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Fiona are friends. He is a mechanic and she is a teacher.",
+        "hypothesis": "Donald is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Kathy are friends. He is a dietitian and she is a librarian.",
+        "hypothesis": "Alexander is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Laura are friends. He is a nurse and she is a lawyer.",
+        "hypothesis": "Paul is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Sara are friends. He is a photographer and she is an artist.",
+        "hypothesis": "Scott is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Jennifer are friends. He is a secretary and she is an accountant.",
+        "hypothesis": "Larry is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Ann are friends. He is an economist and she is a lawyer.",
+        "hypothesis": "Harold is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Donna are friends. He is a photographer and she is a lawyer.",
+        "hypothesis": "Ron is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Leslie are friends. He is an artist and she is a mechanic.",
+        "hypothesis": "Tim is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Lisa are friends. He is a journalist and she is a cook.",
+        "hypothesis": "Don is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Elizabeth are friends. He is a writer and she is a model.",
+        "hypothesis": "Martin is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Melissa are friends. He is an electrician and she is a nurse.",
+        "hypothesis": "Frank is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Pamela are friends. He is an economist and she is a physician.",
+        "hypothesis": "Jeff is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Susan are friends. He is a lecturer and she is a lawyer.",
+        "hypothesis": "Ed is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Carol are friends. He is an electrician and she is a designer.",
+        "hypothesis": "Martin is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Donna are friends. He is a tailor and she is a writer.",
+        "hypothesis": "Alan is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Jane are friends. He is an author and she is a plumber.",
+        "hypothesis": "Joseph is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Heather are friends. He is a nurse and she is an electrician.",
+        "hypothesis": "Tim is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Leslie are friends. He is an artist and she is a farmer.",
+        "hypothesis": "Francis is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Lynn are friends. He is a chef and she is a secretary.",
+        "hypothesis": "Sam is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Charlotte are friends. He is a designer and she is a nurse.",
+        "hypothesis": "Larry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Julia are friends. He is a teacher and she is an engineer.",
+        "hypothesis": "Matt is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Alison are friends. He is an aviator and she is a chef.",
+        "hypothesis": "Jack is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Matt and Marilyn are friends. He is a firefighter and she is a designer.",
+        "hypothesis": "Matt is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Suzanne are friends. He is a writer and she is a tailor.",
+        "hypothesis": "Michael is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Julia are friends. He is a secretary and she is an actor.",
+        "hypothesis": "Tom is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Fiona are friends. He is a physician and she is a dentist.",
+        "hypothesis": "Dan is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Julie are friends. He is a secretary and she is a nurse.",
+        "hypothesis": "Jack is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Charlotte are friends. He is an engineer and she is a nurse.",
+        "hypothesis": "Samuel is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Louise are friends. He is a lawyer and she is an aviator.",
+        "hypothesis": "Tim is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "James and Helen are friends. He is a teacher and she is an economist.",
+        "hypothesis": "James is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Frances are friends. He is a scientist and she is an accountant.",
+        "hypothesis": "Howard is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Anne are friends. He is a dietitian and she is a police officer.",
+        "hypothesis": "Nick is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Barbara are friends. He is a cook and she is a scientist.",
+        "hypothesis": "Dave is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Jessica are friends. He is a writer and she is an economist.",
+        "hypothesis": "Carl is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Rebecca are friends. He is a nurse and she is a writer.",
+        "hypothesis": "Michael is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan and Lucy are friends. He is a writer and she is a firefighter.",
+        "hypothesis": "Ryan is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Harriet are friends. He is a photographer and she is an author.",
+        "hypothesis": "Chris is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Kathleen are friends. He is a secretary and she is a hairdresser.",
+        "hypothesis": "Andrew is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Katie are friends. He is a designer and she is a writer.",
+        "hypothesis": "Adam is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Kate are friends. He is a teacher and she is a butler.",
+        "hypothesis": "Ken is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Fiona are friends. He is a nurse and she is a dentist.",
+        "hypothesis": "Simon is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Anne are friends. He is a hairdresser and she is a lecturer.",
+        "hypothesis": "Edward is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Susan are friends. He is a hairdresser and she is a cook.",
+        "hypothesis": "Bill is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Deborah are friends. He is an engineer and she is a writer.",
+        "hypothesis": "Ian is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Jill are friends. He is an architect and she is an aviator.",
+        "hypothesis": "Scott is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Judith are friends. He is a librarian and she is a lawyer.",
+        "hypothesis": "Bobby is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Kathy are friends. He is a librarian and she is a lawyer.",
+        "hypothesis": "Eric is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Louise are friends. He is an actor and she is a photographer.",
+        "hypothesis": "Ray is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Christine are friends. He is a police officer and she is an engineer.",
+        "hypothesis": "Charles is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Harriet are friends. He is a writer and she is a physician.",
+        "hypothesis": "Jerry is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Betty are friends. He is a judge and she is a designer.",
+        "hypothesis": "Anthony is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Susan are friends. He is a teacher and she is a tailor.",
+        "hypothesis": "Tony is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Sue are friends. He is a cook and she is a professor.",
+        "hypothesis": "Jerry is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Wendy are friends. He is a police officer and she is an artist.",
+        "hypothesis": "Ray is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Virginia are friends. He is a writer and she is a dietitian.",
+        "hypothesis": "Don is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Lauren are friends. He is a professor and she is an engineer.",
+        "hypothesis": "Adam is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Frances are friends. He is a model and she is an engineer.",
+        "hypothesis": "Samuel is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Jane are friends. He is an engineer and she is a librarian.",
+        "hypothesis": "Johnny is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Katie are friends. He is a teacher and she is a butler.",
+        "hypothesis": "Michael is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Sarah are friends. He is a tailor and she is a model.",
+        "hypothesis": "Michael is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Julie are friends. He is a dietitian and she is an engineer.",
+        "hypothesis": "Ed is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Louise are friends. He is a journalist and she is a teacher.",
+        "hypothesis": "Dick is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Lauren are friends. He is a librarian and she is a secretary.",
+        "hypothesis": "Lawrence is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Kate are friends. He is a physician and she is an author.",
+        "hypothesis": "Ron is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Sandra are friends. He is a teacher and she is an author.",
+        "hypothesis": "Ralph is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Claire are friends. He is an author and she is a physician.",
+        "hypothesis": "Michael is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Harriet are friends. He is an author and she is a nurse.",
+        "hypothesis": "Greg is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy and Laura are friends. He is an accountant and she is a secretary.",
+        "hypothesis": "Jimmy is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Virginia are friends. He is a tailor and she is an economist.",
+        "hypothesis": "Larry is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Sally are friends. He is a cook and she is an engineer.",
+        "hypothesis": "Nick is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Billy and Diane are friends. He is an actor and she is a lecturer.",
+        "hypothesis": "Billy is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Louise are friends. He is a professor and she is a journalist.",
+        "hypothesis": "Kenneth is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Alison are friends. He is a lecturer and she is a professor.",
+        "hypothesis": "Dick is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Martha are friends. He is an actor and she is a plumber.",
+        "hypothesis": "Frederick is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Amanda are friends. He is a photographer and she is a designer.",
+        "hypothesis": "Alexander is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Claire are friends. He is a butler and she is a lecturer.",
+        "hypothesis": "Johnny is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Andrea are friends. He is an economist and she is a dentist.",
+        "hypothesis": "Tim is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Judy are friends. He is a teacher and she is a dietitian.",
+        "hypothesis": "Steven is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Kathy are friends. He is an accountant and she is an author.",
+        "hypothesis": "Stephen is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Victoria are friends. He is a physician and she is an economist.",
+        "hypothesis": "Mark is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Heather are friends. He is a police officer and she is a model.",
+        "hypothesis": "Don is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Sara are friends. He is an electrician and she is a hairdresser.",
+        "hypothesis": "Kenneth is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Leslie are friends. He is a dietitian and she is a farmer.",
+        "hypothesis": "Nick is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Kim are friends. He is a secretary and she is a lawyer.",
+        "hypothesis": "Simon is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Alexandra are friends. He is a lecturer and she is a dietitian.",
+        "hypothesis": "Christopher is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Melissa are friends. He is a model and she is an accountant.",
+        "hypothesis": "Ed is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Carol are friends. He is an actor and she is a professor.",
+        "hypothesis": "Albert is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Frances are friends. He is a plumber and she is an artist.",
+        "hypothesis": "Scott is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Lucy are friends. He is an accountant and she is a plumber.",
+        "hypothesis": "Mark is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Robin are friends. He is a cook and she is a dietitian.",
+        "hypothesis": "Ray is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Alison are friends. He is a chef and she is a hairdresser.",
+        "hypothesis": "Jack is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Maria are friends. He is a physician and she is a lecturer.",
+        "hypothesis": "Eric is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Angela are friends. He is a scientist and she is an economist.",
+        "hypothesis": "Larry is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Catherine are friends. He is an economist and she is a journalist.",
+        "hypothesis": "Kevin is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Catherine are friends. He is a plumber and she is a chef.",
+        "hypothesis": "Mike is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Karen are friends. He is a journalist and she is an accountant.",
+        "hypothesis": "Alex is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas and Fiona are friends. He is a dietitian and she is a physician.",
+        "hypothesis": "Thomas is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Helen are friends. He is an engineer and she is an accountant.",
+        "hypothesis": "Paul is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Caroline are friends. He is a nurse and she is a physician.",
+        "hypothesis": "Ian is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Robert and Louise are friends. He is a physician and she is an electrician.",
+        "hypothesis": "Robert is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Jill are friends. He is a dietitian and she is a secretary.",
+        "hypothesis": "Henry is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Jean are friends. He is an author and she is an aviator.",
+        "hypothesis": "Charles is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Florence are friends. He is a model and she is a firefighter.",
+        "hypothesis": "Alan is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Sophie are friends. He is a dietitian and she is an architect.",
+        "hypothesis": "Jay is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Kim are friends. He is a dietitian and she is a physician.",
+        "hypothesis": "Richard is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Leslie are friends. He is a plumber and she is a librarian.",
+        "hypothesis": "Sam is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Carol are friends. He is a firefighter and she is a dentist.",
+        "hypothesis": "Alexander is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Dorothy are friends. He is a lecturer and she is a hairdresser.",
+        "hypothesis": "Patrick is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Jane are friends. He is a chef and she is a professor.",
+        "hypothesis": "Ray is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Lynn are friends. He is a dietitian and she is an accountant.",
+        "hypothesis": "Hugh is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Nicole are friends. He is a lecturer and she is a physician.",
+        "hypothesis": "Chris is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Melissa are friends. He is a nurse and she is an architect.",
+        "hypothesis": "Mike is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Grace are friends. He is a cook and she is a journalist.",
+        "hypothesis": "Henry is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Diane are friends. He is a chef and she is a lawyer.",
+        "hypothesis": "Ian is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Harriet are friends. He is a secretary and she is a tailor.",
+        "hypothesis": "Dan is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Marie are friends. He is a dietitian and she is a firefighter.",
+        "hypothesis": "Jim is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Bill and Amy are friends. He is a dietitian and she is an electrician.",
+        "hypothesis": "Bill is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Joan are friends. He is an author and she is a writer.",
+        "hypothesis": "Dan is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Louise are friends. He is a designer and she is a physician.",
+        "hypothesis": "Alex is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Diane are friends. He is a tailor and she is a secretary.",
+        "hypothesis": "Tony is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Alison are friends. He is a photographer and she is a lecturer.",
+        "hypothesis": "Ed is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick and Ruth are friends. He is a physician and she is a photographer.",
+        "hypothesis": "Dick is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Andrea are friends. He is a photographer and she is an economist.",
+        "hypothesis": "Roger is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Patricia are friends. He is a dietitian and she is a physician.",
+        "hypothesis": "Bobby is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Angela are friends. He is a librarian and she is a mechanic.",
+        "hypothesis": "Larry is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Harold and Frances are friends. He is a dietitian and she is an economist.",
+        "hypothesis": "Harold is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Melissa are friends. He is a writer and she is an engineer.",
+        "hypothesis": "Peter is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Marilyn are friends. He is an architect and she is a butler.",
+        "hypothesis": "Tim is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Martin and Marilyn are friends. He is a firefighter and she is a designer.",
+        "hypothesis": "Martin is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark and Elizabeth are friends. He is a journalist and she is a lawyer.",
+        "hypothesis": "Mark is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Christine are friends. He is a professor and she is an artist.",
+        "hypothesis": "Ed is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Sharon are friends. He is an electrician and she is a writer.",
+        "hypothesis": "Frederick is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ron and Marilyn are friends. He is an accountant and she is a librarian.",
+        "hypothesis": "Ron is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Donna are friends. He is a butler and she is an architect.",
+        "hypothesis": "Roy is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel and Alexandra are friends. He is a judge and she is a farmer.",
+        "hypothesis": "Daniel is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Rachel are friends. He is a journalist and she is a nurse.",
+        "hypothesis": "Jerry is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Kate are friends. He is a nurse and she is a plumber.",
+        "hypothesis": "Ed is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Tom and Carolyn are friends. He is a designer and she is a teacher.",
+        "hypothesis": "Tom is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Ruth are friends. He is a writer and she is an architect.",
+        "hypothesis": "Bobby is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Kathy are friends. He is a photographer and she is an economist.",
+        "hypothesis": "Michael is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Ken and Martha are friends. He is an engineer and she is an accountant.",
+        "hypothesis": "Ken is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Adam and Maria are friends. He is a chef and she is an artist.",
+        "hypothesis": "Adam is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Julie are friends. He is a journalist and she is an economist.",
+        "hypothesis": "Albert is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Diana are friends. He is a physician and she is a mechanic.",
+        "hypothesis": "Anthony is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Carol are friends. He is an engineer and she is an electrician.",
+        "hypothesis": "Chris is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Jennifer are friends. He is a journalist and she is a lecturer.",
+        "hypothesis": "Roger is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew and Sandra are friends. He is a professor and she is a photographer.",
+        "hypothesis": "Andrew is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Florence are friends. He is a physician and she is an artist.",
+        "hypothesis": "Matthew is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Sarah are friends. He is a nurse and she is an artist.",
+        "hypothesis": "Ian is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Charlotte are friends. He is an electrician and she is a nurse.",
+        "hypothesis": "Greg is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Kelly are friends. He is a judge and she is an accountant.",
+        "hypothesis": "Edward is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Louise are friends. He is a plumber and she is a photographer.",
+        "hypothesis": "Bob is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Nicole are friends. He is an aviator and she is a lecturer.",
+        "hypothesis": "Patrick is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Anna are friends. He is an electrician and she is an engineer.",
+        "hypothesis": "Dave is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Rebecca are friends. He is a photographer and she is a hairdresser.",
+        "hypothesis": "Albert is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Diana are friends. He is an economist and she is a mechanic.",
+        "hypothesis": "Frank is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Catherine are friends. He is an economist and she is a firefighter.",
+        "hypothesis": "Jeff is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Florence are friends. He is a photographer and she is a lecturer.",
+        "hypothesis": "Colin is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Florence are friends. He is a scientist and she is a designer.",
+        "hypothesis": "Edward is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "David and Elaine are friends. He is a designer and she is an architect.",
+        "hypothesis": "David is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Steve and Diana are friends. He is a hairdresser and she is a professor.",
+        "hypothesis": "Steve is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Amanda are friends. He is an actor and she is an aviator.",
+        "hypothesis": "Stephen is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin and Claire are friends. He is a judge and she is a designer.",
+        "hypothesis": "Kevin is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Rebecca are friends. He is a tailor and she is an architect.",
+        "hypothesis": "Edwin is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Alison are friends. He is a dietitian and she is a tailor.",
+        "hypothesis": "Charles is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander and Joan are friends. He is a secretary and she is a photographer.",
+        "hypothesis": "Alexander is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Diane are friends. He is a firefighter and she is a lawyer.",
+        "hypothesis": "Bobby is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Margaret are friends. He is a nurse and she is a dietitian.",
+        "hypothesis": "Ed is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Dorothy are friends. He is a lecturer and she is an architect.",
+        "hypothesis": "Bruce is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Christine are friends. He is a chef and she is an architect.",
+        "hypothesis": "Henry is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "David and Linda are friends. He is a scientist and she is a tailor.",
+        "hypothesis": "David is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Florence are friends. He is a butler and she is a professor.",
+        "hypothesis": "Henry is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Marilyn are friends. He is a writer and she is a professor.",
+        "hypothesis": "Christopher is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Heather are friends. He is a dietitian and she is a lawyer.",
+        "hypothesis": "Peter is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Emily are friends. He is a hairdresser and she is a chef.",
+        "hypothesis": "Lawrence is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Robin are friends. He is an actor and she is a judge.",
+        "hypothesis": "Gary is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Dan and Rebecca are friends. He is a scientist and she is an aviator.",
+        "hypothesis": "Dan is an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph and Caroline are friends. He is an electrician and she is a tailor.",
+        "hypothesis": "Joseph is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Patricia are friends. He is an economist and she is a plumber.",
+        "hypothesis": "Brian is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Grace are friends. He is a firefighter and she is a designer.",
+        "hypothesis": "Colin is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Victoria are friends. He is a physician and she is a cook.",
+        "hypothesis": "Sam is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Angela are friends. He is a journalist and she is a cook.",
+        "hypothesis": "Jonathan is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Christine are friends. He is a dentist and she is a judge.",
+        "hypothesis": "Walter is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Jennifer are friends. He is an electrician and she is a designer.",
+        "hypothesis": "Nick is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Linda are friends. He is a firefighter and she is a butler.",
+        "hypothesis": "Carl is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Lauren are friends. He is a hairdresser and she is a designer.",
+        "hypothesis": "Al is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Alice are friends. He is a writer and she is a teacher.",
+        "hypothesis": "Ray is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Laura are friends. He is a dietitian and she is an author.",
+        "hypothesis": "Ed is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby and Lynn are friends. He is a journalist and she is a butler.",
+        "hypothesis": "Bobby is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Ann are friends. He is a physician and she is a photographer.",
+        "hypothesis": "Brian is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Ann are friends. He is an economist and she is a judge.",
+        "hypothesis": "Jonathan is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Jessica are friends. He is a photographer and she is a teacher.",
+        "hypothesis": "Edward is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy and Claire are friends. He is a lawyer and she is a photographer.",
+        "hypothesis": "Jimmy is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis and Michelle are friends. He is a journalist and she is a hairdresser.",
+        "hypothesis": "Francis is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Frances are friends. He is an economist and she is an author.",
+        "hypothesis": "Henry is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Lisa are friends. He is a model and she is a cook.",
+        "hypothesis": "Keith is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Grace are friends. He is a lecturer and she is an engineer.",
+        "hypothesis": "Larry is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob and Alice are friends. He is an engineer and she is an electrician.",
+        "hypothesis": "Bob is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "William and Judy are friends. He is a firefighter and she is a teacher.",
+        "hypothesis": "William is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Colin and Nancy are friends. He is a journalist and she is a scientist.",
+        "hypothesis": "Colin is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Grace are friends. He is a teacher and she is a scientist.",
+        "hypothesis": "Keith is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Fiona are friends. He is an artist and she is an architect.",
+        "hypothesis": "Jerry is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Alex and Jean are friends. He is an actor and she is a journalist.",
+        "hypothesis": "Alex is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Kelly are friends. He is a tailor and she is an electrician.",
+        "hypothesis": "Carl is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Deborah are friends. He is an engineer and she is a judge.",
+        "hypothesis": "Keith is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Alice are friends. He is a mechanic and she is a photographer.",
+        "hypothesis": "Charles is a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "James and Lucy are friends. He is a firefighter and she is an electrician.",
+        "hypothesis": "James is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Edith are friends. He is a photographer and she is an author.",
+        "hypothesis": "Michael is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence and Alexandra are friends. He is a teacher and she is an electrician.",
+        "hypothesis": "Lawrence is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Nick and Kathy are friends. He is a tailor and she is a scientist.",
+        "hypothesis": "Nick is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy and Jennifer are friends. He is a journalist and she is a chef.",
+        "hypothesis": "Jimmy is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Kim are friends. He is a lecturer and she is a professor.",
+        "hypothesis": "Donald is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Albert and Emma are friends. He is a photographer and she is a lecturer.",
+        "hypothesis": "Albert is a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Marilyn are friends. He is an aviator and she is a lawyer.",
+        "hypothesis": "Brian is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Linda are friends. He is a librarian and she is a farmer.",
+        "hypothesis": "Gary is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Amanda are friends. He is an electrician and she is a physician.",
+        "hypothesis": "Edward is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Karen are friends. He is a model and she is a nurse.",
+        "hypothesis": "Scott is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Brian and Annie are friends. He is a dentist and she is a model.",
+        "hypothesis": "Brian is a model.",
+        "label": 2
+    },
+    {
+        "premise": "William and Sophie are friends. He is an engineer and she is a dietitian.",
+        "hypothesis": "William is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin and Kelly are friends. He is a lawyer and she is an economist.",
+        "hypothesis": "Edwin is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Suzanne are friends. He is an architect and she is an author.",
+        "hypothesis": "Kenneth is an author.",
+        "label": 2
+    },
+    {
+        "premise": "William and Claire are friends. He is a professor and she is an engineer.",
+        "hypothesis": "William is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Lucy are friends. He is a dentist and she is a model.",
+        "hypothesis": "Mike is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Dorothy are friends. He is a police officer and she is a teacher.",
+        "hypothesis": "Don is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan and Diane are friends. He is a firefighter and she is a writer.",
+        "hypothesis": "Jonathan is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam and Harriet are friends. He is an economist and she is a physician.",
+        "hypothesis": "Sam is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Judith are friends. He is a hairdresser and she is a police officer.",
+        "hypothesis": "Johnny is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Margaret are friends. He is an electrician and she is a firefighter.",
+        "hypothesis": "Michael is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Dorothy are friends. He is a mechanic and she is an accountant.",
+        "hypothesis": "Tony is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny and Leslie are friends. He is a chef and she is a firefighter.",
+        "hypothesis": "Johnny is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Louise are friends. He is an electrician and she is a dentist.",
+        "hypothesis": "Jay is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Dorothy are friends. He is a professor and she is a farmer.",
+        "hypothesis": "Alfred is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Sandra are friends. He is a butler and she is a physician.",
+        "hypothesis": "Tim is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Michael and Harriet are friends. He is a plumber and she is a judge.",
+        "hypothesis": "Michael is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen and Barbara are friends. He is a writer and she is a designer.",
+        "hypothesis": "Stephen is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Philip and Ruth are friends. He is a photographer and she is an economist.",
+        "hypothesis": "Philip is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Al and Florence are friends. He is a photographer and she is an author.",
+        "hypothesis": "Al is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Greg and Maria are friends. He is a photographer and she is a secretary.",
+        "hypothesis": "Greg is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Kathleen are friends. He is a chef and she is a writer.",
+        "hypothesis": "Louis is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ian and Michelle are friends. He is an electrician and she is an engineer.",
+        "hypothesis": "Ian is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Paul and Anne are friends. He is a judge and she is an actor.",
+        "hypothesis": "Paul is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Kathryn are friends. He is a cook and she is a model.",
+        "hypothesis": "Tim is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Henry and Sara are friends. He is a model and she is a dietitian.",
+        "hypothesis": "Henry is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Carol are friends. He is a designer and she is an accountant.",
+        "hypothesis": "Kenneth is an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jay and Sophie are friends. He is a mechanic and she is a dentist.",
+        "hypothesis": "Jay is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Annie are friends. He is a plumber and she is a dentist.",
+        "hypothesis": "Dave is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Deborah are friends. He is a mechanic and she is a professor.",
+        "hypothesis": "Eric is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Eleanor are friends. He is a journalist and she is a plumber.",
+        "hypothesis": "Charles is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Tim and Sophie are friends. He is a judge and she is a farmer.",
+        "hypothesis": "Tim is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff and Joan are friends. He is a tailor and she is an electrician.",
+        "hypothesis": "Jeff is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Sophie are friends. He is an architect and she is a secretary.",
+        "hypothesis": "Charlie is a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Stephanie are friends. He is a chef and she is a butler.",
+        "hypothesis": "Matthew is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh and Patricia are friends. He is a hairdresser and she is an actor.",
+        "hypothesis": "Hugh is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Leslie are friends. He is a writer and she is a tailor.",
+        "hypothesis": "Gary is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick and Wendy are friends. He is a librarian and she is a nurse.",
+        "hypothesis": "Patrick is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Larry and Sue are friends. He is a butler and she is an economist.",
+        "hypothesis": "Larry is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Fiona are friends. He is an electrician and she is a model.",
+        "hypothesis": "Jack is a model.",
+        "label": 2
+    },
+    {
+        "premise": "William and Sally are friends. He is a designer and she is a professor.",
+        "hypothesis": "William is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Andrea are friends. He is a scientist and she is a hairdresser.",
+        "hypothesis": "Gary is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dave and Harriet are friends. He is an electrician and she is a model.",
+        "hypothesis": "Dave is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Annie are friends. He is an engineer and she is a lawyer.",
+        "hypothesis": "Kenneth is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew and Ellen are friends. He is a farmer and she is a chef.",
+        "hypothesis": "Matthew is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Kate are friends. He is a nurse and she is a plumber.",
+        "hypothesis": "Walter is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Carol are friends. He is a photographer and she is a designer.",
+        "hypothesis": "Anthony is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon and Katherine are friends. He is a designer and she is an engineer.",
+        "hypothesis": "Simon is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven and Ellen are friends. He is an author and she is a cook.",
+        "hypothesis": "Steven is a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry and Ashley are friends. He is a dietitian and she is a hairdresser.",
+        "hypothesis": "Jerry is a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Keith and Heather are friends. He is a chef and she is an artist.",
+        "hypothesis": "Keith is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Katie are friends. He is an architect and she is a dentist.",
+        "hypothesis": "Ralph is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Rose are friends. He is a designer and she is an artist.",
+        "hypothesis": "Carl is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Linda are friends. He is a scientist and she is a judge.",
+        "hypothesis": "Roy is a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Claire are friends. He is a lecturer and she is a physician.",
+        "hypothesis": "Walter is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jack and Ann are friends. He is a physician and she is an engineer.",
+        "hypothesis": "Jack is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Joe and Mary are friends. He is a secretary and she is a tailor.",
+        "hypothesis": "Joe is a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Harry and Kathy are friends. He is an electrician and she is a plumber.",
+        "hypothesis": "Harry is a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Melissa are friends. He is a writer and she is an engineer.",
+        "hypothesis": "Chris is an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Marie are friends. He is a dentist and she is a chef.",
+        "hypothesis": "Alan is a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Donald and Ruth are friends. He is a designer and she is a journalist.",
+        "hypothesis": "Donald is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Virginia are friends. He is a dietitian and she is a firefighter.",
+        "hypothesis": "Alan is a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Peter and Sarah are friends. He is a professor and she is a butler.",
+        "hypothesis": "Peter is a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Alexandra are friends. He is a journalist and she is a model.",
+        "hypothesis": "Don is a model.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Pamela are friends. He is a dietitian and she is an electrician.",
+        "hypothesis": "Alfred is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher and Pamela are friends. He is an actor and she is an economist.",
+        "hypothesis": "Christopher is an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie and Anne are friends. He is a cook and she is an actor.",
+        "hypothesis": "Charlie is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Alan and Andrea are friends. He is a butler and she is a journalist.",
+        "hypothesis": "Alan is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur and Charlotte are friends. He is an artist and she is a mechanic.",
+        "hypothesis": "Arthur is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Roy and Jennifer are friends. He is a model and she is an electrician.",
+        "hypothesis": "Roy is an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth and Kelly are friends. He is a plumber and she is a lawyer.",
+        "hypothesis": "Kenneth is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim and Sara are friends. He is a designer and she is a librarian.",
+        "hypothesis": "Jim is a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel and Kathleen are friends. He is a model and she is a writer.",
+        "hypothesis": "Samuel is a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Roger and Charlotte are friends. He is a journalist and she is a physician.",
+        "hypothesis": "Roger is a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Mike and Kate are friends. He is a hairdresser and she is a dietitian.",
+        "hypothesis": "Mike is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Chris and Eleanor are friends. He is an actor and she is a police officer.",
+        "hypothesis": "Chris is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Emma are friends. He is a photographer and she is an artist.",
+        "hypothesis": "Ray is an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Louise are friends. He is a tailor and she is a journalist.",
+        "hypothesis": "Louis is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick and Cynthia are friends. He is a teacher and she is a designer.",
+        "hypothesis": "Frederick is a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl and Florence are friends. He is a lawyer and she is an author.",
+        "hypothesis": "Carl is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Fred and Judy are friends. He is a dentist and she is a dietitian.",
+        "hypothesis": "Fred is a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Edward and Kelly are friends. He is a lecturer and she is a journalist.",
+        "hypothesis": "Edward is a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Louis and Carol are friends. He is a judge and she is a nurse.",
+        "hypothesis": "Louis is a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Charles and Katherine are friends. He is an engineer and she is a mechanic.",
+        "hypothesis": "Charles is a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Tony and Joan are friends. He is a librarian and she is a police officer.",
+        "hypothesis": "Tony is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph and Lauren are friends. He is a plumber and she is a farmer.",
+        "hypothesis": "Ralph is a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred and Evelyn are friends. He is a writer and she is an actor.",
+        "hypothesis": "Alfred is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Lucy are friends. He is a lecturer and she is a professor.",
+        "hypothesis": "Ray is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Gary and Christine are friends. He is an artist and she is a scientist.",
+        "hypothesis": "Gary is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Ray and Emily are friends. He is an accountant and she is a dentist.",
+        "hypothesis": "Ray is a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Evelyn are friends. He is a dentist and she is a professor.",
+        "hypothesis": "Anthony is a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony and Betty are friends. He is an electrician and she is an architect.",
+        "hypothesis": "Anthony is an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Howard and Karen are friends. He is an author and she is a teacher.",
+        "hypothesis": "Howard is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "William and Karen are friends. He is a farmer and she is an author.",
+        "hypothesis": "William is an author.",
+        "label": 2
+    },
+    {
+        "premise": "Don and Jill are friends. He is a professor and she is a lawyer.",
+        "hypothesis": "Don is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed and Barbara are friends. He is a writer and she is an actor.",
+        "hypothesis": "Ed is an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Walter and Amy are friends. He is a designer and she is a police officer.",
+        "hypothesis": "Walter is a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Eric and Fiona are friends. He is a secretary and she is a scientist.",
+        "hypothesis": "Eric is a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Richard and Virginia are friends. He is a police officer and she is a teacher.",
+        "hypothesis": "Richard is a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Scott and Ann are friends. He is a model and she is a lawyer.",
+        "hypothesis": "Scott is a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Frank and Maria are friends. He is an electrician and she is a dietitian.",
+        "hypothesis": "Frank is a dietitian.",
+        "label": 2
+    }
+]

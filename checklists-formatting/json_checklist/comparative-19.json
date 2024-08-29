@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Among Nick, Ben and Dorothy the proudest is Dorothy.",
+        "hypothesis": "Dorothy is prouder than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Edward and Jim the best is Jim.",
+        "hypothesis": "Jim is better than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frances, Amy and Louis the skinniest is Louis.",
+        "hypothesis": "Louis is skinnier than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Jack and Sam the proudest is Sam.",
+        "hypothesis": "Sam is prouder than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jessica, Larry and Ann the wealthiest is Ann.",
+        "hypothesis": "Ann is wealthier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Steven and Alison the sincerest is Alison.",
+        "hypothesis": "Alison is sincerer than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Ray and Mark the sharpest is Mark.",
+        "hypothesis": "Mark is sharper than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Stephanie and Marilyn the worst is Marilyn.",
+        "hypothesis": "Marilyn is worse than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alison, Ron and Edith the firmest is Edith.",
+        "hypothesis": "Edith is firmer than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Angela and Lynn the fattest is Lynn.",
+        "hypothesis": "Lynn is fatter than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sarah, Melissa and Eleanor the proudest is Eleanor.",
+        "hypothesis": "Eleanor is prouder than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eric, Jane and Hugh the densest is Hugh.",
+        "hypothesis": "Hugh is denser than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martin, Paul and Cynthia the biggest is Cynthia.",
+        "hypothesis": "Cynthia is bigger than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Elizabeth, Jay and Sue the rudest is Sue.",
+        "hypothesis": "Sue is ruder than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Roger and Cynthia the funniest is Cynthia.",
+        "hypothesis": "Cynthia is funnier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Laura, Lucy and Betty the toughest is Betty.",
+        "hypothesis": "Betty is tougher than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Daniel, Eleanor and Joseph the guiltiest is Joseph.",
+        "hypothesis": "Joseph is guilter than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Colin and Deborah the most attractive is Deborah.",
+        "hypothesis": "Deborah is more attractive than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Karen and Michael the most clever is Michael.",
+        "hypothesis": "Michael is more clever than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Anne and Tom the rudest is Tom.",
+        "hypothesis": "Tom is ruder than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Kathy and Leslie the fastest is Leslie.",
+        "hypothesis": "Leslie is faster than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Elizabeth and Ben the strongest is Ben.",
+        "hypothesis": "Ben is stronger than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Billy, Louise and Robert the wealthiest is Robert.",
+        "hypothesis": "Robert is wealthier than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louise, Julia and Helen the harshest is Helen.",
+        "hypothesis": "Helen is harsher than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judith, Harold and Jean the slimmest is Jean.",
+        "hypothesis": "Jean is slimmer than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Pamela and Sally the craziest is Sally.",
+        "hypothesis": "Sally is crazier than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ron, Harry and Arthur the slimmest is Arthur.",
+        "hypothesis": "Arthur is slimmer than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jeff, Thomas and Jason the most polite is Jason.",
+        "hypothesis": "Jason is more polite than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ralph, Betty and Eric the longest is Eric.",
+        "hypothesis": "Eric is longer than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Roger and Lauren the densest is Lauren.",
+        "hypothesis": "Lauren is denser than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jason, Lynn and Ann the quietest is Ann.",
+        "hypothesis": "Ann is quieter than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Lisa and Amy the best is Amy.",
+        "hypothesis": "Amy is better than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Chris, Suzanne and Billy the most renowned is Billy.",
+        "hypothesis": "Billy is more renowned than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carolyn, Jennifer and Annie the busiest is Annie.",
+        "hypothesis": "Annie is busier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Tom and Paul the firmest is Paul.",
+        "hypothesis": "Paul is firmer than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, Walter and Amy the proudest is Amy.",
+        "hypothesis": "Amy is prouder than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Evelyn, Steve and Chris the fairest is Chris.",
+        "hypothesis": "Chris is fairer than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, James and Edith the messiest is Edith.",
+        "hypothesis": "Edith is messier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tony, Ashley and Stephen the densest is Stephen.",
+        "hypothesis": "Stephen is denser than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Daniel and Kim the dullest is Kim.",
+        "hypothesis": "Kim is duller than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Nancy and Jay the wealthiest is Jay.",
+        "hypothesis": "Jay is wealthier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edith, Francis and Charlie the bitterest is Charlie.",
+        "hypothesis": "Charlie is bitterer than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Don and Ben the cutest is Ben.",
+        "hypothesis": "Ben is cuter than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Tom and Ray the wealthiest is Ray.",
+        "hypothesis": "Ray is wealthier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Eric and Anne the friendliest is Anne.",
+        "hypothesis": "Anne is friendlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Sara and Kathy the silliest is Kathy.",
+        "hypothesis": "Kathy is sillier than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among George, Cynthia and Judy the toughest is Judy.",
+        "hypothesis": "Judy is tougher than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ben, Larry and Ian the guiltiest is Ian.",
+        "hypothesis": "Ian is guilter than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Billy, Jason and Harriet the bravest is Harriet.",
+        "hypothesis": "Harriet is braver than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Roy and Kathryn the weirdest is Kathryn.",
+        "hypothesis": "Kathryn is weirder than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Ben and Elaine the saltiest is Elaine.",
+        "hypothesis": "Elaine is saltier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Bill and Virginia the most clever is Virginia.",
+        "hypothesis": "Virginia is more clever than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Anthony and Deborah the loveliest is Deborah.",
+        "hypothesis": "Deborah is lovelier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Adam and Edwin the toughest is Edwin.",
+        "hypothesis": "Edwin is tougher than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Brian and Kevin the cleverest is Kevin.",
+        "hypothesis": "Kevin is cleverer than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, Diane and Diana the greatest is Diana.",
+        "hypothesis": "Diana is greater than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sara, Betty and Judith the most modern is Judith.",
+        "hypothesis": "Judith is more modern than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Pamela and Angela the slowest is Angela.",
+        "hypothesis": "Angela is slower than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Julia and Samuel the strongest is Samuel.",
+        "hypothesis": "Samuel is stronger than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Chris, Ron and Kate the richest is Kate.",
+        "hypothesis": "Kate is richer than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among George, Henry and Ed the shallowest is Ed.",
+        "hypothesis": "Ed is shallower than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Robert and David the thinnest is David.",
+        "hypothesis": "David is thinner than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jerry, Suzanne and Julia the shyest is Julia.",
+        "hypothesis": "Julia is shyer than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Martha and Florence the hungriest is Florence.",
+        "hypothesis": "Florence is hungrier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, Louis and Florence the angriest is Florence.",
+        "hypothesis": "Florence is angrier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Robert and Albert the most important is Albert.",
+        "hypothesis": "Albert is more important than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alex, Harold and Ryan the smallest is Ryan.",
+        "hypothesis": "Ryan is smaller than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harriet, Michelle and Kathryn the laziest is Kathryn.",
+        "hypothesis": "Kathryn is lazier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joe, Judy and Grace the slowest is Grace.",
+        "hypothesis": "Grace is slower than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Brian and Alexandra the youngest is Alexandra.",
+        "hypothesis": "Alexandra is younger than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dorothy, Suzanne and Elaine the most renowned is Elaine.",
+        "hypothesis": "Elaine is more renowned than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Henry, George and Anne the brightest is Anne.",
+        "hypothesis": "Anne is brighter than George.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Elaine and Julia the healthiest is Julia.",
+        "hypothesis": "Julia is healthier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexandra, Steven and Thomas the laziest is Thomas.",
+        "hypothesis": "Thomas is lazier than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Elizabeth and Alexandra the boldest is Alexandra.",
+        "hypothesis": "Alexandra is bolder than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Ralph and Al the most interesting is Al.",
+        "hypothesis": "Al is more interesting than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Larry, Keith and Francis the busiest is Francis.",
+        "hypothesis": "Francis is busier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Sandra and Harold the slowest is Harold.",
+        "hypothesis": "Harold is slower than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jack, Ashley and Roger the skinniest is Roger.",
+        "hypothesis": "Roger is skinnier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anna, Charles and Carol the shyest is Carol.",
+        "hypothesis": "Carol is shyer than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Sara and Alexandra the most polite is Alexandra.",
+        "hypothesis": "Alexandra is more polite than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carl, Kenneth and Edith the sorriest is Edith.",
+        "hypothesis": "Edith is sorrier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlie, Andrea and Lauren the politest is Lauren.",
+        "hypothesis": "Lauren is politer than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Simon and Jennifer the sharpest is Jennifer.",
+        "hypothesis": "Jennifer is sharper than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Anne and Jay the wealthiest is Jay.",
+        "hypothesis": "Jay is wealthier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nicole, Harriet and Julia the wisest is Julia.",
+        "hypothesis": "Julia is wiser than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, Deborah and Alexander the most popular is Alexander.",
+        "hypothesis": "Alexander is more popular than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Fiona and Jack the politest is Jack.",
+        "hypothesis": "Jack is politer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nick, Mike and Amanda the calmest is Amanda.",
+        "hypothesis": "Amanda is calmer than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Charles and Michael the most renowned is Michael.",
+        "hypothesis": "Michael is more renowned than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Bruce and Billy the tiniest is Billy.",
+        "hypothesis": "Billy is tinier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Jean and Kathleen the oldest is Kathleen.",
+        "hypothesis": "Kathleen is older than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rachel, Kathryn and Sharon the most clever is Sharon.",
+        "hypothesis": "Sharon is more clever than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bruce, Amanda and Maria the greediest is Maria.",
+        "hypothesis": "Maria is greedier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Fiona and Ken the loveliest is Ken.",
+        "hypothesis": "Ken is lovelier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Roger and Cynthia the laziest is Cynthia.",
+        "hypothesis": "Cynthia is lazier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Daniel, Jim and Jean the messiest is Jean.",
+        "hypothesis": "Jean is messier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Andrew and Nick the thinnest is Nick.",
+        "hypothesis": "Nick is thinner than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Jill and Larry the fastest is Larry.",
+        "hypothesis": "Larry is faster than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Matt and Rose the creepiest is Rose.",
+        "hypothesis": "Rose is creepier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Arthur and Colin the poorest is Colin.",
+        "hypothesis": "Colin is poorer than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Thomas, Nicole and Patrick the angriest is Patrick.",
+        "hypothesis": "Patrick is angrier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Matt and Julie the fittest is Julie.",
+        "hypothesis": "Julie is fitter than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Among Simon, Nicole and Mark the naughtiest is Mark.",
+        "hypothesis": "Mark is naughtier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Jill and Keith the prettiest is Keith.",
+        "hypothesis": "Keith is prettier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Elaine and Christine the classiest is Christine.",
+        "hypothesis": "Christine is classier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harry, Margaret and Ruth the firmest is Ruth.",
+        "hypothesis": "Ruth is firmer than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, Sharon and Linda the longest is Linda.",
+        "hypothesis": "Linda is longer than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Betty, Anthony and Michael the most handsome is Michael.",
+        "hypothesis": "Michael is more handsome than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jeff, Ashley and Sara the scariest is Sara.",
+        "hypothesis": "Sara is scarier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Charlotte and Albert the laziest is Albert.",
+        "hypothesis": "Albert is lazier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edith, Anna and Ray the fairest is Ray.",
+        "hypothesis": "Ray is fairer than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Tony and Sharon the most bitter is Sharon.",
+        "hypothesis": "Sharon is more bitter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jay, Mary and Matthew the loudest is Matthew.",
+        "hypothesis": "Matthew is louder than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Carol and Elaine the loveliest is Elaine.",
+        "hypothesis": "Elaine is lovelier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Robert and Susan the curviest is Susan.",
+        "hypothesis": "Susan is curvier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jennifer, Kim and Betty the rudest is Betty.",
+        "hypothesis": "Betty is ruder than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Billy, Fred and Alan the smartest is Alan.",
+        "hypothesis": "Alan is smarter than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anne, Philip and Edward the funniest is Edward.",
+        "hypothesis": "Edward is funnier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ken, Anthony and Harold the loneliest is Harold.",
+        "hypothesis": "Harold is lonlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Richard and Colin the naughtiest is Colin.",
+        "hypothesis": "Colin is naughtier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Paul, Bruce and Peter the bravest is Peter.",
+        "hypothesis": "Peter is braver than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ryan, Ron and Don the loudest is Don.",
+        "hypothesis": "Don is louder than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Tom and Richard the saltiest is Richard.",
+        "hypothesis": "Richard is saltier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roger, Linda and Frances the dullest is Frances.",
+        "hypothesis": "Frances is duller than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Pamela and Ian the fairest is Ian.",
+        "hypothesis": "Ian is fairer than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlie, Carol and Alison the shortest is Alison.",
+        "hypothesis": "Alison is shorter than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Ron and Anthony the friendliest is Anthony.",
+        "hypothesis": "Anthony is friendlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mary, Keith and Al the kindest is Al.",
+        "hypothesis": "Al is kinder than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Mike and Dan the wealthiest is Dan.",
+        "hypothesis": "Dan is wealthier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Among Francis, Grace and Benjamin the dumbest is Benjamin.",
+        "hypothesis": "Benjamin is dumber than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Simon and Lisa the laziest is Lisa.",
+        "hypothesis": "Lisa is lazier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Maria, Adam and Patricia the healthiest is Patricia.",
+        "hypothesis": "Patricia is healthier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Angela and Jennifer the tiniest is Jennifer.",
+        "hypothesis": "Jennifer is tinier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eric, Ryan and Joe the meanest is Joe.",
+        "hypothesis": "Joe is meaner than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Paul, Katherine and Barbara the grossest is Barbara.",
+        "hypothesis": "Barbara is grosser than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Leslie and Nick the best is Nick.",
+        "hypothesis": "Nick is better than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christopher, Jane and Ralph the classiest is Ralph.",
+        "hypothesis": "Ralph is classier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alice, Hugh and Pamela the tiniest is Pamela.",
+        "hypothesis": "Pamela is tinier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charles, Larry and Carol the humblest is Carol.",
+        "hypothesis": "Carol is humbler than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Charlie and Lisa the most interesting is Lisa.",
+        "hypothesis": "Lisa is more interesting than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donald, Amanda and Daniel the grossest is Daniel.",
+        "hypothesis": "Daniel is grosser than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Grace and Emily the harshest is Emily.",
+        "hypothesis": "Emily is harsher than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patrick, Donna and Evelyn the bossiest is Evelyn.",
+        "hypothesis": "Evelyn is bossier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlotte, Diana and Ashley the sincerest is Ashley.",
+        "hypothesis": "Ashley is sincerer than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Walter and Donna the most modern is Donna.",
+        "hypothesis": "Donna is more modern than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Adam and Lynn the thinnest is Lynn.",
+        "hypothesis": "Lynn is thinner than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Dave and Diana the kindest is Diana.",
+        "hypothesis": "Diana is kinder than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Harold and Jerry the smallest is Jerry.",
+        "hypothesis": "Jerry is smaller than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jason, Thomas and Tim the poorest is Tim.",
+        "hypothesis": "Tim is poorer than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Ryan and Mary the bossiest is Mary.",
+        "hypothesis": "Mary is bossier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Dave and Betty the skinniest is Betty.",
+        "hypothesis": "Betty is skinnier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Eric and Sue the most popular is Sue.",
+        "hypothesis": "Sue is more popular than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Bruce and Diane the curviest is Diane.",
+        "hypothesis": "Diane is curvier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Katherine and Kathleen the nicest is Kathleen.",
+        "hypothesis": "Kathleen is nicer than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dave, Ralph and Sue the skinniest is Sue.",
+        "hypothesis": "Sue is skinnier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Roger and Judith the hottest is Judith.",
+        "hypothesis": "Judith is hotter than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Anne and Anthony the worst is Anthony.",
+        "hypothesis": "Anthony is worse than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anna, Donna and Sally the chubbiest is Sally.",
+        "hypothesis": "Sally is chubbier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Jim and Samuel the saddest is Samuel.",
+        "hypothesis": "Samuel is sadder than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, Sue and Jack the most clever is Jack.",
+        "hypothesis": "Jack is more clever than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marilyn, Bill and Christopher the toughest is Christopher.",
+        "hypothesis": "Christopher is tougher than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judy, Fiona and Kathryn the weakest is Kathryn.",
+        "hypothesis": "Kathryn is weaker than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Dorothy and Janet the grossest is Janet.",
+        "hypothesis": "Janet is grosser than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Melissa and Joan the chubbiest is Joan.",
+        "hypothesis": "Joan is chubbier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Kate and Don the densest is Don.",
+        "hypothesis": "Don is denser than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Angela and Albert the friendliest is Albert.",
+        "hypothesis": "Albert is friendlier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ryan, Louise and Don the craziest is Don.",
+        "hypothesis": "Don is crazier than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Alex and Sara the most tired is Sara.",
+        "hypothesis": "Sara is more tired than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Rebecca and Andrea the cruellest is Andrea.",
+        "hypothesis": "Andrea is crueller than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Adam and Colin the cleverest is Colin.",
+        "hypothesis": "Colin is cleverer than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jason, Arthur and Matt the cruellest is Matt.",
+        "hypothesis": "Matt is crueller than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Larry, Barbara and Ashley the hungriest is Ashley.",
+        "hypothesis": "Ashley is hungrier than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tony, Suzanne and Don the most clever is Don.",
+        "hypothesis": "Don is more clever than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Kathleen and Julia the most important is Julia.",
+        "hypothesis": "Julia is more important than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Lawrence and Evelyn the thinnest is Evelyn.",
+        "hypothesis": "Evelyn is thinner than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Jack and Elaine the bossiest is Elaine.",
+        "hypothesis": "Elaine is bossier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mary, Nick and Kelly the slimmest is Kelly.",
+        "hypothesis": "Kelly is slimmer than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Ann and Mike the silliest is Mike.",
+        "hypothesis": "Mike is sillier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrew, Christine and John the proudest is John.",
+        "hypothesis": "John is prouder than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jimmy, Lisa and Florence the creepiest is Florence.",
+        "hypothesis": "Florence is creepier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ben, Emily and Diana the curviest is Diana.",
+        "hypothesis": "Diana is curvier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, Harold and Andrea the most important is Andrea.",
+        "hypothesis": "Andrea is more important than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Frederick and Sara the most tired is Sara.",
+        "hypothesis": "Sara is more tired than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Adam and Larry the messiest is Larry.",
+        "hypothesis": "Larry is messier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Philip and Donald the most renowned is Donald.",
+        "hypothesis": "Donald is more renowned than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Katie and Frances the busiest is Frances.",
+        "hypothesis": "Frances is busier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Walter, Leslie and Ralph the hairiest is Ralph.",
+        "hypothesis": "Ralph is hairier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Ron and Carol the fattest is Carol.",
+        "hypothesis": "Carol is fatter than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ralph, Francis and Sharon the bossiest is Sharon.",
+        "hypothesis": "Sharon is bossier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Lynn and Linda the cruellest is Linda.",
+        "hypothesis": "Linda is crueller than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Jonathan and Harold the ugliest is Harold.",
+        "hypothesis": "Harold is uglier than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roger, Judy and Melissa the slowest is Melissa.",
+        "hypothesis": "Melissa is slower than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Billy, Nicole and Larry the creepiest is Larry.",
+        "hypothesis": "Larry is creepier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, Dick and Linda the fairest is Linda.",
+        "hypothesis": "Linda is fairer than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Peter and Billy the weakest is Billy.",
+        "hypothesis": "Billy is weaker than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Virginia, Grace and Nick the oldest is Nick.",
+        "hypothesis": "Nick is older than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frances, Sara and Martha the saltiest is Martha.",
+        "hypothesis": "Martha is saltier than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Alison and Ralph the tiniest is Ralph.",
+        "hypothesis": "Ralph is tinier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Janet, Kelly and Chris the youngest is Chris.",
+        "hypothesis": "Chris is younger than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Sara and Sandra the guiltiest is Sandra.",
+        "hypothesis": "Sandra is guilter than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrew, Jeff and Sophie the most handsome is Sophie.",
+        "hypothesis": "Sophie is more handsome than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Sarah and Edith the friendliest is Edith.",
+        "hypothesis": "Edith is friendlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Fred and Dorothy the scariest is Dorothy.",
+        "hypothesis": "Dorothy is scarier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Fiona and Suzanne the most popular is Suzanne.",
+        "hypothesis": "Suzanne is more popular than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, Kevin and Roy the most important is Roy.",
+        "hypothesis": "Roy is more important than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Fiona and George the boldest is George.",
+        "hypothesis": "George is bolder than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Alice and Jean the slimmest is Jean.",
+        "hypothesis": "Jean is slimmer than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Jean and Catherine the greediest is Catherine.",
+        "hypothesis": "Catherine is greedier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Alison and Henry the most renowned is Henry.",
+        "hypothesis": "Henry is more renowned than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Tim and Billy the healthiest is Billy.",
+        "hypothesis": "Billy is healthier than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Dan and Christopher the saltiest is Christopher.",
+        "hypothesis": "Christopher is saltier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lauren, Ruth and Mark the classiest is Mark.",
+        "hypothesis": "Mark is classier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nicole, Caroline and Ben the weakest is Ben.",
+        "hypothesis": "Ben is weaker than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Philip and Diane the most handsome is Diane.",
+        "hypothesis": "Diane is more handsome than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rachel, Melissa and Alexander the cruellest is Alexander.",
+        "hypothesis": "Alexander is crueller than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carl, Paul and Cynthia the gloomiest is Cynthia.",
+        "hypothesis": "Cynthia is gloomier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Anthony and Frederick the boldest is Frederick.",
+        "hypothesis": "Frederick is bolder than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anne, Roy and Ryan the calmest is Ryan.",
+        "hypothesis": "Ryan is calmer than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexander, Nick and Francis the bossiest is Francis.",
+        "hypothesis": "Francis is bossier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Louise and Joseph the fairest is Joseph.",
+        "hypothesis": "Joseph is fairer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Sarah and Steven the happiest is Steven.",
+        "hypothesis": "Steven is happier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Charles and Al the biggest is Al.",
+        "hypothesis": "Al is bigger than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Bill and Jean the fattest is Jean.",
+        "hypothesis": "Jean is fatter than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Joseph and Howard the calmest is Howard.",
+        "hypothesis": "Howard is calmer than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louise, Richard and Dick the most popular is Dick.",
+        "hypothesis": "Dick is more popular than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Virginia, Mary and Lawrence the tiniest is Lawrence.",
+        "hypothesis": "Lawrence is tinier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amy, Robert and Stephanie the greatest is Stephanie.",
+        "hypothesis": "Stephanie is greater than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Samuel and Emily the oldest is Emily.",
+        "hypothesis": "Emily is older than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Edwin and Daniel the fittest is Daniel.",
+        "hypothesis": "Daniel is fitter than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eric, Frederick and Heather the prettiest is Heather.",
+        "hypothesis": "Heather is prettier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Alan and Eric the shortest is Eric.",
+        "hypothesis": "Eric is shorter than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Ray and Walter the harshest is Walter.",
+        "hypothesis": "Walter is harsher than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Among Brian, Leslie and Mike the bravest is Mike.",
+        "hypothesis": "Mike is braver than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Karen, Edith and Marilyn the chubbiest is Marilyn.",
+        "hypothesis": "Marilyn is chubbier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nancy, Paul and Albert the most modern is Albert.",
+        "hypothesis": "Albert is more modern than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jerry, Harriet and Lauren the sleepiest is Lauren.",
+        "hypothesis": "Lauren is sleepier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Henry, Cynthia and Joseph the sincerest is Joseph.",
+        "hypothesis": "Joseph is sincerer than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Bobby and Helen the biggest is Helen.",
+        "hypothesis": "Helen is bigger than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Among Barbara, Kevin and Angela the loudest is Angela.",
+        "hypothesis": "Angela is louder than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Kathy and Emma the sweetest is Emma.",
+        "hypothesis": "Emma is sweeter than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Albert and Kathy the healthiest is Kathy.",
+        "hypothesis": "Kathy is healthier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Jerry and Linda the firmest is Linda.",
+        "hypothesis": "Linda is firmer than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Leslie and Tony the funniest is Tony.",
+        "hypothesis": "Tony is funnier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lynn, Christopher and Jack the noisiest is Jack.",
+        "hypothesis": "Jack is noisier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Deborah and Florence the youngest is Florence.",
+        "hypothesis": "Florence is younger than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Albert and Sophie the most polite is Sophie.",
+        "hypothesis": "Sophie is more polite than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Francis and Barbara the harshest is Barbara.",
+        "hypothesis": "Barbara is harsher than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Sally and Sophie the saddest is Sophie.",
+        "hypothesis": "Sophie is sadder than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Pamela and Hugh the loveliest is Hugh.",
+        "hypothesis": "Hugh is lovelier than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Katherine and Victoria the dullest is Victoria.",
+        "hypothesis": "Victoria is duller than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Martha and Amanda the best is Amanda.",
+        "hypothesis": "Amanda is better than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anna, Edwin and Simon the most tired is Simon.",
+        "hypothesis": "Simon is more tired than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sara, Catherine and Dave the saltiest is Dave.",
+        "hypothesis": "Dave is saltier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Billy and Matt the curviest is Matt.",
+        "hypothesis": "Matt is curvier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Bob and Leslie the kindest is Leslie.",
+        "hypothesis": "Leslie is kinder than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Tony and Joseph the most bitter is Joseph.",
+        "hypothesis": "Joseph is more bitter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Kevin and Sue the naughtiest is Sue.",
+        "hypothesis": "Sue is naughtier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Rachel and Nancy the smallest is Nancy.",
+        "hypothesis": "Nancy is smaller than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alex, Robert and Kevin the oldest is Kevin.",
+        "hypothesis": "Kevin is older than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Jill and Elizabeth the slowest is Elizabeth.",
+        "hypothesis": "Elizabeth is slower than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jessica, David and Alison the fastest is Alison.",
+        "hypothesis": "Alison is faster than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Dorothy and Chris the grossest is Chris.",
+        "hypothesis": "Chris is grosser than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Arthur and James the skinniest is James.",
+        "hypothesis": "James is skinnier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ruth, William and Elizabeth the most attractive is Elizabeth.",
+        "hypothesis": "Elizabeth is more attractive than William.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rose, Dan and Walter the creepiest is Walter.",
+        "hypothesis": "Walter is creepier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Cynthia, Judith and Julie the bitterest is Julie.",
+        "hypothesis": "Julie is bitterer than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harry, Gary and Christopher the skinniest is Christopher.",
+        "hypothesis": "Christopher is skinnier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Alexander and Rachel the worst is Rachel.",
+        "hypothesis": "Rachel is worse than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Claire and Don the fastest is Don.",
+        "hypothesis": "Don is faster than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joe, Robert and Simon the sweetest is Simon.",
+        "hypothesis": "Simon is sweeter than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Jimmy and Eleanor the strongest is Eleanor.",
+        "hypothesis": "Eleanor is stronger than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Deborah, Patrick and Michael the sincerest is Michael.",
+        "hypothesis": "Michael is sincerer than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, Karen and Samuel the densest is Samuel.",
+        "hypothesis": "Samuel is denser than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dan, Patricia and Louis the biggest is Louis.",
+        "hypothesis": "Louis is bigger than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Caroline, Judith and Alice the nicest is Alice.",
+        "hypothesis": "Alice is nicer than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Julia and Jimmy the greediest is Jimmy.",
+        "hypothesis": "Jimmy is greedier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Mike and Angela the strongest is Angela.",
+        "hypothesis": "Angela is stronger than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ken, Florence and Victoria the boldest is Victoria.",
+        "hypothesis": "Victoria is bolder than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Andrea and Kate the toughest is Kate.",
+        "hypothesis": "Kate is tougher than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Greg and Dick the most handsome is Dick.",
+        "hypothesis": "Dick is more handsome than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Virginia and Jessica the hungriest is Jessica.",
+        "hypothesis": "Jessica is hungrier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edith, Jim and Peter the most important is Peter.",
+        "hypothesis": "Peter is more important than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Betty and Virginia the most polite is Virginia.",
+        "hypothesis": "Virginia is more polite than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lynn, Ellen and Charlotte the tiniest is Charlotte.",
+        "hypothesis": "Charlotte is tinier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Scott, David and Alan the most renowned is Alan.",
+        "hypothesis": "Alan is more renowned than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Anne and Carl the fattest is Carl.",
+        "hypothesis": "Carl is fatter than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Harriet and Martin the most attractive is Martin.",
+        "hypothesis": "Martin is more attractive than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Tony and Maria the fattest is Maria.",
+        "hypothesis": "Maria is fatter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Greg and Martha the loudest is Martha.",
+        "hypothesis": "Martha is louder than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anna, Lawrence and Philip the silliest is Philip.",
+        "hypothesis": "Philip is sillier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, Francis and Martha the cruellest is Martha.",
+        "hypothesis": "Martha is crueller than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Colin and Marie the most modern is Marie.",
+        "hypothesis": "Marie is more modern than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Mary and Kenneth the saltiest is Kenneth.",
+        "hypothesis": "Kenneth is saltier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ron, Walter and Elizabeth the most popular is Elizabeth.",
+        "hypothesis": "Elizabeth is more popular than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Joseph and Patrick the thinnest is Patrick.",
+        "hypothesis": "Patrick is thinner than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, Virginia and Charlotte the grossest is Charlotte.",
+        "hypothesis": "Charlotte is grosser than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Philip and Jennifer the poorest is Jennifer.",
+        "hypothesis": "Jennifer is poorer than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judith, Eleanor and Anna the busiest is Anna.",
+        "hypothesis": "Anna is busier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ben, Rachel and Alice the cruellest is Alice.",
+        "hypothesis": "Alice is crueller than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Sharon and Eric the politest is Eric.",
+        "hypothesis": "Eric is politer than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kelly, Frederick and Adam the cutest is Adam.",
+        "hypothesis": "Adam is cuter than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Anne and Julie the saltiest is Julie.",
+        "hypothesis": "Julie is saltier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, Don and Marie the smallest is Marie.",
+        "hypothesis": "Marie is smaller than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Dick and Eleanor the smallest is Eleanor.",
+        "hypothesis": "Eleanor is smaller than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Victoria and Andrew the fittest is Andrew.",
+        "hypothesis": "Andrew is fitter than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Jimmy and Elaine the hungriest is Elaine.",
+        "hypothesis": "Elaine is hungrier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Alison and Tom the thinnest is Tom.",
+        "hypothesis": "Tom is thinner than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Bobby and Emma the most bitter is Emma.",
+        "hypothesis": "Emma is more bitter than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Patricia and Brian the smallest is Brian.",
+        "hypothesis": "Brian is smaller than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jill, Peter and Bill the angriest is Bill.",
+        "hypothesis": "Bill is angrier than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Carl and Elizabeth the funniest is Elizabeth.",
+        "hypothesis": "Elizabeth is funnier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Patrick and Annie the healthiest is Annie.",
+        "hypothesis": "Annie is healthier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edith, Sam and Alfred the most polite is Alfred.",
+        "hypothesis": "Alfred is more polite than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Grace and Evelyn the laziest is Evelyn.",
+        "hypothesis": "Evelyn is lazier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Katherine and Kathy the loveliest is Kathy.",
+        "hypothesis": "Kathy is lovelier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Christine and Ron the hottest is Ron.",
+        "hypothesis": "Ron is hotter than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Christine and Joseph the dullest is Joseph.",
+        "hypothesis": "Joseph is duller than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Benjamin and Brian the smartest is Brian.",
+        "hypothesis": "Brian is smarter than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rachel, Billy and Lucy the youngest is Lucy.",
+        "hypothesis": "Lucy is younger than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Marilyn and Jane the rudest is Jane.",
+        "hypothesis": "Jane is ruder than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mary, Brian and Paul the rudest is Paul.",
+        "hypothesis": "Paul is ruder than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Ann and Mark the tiniest is Mark.",
+        "hypothesis": "Mark is tinier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Colin and Karen the gloomiest is Karen.",
+        "hypothesis": "Karen is gloomier than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Emma and Helen the friendliest is Helen.",
+        "hypothesis": "Helen is friendlier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sarah, Helen and Bill the wealthiest is Bill.",
+        "hypothesis": "Bill is wealthier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Alice and Rachel the ugliest is Rachel.",
+        "hypothesis": "Rachel is uglier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Karen, Diana and Carl the friendliest is Carl.",
+        "hypothesis": "Carl is friendlier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Scott and Ken the smallest is Ken.",
+        "hypothesis": "Ken is smaller than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kate, Julia and Nancy the fattest is Nancy.",
+        "hypothesis": "Nancy is fatter than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ian, Katie and Johnny the shallowest is Johnny.",
+        "hypothesis": "Johnny is shallower than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Diana and Elizabeth the most renowned is Elizabeth.",
+        "hypothesis": "Elizabeth is more renowned than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Ben and John the sweetest is John.",
+        "hypothesis": "John is sweeter than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Eleanor and Hugh the friendliest is Hugh.",
+        "hypothesis": "Hugh is friendlier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Andrea and Kate the silliest is Kate.",
+        "hypothesis": "Kate is sillier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Alfred and Gary the hairiest is Gary.",
+        "hypothesis": "Gary is hairier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amy, Tom and Steve the densest is Steve.",
+        "hypothesis": "Steve is denser than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Martin and Eleanor the firmest is Eleanor.",
+        "hypothesis": "Eleanor is firmer than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Susan and Fiona the proudest is Fiona.",
+        "hypothesis": "Fiona is prouder than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathryn, Joseph and Donna the humblest is Donna.",
+        "hypothesis": "Donna is humbler than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Bill and Michael the most bitter is Michael.",
+        "hypothesis": "Michael is more bitter than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlotte, Jennifer and Patrick the gloomiest is Patrick.",
+        "hypothesis": "Patrick is gloomier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, John and Scott the slowest is Scott.",
+        "hypothesis": "Scott is slower than John.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, James and Lisa the meanest is Lisa.",
+        "hypothesis": "Lisa is meaner than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Edward and Jonathan the grossest is Jonathan.",
+        "hypothesis": "Jonathan is grosser than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dorothy, Matthew and Sam the ugliest is Sam.",
+        "hypothesis": "Sam is uglier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Fiona and Ed the cleverest is Ed.",
+        "hypothesis": "Ed is cleverer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Ruth and Leslie the slimmest is Leslie.",
+        "hypothesis": "Leslie is slimmer than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Ron and Adam the friendliest is Adam.",
+        "hypothesis": "Adam is friendlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, David and Matthew the richest is Matthew.",
+        "hypothesis": "Matthew is richer than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Diana and Bobby the bravest is Bobby.",
+        "hypothesis": "Bobby is braver than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Howard, Kenneth and Lucy the grossest is Lucy.",
+        "hypothesis": "Lucy is grosser than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eric, Alexandra and Charles the classiest is Charles.",
+        "hypothesis": "Charles is classier than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ray, Bobby and Cynthia the politest is Cynthia.",
+        "hypothesis": "Cynthia is politer than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Ben and Ray the proudest is Ray.",
+        "hypothesis": "Ray is prouder than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Heather, Sarah and Peter the worst is Peter.",
+        "hypothesis": "Peter is worse than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Keith and John the funniest is John.",
+        "hypothesis": "John is funnier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Greg, Roy and Virginia the silliest is Virginia.",
+        "hypothesis": "Virginia is sillier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dorothy, Pamela and Carolyn the sleepiest is Carolyn.",
+        "hypothesis": "Carolyn is sleepier than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Nick and Jonathan the worst is Jonathan.",
+        "hypothesis": "Jonathan is worse than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Judy and Kate the wealthiest is Kate.",
+        "hypothesis": "Kate is wealthier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Kim and Sarah the kindest is Sarah.",
+        "hypothesis": "Sarah is kinder than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Greg and Frank the saddest is Frank.",
+        "hypothesis": "Frank is sadder than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Jennifer and Marilyn the densest is Marilyn.",
+        "hypothesis": "Marilyn is denser than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Elizabeth and Donna the loveliest is Donna.",
+        "hypothesis": "Donna is lovelier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Alfred and Anna the wealthiest is Anna.",
+        "hypothesis": "Anna is wealthier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Elaine, Deborah and Edward the most attractive is Edward.",
+        "hypothesis": "Edward is more attractive than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, John and Kim the healthiest is Kim.",
+        "hypothesis": "Kim is healthier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jay, Francis and Grace the funniest is Grace.",
+        "hypothesis": "Grace is funnier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michael, Frederick and Benjamin the fairest is Benjamin.",
+        "hypothesis": "Benjamin is fairer than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sue, Elaine and Al the most important is Al.",
+        "hypothesis": "Al is more important than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Maria, Ryan and Kevin the gloomiest is Kevin.",
+        "hypothesis": "Kevin is gloomier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Jeff and Don the sharpest is Don.",
+        "hypothesis": "Don is sharper than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Among Heather, Billy and Edith the loveliest is Edith.",
+        "hypothesis": "Edith is lovelier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kate, Angela and Ruth the sincerest is Ruth.",
+        "hypothesis": "Ruth is sincerer than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, James and Kenneth the toughest is Kenneth.",
+        "hypothesis": "Kenneth is tougher than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Marilyn and Sue the most renowned is Sue.",
+        "hypothesis": "Sue is more renowned than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Sophie and Dave the most interesting is Dave.",
+        "hypothesis": "Dave is more interesting than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tony, Mark and Charles the hottest is Charles.",
+        "hypothesis": "Charles is hotter than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Kevin and Dave the kindest is Dave.",
+        "hypothesis": "Dave is kinder than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kelly, Billy and Nancy the most popular is Nancy.",
+        "hypothesis": "Nancy is more popular than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ryan, Barbara and Al the smallest is Al.",
+        "hypothesis": "Al is smaller than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, Grace and Bob the classiest is Bob.",
+        "hypothesis": "Bob is classier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Jeff and Patricia the longest is Patricia.",
+        "hypothesis": "Patricia is longer than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christopher, Dorothy and Walter the meanest is Walter.",
+        "hypothesis": "Walter is meaner than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Daniel, Christine and Jill the kindest is Jill.",
+        "hypothesis": "Jill is kinder than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Alice and Jill the gentlest is Jill.",
+        "hypothesis": "Jill is gentler than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Donna and Suzanne the smallest is Suzanne.",
+        "hypothesis": "Suzanne is smaller than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Donald and Nancy the shyest is Nancy.",
+        "hypothesis": "Nancy is shyer than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Caroline and Steve the most popular is Steve.",
+        "hypothesis": "Steve is more popular than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Among Peter, Elaine and Harold the gloomiest is Harold.",
+        "hypothesis": "Harold is gloomier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Mark and Kathleen the densest is Kathleen.",
+        "hypothesis": "Kathleen is denser than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Among Walter, Larry and Jean the loudest is Jean.",
+        "hypothesis": "Jean is louder than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Brian, Florence and Lynn the chubbiest is Lynn.",
+        "hypothesis": "Lynn is chubbier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlie, John and Ryan the politest is Ryan.",
+        "hypothesis": "Ryan is politer than John.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Billy and Amanda the harshest is Amanda.",
+        "hypothesis": "Amanda is harsher than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Melissa and James the humblest is James.",
+        "hypothesis": "James is humbler than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carl, Edward and Jerry the busiest is Jerry.",
+        "hypothesis": "Jerry is busier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Harold and Marilyn the fittest is Marilyn.",
+        "hypothesis": "Marilyn is fitter than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Emma and Jane the calmest is Jane.",
+        "hypothesis": "Jane is calmer than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Arthur and Greg the clumsiest is Greg.",
+        "hypothesis": "Greg is clumsier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Bill and Joe the most attractive is Joe.",
+        "hypothesis": "Joe is more attractive than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harriet, Richard and Catherine the bossiest is Catherine.",
+        "hypothesis": "Catherine is bossier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Robert and Roger the biggest is Roger.",
+        "hypothesis": "Roger is bigger than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Kim and Sarah the most renowned is Sarah.",
+        "hypothesis": "Sarah is more renowned than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Gary and Jim the nicest is Jim.",
+        "hypothesis": "Jim is nicer than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Carolyn and Eric the boldest is Eric.",
+        "hypothesis": "Eric is bolder than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kelly, Louis and Mark the humblest is Mark.",
+        "hypothesis": "Mark is humbler than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jill, Alison and Barbara the slimmest is Barbara.",
+        "hypothesis": "Barbara is slimmer than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rachel, Arthur and Laura the bravest is Laura.",
+        "hypothesis": "Laura is braver than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Billy and Dick the most beautiful is Dick.",
+        "hypothesis": "Dick is more beautiful than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among John, Greg and Betty the shallowest is Betty.",
+        "hypothesis": "Betty is shallower than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, George and Ann the angriest is Ann.",
+        "hypothesis": "Ann is angrier than George.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judy, Don and Fred the proudest is Fred.",
+        "hypothesis": "Fred is prouder than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dave, Ian and Gary the shallowest is Gary.",
+        "hypothesis": "Gary is shallower than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jerry, Simon and Dick the classiest is Dick.",
+        "hypothesis": "Dick is classier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jack, Peter and Kathryn the worst is Kathryn.",
+        "hypothesis": "Kathryn is worse than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Keith and Howard the firmest is Howard.",
+        "hypothesis": "Howard is firmer than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Evelyn, Laura and Rose the proudest is Rose.",
+        "hypothesis": "Rose is prouder than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lauren, Harry and Ann the weakest is Ann.",
+        "hypothesis": "Ann is weaker than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nancy, Jane and Steven the creepiest is Steven.",
+        "hypothesis": "Steven is creepier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Melissa and Daniel the strongest is Daniel.",
+        "hypothesis": "Daniel is stronger than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sarah, Sam and Ray the slowest is Ray.",
+        "hypothesis": "Ray is slower than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carl, Mark and Ed the fattest is Ed.",
+        "hypothesis": "Ed is fatter than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Howard and Kevin the grossest is Kevin.",
+        "hypothesis": "Kevin is grosser than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carolyn, Lauren and Steve the most bitter is Steve.",
+        "hypothesis": "Steve is more bitter than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Carol and Amy the most polite is Amy.",
+        "hypothesis": "Amy is more polite than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Carl and Sarah the politest is Sarah.",
+        "hypothesis": "Sarah is politer than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Among Philip, Tony and Sandra the best is Sandra.",
+        "hypothesis": "Sandra is better than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matthew, Alexander and Richard the shallowest is Richard.",
+        "hypothesis": "Richard is shallower than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Ellen and Jonathan the most polite is Jonathan.",
+        "hypothesis": "Jonathan is more polite than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jack, Anna and Betty the greatest is Betty.",
+        "hypothesis": "Betty is greater than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Charles and Bruce the sorriest is Bruce.",
+        "hypothesis": "Bruce is sorrier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Virginia and Alex the most attractive is Alex.",
+        "hypothesis": "Alex is more attractive than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christopher, Angela and Diana the dumbest is Diana.",
+        "hypothesis": "Diana is dumber than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Fiona and Anthony the sincerest is Anthony.",
+        "hypothesis": "Anthony is sincerer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Chris, Rachel and Ken the shallowest is Ken.",
+        "hypothesis": "Ken is shallower than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Melissa, Jay and Jack the scariest is Jack.",
+        "hypothesis": "Jack is scarier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Kate and Dorothy the loneliest is Dorothy.",
+        "hypothesis": "Dorothy is lonlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Jane and Sara the greatest is Sara.",
+        "hypothesis": "Sara is greater than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Caroline and Harriet the creepiest is Harriet.",
+        "hypothesis": "Harriet is creepier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Lynn and John the most beautiful is John.",
+        "hypothesis": "John is more beautiful than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Daniel, Kevin and Pamela the weakest is Pamela.",
+        "hypothesis": "Pamela is weaker than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Jeff and Jean the curviest is Jean.",
+        "hypothesis": "Jean is curvier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Harriet and Elizabeth the greatest is Elizabeth.",
+        "hypothesis": "Elizabeth is greater than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patrick, Jean and Ron the shyest is Ron.",
+        "hypothesis": "Ron is shyer than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Among Evelyn, Christopher and Edith the fairest is Edith.",
+        "hypothesis": "Edith is fairer than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Patricia and Roy the youngest is Roy.",
+        "hypothesis": "Roy is younger than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Deborah, Christopher and Betty the fattest is Betty.",
+        "hypothesis": "Betty is fatter than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nancy, Brian and Matt the tiniest is Matt.",
+        "hypothesis": "Matt is tinier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Greg and Roger the most beautiful is Roger.",
+        "hypothesis": "Roger is more beautiful than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alice, Janet and Bill the firmest is Bill.",
+        "hypothesis": "Bill is firmer than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Mark and Walter the greediest is Walter.",
+        "hypothesis": "Walter is greedier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Among Leslie, Linda and Kate the scariest is Kate.",
+        "hypothesis": "Kate is scarier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anne, Kim and Ian the guiltiest is Ian.",
+        "hypothesis": "Ian is guilter than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ryan, Kathryn and Ann the hungriest is Ann.",
+        "hypothesis": "Ann is hungrier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Anthony and Ian the cutest is Ian.",
+        "hypothesis": "Ian is cuter than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Ryan and Kathleen the shallowest is Kathleen.",
+        "hypothesis": "Kathleen is shallower than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carolyn, Howard and Peter the quietest is Peter.",
+        "hypothesis": "Peter is quieter than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roger, Ruth and Samuel the fittest is Samuel.",
+        "hypothesis": "Samuel is fitter than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, Dick and Suzanne the humblest is Suzanne.",
+        "hypothesis": "Suzanne is humbler than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alan, Mike and Arthur the happiest is Arthur.",
+        "hypothesis": "Arthur is happier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Among Simon, Ian and Charlie the proudest is Charlie.",
+        "hypothesis": "Charlie is prouder than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Stephanie and Charles the greediest is Charles.",
+        "hypothesis": "Charles is greedier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kim, Amanda and Nicole the politest is Nicole.",
+        "hypothesis": "Nicole is politer than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judy, Martha and Richard the sorriest is Richard.",
+        "hypothesis": "Richard is sorrier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jill, Carl and Amy the hairiest is Amy.",
+        "hypothesis": "Amy is hairier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Mary and Jeff the wealthiest is Jeff.",
+        "hypothesis": "Jeff is wealthier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Louis and Annie the most beautiful is Annie.",
+        "hypothesis": "Annie is more beautiful than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathryn, Jack and Walter the firmest is Walter.",
+        "hypothesis": "Walter is firmer than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Catherine and Harold the prettiest is Harold.",
+        "hypothesis": "Harold is prettier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Alexander and Peter the naughtiest is Peter.",
+        "hypothesis": "Peter is naughtier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Harry and Eleanor the naughtiest is Eleanor.",
+        "hypothesis": "Eleanor is naughtier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Sara and Eleanor the weakest is Eleanor.",
+        "hypothesis": "Eleanor is weaker than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Jack and Nicole the quietest is Nicole.",
+        "hypothesis": "Nicole is quieter than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Michelle and Florence the naughtiest is Florence.",
+        "hypothesis": "Florence is naughtier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, Michelle and Martin the bitterest is Martin.",
+        "hypothesis": "Martin is bitterer than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Charlie and Annie the bravest is Annie.",
+        "hypothesis": "Annie is braver than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrew, Ruth and Louise the clumsiest is Louise.",
+        "hypothesis": "Louise is clumsier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Patrick and Alexander the most interesting is Alexander.",
+        "hypothesis": "Alexander is more interesting than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Among John, Harriet and Suzanne the oldest is Suzanne.",
+        "hypothesis": "Suzanne is older than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Jean and Richard the craziest is Richard.",
+        "hypothesis": "Richard is crazier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Susan and Jonathan the most handsome is Jonathan.",
+        "hypothesis": "Jonathan is more handsome than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fiona, Adam and Fred the messiest is Fred.",
+        "hypothesis": "Fred is messier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Lauren and Helen the calmest is Helen.",
+        "hypothesis": "Helen is calmer than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Stephanie and Jennifer the tallest is Jennifer.",
+        "hypothesis": "Jennifer is taller than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Ian and Philip the smallest is Philip.",
+        "hypothesis": "Philip is smaller than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, George and Steven the cruellest is Steven.",
+        "hypothesis": "Steven is crueller than George.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christine, Marie and Lawrence the prettiest is Lawrence.",
+        "hypothesis": "Lawrence is prettier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Simon, Lauren and Jessica the most handsome is Jessica.",
+        "hypothesis": "Jessica is more handsome than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Frank and Cynthia the most polite is Cynthia.",
+        "hypothesis": "Cynthia is more polite than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrew, Tim and Ray the most beautiful is Ray.",
+        "hypothesis": "Ray is more beautiful than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Hugh and Frederick the most tired is Frederick.",
+        "hypothesis": "Frederick is more tired than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Alison and Howard the hungriest is Howard.",
+        "hypothesis": "Howard is hungrier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ray, Frank and Melissa the smartest is Melissa.",
+        "hypothesis": "Melissa is smarter than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Bob and Edward the loneliest is Edward.",
+        "hypothesis": "Edward is lonlier than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Lucy and Louise the smartest is Louise.",
+        "hypothesis": "Louise is smarter than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Sharon and Grace the greatest is Grace.",
+        "hypothesis": "Grace is greater than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Carl and Maria the angriest is Maria.",
+        "hypothesis": "Maria is angrier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Steve and Billy the greediest is Billy.",
+        "hypothesis": "Billy is greedier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Francis, Suzanne and Florence the most beautiful is Florence.",
+        "hypothesis": "Florence is more beautiful than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Ruth and George the loudest is George.",
+        "hypothesis": "George is louder than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Among Janet, Amy and Ralph the smartest is Ralph.",
+        "hypothesis": "Ralph is smarter than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Harry and Janet the happiest is Janet.",
+        "hypothesis": "Janet is happier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Anthony and Ellen the angriest is Ellen.",
+        "hypothesis": "Ellen is angrier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bill, Judy and Johnny the wealthiest is Johnny.",
+        "hypothesis": "Johnny is wealthier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donald, Chris and Frank the dumbest is Frank.",
+        "hypothesis": "Frank is dumber than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, Kim and Don the rudest is Don.",
+        "hypothesis": "Don is ruder than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Ben and Carl the healthiest is Carl.",
+        "hypothesis": "Carl is healthier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Florence and Mary the tiniest is Mary.",
+        "hypothesis": "Mary is tinier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lynn, Keith and William the densest is William.",
+        "hypothesis": "William is denser than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Steve and Samuel the clumsiest is Samuel.",
+        "hypothesis": "Samuel is clumsier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Ben and Alison the saltiest is Alison.",
+        "hypothesis": "Alison is saltier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Greg, Emily and Marie the politest is Marie.",
+        "hypothesis": "Marie is politer than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marilyn, Charlotte and Sophie the weirdest is Sophie.",
+        "hypothesis": "Sophie is weirder than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Colin and Annie the harshest is Annie.",
+        "hypothesis": "Annie is harsher than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Benjamin and Catherine the sharpest is Catherine.",
+        "hypothesis": "Catherine is sharper than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Thomas and Anne the cutest is Anne.",
+        "hypothesis": "Anne is cuter than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Frederick and Anne the fairest is Anne.",
+        "hypothesis": "Anne is fairer than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katie, Lucy and Elaine the smallest is Elaine.",
+        "hypothesis": "Elaine is smaller than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Marie and John the humblest is John.",
+        "hypothesis": "John is humbler than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Lynn and Margaret the brightest is Margaret.",
+        "hypothesis": "Margaret is brighter than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Philip and Greg the laziest is Greg.",
+        "hypothesis": "Greg is lazier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Charlie and Roy the firmest is Roy.",
+        "hypothesis": "Roy is firmer than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Matt and Rachel the densest is Rachel.",
+        "hypothesis": "Rachel is denser than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Frank and Melissa the most polite is Melissa.",
+        "hypothesis": "Melissa is more polite than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Among Heather, Scott and Carl the angriest is Carl.",
+        "hypothesis": "Carl is angrier than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Susan and Ben the cutest is Ben.",
+        "hypothesis": "Ben is cuter than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Virginia, Lauren and Jennifer the quietest is Jennifer.",
+        "hypothesis": "Jennifer is quieter than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Jessica and Chris the friendliest is Chris.",
+        "hypothesis": "Chris is friendlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louise, Jean and Patrick the hungriest is Patrick.",
+        "hypothesis": "Patrick is hungrier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Matthew and Alexandra the proudest is Alexandra.",
+        "hypothesis": "Alexandra is prouder than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Lawrence and Mary the most polite is Mary.",
+        "hypothesis": "Mary is more polite than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mark, Sally and Sara the cruellest is Sara.",
+        "hypothesis": "Sara is crueller than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathy, Lucy and Stephanie the fittest is Stephanie.",
+        "hypothesis": "Stephanie is fitter than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Emma and Bobby the boldest is Bobby.",
+        "hypothesis": "Bobby is bolder than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Anne and James the slowest is James.",
+        "hypothesis": "James is slower than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Betty, Virginia and Margaret the hungriest is Margaret.",
+        "hypothesis": "Margaret is hungrier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Roy and Hugh the most handsome is Hugh.",
+        "hypothesis": "Hugh is more handsome than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carol, Lynn and Ashley the loudest is Ashley.",
+        "hypothesis": "Ashley is louder than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Sandra and Jessica the loneliest is Jessica.",
+        "hypothesis": "Jessica is lonlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Joan and Judith the shyest is Judith.",
+        "hypothesis": "Judith is shyer than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Diane and Mary the wealthiest is Mary.",
+        "hypothesis": "Mary is wealthier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nick, James and Annie the laziest is Annie.",
+        "hypothesis": "Annie is lazier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marilyn, Matthew and Alison the nicest is Alison.",
+        "hypothesis": "Alison is nicer than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ray, Suzanne and Nicole the sleepiest is Nicole.",
+        "hypothesis": "Nicole is sleepier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Brian, Suzanne and James the messiest is James.",
+        "hypothesis": "James is messier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Sally and Diane the busiest is Diane.",
+        "hypothesis": "Diane is busier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Claire and Ralph the wisest is Ralph.",
+        "hypothesis": "Ralph is wiser than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roy, Evelyn and Andrew the messiest is Andrew.",
+        "hypothesis": "Andrew is messier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Frances and Sarah the fattest is Sarah.",
+        "hypothesis": "Sarah is fatter than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judith, Lisa and Christine the gloomiest is Christine.",
+        "hypothesis": "Christine is gloomier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carl, Tony and Deborah the silliest is Deborah.",
+        "hypothesis": "Deborah is sillier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jill, Steven and Harry the firmest is Harry.",
+        "hypothesis": "Harry is firmer than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jay, Scott and Jean the fastest is Jean.",
+        "hypothesis": "Jean is faster than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Fred and Catherine the noisiest is Catherine.",
+        "hypothesis": "Catherine is noisier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Laura, Charlie and Sally the messiest is Sally.",
+        "hypothesis": "Sally is messier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Elaine, Lucy and Kathryn the skinniest is Kathryn.",
+        "hypothesis": "Kathryn is skinnier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ed, Christine and Emily the toughest is Emily.",
+        "hypothesis": "Emily is tougher than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Jimmy and Eleanor the rudest is Eleanor.",
+        "hypothesis": "Eleanor is ruder than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Leslie and Carl the most popular is Carl.",
+        "hypothesis": "Carl is more popular than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fiona, Kevin and Martin the prettiest is Martin.",
+        "hypothesis": "Martin is prettier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, William and Heather the creepiest is Heather.",
+        "hypothesis": "Heather is creepier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Tony and Brian the friendliest is Brian.",
+        "hypothesis": "Brian is friendlier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Brian and Kelly the weirdest is Kelly.",
+        "hypothesis": "Kelly is weirder than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bruce, Katie and Florence the fastest is Florence.",
+        "hypothesis": "Florence is faster than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Melissa and Tony the smallest is Tony.",
+        "hypothesis": "Tony is smaller than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Dorothy and Charlotte the hottest is Charlotte.",
+        "hypothesis": "Charlotte is hotter than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Karen, Susan and Grace the politest is Grace.",
+        "hypothesis": "Grace is politer than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Philip and Maria the sharpest is Maria.",
+        "hypothesis": "Maria is sharper than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nick, Michael and Albert the sweetest is Albert.",
+        "hypothesis": "Albert is sweeter than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Charles and Kathryn the greatest is Kathryn.",
+        "hypothesis": "Kathryn is greater than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Nick and Sue the humblest is Sue.",
+        "hypothesis": "Sue is humbler than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jack, Frederick and Harry the fastest is Harry.",
+        "hypothesis": "Harry is faster than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ken, Robert and Suzanne the laziest is Suzanne.",
+        "hypothesis": "Suzanne is lazier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Alex and Greg the messiest is Greg.",
+        "hypothesis": "Greg is messier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anne, Adam and Ralph the dumbest is Ralph.",
+        "hypothesis": "Ralph is dumber than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lawrence, Keith and Alfred the bitterest is Alfred.",
+        "hypothesis": "Alfred is bitterer than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Julia and Jack the tallest is Jack.",
+        "hypothesis": "Jack is taller than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Chris, Ryan and Lawrence the smallest is Lawrence.",
+        "hypothesis": "Lawrence is smaller than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Matt and Ashley the sweetest is Ashley.",
+        "hypothesis": "Ashley is sweeter than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sarah, Andrew and Margaret the sharpest is Margaret.",
+        "hypothesis": "Margaret is sharper than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Matthew and Scott the wisest is Scott.",
+        "hypothesis": "Scott is wiser than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Amy and Steve the sweetest is Steve.",
+        "hypothesis": "Steve is sweeter than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Louise and Leslie the richest is Leslie.",
+        "hypothesis": "Leslie is richer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Andrew and Harold the prettiest is Harold.",
+        "hypothesis": "Harold is prettier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Paul and Harriet the skinniest is Harriet.",
+        "hypothesis": "Harriet is skinnier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ashley, Matt and Ann the densest is Ann.",
+        "hypothesis": "Ann is denser than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Walter and Ken the youngest is Ken.",
+        "hypothesis": "Ken is younger than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, David and Karen the ugliest is Karen.",
+        "hypothesis": "Karen is uglier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Claire, Karen and Bill the scariest is Bill.",
+        "hypothesis": "Bill is scarier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Grace, Louis and Jack the loudest is Jack.",
+        "hypothesis": "Jack is louder than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Cynthia, Harry and Francis the guiltiest is Francis.",
+        "hypothesis": "Francis is guilter than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Charlotte and Sophie the healthiest is Sophie.",
+        "hypothesis": "Sophie is healthier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jill, Greg and Frederick the firmest is Frederick.",
+        "hypothesis": "Frederick is firmer than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Angela and Nancy the bravest is Nancy.",
+        "hypothesis": "Nancy is braver than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Anthony and Jimmy the slimmest is Jimmy.",
+        "hypothesis": "Jimmy is slimmer than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Leslie, Eleanor and Nancy the meanest is Nancy.",
+        "hypothesis": "Nancy is meaner than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Among Grace, John and Suzanne the quietest is Suzanne.",
+        "hypothesis": "Suzanne is quieter than John.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dan, Sandra and William the bravest is William.",
+        "hypothesis": "William is braver than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Barbara, Eric and Jerry the poorest is Jerry.",
+        "hypothesis": "Jerry is poorer than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christine, Lucy and George the skinniest is George.",
+        "hypothesis": "George is skinnier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Jane and Kathryn the messiest is Kathryn.",
+        "hypothesis": "Kathryn is messier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, Lisa and Marilyn the biggest is Marilyn.",
+        "hypothesis": "Marilyn is bigger than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Sandra and Larry the creepiest is Larry.",
+        "hypothesis": "Larry is creepier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Julia and Steven the greatest is Steven.",
+        "hypothesis": "Steven is greater than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, James and Anne the skinniest is Anne.",
+        "hypothesis": "Anne is skinnier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexander, Jane and Fred the nicest is Fred.",
+        "hypothesis": "Fred is nicer than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Michael and Victoria the guiltiest is Victoria.",
+        "hypothesis": "Victoria is guilter than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Ann and Catherine the meanest is Catherine.",
+        "hypothesis": "Catherine is meaner than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Among Colin, William and Alice the weakest is Alice.",
+        "hypothesis": "Alice is weaker than William.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Carl and Deborah the guiltiest is Deborah.",
+        "hypothesis": "Deborah is guilter than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Al and Barbara the ugliest is Barbara.",
+        "hypothesis": "Barbara is uglier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dorothy, Margaret and Steven the most important is Steven.",
+        "hypothesis": "Steven is more important than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Evelyn and Stephanie the kindest is Stephanie.",
+        "hypothesis": "Stephanie is kinder than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dan, Kim and Sam the silliest is Sam.",
+        "hypothesis": "Sam is sillier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michael, Louis and Dave the biggest is Dave.",
+        "hypothesis": "Dave is bigger than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Matthew and Sharon the creepiest is Sharon.",
+        "hypothesis": "Sharon is creepier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Bruce and Steve the clumsiest is Steve.",
+        "hypothesis": "Steve is clumsier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kelly, Barbara and Martha the most polite is Martha.",
+        "hypothesis": "Martha is more polite than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Dave and Susan the kindest is Susan.",
+        "hypothesis": "Susan is kinder than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathryn, Marilyn and Anthony the hungriest is Anthony.",
+        "hypothesis": "Anthony is hungrier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bobby, Emily and Robert the best is Robert.",
+        "hypothesis": "Robert is better than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bobby, Sam and Roger the silliest is Roger.",
+        "hypothesis": "Roger is sillier than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Stephanie and Albert the smartest is Albert.",
+        "hypothesis": "Albert is smarter than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patrick, Grace and Jerry the clumsiest is Jerry.",
+        "hypothesis": "Jerry is clumsier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlie, Walter and Lucy the tallest is Lucy.",
+        "hypothesis": "Lucy is taller than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Claire and Kim the laziest is Kim.",
+        "hypothesis": "Kim is lazier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alex, Lucy and Harold the funniest is Harold.",
+        "hypothesis": "Harold is funnier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mary, Andrea and Linda the chubbiest is Linda.",
+        "hypothesis": "Linda is chubbier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Among Walter, William and Louise the cleverest is Louise.",
+        "hypothesis": "Louise is cleverer than William.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dan, Sara and Hugh the slimmest is Hugh.",
+        "hypothesis": "Hugh is slimmer than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amy, Kelly and Kate the slimmest is Kate.",
+        "hypothesis": "Kate is slimmer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Among Al, Daniel and Diane the craziest is Diane.",
+        "hypothesis": "Diane is crazier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jim, Thomas and Judy the harshest is Judy.",
+        "hypothesis": "Judy is harsher than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Margaret, Lawrence and David the healthiest is David.",
+        "hypothesis": "David is healthier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Walter, Martha and Sandra the gloomiest is Sandra.",
+        "hypothesis": "Sandra is gloomier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ann, Helen and Ashley the biggest is Ashley.",
+        "hypothesis": "Ashley is bigger than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Chris, Daniel and Marilyn the most handsome is Marilyn.",
+        "hypothesis": "Marilyn is more handsome than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Judith and Sam the shallowest is Sam.",
+        "hypothesis": "Sam is shallower than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sarah, Greg and David the strongest is David.",
+        "hypothesis": "David is stronger than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nicole, Carolyn and Richard the naughtiest is Richard.",
+        "hypothesis": "Richard is naughtier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alan, Joe and Jimmy the gentlest is Jimmy.",
+        "hypothesis": "Jimmy is gentler than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Charles and Carol the dullest is Carol.",
+        "hypothesis": "Carol is duller than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Wendy and Diana the biggest is Diana.",
+        "hypothesis": "Diana is bigger than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Janet, Jennifer and Colin the smartest is Colin.",
+        "hypothesis": "Colin is smarter than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Jessica and Jack the bravest is Jack.",
+        "hypothesis": "Jack is braver than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Dorothy and Julia the humblest is Julia.",
+        "hypothesis": "Julia is humbler than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ed, Jessica and Matthew the sweetest is Matthew.",
+        "hypothesis": "Matthew is sweeter than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sue, Donald and Keith the shallowest is Keith.",
+        "hypothesis": "Keith is shallower than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Jason and Alice the best is Alice.",
+        "hypothesis": "Alice is better than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Harriet and Hugh the fastest is Hugh.",
+        "hypothesis": "Hugh is faster than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jay, Benjamin and Karen the slowest is Karen.",
+        "hypothesis": "Karen is slower than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Ralph and Diana the loneliest is Diana.",
+        "hypothesis": "Diana is lonlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Martha and Claire the dumbest is Claire.",
+        "hypothesis": "Claire is dumber than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Benjamin and Jonathan the tallest is Jonathan.",
+        "hypothesis": "Jonathan is taller than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathryn, Amy and Marie the most important is Marie.",
+        "hypothesis": "Marie is more important than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Nicole and John the most polite is John.",
+        "hypothesis": "John is more polite than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Among Johnny, Louis and Thomas the wisest is Thomas.",
+        "hypothesis": "Thomas is wiser than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Rebecca and Roy the toughest is Roy.",
+        "hypothesis": "Roy is tougher than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alex, Christopher and Ken the humblest is Ken.",
+        "hypothesis": "Ken is humbler than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christopher, Charlie and Anthony the scariest is Anthony.",
+        "hypothesis": "Anthony is scarier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Adam and Richard the gentlest is Richard.",
+        "hypothesis": "Richard is gentler than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Al, Ellen and Albert the youngest is Albert.",
+        "hypothesis": "Albert is younger than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Jill and Katherine the laziest is Katherine.",
+        "hypothesis": "Katherine is lazier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ruth, Florence and Ashley the gloomiest is Ashley.",
+        "hypothesis": "Ashley is gloomier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ian, Caroline and Roy the tiniest is Roy.",
+        "hypothesis": "Roy is tinier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matthew, Sally and Henry the creepiest is Henry.",
+        "hypothesis": "Henry is creepier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Angela and Deborah the politest is Deborah.",
+        "hypothesis": "Deborah is politer than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Joseph and Frank the most attractive is Frank.",
+        "hypothesis": "Frank is more attractive than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Cynthia and Hugh the clumsiest is Hugh.",
+        "hypothesis": "Hugh is clumsier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Colin, David and Tom the gloomiest is Tom.",
+        "hypothesis": "Tom is gloomier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Maria and Stephen the shallowest is Stephen.",
+        "hypothesis": "Stephen is shallower than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bobby, Don and Sara the sincerest is Sara.",
+        "hypothesis": "Sara is sincerer than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Suzanne and Adam the messiest is Adam.",
+        "hypothesis": "Adam is messier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bruce, Bob and Amy the hungriest is Amy.",
+        "hypothesis": "Amy is hungrier than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Fiona and Barbara the richest is Barbara.",
+        "hypothesis": "Barbara is richer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Among Pamela, Cynthia and Katherine the most bitter is Katherine.",
+        "hypothesis": "Katherine is more bitter than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kate, Gary and Martha the funniest is Martha.",
+        "hypothesis": "Martha is funnier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anna, Mark and Nick the loveliest is Nick.",
+        "hypothesis": "Nick is lovelier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Steven and Claire the most beautiful is Claire.",
+        "hypothesis": "Claire is more beautiful than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Lynn and Sandra the oldest is Sandra.",
+        "hypothesis": "Sandra is older than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Leslie and Ray the weirdest is Ray.",
+        "hypothesis": "Ray is weirder than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, Kathleen and Donna the biggest is Donna.",
+        "hypothesis": "Donna is bigger than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Grace, Alison and Billy the most interesting is Billy.",
+        "hypothesis": "Billy is more interesting than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bruce, Ellen and Kelly the most modern is Kelly.",
+        "hypothesis": "Kelly is more modern than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Laura, Charlie and Sue the most interesting is Sue.",
+        "hypothesis": "Sue is more interesting than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Greg, Judy and Grace the hairiest is Grace.",
+        "hypothesis": "Grace is hairier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lauren, Kim and Jay the busiest is Jay.",
+        "hypothesis": "Jay is busier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Jennifer and Ann the tiniest is Ann.",
+        "hypothesis": "Ann is tinier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Alexandra and Leslie the bravest is Leslie.",
+        "hypothesis": "Leslie is braver than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Wendy, Edwin and Nick the shortest is Nick.",
+        "hypothesis": "Nick is shorter than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Stephen and Patricia the best is Patricia.",
+        "hypothesis": "Patricia is better than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Arthur and Cynthia the classiest is Cynthia.",
+        "hypothesis": "Cynthia is classier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, John and Maria the grossest is Maria.",
+        "hypothesis": "Maria is grosser than John.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amanda, Marilyn and Ellen the slimmest is Ellen.",
+        "hypothesis": "Ellen is slimmer than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Maria and Daniel the bossiest is Daniel.",
+        "hypothesis": "Daniel is bossier than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Sam and Charles the tallest is Charles.",
+        "hypothesis": "Charles is taller than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Johnny and Diane the kindest is Diane.",
+        "hypothesis": "Diane is kinder than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Lynn and Pamela the saltiest is Pamela.",
+        "hypothesis": "Pamela is saltier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ryan, Annie and Pamela the shallowest is Pamela.",
+        "hypothesis": "Pamela is shallower than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Diane and Fiona the shyest is Fiona.",
+        "hypothesis": "Fiona is shyer than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bill, Benjamin and Joan the smartest is Joan.",
+        "hypothesis": "Joan is smarter than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Lawrence and Anthony the noisiest is Anthony.",
+        "hypothesis": "Anthony is noisier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sue, Judy and Adam the laziest is Adam.",
+        "hypothesis": "Adam is lazier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christine, Edward and Martin the guiltiest is Martin.",
+        "hypothesis": "Martin is guilter than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Karen, Tony and Charles the guiltiest is Charles.",
+        "hypothesis": "Charles is guilter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Alison and Sara the prettiest is Sara.",
+        "hypothesis": "Sara is prettier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Rebecca and Joan the cleverest is Joan.",
+        "hypothesis": "Joan is cleverer than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ed, Edward and Kathleen the skinniest is Kathleen.",
+        "hypothesis": "Kathleen is skinnier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Angela and Maria the noisiest is Maria.",
+        "hypothesis": "Maria is noisier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, James and Dorothy the silliest is Dorothy.",
+        "hypothesis": "Dorothy is sillier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diane, Howard and William the worst is William.",
+        "hypothesis": "William is worse than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Tim and Sue the calmest is Sue.",
+        "hypothesis": "Sue is calmer than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robin, Virginia and Joseph the shyest is Joseph.",
+        "hypothesis": "Joseph is shyer than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kim, Harriet and Alison the bravest is Alison.",
+        "hypothesis": "Alison is braver than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michelle, Albert and Susan the cutest is Susan.",
+        "hypothesis": "Susan is cuter than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Bobby and Henry the fattest is Henry.",
+        "hypothesis": "Henry is fatter than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Jessica and Angela the shyest is Angela.",
+        "hypothesis": "Angela is shyer than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donald, Thomas and Anna the meanest is Anna.",
+        "hypothesis": "Anna is meaner than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Eleanor and Larry the fattest is Larry.",
+        "hypothesis": "Larry is fatter than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Edith and Kate the sharpest is Kate.",
+        "hypothesis": "Kate is sharper than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Amy, Jim and Lauren the dumbest is Lauren.",
+        "hypothesis": "Lauren is dumber than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Nancy and Kelly the oldest is Kelly.",
+        "hypothesis": "Kelly is older than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patrick, Alan and Bobby the most tired is Bobby.",
+        "hypothesis": "Bobby is more tired than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Mike, Jim and Emma the most handsome is Emma.",
+        "hypothesis": "Emma is more handsome than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Henry, Joan and Judy the gentlest is Judy.",
+        "hypothesis": "Judy is gentler than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joe, Peter and Steven the bossiest is Steven.",
+        "hypothesis": "Steven is bossier than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Diane and Steven the humblest is Steven.",
+        "hypothesis": "Steven is humbler than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlie, William and Albert the curviest is Albert.",
+        "hypothesis": "Albert is curvier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Greg and Susan the toughest is Susan.",
+        "hypothesis": "Susan is tougher than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Philip, Bill and Don the slowest is Don.",
+        "hypothesis": "Don is slower than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Louis and Alex the youngest is Alex.",
+        "hypothesis": "Alex is younger than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Grace, Ralph and Deborah the saltiest is Deborah.",
+        "hypothesis": "Deborah is saltier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Sue and Angela the loudest is Angela.",
+        "hypothesis": "Angela is louder than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Among Johnny, Wendy and Ian the most handsome is Ian.",
+        "hypothesis": "Ian is more handsome than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephanie, Louis and Sandra the weakest is Sandra.",
+        "hypothesis": "Sandra is weaker than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Helen and Linda the smartest is Linda.",
+        "hypothesis": "Linda is smarter than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Keith, James and Alex the best is Alex.",
+        "hypothesis": "Alex is better than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Lynn and Paul the classiest is Paul.",
+        "hypothesis": "Paul is classier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Dave and Harriet the smallest is Harriet.",
+        "hypothesis": "Harriet is smaller than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Johnny, Albert and John the most clever is John.",
+        "hypothesis": "John is more clever than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Suzanne and Harry the dumbest is Harry.",
+        "hypothesis": "Harry is dumber than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Jimmy and Frank the sharpest is Frank.",
+        "hypothesis": "Frank is sharper than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rachel, Alan and Helen the densest is Helen.",
+        "hypothesis": "Helen is denser than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Heather, Catherine and Ben the politest is Ben.",
+        "hypothesis": "Ben is politer than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jonathan, Martha and Anne the chubbiest is Anne.",
+        "hypothesis": "Anne is chubbier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Marie and Louise the laziest is Louise.",
+        "hypothesis": "Louise is lazier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Hugh and Patricia the cruellest is Patricia.",
+        "hypothesis": "Patricia is crueller than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alan, Frances and Judith the clumsiest is Judith.",
+        "hypothesis": "Judith is clumsier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Virginia and Richard the greatest is Richard.",
+        "hypothesis": "Richard is greater than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ron, Julie and Judith the sleepiest is Judith.",
+        "hypothesis": "Judith is sleepier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Paul and Jill the wealthiest is Jill.",
+        "hypothesis": "Jill is wealthier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frederick, Ken and Colin the humblest is Colin.",
+        "hypothesis": "Colin is humbler than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Steve and Sophie the sorriest is Sophie.",
+        "hypothesis": "Sophie is sorrier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Simon, Philip and Bobby the naughtiest is Bobby.",
+        "hypothesis": "Bobby is naughtier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harry, Julie and Martin the shortest is Martin.",
+        "hypothesis": "Martin is shorter than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Francis, Jill and Caroline the angriest is Caroline.",
+        "hypothesis": "Caroline is angrier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Amanda and Daniel the chubbiest is Daniel.",
+        "hypothesis": "Daniel is chubbier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harry, Rebecca and Kathleen the dumbest is Kathleen.",
+        "hypothesis": "Kathleen is dumber than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donald, Andrew and Lawrence the weirdest is Lawrence.",
+        "hypothesis": "Lawrence is weirder than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anne, Albert and Sara the most attractive is Sara.",
+        "hypothesis": "Sara is more attractive than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Mary and Kathleen the shallowest is Kathleen.",
+        "hypothesis": "Kathleen is shallower than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eleanor, Karen and Catherine the poorest is Catherine.",
+        "hypothesis": "Catherine is poorer than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Angela and Brian the grossest is Brian.",
+        "hypothesis": "Brian is grosser than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Colin, George and Francis the slimmest is Francis.",
+        "hypothesis": "Francis is slimmer than George.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Jessica and Charles the cleverest is Charles.",
+        "hypothesis": "Charles is cleverer than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Virginia, Jennifer and Elaine the quietest is Elaine.",
+        "hypothesis": "Elaine is quieter than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eleanor, Tom and Rachel the angriest is Rachel.",
+        "hypothesis": "Rachel is angrier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Jason and Florence the dullest is Florence.",
+        "hypothesis": "Florence is duller than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Thomas and Dorothy the cleverest is Dorothy.",
+        "hypothesis": "Dorothy is cleverer than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Lauren and Jane the boldest is Jane.",
+        "hypothesis": "Jane is bolder than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Jack and Jean the quietest is Jean.",
+        "hypothesis": "Jean is quieter than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Billy and Frank the prettiest is Frank.",
+        "hypothesis": "Frank is prettier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Don and Evelyn the richest is Evelyn.",
+        "hypothesis": "Evelyn is richer than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kevin, Victoria and Edwin the densest is Edwin.",
+        "hypothesis": "Edwin is denser than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Among Colin, Brian and Daniel the curviest is Daniel.",
+        "hypothesis": "Daniel is curvier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among George, Ben and Susan the oldest is Susan.",
+        "hypothesis": "Susan is older than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Scott, Jim and Nicole the saltiest is Nicole.",
+        "hypothesis": "Nicole is saltier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Edith and Melissa the cruellest is Melissa.",
+        "hypothesis": "Melissa is crueller than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Diana and Nancy the politest is Nancy.",
+        "hypothesis": "Nancy is politer than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jason, Kathleen and Henry the dullest is Henry.",
+        "hypothesis": "Henry is duller than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Jimmy and Martin the happiest is Martin.",
+        "hypothesis": "Martin is happier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexandra, Steve and Alexander the cleverest is Alexander.",
+        "hypothesis": "Alexander is cleverer than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frank, Kathryn and Ray the most important is Ray.",
+        "hypothesis": "Ray is more important than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Charlotte and Benjamin the fairest is Benjamin.",
+        "hypothesis": "Benjamin is fairer than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, Joan and Carol the shyest is Carol.",
+        "hypothesis": "Carol is shyer than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Charlotte and Ray the smallest is Ray.",
+        "hypothesis": "Ray is smaller than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Donna and Angela the hairiest is Angela.",
+        "hypothesis": "Angela is hairier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Edwin and Charlie the tallest is Charlie.",
+        "hypothesis": "Charlie is taller than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Sam and Sara the bitterest is Sara.",
+        "hypothesis": "Sara is bitterer than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Sarah and Virginia the greatest is Virginia.",
+        "hypothesis": "Virginia is greater than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Claire, Patricia and Sharon the most important is Sharon.",
+        "hypothesis": "Sharon is more important than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michael, Melissa and Sara the funniest is Sara.",
+        "hypothesis": "Sara is funnier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Dan and Tom the politest is Tom.",
+        "hypothesis": "Tom is politer than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Colin and Nicole the fairest is Nicole.",
+        "hypothesis": "Nicole is fairer than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tom, Tim and John the rudest is John.",
+        "hypothesis": "John is ruder than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Lawrence and Fiona the gentlest is Fiona.",
+        "hypothesis": "Fiona is gentler than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Sophie and Albert the gloomiest is Albert.",
+        "hypothesis": "Albert is gloomier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Harold and Sarah the wealthiest is Sarah.",
+        "hypothesis": "Sarah is wealthier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Barbara, Kevin and Colin the firmest is Colin.",
+        "hypothesis": "Colin is firmer than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Roy and Robert the sorriest is Robert.",
+        "hypothesis": "Robert is sorrier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Jimmy and Albert the most polite is Albert.",
+        "hypothesis": "Albert is more polite than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jay, Jill and Philip the thinnest is Philip.",
+        "hypothesis": "Philip is thinner than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robin, Wendy and Ben the most modern is Ben.",
+        "hypothesis": "Ben is more modern than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Among George, Jennifer and Brian the funniest is Brian.",
+        "hypothesis": "Brian is funnier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrew, Michelle and Francis the most important is Francis.",
+        "hypothesis": "Francis is more important than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Emma and Betty the busiest is Betty.",
+        "hypothesis": "Betty is busier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Andrea, Donna and Sue the fattest is Sue.",
+        "hypothesis": "Sue is fatter than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dick, Dave and Martin the laziest is Martin.",
+        "hypothesis": "Martin is lazier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Daniel, Bob and Richard the shortest is Richard.",
+        "hypothesis": "Richard is shorter than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Eric, Sally and Jill the healthiest is Jill.",
+        "hypothesis": "Jill is healthier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kate, Karen and Anne the hairiest is Anne.",
+        "hypothesis": "Anne is hairier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Emma and Joseph the curviest is Joseph.",
+        "hypothesis": "Joseph is curvier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harry, Rebecca and Nicole the fairest is Nicole.",
+        "hypothesis": "Nicole is fairer than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jennifer, Janet and James the biggest is James.",
+        "hypothesis": "James is bigger than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Annie, Janet and Robert the laziest is Robert.",
+        "hypothesis": "Robert is lazier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Kate and Pamela the shortest is Pamela.",
+        "hypothesis": "Pamela is shorter than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Among Katherine, Rachel and Bill the tallest is Bill.",
+        "hypothesis": "Bill is taller than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martha, Stephen and Walter the friendliest is Walter.",
+        "hypothesis": "Walter is friendlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Among George, Anthony and Nick the most beautiful is Nick.",
+        "hypothesis": "Nick is more beautiful than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Brian, Alan and Linda the most polite is Linda.",
+        "hypothesis": "Linda is more polite than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathy, Kevin and Steven the fattest is Steven.",
+        "hypothesis": "Steven is fatter than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Wendy and Tony the laziest is Tony.",
+        "hypothesis": "Tony is lazier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jessica, Karen and Susan the loveliest is Susan.",
+        "hypothesis": "Susan is lovelier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Albert and Barbara the classiest is Barbara.",
+        "hypothesis": "Barbara is classier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kenneth, Marilyn and Alexandra the clumsiest is Alexandra.",
+        "hypothesis": "Alexandra is clumsier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alan, Judith and Carol the densest is Carol.",
+        "hypothesis": "Carol is denser than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Howard, Caroline and Virginia the smartest is Virginia.",
+        "hypothesis": "Virginia is smarter than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tim, Robert and Arthur the most popular is Arthur.",
+        "hypothesis": "Arthur is more popular than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Among Greg, Jessica and Philip the most modern is Philip.",
+        "hypothesis": "Philip is more modern than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Katherine and Philip the harshest is Philip.",
+        "hypothesis": "Philip is harsher than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Gary and Bill the prettiest is Bill.",
+        "hypothesis": "Bill is prettier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Margaret and Michael the prettiest is Michael.",
+        "hypothesis": "Michael is prettier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ben, Charlie and Nick the most popular is Nick.",
+        "hypothesis": "Nick is more popular than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Maria, Lawrence and Carol the hairiest is Carol.",
+        "hypothesis": "Carol is hairier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joseph, Ben and James the friendliest is James.",
+        "hypothesis": "James is friendlier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tony, Diana and Julia the busiest is Julia.",
+        "hypothesis": "Julia is busier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alex, Andrew and Rose the hungriest is Rose.",
+        "hypothesis": "Rose is hungrier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlotte, Philip and Jason the rudest is Jason.",
+        "hypothesis": "Jason is ruder than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Heather, Katie and Carol the skinniest is Carol.",
+        "hypothesis": "Carol is skinnier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Edward, Wendy and Kathryn the gentlest is Kathryn.",
+        "hypothesis": "Kathryn is gentler than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carolyn, Diane and Mark the grossest is Mark.",
+        "hypothesis": "Mark is grosser than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jessica, Bob and Elizabeth the densest is Elizabeth.",
+        "hypothesis": "Elizabeth is denser than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jerry, Kim and Dave the slowest is Dave.",
+        "hypothesis": "Dave is slower than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ed, Hugh and Rose the politest is Rose.",
+        "hypothesis": "Rose is politer than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Mike and Marilyn the fairest is Marilyn.",
+        "hypothesis": "Marilyn is fairer than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nick, Laura and Rachel the rudest is Rachel.",
+        "hypothesis": "Rachel is ruder than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jane, Edward and Suzanne the curviest is Suzanne.",
+        "hypothesis": "Suzanne is curvier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among William, Frank and Alfred the loneliest is Alfred.",
+        "hypothesis": "Alfred is lonlier than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Roger and Leslie the prettiest is Leslie.",
+        "hypothesis": "Leslie is prettier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Janet, Alice and Andrew the most handsome is Andrew.",
+        "hypothesis": "Andrew is more handsome than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Bill and Leslie the silliest is Leslie.",
+        "hypothesis": "Leslie is sillier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frances, Samuel and Larry the biggest is Larry.",
+        "hypothesis": "Larry is bigger than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Gary, Steve and Al the bossiest is Al.",
+        "hypothesis": "Al is bossier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Sam and Alfred the sincerest is Alfred.",
+        "hypothesis": "Alfred is sincerer than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Ryan and Sarah the loudest is Sarah.",
+        "hypothesis": "Sarah is louder than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charles, Henry and Sophie the weirdest is Sophie.",
+        "hypothesis": "Sophie is weirder than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Suzanne, Chris and Jeff the nicest is Jeff.",
+        "hypothesis": "Jeff is nicer than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Katie and Anna the most bitter is Anna.",
+        "hypothesis": "Anna is more bitter than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Alexander and Johnny the wisest is Johnny.",
+        "hypothesis": "Johnny is wiser than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among Angela, Lisa and Annie the messiest is Annie.",
+        "hypothesis": "Annie is messier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Charlotte, Emma and Emily the most attractive is Emily.",
+        "hypothesis": "Emily is more attractive than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Evelyn, Joseph and Chris the most beautiful is Chris.",
+        "hypothesis": "Chris is more beautiful than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jessica, Jim and Emma the most tired is Emma.",
+        "hypothesis": "Emma is more tired than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Laura, Don and Fred the biggest is Fred.",
+        "hypothesis": "Fred is bigger than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Walter and Alison the fastest is Alison.",
+        "hypothesis": "Alison is faster than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexander, Charlie and Fred the guiltiest is Fred.",
+        "hypothesis": "Fred is guilter than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lisa, Arthur and Martha the thinnest is Martha.",
+        "hypothesis": "Martha is thinner than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alfred, Karen and Rebecca the densest is Rebecca.",
+        "hypothesis": "Rebecca is denser than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bill, Andrea and Brian the creepiest is Brian.",
+        "hypothesis": "Brian is creepier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julie, Daniel and Ben the slimmest is Ben.",
+        "hypothesis": "Ben is slimmer than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Among Don, Donna and Edith the boldest is Edith.",
+        "hypothesis": "Edith is bolder than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ian, Bob and Frederick the brightest is Frederick.",
+        "hypothesis": "Frederick is brighter than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathleen, Tom and George the greediest is George.",
+        "hypothesis": "George is greedier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alan, Janet and Carl the poorest is Carl.",
+        "hypothesis": "Carl is poorer than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Among Martin, Matthew and Simon the biggest is Simon.",
+        "hypothesis": "Simon is bigger than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, James and Carol the most bitter is Carol.",
+        "hypothesis": "Carol is more bitter than James.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nancy, Jerry and Florence the dullest is Florence.",
+        "hypothesis": "Florence is duller than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kelly, Katherine and Tony the sorriest is Tony.",
+        "hypothesis": "Tony is sorrier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Florence, Dave and Deborah the slimmest is Deborah.",
+        "hypothesis": "Deborah is slimmer than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lucy, Stephanie and Bobby the most clever is Bobby.",
+        "hypothesis": "Bobby is more clever than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Bob, Marilyn and Emma the angriest is Emma.",
+        "hypothesis": "Emma is angrier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tony, Ed and Laura the gloomiest is Laura.",
+        "hypothesis": "Laura is gloomier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Among Judy, Anthony and Leslie the happiest is Leslie.",
+        "hypothesis": "Leslie is happier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Sue and Joseph the poorest is Joseph.",
+        "hypothesis": "Joseph is poorer than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joe, Kate and Harriet the greediest is Harriet.",
+        "hypothesis": "Harriet is greedier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jim, Greg and Ken the poorest is Ken.",
+        "hypothesis": "Ken is poorer than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Among Stephen, Alice and Matthew the funniest is Matthew.",
+        "hypothesis": "Matthew is funnier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Lisa and Andrea the weakest is Andrea.",
+        "hypothesis": "Andrea is weaker than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Dick and Betty the slimmest is Betty.",
+        "hypothesis": "Betty is slimmer than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Edith and Kathryn the fittest is Kathryn.",
+        "hypothesis": "Kathryn is fitter than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ian, Anna and Dan the fairest is Dan.",
+        "hypothesis": "Dan is fairer than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Scott, Thomas and Ellen the shallowest is Ellen.",
+        "hypothesis": "Ellen is shallower than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Donna and Dave the brightest is Dave.",
+        "hypothesis": "Dave is brighter than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Martha and Jimmy the laziest is Jimmy.",
+        "hypothesis": "Jimmy is lazier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Evelyn and Louise the most attractive is Louise.",
+        "hypothesis": "Louise is more attractive than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Harold and Sam the clumsiest is Sam.",
+        "hypothesis": "Sam is clumsier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Among Larry, Sharon and Susan the most interesting is Susan.",
+        "hypothesis": "Susan is more interesting than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Carolyn, Diane and Frances the classiest is Frances.",
+        "hypothesis": "Frances is classier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Bobby and Laura the most modern is Laura.",
+        "hypothesis": "Laura is more modern than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Al and Alexandra the best is Alexandra.",
+        "hypothesis": "Alexandra is better than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lauren, Roy and Lawrence the loudest is Lawrence.",
+        "hypothesis": "Lawrence is louder than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ray, Rose and Michelle the sweetest is Michelle.",
+        "hypothesis": "Michelle is sweeter than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Among Tom, Alice and Sam the shallowest is Sam.",
+        "hypothesis": "Sam is shallower than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ray, Jay and Eric the fairest is Eric.",
+        "hypothesis": "Eric is fairer than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Among Elaine, Kim and Sue the healthiest is Sue.",
+        "hypothesis": "Sue is healthier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Melissa, Alexander and Nicole the thinnest is Nicole.",
+        "hypothesis": "Nicole is thinner than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alice, Frederick and Katherine the rudest is Katherine.",
+        "hypothesis": "Katherine is ruder than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alison, Susan and Jim the wealthiest is Jim.",
+        "hypothesis": "Jim is wealthier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Larry, Harry and Simon the longest is Simon.",
+        "hypothesis": "Simon is longer than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Donna and Barbara the laziest is Barbara.",
+        "hypothesis": "Barbara is lazier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Among William, Sara and Catherine the most tired is Catherine.",
+        "hypothesis": "Catherine is more tired than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Matt, Charles and Lawrence the fittest is Lawrence.",
+        "hypothesis": "Lawrence is fitter than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Dick and Nancy the kindest is Nancy.",
+        "hypothesis": "Nancy is kinder than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ben, Patricia and Daniel the quietest is Daniel.",
+        "hypothesis": "Daniel is quieter than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Among Diana, Thomas and Margaret the laziest is Margaret.",
+        "hypothesis": "Margaret is lazier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Paul and Jim the sharpest is Jim.",
+        "hypothesis": "Jim is sharper than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donald, Linda and Matthew the poorest is Matthew.",
+        "hypothesis": "Matthew is poorer than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, David and Melissa the ugliest is Melissa.",
+        "hypothesis": "Melissa is uglier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Johnny, Lynn and Julia the youngest is Julia.",
+        "hypothesis": "Julia is younger than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Amanda and Diane the fattest is Diane.",
+        "hypothesis": "Diane is fatter than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Among Roger, Jim and Katie the strongest is Katie.",
+        "hypothesis": "Katie is stronger than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Frances, Billy and Matt the loveliest is Matt.",
+        "hypothesis": "Matt is lovelier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sharon, Edward and Nicole the most bitter is Nicole.",
+        "hypothesis": "Nicole is more bitter than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Martin and Michelle the weakest is Michelle.",
+        "hypothesis": "Michelle is weaker than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Among James, Stephanie and Dorothy the sleepiest is Dorothy.",
+        "hypothesis": "Dorothy is sleepier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lawrence, Dan and Charlie the worst is Charlie.",
+        "hypothesis": "Charlie is worse than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Linda, Stephanie and Carol the bravest is Carol.",
+        "hypothesis": "Carol is braver than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rebecca, Lawrence and Kelly the bossiest is Kelly.",
+        "hypothesis": "Kelly is bossier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Among Betty, Alfred and Mark the boldest is Mark.",
+        "hypothesis": "Mark is bolder than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Among Benjamin, Julie and Chris the youngest is Chris.",
+        "hypothesis": "Chris is younger than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Lauren and Don the richest is Don.",
+        "hypothesis": "Don is richer than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Louise and Larry the kindest is Larry.",
+        "hypothesis": "Larry is kinder than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jean, Frank and Victoria the saddest is Victoria.",
+        "hypothesis": "Victoria is sadder than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alison, Frances and Eleanor the shortest is Eleanor.",
+        "hypothesis": "Eleanor is shorter than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sara, Anna and Sally the densest is Sally.",
+        "hypothesis": "Sally is denser than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michael, Colin and Alison the fattest is Alison.",
+        "hypothesis": "Alison is fatter than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Sharon and Kelly the most beautiful is Kelly.",
+        "hypothesis": "Kelly is more beautiful than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steve, Kim and Katherine the loneliest is Katherine.",
+        "hypothesis": "Katherine is lonlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Among Michael, Brian and Scott the thinnest is Scott.",
+        "hypothesis": "Scott is thinner than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sam, Betty and Johnny the toughest is Johnny.",
+        "hypothesis": "Johnny is tougher than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Among Arthur, Paul and Dave the laziest is Dave.",
+        "hypothesis": "Dave is lazier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Robert, Emma and Hugh the most interesting is Hugh.",
+        "hypothesis": "Hugh is more interesting than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jerry, Jeff and Robin the skinniest is Robin.",
+        "hypothesis": "Robin is skinnier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Among Philip, Paul and Jason the silliest is Jason.",
+        "hypothesis": "Jason is sillier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Among Steven, Angela and Albert the most polite is Albert.",
+        "hypothesis": "Albert is more polite than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Among Marie, Andrew and Evelyn the brightest is Evelyn.",
+        "hypothesis": "Evelyn is brighter than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Kathy, Alex and Alfred the wealthiest is Alfred.",
+        "hypothesis": "Alfred is wealthier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Among Hugh, Lauren and Bruce the angriest is Bruce.",
+        "hypothesis": "Bruce is angrier than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Laura and Ruth the most interesting is Ruth.",
+        "hypothesis": "Ruth is more interesting than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Among Scott, Marie and Caroline the weirdest is Caroline.",
+        "hypothesis": "Caroline is weirder than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sally, Jerry and Richard the most polite is Richard.",
+        "hypothesis": "Richard is more polite than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Dan and Samuel the silliest is Samuel.",
+        "hypothesis": "Samuel is sillier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ruth, Sara and Michael the hottest is Michael.",
+        "hypothesis": "Michael is hotter than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emily, Katie and Rose the cutest is Rose.",
+        "hypothesis": "Rose is cuter than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Jack, Michelle and Amanda the silliest is Amanda.",
+        "hypothesis": "Amanda is sillier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Among Melissa, Louise and Francis the politest is Francis.",
+        "hypothesis": "Francis is politer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ed, Evelyn and Jim the slowest is Jim.",
+        "hypothesis": "Jim is slower than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Anthony, Alison and Jill the harshest is Jill.",
+        "hypothesis": "Jill is harsher than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Among Catherine, Kathryn and Jennifer the most renowned is Jennifer.",
+        "hypothesis": "Jennifer is more renowned than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Philip and Roger the shyest is Roger.",
+        "hypothesis": "Roger is shyer than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patricia, Nicole and Dick the bravest is Dick.",
+        "hypothesis": "Dick is braver than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexander, Sophie and Steven the classiest is Steven.",
+        "hypothesis": "Steven is classier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Colin, Annie and Nick the biggest is Nick.",
+        "hypothesis": "Nick is bigger than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louise, Carol and Elizabeth the nicest is Elizabeth.",
+        "hypothesis": "Elizabeth is nicer than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sue, Tom and Louise the cruellest is Louise.",
+        "hypothesis": "Louise is crueller than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Among Alexander, Elaine and Andrea the weirdest is Andrea.",
+        "hypothesis": "Andrea is weirder than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Sophie, Alexander and Howard the shyest is Howard.",
+        "hypothesis": "Howard is shyer than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Among Al, Jimmy and Adam the most handsome is Adam.",
+        "hypothesis": "Adam is more handsome than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Ken and Amy the noisiest is Amy.",
+        "hypothesis": "Amy is noisier than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Among Fred, Katherine and Wendy the proudest is Wendy.",
+        "hypothesis": "Wendy is prouder than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ruth, Keith and Matt the meanest is Matt.",
+        "hypothesis": "Matt is meaner than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Among Lawrence, David and William the healthiest is William.",
+        "hypothesis": "William is healthier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ellen, Tony and Jessica the smallest is Jessica.",
+        "hypothesis": "Jessica is smaller than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Janet, Victoria and Patricia the loveliest is Patricia.",
+        "hypothesis": "Patricia is lovelier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Among Joan, Robin and Carol the saltiest is Carol.",
+        "hypothesis": "Carol is saltier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Among Helen, Judy and Tom the guiltiest is Tom.",
+        "hypothesis": "Tom is guilter than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Dan, Andrew and Nancy the meanest is Nancy.",
+        "hypothesis": "Nancy is meaner than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Among Richard, Louise and Angela the most modern is Angela.",
+        "hypothesis": "Angela is more modern than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Among Harold, Tony and Jim the skinniest is Jim.",
+        "hypothesis": "Jim is skinnier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Ellen and Linda the loneliest is Linda.",
+        "hypothesis": "Linda is lonlier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Among Wendy, Grace and Joe the tallest is Joe.",
+        "hypothesis": "Joe is taller than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Among Nick, Alex and Suzanne the creepiest is Suzanne.",
+        "hypothesis": "Suzanne is creepier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Among Louis, Sarah and Ray the grossest is Ray.",
+        "hypothesis": "Ray is grosser than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Among Victoria, Adam and Harry the gloomiest is Harry.",
+        "hypothesis": "Harry is gloomier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Among Donna, Julie and Kevin the harshest is Kevin.",
+        "hypothesis": "Kevin is harsher than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Susan, Sandra and Lucy the loveliest is Lucy.",
+        "hypothesis": "Lucy is lovelier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Among Christine, Kate and Ed the gloomiest is Ed.",
+        "hypothesis": "Ed is gloomier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Among Ian, Alan and Patricia the happiest is Patricia.",
+        "hypothesis": "Patricia is happier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Among Virginia, Rose and Ben the shallowest is Ben.",
+        "hypothesis": "Ben is shallower than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Among Rose, Betty and Billy the slowest is Billy.",
+        "hypothesis": "Billy is slower than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Among Wendy, Katie and Robert the weirdest is Robert.",
+        "hypothesis": "Robert is weirder than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Among Patrick, Lucy and Benjamin the cruellest is Benjamin.",
+        "hypothesis": "Benjamin is crueller than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Emma, Roger and Julie the best is Julie.",
+        "hypothesis": "Julie is better than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Among Julia, Bruce and Donna the angriest is Donna.",
+        "hypothesis": "Donna is angrier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Among Samuel, Lucy and Alan the naughtiest is Alan.",
+        "hypothesis": "Alan is naughtier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Among Albert, Gary and Jim the weakest is Jim.",
+        "hypothesis": "Jim is weaker than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Among Adam, Nick and Sandra the naughtiest is Sandra.",
+        "hypothesis": "Sandra is naughtier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Among David, Harry and Harold the biggest is Harold.",
+        "hypothesis": "Harold is bigger than Harry.",
+        "label": 0
+    }
+]

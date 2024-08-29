@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Harold, Carolyn and Victoria are from Colombia, Nepal and Greece respectively.",
+        "hypothesis": "Victoria is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Kate and Kathy are from North Korea, India and Poland respectively.",
+        "hypothesis": "Kathy is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Ian and Sophie are from Turkey, Sweden and Denmark respectively.",
+        "hypothesis": "Sophie is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "William, Sharon and Christine are from Brazil, Sweden and Ukraine respectively.",
+        "hypothesis": "Christine is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Sharon and Patricia are from United Arab Emirates, India and Ecuador respectively.",
+        "hypothesis": "Patricia is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Helen, Cynthia and Harry are from North Korea, France and Argentina respectively.",
+        "hypothesis": "Harry is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin, Kathleen and Eric are from Uruguay, Indonesia and Bangladesh respectively.",
+        "hypothesis": "Eric is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Kelly and Bobby are from France, Belgium and Israel respectively.",
+        "hypothesis": "Bobby is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Steve, Helen and Scott are from Germany, Pakistan and South Korea respectively.",
+        "hypothesis": "Scott is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Ashley and Albert are from Iraq, Pakistan and Germany respectively.",
+        "hypothesis": "Albert is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Larry and Frederick are from Ukraine, Taiwan and Colombia respectively.",
+        "hypothesis": "Frederick is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Edward and Donna are from Italy, Mexico and Haiti respectively.",
+        "hypothesis": "Donna is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Gary, Pamela and George are from North Korea, Portugal and Egypt respectively.",
+        "hypothesis": "George is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Fred, Alan and Sally are from Libya, Philippines and Israel respectively.",
+        "hypothesis": "Sally is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Gary, Julie and Jimmy are from Bangladesh, Qatar and Brazil respectively.",
+        "hypothesis": "Jimmy is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley, Judith and Jessica are from Finland, Uruguay and Vietnam respectively.",
+        "hypothesis": "Jessica is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Maria and Harriet are from Italy, India and Sweden respectively.",
+        "hypothesis": "Harriet is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Ruth and Ryan are from Iraq, India and Singapore respectively.",
+        "hypothesis": "Ryan is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Eleanor and Karen are from Libya, Iraq and Maldives respectively.",
+        "hypothesis": "Karen is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Sharon and Jerry are from Vietnam, United States of America and Fiji respectively.",
+        "hypothesis": "Jerry is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Katie and Billy are from Turkey, Iceland and France respectively.",
+        "hypothesis": "Billy is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Philip, Amy and Simon are from Haiti, New Zealand and Bhutan respectively.",
+        "hypothesis": "Simon is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Sally and Philip are from Mexico, Denmark and Bangladesh respectively.",
+        "hypothesis": "Philip is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Sally, George and Annie are from Egypt, Saudi Arabia and Chile respectively.",
+        "hypothesis": "Annie is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Frank, Charles and Martin are from Qatar, Ireland and United States of America respectively.",
+        "hypothesis": "Martin is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Bill, Judy and George are from Afghanistan, France and Canada respectively.",
+        "hypothesis": "George is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Larry, Frederick and Henry are from Australia, Iceland and Poland respectively.",
+        "hypothesis": "Henry is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Christopher and Ray are from Fiji, Maldives and Colombia respectively.",
+        "hypothesis": "Ray is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn, Cynthia and Carl are from Canada, Maldives and India respectively.",
+        "hypothesis": "Carl is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Joe and Harriet are from New Zealand, Georgia and Colombia respectively.",
+        "hypothesis": "Harriet is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Thomas and Frederick are from Turkey, Japan and Colombia respectively.",
+        "hypothesis": "Frederick is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea, Marilyn and Kathryn are from Indonesia, Cuba and Iraq respectively.",
+        "hypothesis": "Kathryn is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Billy and Nicole are from Ukraine, Germany and Chile respectively.",
+        "hypothesis": "Nicole is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Jay and Linda are from Philippines, Hungary and Australia respectively.",
+        "hypothesis": "Linda is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Bill and Florence are from United Kingdom, South Korea and Poland respectively.",
+        "hypothesis": "Florence is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Melissa and Deborah are from Sweden, United States of America and Vietnam respectively.",
+        "hypothesis": "Deborah is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine, Julie and Cynthia are from Ecuador, Singapore and Portugal respectively.",
+        "hypothesis": "Cynthia is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Ryan and Adam are from Netherlands, Iceland and Italy respectively.",
+        "hypothesis": "Adam is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Lawrence and Hugh are from Poland, United Kingdom and Ireland respectively.",
+        "hypothesis": "Hugh is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Wendy and Suzanne are from Russia, South Korea and Finland respectively.",
+        "hypothesis": "Suzanne is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Kathleen and Christopher are from Iceland, Netherlands and Denmark respectively.",
+        "hypothesis": "Christopher is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, James and Charlotte are from United States of America, Germany and Bhutan respectively.",
+        "hypothesis": "Charlotte is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Tom and Brian are from Ghana, Greece and Indonesia respectively.",
+        "hypothesis": "Brian is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Carl, Frederick and Bob are from Ireland, Iran and Afghanistan respectively.",
+        "hypothesis": "Bob is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Jason and Julia are from Maldives, Libya and Australia respectively.",
+        "hypothesis": "Julia is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Larry, Michael and Leslie are from Taiwan, Fiji and Italy respectively.",
+        "hypothesis": "Leslie is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Brian, Howard and Sarah are from India, Singapore and North Korea respectively.",
+        "hypothesis": "Sarah is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet, Amy and Steven are from Portugal, Egypt and Bhutan respectively.",
+        "hypothesis": "Steven is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred, Christine and Charlie are from Germany, New Zealand and Austria respectively.",
+        "hypothesis": "Charlie is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Dorothy and Ben are from Vietnam, Oman and Germany respectively.",
+        "hypothesis": "Ben is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy, Harry and Charlie are from India, Bangladesh and Uruguay respectively.",
+        "hypothesis": "Charlie is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie, Al and Amanda are from Poland, Saudi Arabia and United Arab Emirates respectively.",
+        "hypothesis": "Amanda is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Ellen and Charles are from Switzerland, Ghana and Fiji respectively.",
+        "hypothesis": "Charles is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Kate and Tim are from China, Philippines and Fiji respectively.",
+        "hypothesis": "Tim is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Michelle and Sara are from France, Laos and Zimbabwe respectively.",
+        "hypothesis": "Sara is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn, Jane and Don are from Qatar, Iceland and Iran respectively.",
+        "hypothesis": "Don is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Tony and Steven are from Denmark, Italy and Netherlands respectively.",
+        "hypothesis": "Steven is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Jane and Ruth are from Bangladesh, South Korea and Argentina respectively.",
+        "hypothesis": "Ruth is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole, Ryan and Roy are from Haiti, Indonesia and Russia respectively.",
+        "hypothesis": "Roy is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh, Julie and Betty are from North Korea, Hungary and Iceland respectively.",
+        "hypothesis": "Betty is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Don, Susan and Brian are from Ghana, Libya and Greece respectively.",
+        "hypothesis": "Brian is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander, Wendy and Kate are from Portugal, United Arab Emirates and Greece respectively.",
+        "hypothesis": "Kate is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Robin and Sophie are from Zimbabwe, Singapore and Qatar respectively.",
+        "hypothesis": "Sophie is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Jane, Alice and Betty are from Russia, Ukraine and Haiti respectively.",
+        "hypothesis": "Betty is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Julie and Diane are from Maldives, Belarus and Iceland respectively.",
+        "hypothesis": "Diane is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole, Kathleen and Suzanne are from Ireland, Libya and Italy respectively.",
+        "hypothesis": "Suzanne is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Martha and Ray are from Zimbabwe, Austria and Portugal respectively.",
+        "hypothesis": "Ray is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Victoria and Sue are from New Zealand, Fiji and Oman respectively.",
+        "hypothesis": "Sue is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Ruth and Julia are from Portugal, Argentina and Vietnam respectively.",
+        "hypothesis": "Julia is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Amy and Frank are from Australia, Turkey and India respectively.",
+        "hypothesis": "Frank is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor, Colin and Albert are from South Korea, Zimbabwe and Turkey respectively.",
+        "hypothesis": "Albert is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Sue, Samuel and Laura are from United States of America, North Korea and Finland respectively.",
+        "hypothesis": "Laura is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew, Carolyn and Kate are from South Korea, Israel and Canada respectively.",
+        "hypothesis": "Kate is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Emily and Ann are from Egypt, Uruguay and Belgium respectively.",
+        "hypothesis": "Ann is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan, Emily and Amy are from Saudi Arabia, Australia and Poland respectively.",
+        "hypothesis": "Amy is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Paul and Martha are from Iran, United Arab Emirates and Colombia respectively.",
+        "hypothesis": "Martha is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Kevin and Grace are from Indonesia, Laos and Saudi Arabia respectively.",
+        "hypothesis": "Grace is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph, Tony and Heather are from North Korea, Malaysia and Bangladesh respectively.",
+        "hypothesis": "Heather is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Frederick and Maria are from Poland, Nepal and Ghana respectively.",
+        "hypothesis": "Maria is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Henry, Linda and Carl are from Ecuador, Vietnam and Iceland respectively.",
+        "hypothesis": "Carl is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn, Robert and Keith are from Mexico, China and Iran respectively.",
+        "hypothesis": "Keith is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Ian and Al are from North Korea, Iceland and Sweden respectively.",
+        "hypothesis": "Al is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Tony, Linda and Rachel are from Qatar, Philippines and Portugal respectively.",
+        "hypothesis": "Rachel is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "James, Sally and Michael are from Hungary, United Kingdom and Thailand respectively.",
+        "hypothesis": "Michael is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Joe and Victoria are from North Korea, Chile and Nepal respectively.",
+        "hypothesis": "Victoria is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Helen and Chris are from Maldives, United Arab Emirates and Poland respectively.",
+        "hypothesis": "Chris is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Eric and Bob are from Malaysia, South Korea and New Zealand respectively.",
+        "hypothesis": "Bob is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Eleanor and Al are from United States of America, Ghana and Finland respectively.",
+        "hypothesis": "Al is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Philip, Keith and Harry are from Japan, Iceland and Libya respectively.",
+        "hypothesis": "Harry is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Robert and Virginia are from Maldives, Colombia and Iran respectively.",
+        "hypothesis": "Virginia is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Jill and Mark are from Argentina, Nepal and Colombia respectively.",
+        "hypothesis": "Mark is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth, Hugh and Jennifer are from Bhutan, Indonesia and Denmark respectively.",
+        "hypothesis": "Jennifer is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Ashley and Billy are from Iraq, Egypt and Oman respectively.",
+        "hypothesis": "Billy is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Emma and Ed are from Azerbaijan, Finland and Switzerland respectively.",
+        "hypothesis": "Ed is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Brian and Betty are from Afghanistan, Iraq and Portugal respectively.",
+        "hypothesis": "Betty is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Ryan and Sam are from Canada, North Korea and Libya respectively.",
+        "hypothesis": "Sam is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Patrick and Daniel are from Georgia, Azerbaijan and Ireland respectively.",
+        "hypothesis": "Daniel is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Ken, Simon and Colin are from Sweden, New Zealand and Vietnam respectively.",
+        "hypothesis": "Colin is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Mary, Hugh and Carl are from Maldives, Fiji and Singapore respectively.",
+        "hypothesis": "Carl is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Jimmy and Michael are from Japan, Portugal and Switzerland respectively.",
+        "hypothesis": "Michael is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Dick, Lisa and Barbara are from Pakistan, Maldives and Saudi Arabia respectively.",
+        "hypothesis": "Barbara is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, David and Rose are from Japan, South Korea and Belgium respectively.",
+        "hypothesis": "Rose is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Emma and Michael are from Philippines, Iran and Fiji respectively.",
+        "hypothesis": "Michael is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Kathy and Maria are from Turkey, Argentina and Maldives respectively.",
+        "hypothesis": "Maria is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Ryan and Ralph are from Ireland, Japan and Indonesia respectively.",
+        "hypothesis": "Ralph is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Fiona and Elaine are from Vietnam, Thailand and Philippines respectively.",
+        "hypothesis": "Elaine is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Emily and Janet are from Iceland, Belgium and Taiwan respectively.",
+        "hypothesis": "Janet is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Rebecca and Maria are from Singapore, United Kingdom and Sweden respectively.",
+        "hypothesis": "Maria is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Robin and Rebecca are from Belarus, India and Oman respectively.",
+        "hypothesis": "Rebecca is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Claire and Katie are from Fiji, Finland and Maldives respectively.",
+        "hypothesis": "Katie is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Susan and Lawrence are from Russia, Israel and Iraq respectively.",
+        "hypothesis": "Lawrence is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Ron and Jerry are from United States of America, Turkey and Ireland respectively.",
+        "hypothesis": "Jerry is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Barbara and Ken are from Turkey, Afghanistan and Uruguay respectively.",
+        "hypothesis": "Ken is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley, Benjamin and Jerry are from Nepal, Greece and Vietnam respectively.",
+        "hypothesis": "Jerry is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Marie and Kathryn are from Hungary, Argentina and Iran respectively.",
+        "hypothesis": "Kathryn is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Albert, Samuel and Andrea are from Ghana, Hungary and Turkey respectively.",
+        "hypothesis": "Andrea is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, George and Stephanie are from Austria, Thailand and Sweden respectively.",
+        "hypothesis": "Stephanie is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Martin and Kenneth are from Finland, Egypt and Ghana respectively.",
+        "hypothesis": "Kenneth is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas, Gary and Amy are from Switzerland, Sweden and Colombia respectively.",
+        "hypothesis": "Amy is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Ken and Katie are from Israel, Belarus and Ghana respectively.",
+        "hypothesis": "Katie is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Richard and Matthew are from Libya, Mexico and North Korea respectively.",
+        "hypothesis": "Matthew is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew, Albert and Tony are from Ukraine, Netherlands and Greece respectively.",
+        "hypothesis": "Tony is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Melissa and Samuel are from Finland, Egypt and Laos respectively.",
+        "hypothesis": "Samuel is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Alex and Chris are from Thailand, Portugal and Argentina respectively.",
+        "hypothesis": "Chris is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Margaret and Michelle are from Iceland, Ghana and Vietnam respectively.",
+        "hypothesis": "Michelle is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Lawrence and Michelle are from Egypt, Thailand and Denmark respectively.",
+        "hypothesis": "Michelle is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Ashley and Patrick are from North Korea, Ukraine and Italy respectively.",
+        "hypothesis": "Patrick is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Alison and Gary are from Libya, Bangladesh and Austria respectively.",
+        "hypothesis": "Gary is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Billy and Joseph are from Ecuador, Germany and Switzerland respectively.",
+        "hypothesis": "Joseph is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Sarah and Kathy are from Saudi Arabia, Iran and Ecuador respectively.",
+        "hypothesis": "Kathy is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Harold, Ruth and Carolyn are from Greece, Ukraine and Sweden respectively.",
+        "hypothesis": "Carolyn is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Steven and Ray are from Turkey, Egypt and Bangladesh respectively.",
+        "hypothesis": "Ray is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, Jennifer and Jason are from United Arab Emirates, Zimbabwe and Bangladesh respectively.",
+        "hypothesis": "Jason is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen, Christopher and Fred are from Bhutan, Philippines and Canada respectively.",
+        "hypothesis": "Fred is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Edward, Laura and Fiona are from South Korea, Brazil and Ukraine respectively.",
+        "hypothesis": "Fiona is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Colin and Susan are from Egypt, Argentina and Hungary respectively.",
+        "hypothesis": "Susan is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Ron and Stephen are from Nepal, Laos and Iceland respectively.",
+        "hypothesis": "Stephen is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Patrick and Frances are from Cuba, Mexico and Laos respectively.",
+        "hypothesis": "Frances is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie, Ed and Alexander are from Iran, Mexico and Ecuador respectively.",
+        "hypothesis": "Alexander is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan, Stephanie and Jean are from United Kingdom, Iraq and Russia respectively.",
+        "hypothesis": "Jean is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Louis and Scott are from Hungary, Ukraine and Nepal respectively.",
+        "hypothesis": "Scott is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah, Annie and Jim are from Turkey, Chile and Fiji respectively.",
+        "hypothesis": "Jim is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Julia, Andrea and Heather are from Finland, Italy and Brazil respectively.",
+        "hypothesis": "Heather is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "George, Kim and Billy are from Maldives, Argentina and Zimbabwe respectively.",
+        "hypothesis": "Billy is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Donna and Kathy are from Chile, Cuba and Ireland respectively.",
+        "hypothesis": "Kathy is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Ken, Robert and Johnny are from Pakistan, Vietnam and Azerbaijan respectively.",
+        "hypothesis": "Johnny is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Grace and Ruth are from Finland, Oman and United Arab Emirates respectively.",
+        "hypothesis": "Ruth is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Alan, Alex and Evelyn are from Ghana, Thailand and Australia respectively.",
+        "hypothesis": "Evelyn is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet, Billy and William are from Italy, Qatar and Ukraine respectively.",
+        "hypothesis": "William is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn, Kate and Steven are from United Kingdom, Russia and Pakistan respectively.",
+        "hypothesis": "Steven is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Angela, Edith and Harold are from Belarus, United Arab Emirates and Pakistan respectively.",
+        "hypothesis": "Harold is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen, Amanda and Sally are from Germany, Thailand and Argentina respectively.",
+        "hypothesis": "Sally is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Heather, Stephen and Cynthia are from Iraq, Ireland and Laos respectively.",
+        "hypothesis": "Cynthia is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Charles, Scott and Deborah are from Vietnam, Uruguay and Italy respectively.",
+        "hypothesis": "Deborah is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca, Harold and Charlotte are from Iceland, France and Iraq respectively.",
+        "hypothesis": "Charlotte is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie, Jimmy and Emma are from Maldives, Netherlands and Libya respectively.",
+        "hypothesis": "Emma is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Billy, Ed and Dave are from Ecuador, Pakistan and Iran respectively.",
+        "hypothesis": "Dave is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn, Charlotte and Louis are from Libya, Brazil and Austria respectively.",
+        "hypothesis": "Louis is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Angela, Melissa and Patrick are from United Kingdom, Hungary and Argentina respectively.",
+        "hypothesis": "Patrick is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Albert, Howard and Robin are from Vietnam, Argentina and Iraq respectively.",
+        "hypothesis": "Robin is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa, Judy and Jay are from Denmark, Haiti and United Kingdom respectively.",
+        "hypothesis": "Jay is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Sam and Brian are from Qatar, United Kingdom and Bangladesh respectively.",
+        "hypothesis": "Brian is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie, Harriet and Dick are from Australia, Canada and Nepal respectively.",
+        "hypothesis": "Dick is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Jill, Lucy and Kathy are from Ecuador, Poland and Zimbabwe respectively.",
+        "hypothesis": "Kathy is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Heather, Janet and Kim are from Russia, France and Belgium respectively.",
+        "hypothesis": "Kim is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Christine, Patricia and Walter are from Georgia, Pakistan and Portugal respectively.",
+        "hypothesis": "Walter is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Ed and Ron are from Bhutan, Nepal and Qatar respectively.",
+        "hypothesis": "Ron is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Kim and Stephanie are from Singapore, Fiji and South Korea respectively.",
+        "hypothesis": "Stephanie is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Francis and Karen are from Indonesia, Portugal and France respectively.",
+        "hypothesis": "Karen is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Anthony and Martha are from Pakistan, Belgium and Belarus respectively.",
+        "hypothesis": "Martha is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Frances and Jill are from Egypt, Iran and United Arab Emirates respectively.",
+        "hypothesis": "Jill is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea, Judith and Diane are from Ecuador, Laos and Bhutan respectively.",
+        "hypothesis": "Diane is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Diana and Grace are from Hungary, Taiwan and New Zealand respectively.",
+        "hypothesis": "Grace is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Steve and Albert are from Nepal, Chile and Azerbaijan respectively.",
+        "hypothesis": "Albert is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Victoria and Emma are from Japan, Austria and Indonesia respectively.",
+        "hypothesis": "Emma is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Billy and Lynn are from Laos, Taiwan and North Korea respectively.",
+        "hypothesis": "Lynn is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Larry and Greg are from Iran, Saudi Arabia and New Zealand respectively.",
+        "hypothesis": "Greg is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Howard and Roy are from Haiti, Thailand and Vietnam respectively.",
+        "hypothesis": "Roy is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Nancy and Edith are from Netherlands, Maldives and Pakistan respectively.",
+        "hypothesis": "Edith is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Benjamin and Deborah are from Iran, Greece and Singapore respectively.",
+        "hypothesis": "Deborah is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer, Carol and Robin are from United Arab Emirates, Belgium and Belarus respectively.",
+        "hypothesis": "Robin is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Alice, Jerry and Victoria are from Malaysia, United Kingdom and Taiwan respectively.",
+        "hypothesis": "Victoria is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Maria, Kathy and Roy are from Finland, Bhutan and Italy respectively.",
+        "hypothesis": "Roy is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Tom, Alexander and Mary are from Indonesia, Thailand and Belgium respectively.",
+        "hypothesis": "Mary is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Robin, Katie and Carl are from Fiji, Indonesia and Libya respectively.",
+        "hypothesis": "Carl is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Robin and Harry are from Afghanistan, Germany and Georgia respectively.",
+        "hypothesis": "Harry is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, Christopher and Ryan are from Laos, Colombia and Libya respectively.",
+        "hypothesis": "Ryan is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Laura and Dorothy are from Cuba, Maldives and Brazil respectively.",
+        "hypothesis": "Dorothy is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Henry, Edith and Mary are from Haiti, Bangladesh and Colombia respectively.",
+        "hypothesis": "Mary is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Don and Kevin are from United Kingdom, Brazil and New Zealand respectively.",
+        "hypothesis": "Kevin is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia, Carl and Alfred are from Israel, Ecuador and South Korea respectively.",
+        "hypothesis": "Alfred is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Lisa and Dick are from Germany, Indonesia and Philippines respectively.",
+        "hypothesis": "Dick is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Elizabeth and Diana are from Fiji, India and France respectively.",
+        "hypothesis": "Diana is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Walter and Betty are from Austria, Ukraine and India respectively.",
+        "hypothesis": "Betty is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred, Sophie and Scott are from Afghanistan, Canada and Iceland respectively.",
+        "hypothesis": "Scott is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Ken, Mike and Sue are from South Korea, Belarus and Denmark respectively.",
+        "hypothesis": "Sue is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Jane and Andrew are from Portugal, Mexico and Saudi Arabia respectively.",
+        "hypothesis": "Andrew is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Don, Kate and Jill are from Haiti, Bhutan and Ireland respectively.",
+        "hypothesis": "Jill is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Michael, Ron and Jack are from Italy, North Korea and Philippines respectively.",
+        "hypothesis": "Jack is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Bobby and Mike are from Taiwan, Philippines and Georgia respectively.",
+        "hypothesis": "Mike is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Jonathan and Kathryn are from Iraq, Ukraine and South Korea respectively.",
+        "hypothesis": "Kathryn is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Gary, Jim and Tony are from Colombia, Greece and Germany respectively.",
+        "hypothesis": "Tony is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Jay and Sara are from Brazil, Nepal and Greece respectively.",
+        "hypothesis": "Sara is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Carl, Larry and Florence are from Russia, Ghana and China respectively.",
+        "hypothesis": "Florence is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Mary, Suzanne and Sara are from Ukraine, Iraq and Bhutan respectively.",
+        "hypothesis": "Sara is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah, Wendy and Harriet are from Iraq, United States of America and Sweden respectively.",
+        "hypothesis": "Harriet is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Donald and Jay are from Germany, Thailand and Italy respectively.",
+        "hypothesis": "Jay is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Larry and Janet are from Japan, United Kingdom and Maldives respectively.",
+        "hypothesis": "Janet is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Heather, Robert and Alex are from Iran, Malaysia and Saudi Arabia respectively.",
+        "hypothesis": "Alex is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Philip and Samuel are from Haiti, Oman and Ecuador respectively.",
+        "hypothesis": "Samuel is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph, Heather and Sarah are from Ukraine, Taiwan and Russia respectively.",
+        "hypothesis": "Sarah is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Sarah and Martin are from Italy, Netherlands and Bangladesh respectively.",
+        "hypothesis": "Martin is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth, Amanda and Grace are from New Zealand, Bangladesh and Afghanistan respectively.",
+        "hypothesis": "Grace is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, William and Ralph are from Indonesia, Iran and Uruguay respectively.",
+        "hypothesis": "Ralph is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Frank and Betty are from Canada, Haiti and Israel respectively.",
+        "hypothesis": "Betty is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Annie, Sam and Arthur are from Afghanistan, Iceland and Chile respectively.",
+        "hypothesis": "Arthur is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Judy and Heather are from Brazil, Indonesia and United Kingdom respectively.",
+        "hypothesis": "Heather is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Alison, Janet and Katie are from Denmark, Qatar and Laos respectively.",
+        "hypothesis": "Katie is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Michelle and Laura are from Uruguay, Russia and France respectively.",
+        "hypothesis": "Laura is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Joe, Pamela and Annie are from Laos, Haiti and Hungary respectively.",
+        "hypothesis": "Annie is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Donna and Ryan are from Laos, Azerbaijan and Haiti respectively.",
+        "hypothesis": "Ryan is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole, Thomas and Bill are from India, China and United States of America respectively.",
+        "hypothesis": "Bill is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "William, Annie and Julia are from Mexico, France and Poland respectively.",
+        "hypothesis": "Julia is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Steve, Sam and Jason are from South Korea, Maldives and Canada respectively.",
+        "hypothesis": "Jason is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Emily, Richard and Edith are from Philippines, Ecuador and Italy respectively.",
+        "hypothesis": "Edith is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine, Angela and Evelyn are from Saudi Arabia, Indonesia and Brazil respectively.",
+        "hypothesis": "Evelyn is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher, Paul and Brian are from Netherlands, Haiti and North Korea respectively.",
+        "hypothesis": "Brian is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Walter, Alice and Dorothy are from Japan, Finland and Maldives respectively.",
+        "hypothesis": "Dorothy is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Edward, Melissa and David are from North Korea, Ecuador and Georgia respectively.",
+        "hypothesis": "David is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Frederick and Richard are from Belgium, Greece and Netherlands respectively.",
+        "hypothesis": "Richard is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Jason, Suzanne and Alex are from South Korea, Japan and Egypt respectively.",
+        "hypothesis": "Alex is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Amy and Greg are from Iceland, Bhutan and Netherlands respectively.",
+        "hypothesis": "Greg is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "John, Jonathan and Alison are from United Arab Emirates, Germany and Cuba respectively.",
+        "hypothesis": "Alison is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Simon, Roger and Mary are from Ukraine, Libya and Ghana respectively.",
+        "hypothesis": "Mary is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Gary and Edward are from Greece, Azerbaijan and Philippines respectively.",
+        "hypothesis": "Edward is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth, Richard and Dorothy are from Canada, Cuba and India respectively.",
+        "hypothesis": "Dorothy is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Sue, Scott and Florence are from Israel, Australia and India respectively.",
+        "hypothesis": "Florence is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Dave, Hugh and Sara are from Uruguay, Nepal and Japan respectively.",
+        "hypothesis": "Sara is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Maria, Sophie and Frederick are from Singapore, Chile and Austria respectively.",
+        "hypothesis": "Frederick is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Sandra and Harriet are from Iceland, Taiwan and Uruguay respectively.",
+        "hypothesis": "Harriet is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Kathleen and Hugh are from North Korea, Afghanistan and Iceland respectively.",
+        "hypothesis": "Hugh is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Rose, Sam and Marie are from Indonesia, Nepal and Ghana respectively.",
+        "hypothesis": "Marie is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Don and Catherine are from United States of America, Thailand and Colombia respectively.",
+        "hypothesis": "Catherine is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Paul, Jessica and Roger are from Poland, Germany and Bhutan respectively.",
+        "hypothesis": "Roger is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel, Harold and Frances are from Mexico, Vietnam and United Arab Emirates respectively.",
+        "hypothesis": "Frances is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Lucy and Rachel are from Taiwan, Ukraine and Israel respectively.",
+        "hypothesis": "Rachel is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Alice, Mike and Christine are from Zimbabwe, Haiti and Libya respectively.",
+        "hypothesis": "Christine is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "David, Louise and Rachel are from Uruguay, Saudi Arabia and Canada respectively.",
+        "hypothesis": "Rachel is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Roy and Eric are from Oman, Vietnam and Australia respectively.",
+        "hypothesis": "Eric is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Alexandra and Cynthia are from Georgia, Taiwan and Greece respectively.",
+        "hypothesis": "Cynthia is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Ashley and Joe are from Japan, Saudi Arabia and Pakistan respectively.",
+        "hypothesis": "Joe is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Charles, Paul and Joan are from Bhutan, Turkey and Mexico respectively.",
+        "hypothesis": "Joan is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Claire, Lawrence and Alan are from Austria, Belgium and Portugal respectively.",
+        "hypothesis": "Alan is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Fiona and Donald are from Greece, Hungary and Belgium respectively.",
+        "hypothesis": "Donald is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Jay and Richard are from Zimbabwe, Denmark and Greece respectively.",
+        "hypothesis": "Richard is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor, Cynthia and Anne are from Indonesia, Laos and New Zealand respectively.",
+        "hypothesis": "Anne is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Linda and Jack are from Iran, Ghana and Japan respectively.",
+        "hypothesis": "Jack is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Susan, Ian and Rose are from Finland, Saudi Arabia and Denmark respectively.",
+        "hypothesis": "Rose is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Bobby and Laura are from Belarus, Belgium and Uruguay respectively.",
+        "hypothesis": "Laura is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Jeff and Ray are from Bangladesh, Ireland and France respectively.",
+        "hypothesis": "Ray is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Al, Ben and Jay are from Maldives, Zimbabwe and Haiti respectively.",
+        "hypothesis": "Jay is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Chris and Sara are from Italy, Saudi Arabia and Taiwan respectively.",
+        "hypothesis": "Sara is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Billy, Henry and Philip are from Belgium, Azerbaijan and Colombia respectively.",
+        "hypothesis": "Philip is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor, Claire and Henry are from Libya, Pakistan and Georgia respectively.",
+        "hypothesis": "Henry is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Cynthia and Joe are from Hungary, Finland and Belgium respectively.",
+        "hypothesis": "Joe is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Ian and Ray are from Singapore, Cuba and Brazil respectively.",
+        "hypothesis": "Ray is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Amy, Hugh and Harry are from Germany, United Kingdom and Haiti respectively.",
+        "hypothesis": "Harry is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Jerry and Al are from Bhutan, Pakistan and Japan respectively.",
+        "hypothesis": "Al is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Louis and Ron are from Bangladesh, Ecuador and Zimbabwe respectively.",
+        "hypothesis": "Ron is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Karen and Lisa are from Cuba, Saudi Arabia and Denmark respectively.",
+        "hypothesis": "Lisa is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Alex and Eric are from Argentina, Malaysia and Uruguay respectively.",
+        "hypothesis": "Eric is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Kathy and Philip are from Poland, Egypt and Russia respectively.",
+        "hypothesis": "Philip is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Harold, James and Jack are from Colombia, Mexico and Laos respectively.",
+        "hypothesis": "Jack is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Amy, Donna and Lisa are from Iceland, Sweden and North Korea respectively.",
+        "hypothesis": "Lisa is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "John, Emily and Jessica are from Japan, Bangladesh and Egypt respectively.",
+        "hypothesis": "Jessica is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria, Charles and Adam are from Belgium, France and United Kingdom respectively.",
+        "hypothesis": "Adam is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Kate, Julia and Pamela are from United States of America, Ukraine and Afghanistan respectively.",
+        "hypothesis": "Pamela is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Claire and Patrick are from Mexico, China and Austria respectively.",
+        "hypothesis": "Patrick is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Lawrence and Peter are from Belgium, Vietnam and Poland respectively.",
+        "hypothesis": "Peter is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Frank, Peter and Paul are from Belgium, Zimbabwe and South Korea respectively.",
+        "hypothesis": "Paul is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Kathleen and Arthur are from Libya, Canada and Afghanistan respectively.",
+        "hypothesis": "Arthur is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "George, Ralph and Judith are from Australia, China and Greece respectively.",
+        "hypothesis": "Judith is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Brian and Christopher are from Greece, Fiji and Mexico respectively.",
+        "hypothesis": "Christopher is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Annie, Michelle and Howard are from Denmark, Pakistan and Belarus respectively.",
+        "hypothesis": "Howard is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Jill and Alexander are from Japan, Switzerland and Chile respectively.",
+        "hypothesis": "Alexander is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Alice and Jay are from Fiji, Ecuador and Iraq respectively.",
+        "hypothesis": "Jay is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Christopher and Nick are from Bangladesh, Finland and Saudi Arabia respectively.",
+        "hypothesis": "Nick is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph, Scott and Kathryn are from Ireland, Austria and United Kingdom respectively.",
+        "hypothesis": "Kathryn is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Anne and Bobby are from Iran, Argentina and Ireland respectively.",
+        "hypothesis": "Bobby is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Annie and Mary are from India, Laos and France respectively.",
+        "hypothesis": "Mary is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Dave and Dick are from Netherlands, Chile and Ukraine respectively.",
+        "hypothesis": "Dick is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Ellen and Edith are from Belarus, Fiji and Singapore respectively.",
+        "hypothesis": "Edith is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Alexandra and Helen are from Iceland, Ireland and Iraq respectively.",
+        "hypothesis": "Helen is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Dick, Alice and Bill are from Nepal, Malaysia and Austria respectively.",
+        "hypothesis": "Bill is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Thomas and Louise are from Germany, India and Turkey respectively.",
+        "hypothesis": "Louise is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Claire, Simon and Sharon are from Ireland, Argentina and Fiji respectively.",
+        "hypothesis": "Sharon is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Jill and Robin are from Fiji, Hungary and Ireland respectively.",
+        "hypothesis": "Robin is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Suzanne and Bill are from France, Indonesia and India respectively.",
+        "hypothesis": "Bill is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Robin and Ann are from Pakistan, South Korea and Uruguay respectively.",
+        "hypothesis": "Ann is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Christine, Alan and Edith are from North Korea, Uruguay and Austria respectively.",
+        "hypothesis": "Edith is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Marie and Suzanne are from Belarus, Georgia and United Arab Emirates respectively.",
+        "hypothesis": "Suzanne is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Dave, Sandra and Cynthia are from Maldives, Cuba and China respectively.",
+        "hypothesis": "Cynthia is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Jason and Sandra are from Portugal, Belarus and Egypt respectively.",
+        "hypothesis": "Sandra is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Grace, Evelyn and Scott are from Uruguay, Qatar and Canada respectively.",
+        "hypothesis": "Scott is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Joe and Lauren are from Chile, China and Mexico respectively.",
+        "hypothesis": "Lauren is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah, Jennifer and Lynn are from Saudi Arabia, New Zealand and Uruguay respectively.",
+        "hypothesis": "Lynn is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Sue and Marie are from China, New Zealand and Georgia respectively.",
+        "hypothesis": "Marie is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Harry and Patrick are from Laos, Netherlands and Ireland respectively.",
+        "hypothesis": "Patrick is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Kathryn and Charlie are from Portugal, Malaysia and Ireland respectively.",
+        "hypothesis": "Charlie is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Dave, Andrea and Karen are from Brazil, Oman and Bangladesh respectively.",
+        "hypothesis": "Karen is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Karen and Ed are from North Korea, Iran and Libya respectively.",
+        "hypothesis": "Ed is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Heather, Jeff and Thomas are from Zimbabwe, Israel and Belgium respectively.",
+        "hypothesis": "Thomas is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Sarah and Edwin are from Singapore, North Korea and New Zealand respectively.",
+        "hypothesis": "Edwin is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia, Robert and Sandra are from Iraq, Ireland and Ecuador respectively.",
+        "hypothesis": "Sandra is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Alan, Patricia and Edith are from Indonesia, Greece and Maldives respectively.",
+        "hypothesis": "Edith is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph, Jennifer and Alex are from Bhutan, France and Colombia respectively.",
+        "hypothesis": "Alex is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Roger and Kenneth are from Saudi Arabia, Greece and United Kingdom respectively.",
+        "hypothesis": "Kenneth is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Stephanie and Janet are from Iran, Libya and Switzerland respectively.",
+        "hypothesis": "Janet is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah, Jennifer and Dorothy are from New Zealand, Chile and Taiwan respectively.",
+        "hypothesis": "Dorothy is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Gary and Andrew are from Hungary, Laos and Brazil respectively.",
+        "hypothesis": "Andrew is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Sue, Eleanor and Patricia are from South Korea, Singapore and Portugal respectively.",
+        "hypothesis": "Patricia is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn, Dick and Ray are from Afghanistan, Vietnam and Japan respectively.",
+        "hypothesis": "Ray is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Diana, Judith and Harriet are from Australia, Georgia and Saudi Arabia respectively.",
+        "hypothesis": "Harriet is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick, Harriet and Don are from Argentina, China and Ireland respectively.",
+        "hypothesis": "Don is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda, Thomas and Deborah are from Brazil, Greece and Vietnam respectively.",
+        "hypothesis": "Deborah is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Jessica and Robert are from Sweden, Ecuador and Ukraine respectively.",
+        "hypothesis": "Robert is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Adam, Evelyn and Elizabeth are from Belgium, Philippines and Egypt respectively.",
+        "hypothesis": "Elizabeth is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Betty, Claire and Charlie are from Netherlands, Israel and United Kingdom respectively.",
+        "hypothesis": "Charlie is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Tim and Richard are from United States of America, Pakistan and Indonesia respectively.",
+        "hypothesis": "Richard is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Bill and Catherine are from United States of America, New Zealand and Fiji respectively.",
+        "hypothesis": "Catherine is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Al, Greg and Ben are from Germany, Canada and Afghanistan respectively.",
+        "hypothesis": "Ben is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Ken and Kelly are from Ukraine, Italy and Fiji respectively.",
+        "hypothesis": "Kelly is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Carl and Louis are from Belgium, United Arab Emirates and North Korea respectively.",
+        "hypothesis": "Louis is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin, Sharon and Alice are from Taiwan, Colombia and Oman respectively.",
+        "hypothesis": "Alice is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Sara and Ben are from Saudi Arabia, Cuba and Poland respectively.",
+        "hypothesis": "Ben is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Christine, Mark and Janet are from Denmark, Azerbaijan and Libya respectively.",
+        "hypothesis": "Janet is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Leslie and Diana are from Egypt, Ecuador and Malaysia respectively.",
+        "hypothesis": "Diana is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Steve and Jimmy are from Belarus, Afghanistan and United States of America respectively.",
+        "hypothesis": "Jimmy is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry, George and Tony are from Switzerland, Uruguay and Fiji respectively.",
+        "hypothesis": "Tony is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Florence and Kate are from Libya, Iceland and Pakistan respectively.",
+        "hypothesis": "Kate is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Sally, Marie and Kathy are from Afghanistan, Iraq and Austria respectively.",
+        "hypothesis": "Kathy is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Ben and Ann are from Ecuador, Singapore and Bhutan respectively.",
+        "hypothesis": "Ann is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Tom and Philip are from Brazil, Ukraine and Thailand respectively.",
+        "hypothesis": "Philip is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher, Virginia and James are from Libya, Azerbaijan and Saudi Arabia respectively.",
+        "hypothesis": "James is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Richard and Jennifer are from United Kingdom, Canada and Russia respectively.",
+        "hypothesis": "Jennifer is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Kathryn and Marie are from Portugal, China and Canada respectively.",
+        "hypothesis": "Marie is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Nick, Johnny and Jerry are from Hungary, Argentina and Oman respectively.",
+        "hypothesis": "Jerry is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Linda and Jay are from Denmark, Israel and Taiwan respectively.",
+        "hypothesis": "Jay is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Kim, Rose and Keith are from Ecuador, Afghanistan and Philippines respectively.",
+        "hypothesis": "Keith is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Jay, Sarah and Melissa are from Portugal, Japan and Thailand respectively.",
+        "hypothesis": "Melissa is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Rebecca and Edwin are from Zimbabwe, Finland and Mexico respectively.",
+        "hypothesis": "Edwin is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn, Patricia and Robert are from Finland, Singapore and Switzerland respectively.",
+        "hypothesis": "Robert is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Judith and Rachel are from Iceland, Taiwan and Chile respectively.",
+        "hypothesis": "Rachel is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Johnny and Laura are from Saudi Arabia, Ukraine and Australia respectively.",
+        "hypothesis": "Laura is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Judy and Julie are from China, Laos and Finland respectively.",
+        "hypothesis": "Julie is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Alfred and Diana are from Italy, Sweden and Netherlands respectively.",
+        "hypothesis": "Diana is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Tom and Carl are from Israel, Russia and Zimbabwe respectively.",
+        "hypothesis": "Carl is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Katherine and Jack are from Thailand, Turkey and Iran respectively.",
+        "hypothesis": "Jack is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Carol and Jack are from Argentina, Libya and Chile respectively.",
+        "hypothesis": "Jack is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Angela, Amy and Nancy are from Nepal, Saudi Arabia and Taiwan respectively.",
+        "hypothesis": "Nancy is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Robin and Eleanor are from Ireland, Cuba and Azerbaijan respectively.",
+        "hypothesis": "Eleanor is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Carl, Ashley and Ian are from Taiwan, Uruguay and Russia respectively.",
+        "hypothesis": "Ian is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Frank, Kim and Patricia are from Libya, Bangladesh and Switzerland respectively.",
+        "hypothesis": "Patricia is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Dorothy and Roger are from Thailand, Israel and Greece respectively.",
+        "hypothesis": "Roger is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Anthony and Gary are from Afghanistan, Iceland and Brazil respectively.",
+        "hypothesis": "Gary is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Billy, Steve and Ron are from Uruguay, Ireland and Saudi Arabia respectively.",
+        "hypothesis": "Ron is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Alison, Suzanne and Andrea are from Germany, Austria and Afghanistan respectively.",
+        "hypothesis": "Andrea is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Dave, Katherine and Barbara are from Israel, Iraq and Iran respectively.",
+        "hypothesis": "Barbara is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Jason, David and Johnny are from Afghanistan, Hungary and Azerbaijan respectively.",
+        "hypothesis": "Johnny is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Lynn and Eric are from Russia, Ecuador and Portugal respectively.",
+        "hypothesis": "Eric is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny, Kathleen and Alex are from Denmark, Iceland and Hungary respectively.",
+        "hypothesis": "Alex is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher, Sue and Kenneth are from Ireland, Ukraine and Belarus respectively.",
+        "hypothesis": "Kenneth is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel, Eleanor and Gary are from Canada, Egypt and Philippines respectively.",
+        "hypothesis": "Gary is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Caroline and Bruce are from Hungary, Qatar and Vietnam respectively.",
+        "hypothesis": "Bruce is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Howard and Keith are from Belarus, Finland and Ghana respectively.",
+        "hypothesis": "Keith is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea, Arthur and Rebecca are from Maldives, Oman and United Kingdom respectively.",
+        "hypothesis": "Rebecca is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Sara, Charles and Kim are from United Arab Emirates, Oman and Indonesia respectively.",
+        "hypothesis": "Kim is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "John, Peter and Ian are from Pakistan, Bangladesh and Iraq respectively.",
+        "hypothesis": "Ian is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Mary, Maria and Dave are from Iran, Libya and Ecuador respectively.",
+        "hypothesis": "Dave is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Susan, Adam and Sandra are from India, Italy and Finland respectively.",
+        "hypothesis": "Sandra is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Dick, Ann and Michelle are from Germany, Chile and Uruguay respectively.",
+        "hypothesis": "Michelle is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Henry, Eric and Charlie are from Poland, Chile and Hungary respectively.",
+        "hypothesis": "Charlie is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Emily, Harriet and Lisa are from Belgium, Nepal and Indonesia respectively.",
+        "hypothesis": "Lisa is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "William, Laura and Howard are from Azerbaijan, Chile and Portugal respectively.",
+        "hypothesis": "Howard is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Dick, Rachel and Judy are from Denmark, Maldives and Vietnam respectively.",
+        "hypothesis": "Judy is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Louis, Charlotte and Ellen are from Poland, Israel and Taiwan respectively.",
+        "hypothesis": "Ellen is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Ralph and Jeff are from Laos, Chile and Netherlands respectively.",
+        "hypothesis": "Jeff is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Frances and Linda are from Haiti, Vietnam and Poland respectively.",
+        "hypothesis": "Linda is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Carol and Alice are from India, Ecuador and Australia respectively.",
+        "hypothesis": "Alice is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Lynn and Donald are from Ghana, Greece and Bhutan respectively.",
+        "hypothesis": "Donald is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Caroline and Katherine are from Sweden, Oman and Maldives respectively.",
+        "hypothesis": "Katherine is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Ryan and Tony are from Fiji, Taiwan and India respectively.",
+        "hypothesis": "Tony is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Alice and Kate are from Argentina, Portugal and Brazil respectively.",
+        "hypothesis": "Kate is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "David, Walter and Judith are from Vietnam, Greece and Taiwan respectively.",
+        "hypothesis": "Judith is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick, Greg and Nicole are from Taiwan, Ireland and Libya respectively.",
+        "hypothesis": "Nicole is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Charles, Steven and Julie are from Georgia, Mexico and Zimbabwe respectively.",
+        "hypothesis": "Julie is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby, Dave and Deborah are from Belgium, Israel and Chile respectively.",
+        "hypothesis": "Deborah is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Edith and Linda are from Uruguay, Georgia and Argentina respectively.",
+        "hypothesis": "Linda is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Ben and Lawrence are from Denmark, Azerbaijan and Vietnam respectively.",
+        "hypothesis": "Lawrence is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Laura and Sara are from Singapore, Ecuador and Colombia respectively.",
+        "hypothesis": "Sara is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Simon and Brian are from Chile, Uruguay and Israel respectively.",
+        "hypothesis": "Brian is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "George, Alison and Carolyn are from Argentina, Azerbaijan and Libya respectively.",
+        "hypothesis": "Carolyn is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, Margaret and Suzanne are from Germany, Fiji and Russia respectively.",
+        "hypothesis": "Suzanne is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie, Frank and Bill are from Fiji, Bhutan and Greece respectively.",
+        "hypothesis": "Bill is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Kim, Louise and Alan are from Indonesia, Malaysia and Pakistan respectively.",
+        "hypothesis": "Alan is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, Grace and Nick are from Sweden, Nepal and Fiji respectively.",
+        "hypothesis": "Nick is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Pamela and Sue are from Netherlands, New Zealand and France respectively.",
+        "hypothesis": "Sue is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, Pamela and Maria are from Haiti, Pakistan and Turkey respectively.",
+        "hypothesis": "Maria is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Mike and Jason are from Brazil, Nepal and Pakistan respectively.",
+        "hypothesis": "Jason is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Julia, Brian and Pamela are from Oman, Japan and Mexico respectively.",
+        "hypothesis": "Pamela is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Julia, Sally and Harriet are from Pakistan, Vietnam and Italy respectively.",
+        "hypothesis": "Harriet is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh, Alexandra and Dorothy are from Afghanistan, Egypt and New Zealand respectively.",
+        "hypothesis": "Dorothy is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica, Annie and Catherine are from Japan, Greece and United States of America respectively.",
+        "hypothesis": "Catherine is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Alan, Emily and Kevin are from Pakistan, Iran and Taiwan respectively.",
+        "hypothesis": "Kevin is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Anna and Ryan are from Belarus, United Kingdom and Libya respectively.",
+        "hypothesis": "Ryan is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew, Catherine and Michelle are from Philippines, Israel and United Arab Emirates respectively.",
+        "hypothesis": "Michelle is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Fred and Virginia are from Vietnam, Philippines and France respectively.",
+        "hypothesis": "Virginia is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Alice, Jill and Edward are from North Korea, Vietnam and Austria respectively.",
+        "hypothesis": "Edward is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan, Lisa and Karen are from Ghana, Hungary and Oman respectively.",
+        "hypothesis": "Karen is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Fred, Eric and Kenneth are from Philippines, Canada and Laos respectively.",
+        "hypothesis": "Kenneth is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Emma and Richard are from Greece, China and Belgium respectively.",
+        "hypothesis": "Richard is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara, Mary and Alexandra are from Germany, Uruguay and Australia respectively.",
+        "hypothesis": "Alexandra is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred, Roy and Lynn are from Israel, France and Laos respectively.",
+        "hypothesis": "Lynn is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth, Elaine and Tom are from Japan, Bangladesh and Argentina respectively.",
+        "hypothesis": "Tom is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Sue and Fred are from Hungary, Denmark and Uruguay respectively.",
+        "hypothesis": "Fred is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra, Anna and Fred are from Uruguay, Portugal and Poland respectively.",
+        "hypothesis": "Fred is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, Alfred and Jennifer are from Laos, Belarus and China respectively.",
+        "hypothesis": "Jennifer is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Benjamin and Fred are from Afghanistan, Iran and Bhutan respectively.",
+        "hypothesis": "Fred is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Tom and Fred are from Poland, Laos and Maldives respectively.",
+        "hypothesis": "Fred is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Steven and Philip are from Azerbaijan, Italy and Iceland respectively.",
+        "hypothesis": "Philip is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Andrea and Tony are from Poland, Indonesia and South Korea respectively.",
+        "hypothesis": "Tony is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, Daniel and Sophie are from North Korea, Laos and Sweden respectively.",
+        "hypothesis": "Sophie is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Robin, Christopher and Ruth are from Singapore, Colombia and Georgia respectively.",
+        "hypothesis": "Ruth is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Jay and Emily are from Oman, Philippines and Azerbaijan respectively.",
+        "hypothesis": "Emily is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Dave, Martha and Johnny are from Pakistan, Afghanistan and Thailand respectively.",
+        "hypothesis": "Johnny is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Christine, Tony and Elaine are from Maldives, Austria and Sweden respectively.",
+        "hypothesis": "Elaine is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Jay, Victoria and Emma are from Russia, Malaysia and Sweden respectively.",
+        "hypothesis": "Emma is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen, Colin and Maria are from Nepal, Azerbaijan and Ghana respectively.",
+        "hypothesis": "Maria is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Michael, Suzanne and Kathy are from Italy, North Korea and Malaysia respectively.",
+        "hypothesis": "Kathy is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Diane and Benjamin are from Ecuador, India and Uruguay respectively.",
+        "hypothesis": "Benjamin is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Nick and Jack are from Mexico, Taiwan and Netherlands respectively.",
+        "hypothesis": "Jack is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Patrick and Sam are from Portugal, China and Austria respectively.",
+        "hypothesis": "Sam is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Patricia and Amy are from India, Saudi Arabia and Maldives respectively.",
+        "hypothesis": "Amy is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Edward and Benjamin are from Brazil, Libya and Iraq respectively.",
+        "hypothesis": "Benjamin is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Don and Matt are from Belarus, Israel and United Kingdom respectively.",
+        "hypothesis": "Matt is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Kathryn and Fred are from Australia, Portugal and Malaysia respectively.",
+        "hypothesis": "Fred is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Donna and Marie are from Ukraine, Turkey and Israel respectively.",
+        "hypothesis": "Marie is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Charles and Ann are from Iran, Georgia and Nepal respectively.",
+        "hypothesis": "Ann is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Ryan and Stephen are from China, India and Greece respectively.",
+        "hypothesis": "Stephen is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Walter, Jim and Keith are from Colombia, Bangladesh and Singapore respectively.",
+        "hypothesis": "Keith is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Bruce and Robin are from Qatar, Nepal and North Korea respectively.",
+        "hypothesis": "Robin is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Simon, Michelle and Jean are from Israel, Netherlands and Afghanistan respectively.",
+        "hypothesis": "Jean is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Judith and Donald are from South Korea, Ukraine and Iran respectively.",
+        "hypothesis": "Donald is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Simon and Steve are from Finland, Russia and Ecuador respectively.",
+        "hypothesis": "Steve is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Matt and Ellen are from Georgia, Sweden and Libya respectively.",
+        "hypothesis": "Ellen is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Walter and Michael are from Mexico, Argentina and Ukraine respectively.",
+        "hypothesis": "Michael is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Janet and Bruce are from Greece, Singapore and Cuba respectively.",
+        "hypothesis": "Bruce is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Alan and Paul are from Ukraine, Greece and Chile respectively.",
+        "hypothesis": "Paul is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Dave and Jim are from United Kingdom, Afghanistan and Greece respectively.",
+        "hypothesis": "Jim is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Jerry and Gary are from Nepal, Haiti and Vietnam respectively.",
+        "hypothesis": "Gary is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Melissa and Mark are from Belgium, Bangladesh and Ireland respectively.",
+        "hypothesis": "Mark is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, Suzanne and Kim are from Belgium, Canada and China respectively.",
+        "hypothesis": "Kim is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Ann and Tim are from Pakistan, Libya and Philippines respectively.",
+        "hypothesis": "Tim is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Emma, Frederick and Jane are from China, Libya and Maldives respectively.",
+        "hypothesis": "Jane is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Richard and Alex are from Germany, Finland and Belgium respectively.",
+        "hypothesis": "Alex is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Diane and Katie are from Ukraine, Germany and Switzerland respectively.",
+        "hypothesis": "Katie is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew, Amy and Ashley are from Australia, Bhutan and Finland respectively.",
+        "hypothesis": "Ashley is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Michael, Katie and Judy are from Switzerland, Israel and Azerbaijan respectively.",
+        "hypothesis": "Judy is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Nick and Jessica are from Malaysia, Iran and Argentina respectively.",
+        "hypothesis": "Jessica is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Barbara and Michael are from Singapore, Taiwan and Afghanistan respectively.",
+        "hypothesis": "Michael is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Mark, Louis and Donald are from Ghana, Bangladesh and Cuba respectively.",
+        "hypothesis": "Donald is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Florence and Greg are from Saudi Arabia, Qatar and Indonesia respectively.",
+        "hypothesis": "Greg is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Brian, Bruce and Matt are from Portugal, Cuba and Sweden respectively.",
+        "hypothesis": "Matt is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Amy and Walter are from Fiji, Israel and Germany respectively.",
+        "hypothesis": "Walter is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph, Jay and Donna are from Libya, Iran and Argentina respectively.",
+        "hypothesis": "Donna is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Barbara and Jim are from Maldives, Belgium and Oman respectively.",
+        "hypothesis": "Jim is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Amy, Kathryn and David are from Canada, Turkey and Georgia respectively.",
+        "hypothesis": "David is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Albert, Howard and George are from Germany, Poland and Georgia respectively.",
+        "hypothesis": "George is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn, Scott and Suzanne are from Iran, Argentina and Ecuador respectively.",
+        "hypothesis": "Suzanne is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Marie and Jeff are from Colombia, Zimbabwe and Netherlands respectively.",
+        "hypothesis": "Jeff is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Ryan and Alison are from North Korea, Ecuador and Finland respectively.",
+        "hypothesis": "Alison is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Frank, Andrew and Nancy are from Colombia, Fiji and Russia respectively.",
+        "hypothesis": "Nancy is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel, Mark and Joan are from Japan, Nepal and Malaysia respectively.",
+        "hypothesis": "Joan is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Michael, Jim and Claire are from Hungary, Switzerland and Finland respectively.",
+        "hypothesis": "Claire is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander, Walter and Evelyn are from Greece, Netherlands and Iceland respectively.",
+        "hypothesis": "Evelyn is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa, Richard and Michelle are from Ecuador, Qatar and Italy respectively.",
+        "hypothesis": "Michelle is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Louise and Edward are from Portugal, Israel and France respectively.",
+        "hypothesis": "Edward is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "George, Jessica and Cynthia are from Iraq, Ecuador and Austria respectively.",
+        "hypothesis": "Cynthia is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Gary, Jennifer and Jerry are from Mexico, Philippines and Greece respectively.",
+        "hypothesis": "Jerry is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Edwin and Brian are from United States of America, Netherlands and United Kingdom respectively.",
+        "hypothesis": "Brian is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Kim, Alan and Lisa are from Singapore, Iceland and Mexico respectively.",
+        "hypothesis": "Lisa is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Carolyn and Johnny are from Iraq, Egypt and Poland respectively.",
+        "hypothesis": "Johnny is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Joe, Angela and Bill are from Ukraine, Indonesia and Finland respectively.",
+        "hypothesis": "Bill is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Dick and Carl are from Netherlands, Australia and France respectively.",
+        "hypothesis": "Carl is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Harold and Henry are from Georgia, Chile and Haiti respectively.",
+        "hypothesis": "Henry is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Jane, Charles and William are from India, Bangladesh and North Korea respectively.",
+        "hypothesis": "William is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "James, Dorothy and Carl are from Fiji, India and Saudi Arabia respectively.",
+        "hypothesis": "Carl is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Leslie and Diane are from Ecuador, Vietnam and Pakistan respectively.",
+        "hypothesis": "Diane is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Harry and Ian are from Brazil, Fiji and Netherlands respectively.",
+        "hypothesis": "Ian is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Ed and Bill are from Ecuador, Saudi Arabia and Poland respectively.",
+        "hypothesis": "Bill is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Bruce and Claire are from Laos, North Korea and Austria respectively.",
+        "hypothesis": "Claire is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Maria, Dan and Jill are from Egypt, Mexico and Germany respectively.",
+        "hypothesis": "Jill is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Anna, Suzanne and Walter are from South Korea, Bangladesh and France respectively.",
+        "hypothesis": "Walter is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Henry and Colin are from Greece, Ukraine and Georgia respectively.",
+        "hypothesis": "Colin is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Ashley and Kathryn are from Finland, Iraq and Indonesia respectively.",
+        "hypothesis": "Kathryn is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Rose, Joe and Peter are from Uruguay, Belarus and Russia respectively.",
+        "hypothesis": "Peter is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Maria, Pamela and Eleanor are from Bangladesh, Hungary and Switzerland respectively.",
+        "hypothesis": "Eleanor is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Stephanie and Harriet are from Indonesia, Zimbabwe and Russia respectively.",
+        "hypothesis": "Harriet is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny, Carl and Arthur are from Belgium, Thailand and South Korea respectively.",
+        "hypothesis": "Arthur is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara, Martin and Judy are from Vietnam, Qatar and Ukraine respectively.",
+        "hypothesis": "Judy is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Jay, Alison and Cynthia are from Ukraine, Germany and Colombia respectively.",
+        "hypothesis": "Cynthia is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Albert, Edith and Peter are from Finland, Austria and Qatar respectively.",
+        "hypothesis": "Peter is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Chris, Maria and Ron are from Libya, Singapore and Thailand respectively.",
+        "hypothesis": "Ron is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Walter, Ian and Frederick are from Belarus, Ireland and Colombia respectively.",
+        "hypothesis": "Frederick is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca, Michelle and Diane are from North Korea, Pakistan and Azerbaijan respectively.",
+        "hypothesis": "Diane is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Louise, Ruth and Joe are from United Arab Emirates, Germany and Egypt respectively.",
+        "hypothesis": "Joe is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Anne and Alex are from Poland, Vietnam and Turkey respectively.",
+        "hypothesis": "Alex is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph, Judith and Michael are from South Korea, Saudi Arabia and Mexico respectively.",
+        "hypothesis": "Michael is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Walter, Sue and Alexander are from Israel, Zimbabwe and Pakistan respectively.",
+        "hypothesis": "Alexander is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Betty, Ray and Cynthia are from Poland, Portugal and Haiti respectively.",
+        "hypothesis": "Cynthia is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Ruth and Sara are from Argentina, China and Azerbaijan respectively.",
+        "hypothesis": "Sara is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa, Ellen and Anna are from Switzerland, Ireland and Israel respectively.",
+        "hypothesis": "Anna is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Eric and Marilyn are from China, Uruguay and Chile respectively.",
+        "hypothesis": "Marilyn is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda, Katherine and Carl are from Pakistan, Bangladesh and Afghanistan respectively.",
+        "hypothesis": "Carl is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Cynthia and Carolyn are from Turkey, Zimbabwe and Qatar respectively.",
+        "hypothesis": "Carolyn is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Leslie and Emily are from Zimbabwe, Austria and Thailand respectively.",
+        "hypothesis": "Emily is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "George, Jay and Stephen are from Bangladesh, Chile and Saudi Arabia respectively.",
+        "hypothesis": "Stephen is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Jason, Edward and Jane are from Saudi Arabia, Japan and New Zealand respectively.",
+        "hypothesis": "Jane is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Jack and Fiona are from Bhutan, Fiji and Germany respectively.",
+        "hypothesis": "Fiona is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Eric, Albert and Sandra are from Malaysia, Zimbabwe and Finland respectively.",
+        "hypothesis": "Sandra is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Ian, Ben and Louise are from North Korea, Israel and Haiti respectively.",
+        "hypothesis": "Louise is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Dorothy and Mary are from Oman, Israel and Philippines respectively.",
+        "hypothesis": "Mary is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Sara, Andrea and Susan are from Iraq, Bangladesh and Greece respectively.",
+        "hypothesis": "Susan is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Edith, Bruce and Frederick are from Afghanistan, Oman and United States of America respectively.",
+        "hypothesis": "Frederick is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Ian, Kate and Andrea are from Philippines, Taiwan and Austria respectively.",
+        "hypothesis": "Andrea is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Stephen and Rebecca are from France, Belarus and Australia respectively.",
+        "hypothesis": "Rebecca is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Alex and Dick are from Canada, Ghana and Belgium respectively.",
+        "hypothesis": "Dick is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan, Robert and David are from Haiti, Bangladesh and Ukraine respectively.",
+        "hypothesis": "David is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, Rachel and Ashley are from Israel, Cuba and Netherlands respectively.",
+        "hypothesis": "Ashley is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander, Barbara and Sam are from Philippines, France and Fiji respectively.",
+        "hypothesis": "Sam is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Harold, Elaine and Jane are from Brazil, Poland and Hungary respectively.",
+        "hypothesis": "Jane is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Steve, John and Marilyn are from Qatar, Bhutan and Russia respectively.",
+        "hypothesis": "Marilyn is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Ed and Claire are from Thailand, Malaysia and Russia respectively.",
+        "hypothesis": "Claire is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Cynthia and Nick are from Azerbaijan, Iraq and Greece respectively.",
+        "hypothesis": "Nick is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Mark, Harold and Tim are from New Zealand, Zimbabwe and Singapore respectively.",
+        "hypothesis": "Tim is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Nick, Alison and Lucy are from Germany, India and Canada respectively.",
+        "hypothesis": "Lucy is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor, Chris and Amanda are from Hungary, Netherlands and Singapore respectively.",
+        "hypothesis": "Amanda is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Jane, Ryan and Sharon are from Maldives, Uruguay and Sweden respectively.",
+        "hypothesis": "Sharon is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Frances and Pamela are from Ireland, United States of America and Japan respectively.",
+        "hypothesis": "Pamela is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Andrea and Laura are from Italy, Poland and Iraq respectively.",
+        "hypothesis": "Laura is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Mark and Grace are from Georgia, Fiji and Cuba respectively.",
+        "hypothesis": "Grace is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin, Ryan and Eleanor are from Iceland, Israel and Qatar respectively.",
+        "hypothesis": "Eleanor is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Judy and Elaine are from Belarus, Oman and Japan respectively.",
+        "hypothesis": "Elaine is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "John, Kathleen and Francis are from South Korea, United Arab Emirates and Germany respectively.",
+        "hypothesis": "Francis is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "John, Simon and Sue are from Egypt, Thailand and Canada respectively.",
+        "hypothesis": "Sue is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Sally and Colin are from Netherlands, Switzerland and Japan respectively.",
+        "hypothesis": "Colin is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Victoria and Benjamin are from India, Afghanistan and France respectively.",
+        "hypothesis": "Benjamin is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Andrea and Peter are from Hungary, Iran and Azerbaijan respectively.",
+        "hypothesis": "Peter is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Charles, James and Sally are from Cuba, Taiwan and Portugal respectively.",
+        "hypothesis": "Sally is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Alice, Patrick and Rose are from Bangladesh, Vietnam and Ireland respectively.",
+        "hypothesis": "Rose is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Claire and Martin are from Colombia, Egypt and Switzerland respectively.",
+        "hypothesis": "Martin is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra, Janet and Emma are from Qatar, Zimbabwe and Libya respectively.",
+        "hypothesis": "Emma is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Nancy and Charlie are from Colombia, Nepal and Libya respectively.",
+        "hypothesis": "Charlie is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Sally and Nick are from Austria, Laos and Poland respectively.",
+        "hypothesis": "Nick is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, John and Dave are from Belarus, Haiti and Turkey respectively.",
+        "hypothesis": "Dave is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Leslie and Samuel are from Iraq, Egypt and Vietnam respectively.",
+        "hypothesis": "Samuel is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Jim, Ben and Benjamin are from Netherlands, Sweden and Belarus respectively.",
+        "hypothesis": "Benjamin is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Dorothy and Helen are from Japan, Taiwan and Laos respectively.",
+        "hypothesis": "Helen is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, James and Roger are from Thailand, Chile and Malaysia respectively.",
+        "hypothesis": "Roger is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Evelyn and Jessica are from Mexico, Sweden and Bhutan respectively.",
+        "hypothesis": "Jessica is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia, Andrea and Annie are from Pakistan, Finland and Ireland respectively.",
+        "hypothesis": "Annie is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Martin, Ralph and Laura are from Philippines, Ireland and Sweden respectively.",
+        "hypothesis": "Laura is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Edward and Karen are from Malaysia, Thailand and Georgia respectively.",
+        "hypothesis": "Karen is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Simon and Thomas are from Colombia, Georgia and Ghana respectively.",
+        "hypothesis": "Thomas is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea, Walter and Robin are from Hungary, Haiti and Sweden respectively.",
+        "hypothesis": "Robin is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah, Ruth and Robin are from Greece, Switzerland and North Korea respectively.",
+        "hypothesis": "Robin is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Pamela and Sara are from Georgia, Philippines and France respectively.",
+        "hypothesis": "Sara is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Emma, Mary and Chris are from Laos, Vietnam and Iran respectively.",
+        "hypothesis": "Chris is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Jill, Howard and Maria are from Chile, Netherlands and Israel respectively.",
+        "hypothesis": "Maria is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara, Arthur and Jonathan are from Finland, China and Sweden respectively.",
+        "hypothesis": "Jonathan is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Sam and Tim are from Ghana, Georgia and Portugal respectively.",
+        "hypothesis": "Tim is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Simon, Nancy and Katie are from Ghana, Chile and Egypt respectively.",
+        "hypothesis": "Katie is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Kenneth and Elaine are from Georgia, Chile and Sweden respectively.",
+        "hypothesis": "Elaine is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Angela, Sharon and Mark are from Ireland, Azerbaijan and Fiji respectively.",
+        "hypothesis": "Mark is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica, Keith and Anne are from Egypt, United States of America and Haiti respectively.",
+        "hypothesis": "Anne is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Robin, Marilyn and Julie are from Brazil, Fiji and Iceland respectively.",
+        "hypothesis": "Julie is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, George and Diana are from Colombia, United Arab Emirates and Thailand respectively.",
+        "hypothesis": "Diana is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Ruth and Sara are from Ecuador, Ireland and Netherlands respectively.",
+        "hypothesis": "Sara is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Nick, Robert and Benjamin are from Germany, North Korea and Denmark respectively.",
+        "hypothesis": "Benjamin is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth, Joe and Victoria are from Bangladesh, Bhutan and Nepal respectively.",
+        "hypothesis": "Victoria is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Jason and Sam are from Ukraine, France and Philippines respectively.",
+        "hypothesis": "Sam is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Sara and Sally are from Malaysia, Portugal and Nepal respectively.",
+        "hypothesis": "Sally is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Matt, Edith and Frances are from Indonesia, Fiji and Bangladesh respectively.",
+        "hypothesis": "Frances is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Louis, Fred and Eleanor are from South Korea, Austria and Turkey respectively.",
+        "hypothesis": "Eleanor is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Tony, Alex and Sharon are from Ukraine, Sweden and Philippines respectively.",
+        "hypothesis": "Sharon is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Ann and Michael are from Haiti, Bangladesh and Indonesia respectively.",
+        "hypothesis": "Michael is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Sally, Katherine and Rachel are from Libya, Canada and Indonesia respectively.",
+        "hypothesis": "Rachel is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Albert and Ben are from Belgium, Qatar and United Kingdom respectively.",
+        "hypothesis": "Ben is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Bobby and Sophie are from France, Egypt and India respectively.",
+        "hypothesis": "Sophie is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "George, Christopher and Rachel are from Italy, Ireland and Russia respectively.",
+        "hypothesis": "Rachel is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Paul, Tony and Larry are from Cuba, France and Fiji respectively.",
+        "hypothesis": "Larry is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Steve, Alison and Helen are from Maldives, Japan and Laos respectively.",
+        "hypothesis": "Helen is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Emma and Joseph are from Finland, Iraq and Iceland respectively.",
+        "hypothesis": "Joseph is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn, Kathleen and Andrew are from Georgia, China and Malaysia respectively.",
+        "hypothesis": "Andrew is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Diane, Victoria and Dan are from India, Ukraine and Pakistan respectively.",
+        "hypothesis": "Dan is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "George, David and Harry are from Brazil, Bangladesh and Finland respectively.",
+        "hypothesis": "Harry is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "John, Ian and Amanda are from Colombia, Sweden and United Kingdom respectively.",
+        "hypothesis": "Amanda is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Michelle and Amy are from Thailand, Japan and New Zealand respectively.",
+        "hypothesis": "Amy is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas, Karen and Stephanie are from Iraq, Ecuador and Sweden respectively.",
+        "hypothesis": "Stephanie is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Nick, Leslie and Annie are from Germany, Ecuador and Poland respectively.",
+        "hypothesis": "Annie is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Samuel and Ken are from Germany, Singapore and Pakistan respectively.",
+        "hypothesis": "Ken is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Ian and Kim are from Iceland, Pakistan and Argentina respectively.",
+        "hypothesis": "Kim is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Alfred and Mark are from Fiji, Belarus and Germany respectively.",
+        "hypothesis": "Mark is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Bob and Patrick are from Bhutan, Ghana and Pakistan respectively.",
+        "hypothesis": "Patrick is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Roger and Patricia are from Egypt, Cuba and United States of America respectively.",
+        "hypothesis": "Patricia is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Daniel and Charlotte are from Israel, Oman and Cuba respectively.",
+        "hypothesis": "Charlotte is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Thomas and Martin are from Georgia, Iraq and Belarus respectively.",
+        "hypothesis": "Martin is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Elaine and Harold are from Belarus, North Korea and Taiwan respectively.",
+        "hypothesis": "Harold is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Emily, Anna and Evelyn are from Iraq, Azerbaijan and Israel respectively.",
+        "hypothesis": "Evelyn is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Ken, Kevin and Michelle are from Laos, Portugal and Zimbabwe respectively.",
+        "hypothesis": "Michelle is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan, Jerry and Dorothy are from Nepal, Malaysia and China respectively.",
+        "hypothesis": "Dorothy is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Nick, Jay and Victoria are from Italy, Colombia and Denmark respectively.",
+        "hypothesis": "Victoria is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Robert and Patrick are from Iran, Denmark and Cuba respectively.",
+        "hypothesis": "Patrick is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Rose, Kim and Jeff are from Malaysia, Italy and Nepal respectively.",
+        "hypothesis": "Jeff is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Bill, Elaine and Benjamin are from Japan, Greece and Pakistan respectively.",
+        "hypothesis": "Benjamin is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Emily, Harry and Marilyn are from Ghana, Fiji and Poland respectively.",
+        "hypothesis": "Marilyn is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, James and Kenneth are from China, Philippines and Taiwan respectively.",
+        "hypothesis": "Kenneth is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Charles, Emily and Virginia are from Poland, Ghana and Oman respectively.",
+        "hypothesis": "Virginia is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Jane, Jay and Bruce are from Egypt, China and Canada respectively.",
+        "hypothesis": "Bruce is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Katherine and Pamela are from India, Mexico and Poland respectively.",
+        "hypothesis": "Pamela is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Amy and Frances are from Ireland, Afghanistan and Denmark respectively.",
+        "hypothesis": "Frances is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa, Harry and Marie are from Turkey, Italy and Ukraine respectively.",
+        "hypothesis": "Marie is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Steve and Laura are from North Korea, Egypt and Sweden respectively.",
+        "hypothesis": "Laura is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet, Scott and Al are from Brazil, Iceland and Argentina respectively.",
+        "hypothesis": "Al is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Anthony and Arthur are from Portugal, Ukraine and Argentina respectively.",
+        "hypothesis": "Arthur is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Claire and Rose are from Afghanistan, Azerbaijan and Nepal respectively.",
+        "hypothesis": "Rose is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah, Carolyn and Leslie are from Colombia, New Zealand and South Korea respectively.",
+        "hypothesis": "Leslie is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Ashley and Nick are from Haiti, Nepal and Ireland respectively.",
+        "hypothesis": "Nick is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny, Carolyn and Karen are from Uruguay, Argentina and South Korea respectively.",
+        "hypothesis": "Karen is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Suzanne and Rose are from India, Egypt and Vietnam respectively.",
+        "hypothesis": "Rose is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Robert, Matthew and Annie are from Nepal, Taiwan and Malaysia respectively.",
+        "hypothesis": "Annie is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole, Judy and Julia are from Finland, Chile and Vietnam respectively.",
+        "hypothesis": "Julia is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Florence and Caroline are from Ukraine, United Arab Emirates and Austria respectively.",
+        "hypothesis": "Caroline is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Helen, Catherine and Kevin are from Egypt, Thailand and Indonesia respectively.",
+        "hypothesis": "Kevin is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy, Virginia and Barbara are from South Korea, Maldives and Georgia respectively.",
+        "hypothesis": "Barbara is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Don, Helen and Stephen are from Thailand, Ecuador and Oman respectively.",
+        "hypothesis": "Stephen is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Louis, Laura and Patricia are from Poland, Malaysia and Greece respectively.",
+        "hypothesis": "Patricia is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Jim, Deborah and Stephen are from Belgium, Afghanistan and Italy respectively.",
+        "hypothesis": "Stephen is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Julie and Sally are from Ghana, Saudi Arabia and United Kingdom respectively.",
+        "hypothesis": "Sally is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander, Bobby and Thomas are from Georgia, United Arab Emirates and Ukraine respectively.",
+        "hypothesis": "Thomas is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Sam and Judy are from Iceland, Ghana and Laos respectively.",
+        "hypothesis": "Judy is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, John and Martin are from Singapore, Nepal and Oman respectively.",
+        "hypothesis": "Martin is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie, Ian and Charlotte are from United States of America, Afghanistan and India respectively.",
+        "hypothesis": "Charlotte is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Fred, Betty and Johnny are from Chile, Switzerland and Georgia respectively.",
+        "hypothesis": "Johnny is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, William and Steve are from Switzerland, Bhutan and China respectively.",
+        "hypothesis": "Steve is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Al and Mary are from Australia, Haiti and Afghanistan respectively.",
+        "hypothesis": "Mary is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Caroline and Roger are from Indonesia, Afghanistan and Belgium respectively.",
+        "hypothesis": "Roger is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "John, Alison and Katie are from United Arab Emirates, Qatar and Maldives respectively.",
+        "hypothesis": "Katie is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Bill, Michael and Brian are from Uruguay, Poland and Philippines respectively.",
+        "hypothesis": "Brian is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "James, Patricia and Samuel are from Belgium, China and Vietnam respectively.",
+        "hypothesis": "Samuel is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Dick, Fred and Sarah are from Netherlands, United Arab Emirates and Switzerland respectively.",
+        "hypothesis": "Sarah is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah, Dick and Kenneth are from Turkey, Ukraine and Ireland respectively.",
+        "hypothesis": "Kenneth is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Sara, Harriet and Anne are from Japan, Iraq and Poland respectively.",
+        "hypothesis": "Anne is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Colin and Scott are from Iran, Iceland and Hungary respectively.",
+        "hypothesis": "Scott is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin, Pamela and Jim are from Iceland, Philippines and Zimbabwe respectively.",
+        "hypothesis": "Jim is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Marilyn and Frances are from Pakistan, Ecuador and India respectively.",
+        "hypothesis": "Frances is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Patrick and Lauren are from Portugal, Cuba and Malaysia respectively.",
+        "hypothesis": "Lauren is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Eric, Rose and Catherine are from Indonesia, Brazil and Russia respectively.",
+        "hypothesis": "Catherine is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Jennifer and Francis are from Ukraine, Netherlands and Thailand respectively.",
+        "hypothesis": "Francis is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Susan, Charlotte and Christine are from Zimbabwe, Austria and North Korea respectively.",
+        "hypothesis": "Christine is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Billy, Robert and Kelly are from Italy, Bhutan and Israel respectively.",
+        "hypothesis": "Kelly is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Diana, Jerry and Dick are from Canada, Iceland and Laos respectively.",
+        "hypothesis": "Dick is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Judy and Alison are from Mexico, Laos and Ireland respectively.",
+        "hypothesis": "Alison is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Jean and Billy are from Colombia, South Korea and Pakistan respectively.",
+        "hypothesis": "Billy is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Kim and Roy are from Afghanistan, Azerbaijan and Belarus respectively.",
+        "hypothesis": "Roy is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Amy and George are from Vietnam, Belgium and Libya respectively.",
+        "hypothesis": "George is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Jessica and Steven are from Greece, Turkey and Canada respectively.",
+        "hypothesis": "Steven is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Lawrence and Joan are from Egypt, Malaysia and Ghana respectively.",
+        "hypothesis": "Joan is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Ralph and Chris are from United Arab Emirates, Bhutan and United States of America respectively.",
+        "hypothesis": "Chris is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin, Judith and Frances are from Denmark, Brazil and Israel respectively.",
+        "hypothesis": "Frances is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan, James and Chris are from Maldives, China and Libya respectively.",
+        "hypothesis": "Chris is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Edwin and Ray are from Turkey, Singapore and Greece respectively.",
+        "hypothesis": "Ray is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie, George and Alice are from Italy, Haiti and Canada respectively.",
+        "hypothesis": "Alice is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Sue and Kathryn are from France, Afghanistan and Ghana respectively.",
+        "hypothesis": "Kathryn is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Alice and Mike are from Netherlands, Belgium and Mexico respectively.",
+        "hypothesis": "Mike is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Martin and Steve are from France, Mexico and Netherlands respectively.",
+        "hypothesis": "Steve is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Patricia and Hugh are from Saudi Arabia, Ireland and Belgium respectively.",
+        "hypothesis": "Hugh is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Nick and Amy are from United Kingdom, Ukraine and Austria respectively.",
+        "hypothesis": "Amy is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara, James and Gary are from Cuba, Sweden and United States of America respectively.",
+        "hypothesis": "Gary is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Mary and Melissa are from Malaysia, Fiji and Iceland respectively.",
+        "hypothesis": "Melissa is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Harold and Margaret are from United Kingdom, Belarus and Turkey respectively.",
+        "hypothesis": "Margaret is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Amanda and Stephen are from Canada, Ireland and North Korea respectively.",
+        "hypothesis": "Stephen is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel, Alex and Tom are from Netherlands, Australia and Belarus respectively.",
+        "hypothesis": "Tom is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Alan, Walter and Frances are from United Kingdom, Canada and Argentina respectively.",
+        "hypothesis": "Frances is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Marie and Eric are from Ecuador, Oman and Chile respectively.",
+        "hypothesis": "Eric is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Ryan and Ashley are from Qatar, Afghanistan and Georgia respectively.",
+        "hypothesis": "Ashley is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Matt and Nicole are from Azerbaijan, Netherlands and Cuba respectively.",
+        "hypothesis": "Nicole is not from Cuba.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer, Jim and Harold are from Iran, Ecuador and Zimbabwe respectively.",
+        "hypothesis": "Harold is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Simon, Ron and Eric are from Taiwan, Denmark and Austria respectively.",
+        "hypothesis": "Eric is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "William, Carl and Amanda are from Ghana, Georgia and Bhutan respectively.",
+        "hypothesis": "Amanda is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Emma, Frank and Scott are from China, South Korea and Ecuador respectively.",
+        "hypothesis": "Scott is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, Bill and Annie are from Japan, Azerbaijan and Ukraine respectively.",
+        "hypothesis": "Annie is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Frederick and Michael are from Netherlands, Turkey and North Korea respectively.",
+        "hypothesis": "Michael is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Jennifer and Louise are from Netherlands, Ireland and Turkey respectively.",
+        "hypothesis": "Louise is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan, Martin and Claire are from Thailand, Indonesia and Japan respectively.",
+        "hypothesis": "Claire is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Julia and Fiona are from Poland, Singapore and Georgia respectively.",
+        "hypothesis": "Fiona is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Ron and Gary are from Argentina, Singapore and Azerbaijan respectively.",
+        "hypothesis": "Gary is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Ron, Sarah and Anne are from Germany, Fiji and Singapore respectively.",
+        "hypothesis": "Anne is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah, Dick and Janet are from Egypt, Pakistan and Hungary respectively.",
+        "hypothesis": "Janet is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, Ann and Daniel are from Hungary, Nepal and Uruguay respectively.",
+        "hypothesis": "Daniel is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn, Dick and Francis are from Bangladesh, Iceland and Brazil respectively.",
+        "hypothesis": "Francis is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Betty, Alan and Jennifer are from United Arab Emirates, Bhutan and Singapore respectively.",
+        "hypothesis": "Jennifer is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin, Fred and Elizabeth are from Brazil, Ukraine and United Kingdom respectively.",
+        "hypothesis": "Elizabeth is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Mark and Suzanne are from Hungary, Belgium and Belarus respectively.",
+        "hypothesis": "Suzanne is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer, Katie and Benjamin are from Argentina, South Korea and Colombia respectively.",
+        "hypothesis": "Benjamin is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Sophie and Alison are from Colombia, Pakistan and Taiwan respectively.",
+        "hypothesis": "Alison is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Diane, Ray and Joe are from Bangladesh, South Korea and Japan respectively.",
+        "hypothesis": "Joe is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine, Joan and Virginia are from Belarus, Azerbaijan and China respectively.",
+        "hypothesis": "Virginia is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Benjamin and Peter are from North Korea, Taiwan and Greece respectively.",
+        "hypothesis": "Peter is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy, Stephen and Eleanor are from Italy, Hungary and Pakistan respectively.",
+        "hypothesis": "Eleanor is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "John, Melissa and Fiona are from Bangladesh, Cuba and Canada respectively.",
+        "hypothesis": "Fiona is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Lauren and Karen are from Zimbabwe, Belgium and Denmark respectively.",
+        "hypothesis": "Karen is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Carolyn and Elizabeth are from Canada, Turkey and Ukraine respectively.",
+        "hypothesis": "Elizabeth is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Patricia and Amy are from France, Iraq and Netherlands respectively.",
+        "hypothesis": "Amy is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Jack, Roy and Ellen are from Nepal, Bhutan and Netherlands respectively.",
+        "hypothesis": "Ellen is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria, Nancy and Sophie are from South Korea, Egypt and Netherlands respectively.",
+        "hypothesis": "Sophie is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Jessica and Ashley are from United Arab Emirates, Taiwan and Denmark respectively.",
+        "hypothesis": "Ashley is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Julie and Ann are from Ghana, Haiti and Laos respectively.",
+        "hypothesis": "Ann is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Dorothy and Henry are from Iran, Chile and Oman respectively.",
+        "hypothesis": "Henry is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick, Pamela and Johnny are from Hungary, Colombia and Vietnam respectively.",
+        "hypothesis": "Johnny is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Greg and Dick are from Belarus, Maldives and Brazil respectively.",
+        "hypothesis": "Dick is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Kate, Greg and Jason are from Georgia, Ghana and France respectively.",
+        "hypothesis": "Jason is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Helen, Robert and Linda are from Germany, Malaysia and France respectively.",
+        "hypothesis": "Linda is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly, Claire and Dick are from Colombia, Oman and Brazil respectively.",
+        "hypothesis": "Dick is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan, Emma and Grace are from Bangladesh, United Kingdom and Ghana respectively.",
+        "hypothesis": "Grace is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Ken, Howard and Simon are from Brazil, North Korea and Sweden respectively.",
+        "hypothesis": "Simon is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Janet and Jessica are from Haiti, Argentina and Portugal respectively.",
+        "hypothesis": "Jessica is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Helen and Tony are from Turkey, Ecuador and United Kingdom respectively.",
+        "hypothesis": "Tony is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh, Fred and Scott are from Taiwan, Argentina and Chile respectively.",
+        "hypothesis": "Scott is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph, Alfred and Jessica are from Brazil, United States of America and Philippines respectively.",
+        "hypothesis": "Jessica is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Sam, Louise and Daniel are from United States of America, North Korea and Australia respectively.",
+        "hypothesis": "Daniel is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Lawrence and Howard are from Nepal, Greece and Switzerland respectively.",
+        "hypothesis": "Howard is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Catherine and Brian are from South Korea, Zimbabwe and Russia respectively.",
+        "hypothesis": "Brian is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Mary, Chris and James are from Israel, Sweden and Afghanistan respectively.",
+        "hypothesis": "James is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie, Brian and Carolyn are from Pakistan, Israel and Austria respectively.",
+        "hypothesis": "Carolyn is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Julia and Deborah are from Netherlands, South Korea and Sweden respectively.",
+        "hypothesis": "Deborah is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Diana, Victoria and Wendy are from Pakistan, Iran and North Korea respectively.",
+        "hypothesis": "Wendy is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Kate and Dave are from Denmark, Canada and Hungary respectively.",
+        "hypothesis": "Dave is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara, Pamela and Florence are from Zimbabwe, Switzerland and Finland respectively.",
+        "hypothesis": "Florence is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Helen, Amy and Diane are from Ireland, Belarus and United Arab Emirates respectively.",
+        "hypothesis": "Diane is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Kim, Adam and Lisa are from Zimbabwe, Georgia and Iran respectively.",
+        "hypothesis": "Lisa is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Alexander and Stephanie are from Maldives, Ghana and Philippines respectively.",
+        "hypothesis": "Stephanie is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "David, Mark and Ann are from Canada, Malaysia and Colombia respectively.",
+        "hypothesis": "Ann is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Lucy and Andrea are from Netherlands, Greece and Oman respectively.",
+        "hypothesis": "Andrea is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine, Andrew and Fiona are from Taiwan, Brazil and Egypt respectively.",
+        "hypothesis": "Fiona is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca, Ralph and Jimmy are from Canada, Ecuador and Austria respectively.",
+        "hypothesis": "Jimmy is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Ken and Marie are from Taiwan, Egypt and Zimbabwe respectively.",
+        "hypothesis": "Marie is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Kelly and Grace are from Turkey, United States of America and Hungary respectively.",
+        "hypothesis": "Grace is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Amy, Betty and Lucy are from Turkey, China and Singapore respectively.",
+        "hypothesis": "Lucy is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Ian, Bobby and Heather are from Haiti, Greece and Israel respectively.",
+        "hypothesis": "Heather is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Daniel and Jimmy are from Hungary, Japan and Iraq respectively.",
+        "hypothesis": "Jimmy is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Emma, Margaret and Katherine are from Qatar, United Arab Emirates and Pakistan respectively.",
+        "hypothesis": "Katherine is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Louise, Pamela and Louis are from Nepal, Russia and Greece respectively.",
+        "hypothesis": "Louis is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Kathleen and Pamela are from Iran, Austria and South Korea respectively.",
+        "hypothesis": "Pamela is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Joseph and Donald are from Belgium, Hungary and Australia respectively.",
+        "hypothesis": "Donald is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Donald and Matthew are from Pakistan, Denmark and Hungary respectively.",
+        "hypothesis": "Matthew is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Kathleen and Johnny are from Libya, Sweden and Brazil respectively.",
+        "hypothesis": "Johnny is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred, Angela and Jean are from Philippines, Fiji and Australia respectively.",
+        "hypothesis": "Jean is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Roy, Dan and Frances are from Egypt, Indonesia and India respectively.",
+        "hypothesis": "Frances is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Tim and Jay are from Saudi Arabia, Thailand and France respectively.",
+        "hypothesis": "Jay is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Kenneth and Steve are from Belarus, United Kingdom and India respectively.",
+        "hypothesis": "Steve is not from India.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Emma and Sally are from Turkey, Ecuador and United States of America respectively.",
+        "hypothesis": "Sally is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Colin, Nick and Jason are from Colombia, Iran and Brazil respectively.",
+        "hypothesis": "Jason is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander, Martha and Kate are from South Korea, Germany and Poland respectively.",
+        "hypothesis": "Kate is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Mark, Elizabeth and Kathryn are from Bangladesh, South Korea and Vietnam respectively.",
+        "hypothesis": "Kathryn is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Jennifer and Kenneth are from Canada, Ireland and Mexico respectively.",
+        "hypothesis": "Kenneth is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Albert, Kelly and Jonathan are from Malaysia, Netherlands and Fiji respectively.",
+        "hypothesis": "Jonathan is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Christopher and Louis are from Philippines, Haiti and China respectively.",
+        "hypothesis": "Louis is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Jill, Louis and Tony are from Russia, Ireland and Pakistan respectively.",
+        "hypothesis": "Tony is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen, Matt and Robin are from Fiji, Thailand and Uruguay respectively.",
+        "hypothesis": "Robin is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle, Michael and Dan are from Switzerland, Iceland and Turkey respectively.",
+        "hypothesis": "Dan is not from Turkey.",
+        "label": 2
+    },
+    {
+        "premise": "Philip, Emily and Stephen are from Indonesia, Japan and Greece respectively.",
+        "hypothesis": "Stephen is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Sue, Mike and Kenneth are from Maldives, Belarus and Vietnam respectively.",
+        "hypothesis": "Kenneth is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Laura and Harold are from France, Indonesia and Taiwan respectively.",
+        "hypothesis": "Harold is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Linda and Louise are from North Korea, United Kingdom and Mexico respectively.",
+        "hypothesis": "Louise is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas, Andrew and Maria are from Mexico, Italy and Sweden respectively.",
+        "hypothesis": "Maria is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Jonathan and Ellen are from Bhutan, Ecuador and Canada respectively.",
+        "hypothesis": "Ellen is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Margaret and Diane are from Taiwan, Chile and Haiti respectively.",
+        "hypothesis": "Diane is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Ann and Sandra are from Belarus, Qatar and Afghanistan respectively.",
+        "hypothesis": "Sandra is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Wendy and Frank are from United Kingdom, Italy and Belgium respectively.",
+        "hypothesis": "Frank is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Florence, Cynthia and Judith are from Qatar, Austria and Zimbabwe respectively.",
+        "hypothesis": "Judith is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Ian, Joe and Karen are from Portugal, Canada and Australia respectively.",
+        "hypothesis": "Karen is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Annie, Lynn and Alfred are from Belgium, Vietnam and Brazil respectively.",
+        "hypothesis": "Alfred is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Charlie and Frederick are from Australia, Germany and Iran respectively.",
+        "hypothesis": "Frederick is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Carl, Kenneth and Francis are from Zimbabwe, Denmark and Indonesia respectively.",
+        "hypothesis": "Francis is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica, Susan and Steve are from Russia, United Kingdom and Hungary respectively.",
+        "hypothesis": "Steve is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Michael, Ellen and Maria are from Greece, France and New Zealand respectively.",
+        "hypothesis": "Maria is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Kathy and Jack are from Sweden, Taiwan and Poland respectively.",
+        "hypothesis": "Jack is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Joan, James and Patrick are from Netherlands, United Kingdom and New Zealand respectively.",
+        "hypothesis": "Patrick is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Sam and Leslie are from Uruguay, Denmark and Israel respectively.",
+        "hypothesis": "Leslie is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Billy, Ian and Daniel are from Netherlands, Libya and Denmark respectively.",
+        "hypothesis": "Daniel is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Louis and Linda are from Maldives, Haiti and Azerbaijan respectively.",
+        "hypothesis": "Linda is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Alfred and Alan are from United Arab Emirates, Laos and Bangladesh respectively.",
+        "hypothesis": "Alan is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Louise, Walter and Jason are from Brazil, Maldives and Netherlands respectively.",
+        "hypothesis": "Jason is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Simon, James and Steve are from Philippines, Ireland and Uruguay respectively.",
+        "hypothesis": "Steve is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Amy and Louise are from Taiwan, Vietnam and Netherlands respectively.",
+        "hypothesis": "Louise is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Jean and Simon are from Taiwan, Oman and Nepal respectively.",
+        "hypothesis": "Simon is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Elaine and Kathy are from Vietnam, Egypt and France respectively.",
+        "hypothesis": "Kathy is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Ron, Larry and Kathleen are from China, Japan and Afghanistan respectively.",
+        "hypothesis": "Kathleen is not from Afghanistan.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick, Al and Amanda are from Mexico, Poland and Italy respectively.",
+        "hypothesis": "Amanda is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Anna and Alfred are from Turkey, Iceland and Brazil respectively.",
+        "hypothesis": "Alfred is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Christine and Lisa are from Taiwan, Laos and Pakistan respectively.",
+        "hypothesis": "Lisa is not from Pakistan.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer, Richard and Patrick are from Pakistan, Ecuador and France respectively.",
+        "hypothesis": "Patrick is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Jerry and Jean are from Bangladesh, Iraq and Oman respectively.",
+        "hypothesis": "Jean is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Betty, Ben and Alice are from Italy, Pakistan and Taiwan respectively.",
+        "hypothesis": "Alice is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Anthony and Patricia are from Thailand, Philippines and Iran respectively.",
+        "hypothesis": "Patricia is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, Katherine and Bruce are from Oman, Argentina and United States of America respectively.",
+        "hypothesis": "Bruce is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Kate, Christopher and Nick are from United Kingdom, Fiji and Germany respectively.",
+        "hypothesis": "Nick is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Fred, Leslie and Samuel are from Haiti, Indonesia and Vietnam respectively.",
+        "hypothesis": "Samuel is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Henry, Kathryn and Sue are from United Arab Emirates, Ukraine and Argentina respectively.",
+        "hypothesis": "Sue is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph, Donald and Bobby are from United Kingdom, Thailand and Italy respectively.",
+        "hypothesis": "Bobby is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica, Barbara and Karen are from Canada, Saudi Arabia and Austria respectively.",
+        "hypothesis": "Karen is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Ben, Amanda and Amy are from Italy, Greece and Uruguay respectively.",
+        "hypothesis": "Amy is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Angela, Sam and Diane are from Iran, Ukraine and Russia respectively.",
+        "hypothesis": "Diane is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Alan, Emma and Tom are from Netherlands, Russia and Maldives respectively.",
+        "hypothesis": "Tom is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine, Mark and Suzanne are from Cuba, Russia and Japan respectively.",
+        "hypothesis": "Suzanne is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Chris, Alfred and Amanda are from Bangladesh, Belgium and Mexico respectively.",
+        "hypothesis": "Amanda is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Amanda and Christopher are from Philippines, Pakistan and Uruguay respectively.",
+        "hypothesis": "Christopher is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Fred, Michelle and Steven are from Zimbabwe, China and Ecuador respectively.",
+        "hypothesis": "Steven is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Edward and Gary are from United Arab Emirates, Malaysia and Vietnam respectively.",
+        "hypothesis": "Gary is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Jerry and Ben are from Laos, Portugal and Brazil respectively.",
+        "hypothesis": "Ben is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Ellen and Jason are from North Korea, Austria and United Kingdom respectively.",
+        "hypothesis": "Jason is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Billy and Ann are from Netherlands, Italy and Canada respectively.",
+        "hypothesis": "Ann is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy, Jane and Betty are from Egypt, Afghanistan and Nepal respectively.",
+        "hypothesis": "Betty is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah, Eleanor and Carolyn are from Nepal, Greece and Belgium respectively.",
+        "hypothesis": "Carolyn is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Amanda and Jason are from Cuba, Egypt and Switzerland respectively.",
+        "hypothesis": "Jason is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel, Alan and Elizabeth are from Iceland, China and Oman respectively.",
+        "hypothesis": "Elizabeth is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Tony and Fiona are from Uruguay, Vietnam and Indonesia respectively.",
+        "hypothesis": "Fiona is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Eric, Robin and Frank are from Ireland, Ukraine and Chile respectively.",
+        "hypothesis": "Frank is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Donald and Deborah are from Finland, Azerbaijan and Egypt respectively.",
+        "hypothesis": "Deborah is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Susan, Kenneth and Martin are from Iran, Greece and Singapore respectively.",
+        "hypothesis": "Martin is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Robin, Kevin and Henry are from Libya, Denmark and Canada respectively.",
+        "hypothesis": "Henry is not from Canada.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Cynthia and Howard are from Belarus, Mexico and Saudi Arabia respectively.",
+        "hypothesis": "Howard is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph, Walter and Margaret are from India, Hungary and Azerbaijan respectively.",
+        "hypothesis": "Margaret is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Sara, George and Sam are from Mexico, China and Denmark respectively.",
+        "hypothesis": "Sam is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Matthew and Bobby are from Ecuador, United States of America and Ukraine respectively.",
+        "hypothesis": "Bobby is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Bob, Laura and Robert are from Malaysia, Belgium and Colombia respectively.",
+        "hypothesis": "Robert is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne, Al and Matthew are from Georgia, Finland and Chile respectively.",
+        "hypothesis": "Matthew is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Francis, Suzanne and James are from Georgia, Laos and Indonesia respectively.",
+        "hypothesis": "James is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela, Barbara and Annie are from France, Russia and Maldives respectively.",
+        "hypothesis": "Annie is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Larry, John and Albert are from Finland, Sweden and Switzerland respectively.",
+        "hypothesis": "Albert is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, Gary and Alex are from Afghanistan, Georgia and South Korea respectively.",
+        "hypothesis": "Alex is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca, Anne and Louis are from Indonesia, Iran and Germany respectively.",
+        "hypothesis": "Louis is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen, Ben and Caroline are from Maldives, France and Argentina respectively.",
+        "hypothesis": "Caroline is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Michelle and Walter are from Haiti, New Zealand and Qatar respectively.",
+        "hypothesis": "Walter is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Jill, Patrick and Alfred are from Netherlands, Sweden and Russia respectively.",
+        "hypothesis": "Alfred is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly, Sharon and Bill are from Denmark, Germany and Bangladesh respectively.",
+        "hypothesis": "Bill is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor, Jane and Johnny are from Hungary, Vietnam and Switzerland respectively.",
+        "hypothesis": "Johnny is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Annie, Mike and Bob are from Laos, Portugal and Thailand respectively.",
+        "hypothesis": "Bob is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Laura, Dorothy and Christine are from Malaysia, Argentina and Saudi Arabia respectively.",
+        "hypothesis": "Christine is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Tony, Joe and Laura are from Hungary, Saudi Arabia and Ecuador respectively.",
+        "hypothesis": "Laura is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Diane and Christine are from Oman, Haiti and Netherlands respectively.",
+        "hypothesis": "Christine is not from Netherlands.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine, Sally and Jeff are from Canada, Belgium and Ecuador respectively.",
+        "hypothesis": "Jeff is not from Ecuador.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Louise and Albert are from New Zealand, Sweden and Denmark respectively.",
+        "hypothesis": "Albert is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Carl, Brian and Elizabeth are from Brazil, Russia and France respectively.",
+        "hypothesis": "Elizabeth is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, John and Barbara are from Zimbabwe, Malaysia and Italy respectively.",
+        "hypothesis": "Barbara is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Julie, Keith and Bill are from Maldives, Vietnam and Greece respectively.",
+        "hypothesis": "Bill is not from Greece.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, William and Mary are from Azerbaijan, United Arab Emirates and Oman respectively.",
+        "hypothesis": "Mary is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Pamela and Andrew are from Egypt, Nepal and Israel respectively.",
+        "hypothesis": "Andrew is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Sophie and Francis are from Denmark, South Korea and Finland respectively.",
+        "hypothesis": "Francis is not from Finland.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Robert and Ralph are from Belgium, Brazil and Azerbaijan respectively.",
+        "hypothesis": "Ralph is not from Azerbaijan.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine, Laura and Donald are from Argentina, Malaysia and Switzerland respectively.",
+        "hypothesis": "Donald is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Benjamin and Stephen are from Maldives, Ghana and Ireland respectively.",
+        "hypothesis": "Stephen is not from Ireland.",
+        "label": 2
+    },
+    {
+        "premise": "Matt, Carl and Bobby are from Bangladesh, Sweden and China respectively.",
+        "hypothesis": "Bobby is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Greg, Harriet and Amanda are from Hungary, Bangladesh and Japan respectively.",
+        "hypothesis": "Amanda is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy, Alex and Jimmy are from Taiwan, Ireland and Denmark respectively.",
+        "hypothesis": "Jimmy is not from Denmark.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn, Francis and Kevin are from Egypt, Ukraine and Poland respectively.",
+        "hypothesis": "Kevin is not from Poland.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Donna and Alex are from Haiti, Italy and New Zealand respectively.",
+        "hypothesis": "Alex is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Julie and Mark are from Poland, China and Saudi Arabia respectively.",
+        "hypothesis": "Mark is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Louise, Susan and Martha are from Turkey, Singapore and North Korea respectively.",
+        "hypothesis": "Martha is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Ed and Jonathan are from Switzerland, Belarus and Belgium respectively.",
+        "hypothesis": "Jonathan is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Mark, Evelyn and Colin are from Austria, Japan and Iceland respectively.",
+        "hypothesis": "Colin is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Katherine and Sam are from Azerbaijan, Thailand and Iran respectively.",
+        "hypothesis": "Sam is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Janet and Sarah are from Indonesia, United Kingdom and Ukraine respectively.",
+        "hypothesis": "Sarah is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Martin and Anne are from Poland, Denmark and Colombia respectively.",
+        "hypothesis": "Anne is not from Colombia.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Albert and Dave are from Philippines, Germany and Oman respectively.",
+        "hypothesis": "Dave is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Chris, Marilyn and Suzanne are from Brazil, Belgium and Switzerland respectively.",
+        "hypothesis": "Suzanne is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Janet, Rachel and Frederick are from Netherlands, Portugal and Sweden respectively.",
+        "hypothesis": "Frederick is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Tim, Jason and Dorothy are from Russia, Singapore and Uruguay respectively.",
+        "hypothesis": "Dorothy is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren, Sophie and Thomas are from Maldives, Iran and Australia respectively.",
+        "hypothesis": "Thomas is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Ian, Edith and Virginia are from Finland, Oman and Egypt respectively.",
+        "hypothesis": "Virginia is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Frances, Sam and Kate are from Philippines, United States of America and Taiwan respectively.",
+        "hypothesis": "Kate is not from Taiwan.",
+        "label": 2
+    },
+    {
+        "premise": "Ed, Sally and Elizabeth are from Belarus, Nepal and United Kingdom respectively.",
+        "hypothesis": "Elizabeth is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Betty, Catherine and Lucy are from Bangladesh, United States of America and Iran respectively.",
+        "hypothesis": "Lucy is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Alexander and Ray are from North Korea, Vietnam and Russia respectively.",
+        "hypothesis": "Ray is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia, Jessica and Edward are from Oman, Egypt and Philippines respectively.",
+        "hypothesis": "Edward is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Scott and Kevin are from Vietnam, North Korea and Austria respectively.",
+        "hypothesis": "Kevin is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Harold, Matt and Alfred are from Portugal, Maldives and Malaysia respectively.",
+        "hypothesis": "Alfred is not from Malaysia.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca, Jessica and Christine are from Cuba, Hungary and Iceland respectively.",
+        "hypothesis": "Christine is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Donna, Louis and Janet are from Portugal, Maldives and Ukraine respectively.",
+        "hypothesis": "Janet is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Keith and Kim are from Thailand, Ukraine and Bhutan respectively.",
+        "hypothesis": "Kim is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Greg and Linda are from Iceland, United States of America and Haiti respectively.",
+        "hypothesis": "Linda is not from Haiti.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Simon and Francis are from China, Japan and Ukraine respectively.",
+        "hypothesis": "Francis is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Judith, Rebecca and Arthur are from France, Malaysia and Oman respectively.",
+        "hypothesis": "Arthur is not from Oman.",
+        "label": 2
+    },
+    {
+        "premise": "Louise, Melissa and Bill are from Colombia, Singapore and Bhutan respectively.",
+        "hypothesis": "Bill is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Sarah and Chris are from Maldives, Azerbaijan and North Korea respectively.",
+        "hypothesis": "Chris is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher, Charlotte and Jerry are from Brazil, Canada and Indonesia respectively.",
+        "hypothesis": "Jerry is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Claire, Scott and Kathleen are from Cuba, Haiti and Zimbabwe respectively.",
+        "hypothesis": "Kathleen is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Frank, Sophie and Kevin are from Ireland, Poland and Ukraine respectively.",
+        "hypothesis": "Kevin is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen, Amanda and Andrea are from Switzerland, India and Russia respectively.",
+        "hypothesis": "Andrea is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Ray, Sarah and Joe are from Brazil, Maldives and Libya respectively.",
+        "hypothesis": "Joe is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Linda, Ed and Richard are from Maldives, Haiti and Iceland respectively.",
+        "hypothesis": "Richard is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Johnny and Steve are from Russia, Austria and South Korea respectively.",
+        "hypothesis": "Steve is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Eric, Sara and Florence are from Georgia, Belgium and France respectively.",
+        "hypothesis": "Florence is not from France.",
+        "label": 2
+    },
+    {
+        "premise": "Jean, Jack and Kim are from Qatar, Zimbabwe and North Korea respectively.",
+        "hypothesis": "Kim is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny, Anthony and Diana are from Bhutan, Philippines and Laos respectively.",
+        "hypothesis": "Diana is not from Laos.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth, Elaine and Margaret are from Poland, Egypt and Ghana respectively.",
+        "hypothesis": "Margaret is not from Ghana.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline, Sophie and Rose are from Azerbaijan, Denmark and Bhutan respectively.",
+        "hypothesis": "Rose is not from Bhutan.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Maria and Betty are from New Zealand, Haiti and Philippines respectively.",
+        "hypothesis": "Betty is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Melissa and Anthony are from Iran, Russia and Mexico respectively.",
+        "hypothesis": "Anthony is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy, Victoria and Lisa are from Belarus, Bhutan and Fiji respectively.",
+        "hypothesis": "Lisa is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Steven and Jennifer are from Sweden, Turkey and Thailand respectively.",
+        "hypothesis": "Jennifer is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Anne, Frances and Nancy are from Russia, Ireland and Austria respectively.",
+        "hypothesis": "Nancy is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Joe, Sam and Frances are from Nepal, Sweden and Egypt respectively.",
+        "hypothesis": "Frances is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn, Ian and Patrick are from Maldives, Belarus and Egypt respectively.",
+        "hypothesis": "Patrick is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce, Christine and Claire are from Belarus, Netherlands and Iraq respectively.",
+        "hypothesis": "Claire is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret, Alexander and Nancy are from Belarus, North Korea and Maldives respectively.",
+        "hypothesis": "Nancy is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn, Kim and Paul are from Iceland, Libya and Singapore respectively.",
+        "hypothesis": "Paul is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph, Wendy and Suzanne are from Iceland, Japan and Bangladesh respectively.",
+        "hypothesis": "Suzanne is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "George, Janet and Eric are from Azerbaijan, Uruguay and Belgium respectively.",
+        "hypothesis": "Eric is not from Belgium.",
+        "label": 2
+    },
+    {
+        "premise": "Edward, Nancy and Kevin are from United Kingdom, United States of America and Ukraine respectively.",
+        "hypothesis": "Kevin is not from Ukraine.",
+        "label": 2
+    },
+    {
+        "premise": "John, Jean and Louise are from Ecuador, Netherlands and Israel respectively.",
+        "hypothesis": "Louise is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Carol, Melissa and Charles are from Cuba, Laos and Israel respectively.",
+        "hypothesis": "Charles is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen, Sarah and Tim are from Uruguay, Saudi Arabia and Georgia respectively.",
+        "hypothesis": "Tim is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby, Janet and Edward are from Pakistan, Greece and Iraq respectively.",
+        "hypothesis": "Edward is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy, Alice and William are from Japan, Thailand and Mexico respectively.",
+        "hypothesis": "William is not from Mexico.",
+        "label": 2
+    },
+    {
+        "premise": "Diane, Lawrence and Rebecca are from Belgium, Belarus and Libya respectively.",
+        "hypothesis": "Rebecca is not from Libya.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Alexandra and Samuel are from Maldives, Azerbaijan and Chile respectively.",
+        "hypothesis": "Samuel is not from Chile.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh, Frances and Bill are from Singapore, United Kingdom and Austria respectively.",
+        "hypothesis": "Bill is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Susan, Nick and Kelly are from New Zealand, Netherlands and Argentina respectively.",
+        "hypothesis": "Kelly is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy, Victoria and Jay are from New Zealand, South Korea and Iran respectively.",
+        "hypothesis": "Jay is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Nicole and Dick are from Bhutan, Italy and Japan respectively.",
+        "hypothesis": "Dick is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Tom, Nick and Keith are from Bangladesh, Sweden and Uruguay respectively.",
+        "hypothesis": "Keith is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy, Matthew and Jessica are from India, Bangladesh and Israel respectively.",
+        "hypothesis": "Jessica is not from Israel.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Florence and Chris are from Portugal, Iceland and United States of America respectively.",
+        "hypothesis": "Chris is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Scott, Nicole and Tim are from Bhutan, France and Vietnam respectively.",
+        "hypothesis": "Tim is not from Vietnam.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Alfred and Lucy are from North Korea, Austria and Iraq respectively.",
+        "hypothesis": "Lucy is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Jill, Greg and Andrew are from Afghanistan, Egypt and Germany respectively.",
+        "hypothesis": "Andrew is not from Germany.",
+        "label": 2
+    },
+    {
+        "premise": "Marie, Alex and Fiona are from Saudi Arabia, Portugal and Qatar respectively.",
+        "hypothesis": "Fiona is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Sophie and Harry are from Argentina, Iran and Austria respectively.",
+        "hypothesis": "Harry is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Ann, Peter and Dan are from Portugal, Pakistan and Austria respectively.",
+        "hypothesis": "Dan is not from Austria.",
+        "label": 2
+    },
+    {
+        "premise": "Mary, Martha and Lynn are from Cuba, Afghanistan and South Korea respectively.",
+        "hypothesis": "Lynn is not from South Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Diane, Patrick and Alison are from Ukraine, Philippines and New Zealand respectively.",
+        "hypothesis": "Alison is not from New Zealand.",
+        "label": 2
+    },
+    {
+        "premise": "Mike, Charlotte and Marie are from United Arab Emirates, Iceland and Sweden respectively.",
+        "hypothesis": "Marie is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia, Andrea and John are from Haiti, Canada and Georgia respectively.",
+        "hypothesis": "John is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly, Sally and Charlotte are from Portugal, Fiji and Saudi Arabia respectively.",
+        "hypothesis": "Charlotte is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Alex, Harold and Kim are from Laos, Australia and Egypt respectively.",
+        "hypothesis": "Kim is not from Egypt.",
+        "label": 2
+    },
+    {
+        "premise": "Heather, Daniel and Al are from Argentina, Haiti and United States of America respectively.",
+        "hypothesis": "Al is not from United States of America.",
+        "label": 2
+    },
+    {
+        "premise": "Rose, Walter and Grace are from Libya, Canada and Georgia respectively.",
+        "hypothesis": "Grace is not from Georgia.",
+        "label": 2
+    },
+    {
+        "premise": "Brian, Bob and Jeff are from United States of America, Malaysia and Japan respectively.",
+        "hypothesis": "Jeff is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia, Lisa and Hugh are from India, Iceland and Portugal respectively.",
+        "hypothesis": "Hugh is not from Portugal.",
+        "label": 2
+    },
+    {
+        "premise": "Steven, Cynthia and Alex are from Denmark, Maldives and Japan respectively.",
+        "hypothesis": "Alex is not from Japan.",
+        "label": 2
+    },
+    {
+        "premise": "Matt, Charlotte and Samuel are from Iceland, Japan and Belarus respectively.",
+        "hypothesis": "Samuel is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Richard, Lisa and Helen are from Oman, Cuba and North Korea respectively.",
+        "hypothesis": "Helen is not from North Korea.",
+        "label": 2
+    },
+    {
+        "premise": "Judy, Caroline and Tom are from Australia, Switzerland and Iraq respectively.",
+        "hypothesis": "Tom is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Keith, Louis and Kathleen are from Switzerland, United Arab Emirates and Zimbabwe respectively.",
+        "hypothesis": "Kathleen is not from Zimbabwe.",
+        "label": 2
+    },
+    {
+        "premise": "Dan, Simon and Francis are from Haiti, Maldives and Italy respectively.",
+        "hypothesis": "Francis is not from Italy.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff, Keith and David are from Ireland, India and Singapore respectively.",
+        "hypothesis": "David is not from Singapore.",
+        "label": 2
+    },
+    {
+        "premise": "Sally, Ron and Nicole are from Oman, Switzerland and Indonesia respectively.",
+        "hypothesis": "Nicole is not from Indonesia.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick, Philip and Kelly are from Philippines, China and Brazil respectively.",
+        "hypothesis": "Kelly is not from Brazil.",
+        "label": 2
+    },
+    {
+        "premise": "Don, Ashley and Andrea are from Netherlands, Indonesia and Switzerland respectively.",
+        "hypothesis": "Andrea is not from Switzerland.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur, Lauren and David are from Colombia, United States of America and Iran respectively.",
+        "hypothesis": "David is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine, Anna and Carolyn are from North Korea, Denmark and Hungary respectively.",
+        "hypothesis": "Carolyn is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Tony, Ray and Andrea are from Azerbaijan, Iran and Argentina respectively.",
+        "hypothesis": "Andrea is not from Argentina.",
+        "label": 2
+    },
+    {
+        "premise": "Louis, Billy and Sue are from Turkey, Sweden and Nepal respectively.",
+        "hypothesis": "Sue is not from Nepal.",
+        "label": 2
+    },
+    {
+        "premise": "Alison, Rebecca and Arthur are from Zimbabwe, Finland and Iran respectively.",
+        "hypothesis": "Arthur is not from Iran.",
+        "label": 2
+    },
+    {
+        "premise": "John, Dick and Marie are from United States of America, Greece and Uruguay respectively.",
+        "hypothesis": "Marie is not from Uruguay.",
+        "label": 2
+    },
+    {
+        "premise": "Tony, Ashley and Sara are from Indonesia, Singapore and Bangladesh respectively.",
+        "hypothesis": "Sara is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Grace, Emily and Christine are from Malaysia, France and Iceland respectively.",
+        "hypothesis": "Christine is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie, Kelly and Jean are from Germany, Brazil and Maldives respectively.",
+        "hypothesis": "Jean is not from Maldives.",
+        "label": 2
+    },
+    {
+        "premise": "Donald, Joan and Alison are from Russia, Malaysia and Iraq respectively.",
+        "hypothesis": "Alison is not from Iraq.",
+        "label": 2
+    },
+    {
+        "premise": "Karen, Joe and Kevin are from Cuba, New Zealand and Hungary respectively.",
+        "hypothesis": "Kevin is not from Hungary.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony, Angela and Michael are from Azerbaijan, Maldives and United Kingdom respectively.",
+        "hypothesis": "Michael is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby, Sara and Daniel are from Uruguay, South Korea and Qatar respectively.",
+        "hypothesis": "Daniel is not from Qatar.",
+        "label": 2
+    },
+    {
+        "premise": "Gary, Frederick and Nicole are from Belgium, Taiwan and Sweden respectively.",
+        "hypothesis": "Nicole is not from Sweden.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie, Julie and Virginia are from United Arab Emirates, Canada and Bangladesh respectively.",
+        "hypothesis": "Virginia is not from Bangladesh.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth, Michael and Sophie are from Brazil, Thailand and Iceland respectively.",
+        "hypothesis": "Sophie is not from Iceland.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh, Ellen and Don are from Iraq, New Zealand and Philippines respectively.",
+        "hypothesis": "Don is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Martha, Samuel and Keith are from Laos, Italy and Fiji respectively.",
+        "hypothesis": "Keith is not from Fiji.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia, Nancy and Grace are from Uruguay, Belgium and Australia respectively.",
+        "hypothesis": "Grace is not from Australia.",
+        "label": 2
+    },
+    {
+        "premise": "Harry, Benjamin and Steve are from Argentina, India and Russia respectively.",
+        "hypothesis": "Steve is not from Russia.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte, Rachel and Jennifer are from Georgia, Laos and Philippines respectively.",
+        "hypothesis": "Jennifer is not from Philippines.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea, Lauren and Barbara are from Hungary, Nepal and Saudi Arabia respectively.",
+        "hypothesis": "Barbara is not from Saudi Arabia.",
+        "label": 2
+    },
+    {
+        "premise": "Roger, Robert and Dan are from Mexico, Uruguay and Thailand respectively.",
+        "hypothesis": "Dan is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Peter, Eleanor and Carol are from Haiti, Portugal and United Arab Emirates respectively.",
+        "hypothesis": "Carol is not from United Arab Emirates.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence, Sue and Jeff are from Chile, Turkey and United Kingdom respectively.",
+        "hypothesis": "Jeff is not from United Kingdom.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Albert and Sue are from Chile, Italy and Thailand respectively.",
+        "hypothesis": "Sue is not from Thailand.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona, Sandra and Jay are from Colombia, Germany and China respectively.",
+        "hypothesis": "Jay is not from China.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle, Betty and Katherine are from Cuba, Canada and Belarus respectively.",
+        "hypothesis": "Katherine is not from Belarus.",
+        "label": 2
+    },
+    {
+        "premise": "Henry, Kevin and Dorothy are from Bangladesh, Portugal and North Korea respectively.",
+        "hypothesis": "Dorothy is not from North Korea.",
+        "label": 2
+    }
+]

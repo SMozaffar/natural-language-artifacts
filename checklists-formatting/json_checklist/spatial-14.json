@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Karen is to the right of Richard. Richard is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Deborah. Deborah is to the right of Charlotte.",
+        "hypothesis": "Charlotte is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is to the right of Fred. Fred is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is to the right of Al. Al is to the right of Marie.",
+        "hypothesis": "Marie is to the left of Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Diane. Diane is to the right of Carol.",
+        "hypothesis": "Carol is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Ralph. Ralph is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Lauren. Lauren is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is to the right of Robert. Robert is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is to the right of Caroline. Caroline is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Ann. Ann is to the right of Carol.",
+        "hypothesis": "Carol is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Ann. Ann is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is to the right of Sarah. Sarah is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Michael. Michael is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Hugh. Hugh is to the right of David.",
+        "hypothesis": "David is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is to the right of Al. Al is to the right of Joe.",
+        "hypothesis": "Joe is to the left of Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Alfred. Alfred is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Joan. Joan is to the right of Jill.",
+        "hypothesis": "Jill is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is to the right of Catherine. Catherine is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is to the right of Stephen. Stephen is to the right of Tim.",
+        "hypothesis": "Tim is to the left of Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Katherine. Katherine is to the right of Harold.",
+        "hypothesis": "Harold is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Joe. Joe is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is to the right of Jim. Jim is to the right of Ken.",
+        "hypothesis": "Ken is to the left of Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Dan. Dan is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Tony. Tony is to the right of Karen.",
+        "hypothesis": "Karen is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Susan. Susan is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is to the right of Stephanie. Stephanie is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Scott. Scott is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Philip. Philip is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Edith. Edith is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Jack. Jack is to the right of Katie.",
+        "hypothesis": "Katie is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Jane. Jane is to the right of Joan.",
+        "hypothesis": "Joan is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is to the right of Leslie. Leslie is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Jay. Jay is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Lucy. Lucy is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is to the right of Dave. Dave is to the right of Virginia.",
+        "hypothesis": "Virginia is to the left of Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Roy. Roy is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Andrew. Andrew is to the right of Julie.",
+        "hypothesis": "Julie is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is to the right of Pamela. Pamela is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is to the right of Bobby. Bobby is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Joan. Joan is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Sara. Sara is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is to the right of Kevin. Kevin is to the right of Donald.",
+        "hypothesis": "Donald is to the left of Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Alan. Alan is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "James is to the right of Jack. Jack is to the right of Frank.",
+        "hypothesis": "Frank is to the left of James.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Ian. Ian is to the right of Jason.",
+        "hypothesis": "Jason is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is to the right of Marie. Marie is to the right of Jason.",
+        "hypothesis": "Jason is to the left of Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is to the right of Bill. Bill is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is to the right of Michelle. Michelle is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is to the right of Christopher. Christopher is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is to the right of Suzanne. Suzanne is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Ken. Ken is to the right of Kathy.",
+        "hypothesis": "Kathy is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Peter. Peter is to the right of Anne.",
+        "hypothesis": "Anne is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Jim. Jim is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of Sara. Sara is to the right of Harriet.",
+        "hypothesis": "Harriet is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is to the right of Florence. Florence is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is to the right of Bruce. Bruce is to the right of Donna.",
+        "hypothesis": "Donna is to the left of Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Annie. Annie is to the right of Amy.",
+        "hypothesis": "Amy is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Kathryn. Kathryn is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Arthur. Arthur is to the right of Elizabeth.",
+        "hypothesis": "Elizabeth is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Ray. Ray is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is to the right of Sandra. Sandra is to the right of Suzanne.",
+        "hypothesis": "Suzanne is to the left of Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is to the right of Ed. Ed is to the right of Alice.",
+        "hypothesis": "Alice is to the left of Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Steven. Steven is to the right of Bruce.",
+        "hypothesis": "Bruce is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is to the right of William. William is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is to the right of Caroline. Caroline is to the right of Rebecca.",
+        "hypothesis": "Rebecca is to the left of Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is to the right of John. John is to the right of Matthew.",
+        "hypothesis": "Matthew is to the left of Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is to the right of Bobby. Bobby is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Martin. Martin is to the right of Kate.",
+        "hypothesis": "Kate is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Francis. Francis is to the right of Alex.",
+        "hypothesis": "Alex is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Anna. Anna is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Stephen. Stephen is to the right of Dave.",
+        "hypothesis": "Dave is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is to the right of Chris. Chris is to the right of Janet.",
+        "hypothesis": "Janet is to the left of Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is to the right of Stephanie. Stephanie is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Harry. Harry is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of Lawrence. Lawrence is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Cynthia. Cynthia is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Carol. Carol is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Jerry. Jerry is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Gary. Gary is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Ben. Ben is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Mark. Mark is to the right of Kathryn.",
+        "hypothesis": "Kathryn is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is to the right of Tim. Tim is to the right of Rebecca.",
+        "hypothesis": "Rebecca is to the left of Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Tim. Tim is to the right of Patrick.",
+        "hypothesis": "Patrick is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of Henry. Henry is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Carol. Carol is to the right of Larry.",
+        "hypothesis": "Larry is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Ashley. Ashley is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is to the right of Carl. Carl is to the right of Judy.",
+        "hypothesis": "Judy is to the left of Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "David is to the right of Grace. Grace is to the right of Ray.",
+        "hypothesis": "Ray is to the left of David.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Emma. Emma is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is to the right of Claire. Claire is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is to the right of Florence. Florence is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Diane.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Leslie. Leslie is to the right of Louis.",
+        "hypothesis": "Louis is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is to the right of Susan. Susan is to the right of Dan.",
+        "hypothesis": "Dan is to the left of Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is to the right of Kathleen. Kathleen is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Andrew. Andrew is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Barbara. Barbara is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is to the right of Al. Al is to the right of Janet.",
+        "hypothesis": "Janet is to the left of Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is to the right of Lawrence. Lawrence is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is to the right of Scott. Scott is to the right of Leslie.",
+        "hypothesis": "Leslie is to the left of Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Margaret. Margaret is to the right of Anthony.",
+        "hypothesis": "Anthony is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Grace. Grace is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is to the right of Ben. Ben is to the right of Frank.",
+        "hypothesis": "Frank is to the left of Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is to the right of Alfred. Alfred is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Francis. Francis is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Charlie. Charlie is to the right of Catherine.",
+        "hypothesis": "Catherine is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Donna. Donna is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is to the right of Andrew. Andrew is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Lauren. Lauren is to the right of Al.",
+        "hypothesis": "Al is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is to the right of Harriet. Harriet is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is to the right of Walter. Walter is to the right of Eleanor.",
+        "hypothesis": "Eleanor is to the left of Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Harry. Harry is to the right of Anthony.",
+        "hypothesis": "Anthony is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Elizabeth. Elizabeth is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Howard. Howard is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Frances. Frances is to the right of Leslie.",
+        "hypothesis": "Leslie is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is to the right of Elizabeth. Elizabeth is to the right of Heather.",
+        "hypothesis": "Heather is to the left of Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Katie. Katie is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Susan. Susan is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is to the right of Frank. Frank is to the right of Cynthia.",
+        "hypothesis": "Cynthia is to the left of Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is to the right of Charlotte. Charlotte is to the right of Virginia.",
+        "hypothesis": "Virginia is to the left of Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Lauren. Lauren is to the right of Gary.",
+        "hypothesis": "Gary is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is to the right of Sue. Sue is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Rachel. Rachel is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Jimmy. Jimmy is to the right of William.",
+        "hypothesis": "William is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is to the right of Bobby. Bobby is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is to the right of Matthew. Matthew is to the right of Patricia.",
+        "hypothesis": "Patricia is to the left of Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is to the right of Jill. Jill is to the right of Lucy.",
+        "hypothesis": "Lucy is to the left of Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is to the right of Andrea. Andrea is to the right of Patricia.",
+        "hypothesis": "Patricia is to the left of Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Laura. Laura is to the right of Emily.",
+        "hypothesis": "Emily is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of Johnny. Johnny is to the right of Simon.",
+        "hypothesis": "Simon is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Joseph. Joseph is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Gary. Gary is to the right of Claire.",
+        "hypothesis": "Claire is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Evelyn. Evelyn is to the right of Barbara.",
+        "hypothesis": "Barbara is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is to the right of Martin. Martin is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Barbara. Barbara is to the right of Frank.",
+        "hypothesis": "Frank is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is to the right of Harriet. Harriet is to the right of Alison.",
+        "hypothesis": "Alison is to the left of Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is to the right of Sara. Sara is to the right of Dave.",
+        "hypothesis": "Dave is to the left of Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is to the right of Anthony. Anthony is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Patricia. Patricia is to the right of Katie.",
+        "hypothesis": "Katie is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is to the right of Jimmy. Jimmy is to the right of Ashley.",
+        "hypothesis": "Ashley is to the left of Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Albert. Albert is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "David is to the right of Walter. Walter is to the right of Alan.",
+        "hypothesis": "Alan is to the left of David.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is to the right of Matt. Matt is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is to the right of Donald. Donald is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Robin. Robin is to the right of Caroline.",
+        "hypothesis": "Caroline is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is to the right of Edith. Edith is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is to the right of Sandra. Sandra is to the right of Elizabeth.",
+        "hypothesis": "Elizabeth is to the left of Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is to the right of Karen. Karen is to the right of Elizabeth.",
+        "hypothesis": "Elizabeth is to the left of Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is to the right of Donna. Donna is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is to the right of Harold. Harold is to the right of Benjamin.",
+        "hypothesis": "Benjamin is to the left of Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Greg. Greg is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Ashley. Ashley is to the right of Kevin.",
+        "hypothesis": "Kevin is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is to the right of Bruce. Bruce is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Fred. Fred is to the right of Jay.",
+        "hypothesis": "Jay is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Stephen. Stephen is to the right of Ben.",
+        "hypothesis": "Ben is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is to the right of Betty. Betty is to the right of Carol.",
+        "hypothesis": "Carol is to the left of Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is to the right of Mike. Mike is to the right of Al.",
+        "hypothesis": "Al is to the left of Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Jack. Jack is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Rose. Rose is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Fred. Fred is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Lisa. Lisa is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Ryan. Ryan is to the right of Lauren.",
+        "hypothesis": "Lauren is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is to the right of Brian. Brian is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Samuel. Samuel is to the right of Simon.",
+        "hypothesis": "Simon is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Kelly. Kelly is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is to the right of Dave. Dave is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Ralph. Ralph is to the right of Rachel.",
+        "hypothesis": "Rachel is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is to the right of Nicole. Nicole is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is to the right of Barbara. Barbara is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of Lauren. Lauren is to the right of John.",
+        "hypothesis": "John is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is to the right of William. William is to the right of Kathy.",
+        "hypothesis": "Kathy is to the left of Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is to the right of Barbara. Barbara is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Tim. Tim is to the right of Frank.",
+        "hypothesis": "Frank is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is to the right of Suzanne. Suzanne is to the right of Catherine.",
+        "hypothesis": "Catherine is to the left of Dan.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Al. Al is to the right of Julia.",
+        "hypothesis": "Julia is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Ken. Ken is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Don. Don is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Julie. Julie is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Ron. Ron is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is to the right of Ed. Ed is to the right of Emily.",
+        "hypothesis": "Emily is to the left of Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Christopher. Christopher is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Angela. Angela is to the right of Patrick.",
+        "hypothesis": "Patrick is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Sam. Sam is to the right of Frank.",
+        "hypothesis": "Frank is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Richard. Richard is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is to the right of Fiona. Fiona is to the right of Al.",
+        "hypothesis": "Al is to the left of Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Pamela. Pamela is to the right of Katie.",
+        "hypothesis": "Katie is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "David is to the right of Amanda. Amanda is to the right of Katherine.",
+        "hypothesis": "Katherine is to the left of David.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Dave. Dave is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Kevin. Kevin is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Ryan. Ryan is to the right of Rose.",
+        "hypothesis": "Rose is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is to the right of Jane. Jane is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of Charlotte. Charlotte is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is to the right of Henry. Henry is to the right of Karen.",
+        "hypothesis": "Karen is to the left of Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is to the right of Bobby. Bobby is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is to the right of Kim. Kim is to the right of Adam.",
+        "hypothesis": "Adam is to the left of Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Robert. Robert is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is to the right of Frank. Frank is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Paul. Paul is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Elaine. Elaine is to the right of Jerry.",
+        "hypothesis": "Jerry is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Marie. Marie is to the right of Margaret.",
+        "hypothesis": "Margaret is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is to the right of Lawrence. Lawrence is to the right of David.",
+        "hypothesis": "David is to the left of Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Pamela. Pamela is to the right of Barbara.",
+        "hypothesis": "Barbara is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Carol. Carol is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is to the right of Rose. Rose is to the right of Robert.",
+        "hypothesis": "Robert is to the left of Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is to the right of Amy. Amy is to the right of Larry.",
+        "hypothesis": "Larry is to the left of Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Don. Don is to the right of Frederick.",
+        "hypothesis": "Frederick is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Henry. Henry is to the right of Steven.",
+        "hypothesis": "Steven is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is to the right of Alfred. Alfred is to the right of Alex.",
+        "hypothesis": "Alex is to the left of Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Harriet. Harriet is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is to the right of Fiona. Fiona is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Anthony. Anthony is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Linda. Linda is to the right of Edith.",
+        "hypothesis": "Edith is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is to the right of Ryan. Ryan is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is to the right of Pamela. Pamela is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is to the right of Dan. Dan is to the right of Amy.",
+        "hypothesis": "Amy is to the left of Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Alex. Alex is to the right of Carol.",
+        "hypothesis": "Carol is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is to the right of Joseph. Joseph is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is to the right of Alfred. Alfred is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is to the right of Sally. Sally is to the right of Alison.",
+        "hypothesis": "Alison is to the left of Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Carol. Carol is to the right of Katherine.",
+        "hypothesis": "Katherine is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Albert. Albert is to the right of Kathy.",
+        "hypothesis": "Kathy is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Martha. Martha is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is to the right of Sue. Sue is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Laura. Laura is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Julie. Julie is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Maria. Maria is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Kathy. Kathy is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Larry. Larry is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Walter. Walter is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is to the right of Johnny. Johnny is to the right of Virginia.",
+        "hypothesis": "Virginia is to the left of Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Sara. Sara is to the right of Roger.",
+        "hypothesis": "Roger is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Frank. Frank is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is to the right of Tim. Tim is to the right of Tom.",
+        "hypothesis": "Tom is to the left of Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Rose. Rose is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is to the right of Peter. Peter is to the right of Carl.",
+        "hypothesis": "Carl is to the left of Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is to the right of Fred. Fred is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Samuel. Samuel is to the right of Alison.",
+        "hypothesis": "Alison is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Rachel. Rachel is to the right of Kathleen.",
+        "hypothesis": "Kathleen is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is to the right of Philip. Philip is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is to the right of Louise. Louise is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Tim. Tim is to the right of Ralph.",
+        "hypothesis": "Ralph is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Katie. Katie is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Carol. Carol is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is to the right of Samuel. Samuel is to the right of Hugh.",
+        "hypothesis": "Hugh is to the left of Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Richard. Richard is to the right of Chris.",
+        "hypothesis": "Chris is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is to the right of Frank. Frank is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is to the right of Pamela. Pamela is to the right of Kate.",
+        "hypothesis": "Kate is to the left of Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Elaine. Elaine is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is to the right of Jack. Jack is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is to the right of Alan. Alan is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Lisa. Lisa is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is to the right of Andrew. Andrew is to the right of Ralph.",
+        "hypothesis": "Ralph is to the left of Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is to the right of Rose. Rose is to the right of Donna.",
+        "hypothesis": "Donna is to the left of Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is to the right of Jim. Jim is to the right of Charles.",
+        "hypothesis": "Charles is to the left of Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Adam. Adam is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is to the right of Katie. Katie is to the right of Larry.",
+        "hypothesis": "Larry is to the left of Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Carol. Carol is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Alexander. Alexander is to the right of Edward.",
+        "hypothesis": "Edward is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Judith. Judith is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is to the right of Barbara. Barbara is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Sue. Sue is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is to the right of Alexander. Alexander is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Katherine. Katherine is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is to the right of Daniel. Daniel is to the right of Matt.",
+        "hypothesis": "Matt is to the left of Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Diane. Diane is to the right of Emma.",
+        "hypothesis": "Emma is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Kathryn. Kathryn is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Amanda. Amanda is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Sue. Sue is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of Keith. Keith is to the right of Jeff.",
+        "hypothesis": "Jeff is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is to the right of Chris. Chris is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Albert. Albert is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Amanda. Amanda is to the right of Charles.",
+        "hypothesis": "Charles is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is to the right of Amy. Amy is to the right of Joseph.",
+        "hypothesis": "Joseph is to the left of Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Keith. Keith is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is to the right of Ken. Ken is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Jennifer. Jennifer is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Suzanne. Suzanne is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is to the right of Gary. Gary is to the right of Richard.",
+        "hypothesis": "Richard is to the left of Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is to the right of Leslie. Leslie is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is to the right of Kathy. Kathy is to the right of Al.",
+        "hypothesis": "Al is to the left of Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Matt. Matt is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is to the right of Robin. Robin is to the right of Bruce.",
+        "hypothesis": "Bruce is to the left of Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is to the right of Ann. Ann is to the right of Brian.",
+        "hypothesis": "Brian is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Tom. Tom is to the right of Tim.",
+        "hypothesis": "Tim is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Michael. Michael is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is to the right of Mark. Mark is to the right of Chris.",
+        "hypothesis": "Chris is to the left of Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is to the right of Diane. Diane is to the right of Leslie.",
+        "hypothesis": "Leslie is to the left of Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is to the right of Harry. Harry is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is to the right of Kevin. Kevin is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is to the right of David. David is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is to the right of Gary. Gary is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is to the right of Benjamin. Benjamin is to the right of Ashley.",
+        "hypothesis": "Ashley is to the left of Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Sarah. Sarah is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is to the right of Lauren. Lauren is to the right of Simon.",
+        "hypothesis": "Simon is to the left of Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Carol. Carol is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is to the right of Robert. Robert is to the right of Edith.",
+        "hypothesis": "Edith is to the left of Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Linda. Linda is to the right of Robert.",
+        "hypothesis": "Robert is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Alex. Alex is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is to the right of Jean. Jean is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is to the right of Deborah. Deborah is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of David. David is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Grace. Grace is to the right of Donna.",
+        "hypothesis": "Donna is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is to the right of Scott. Scott is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is to the right of Ray. Ray is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is to the right of Scott. Scott is to the right of Louise.",
+        "hypothesis": "Louise is to the left of Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Michael. Michael is to the right of Alan.",
+        "hypothesis": "Alan is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Karen. Karen is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Peter. Peter is to the right of Lucy.",
+        "hypothesis": "Lucy is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Matt. Matt is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Donald. Donald is to the right of Matt.",
+        "hypothesis": "Matt is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Alex. Alex is to the right of Jerry.",
+        "hypothesis": "Jerry is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is to the right of Eric. Eric is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Al. Al is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Keith. Keith is to the right of Emma.",
+        "hypothesis": "Emma is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Chris. Chris is to the right of Philip.",
+        "hypothesis": "Philip is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Alice. Alice is to the right of Keith.",
+        "hypothesis": "Keith is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is to the right of Scott. Scott is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Virginia. Virginia is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Sue. Sue is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Jeff. Jeff is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is to the right of Jason. Jason is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Ryan. Ryan is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Samuel. Samuel is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Catherine. Catherine is to the right of Frederick.",
+        "hypothesis": "Frederick is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Michael. Michael is to the right of Sue.",
+        "hypothesis": "Sue is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is to the right of Judith. Judith is to the right of Betty.",
+        "hypothesis": "Betty is to the left of Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Peter. Peter is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Sally. Sally is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of George. George is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is to the right of Paul. Paul is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is to the right of Al. Al is to the right of Sara.",
+        "hypothesis": "Sara is to the left of Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is to the right of Joe. Joe is to the right of Katherine.",
+        "hypothesis": "Katherine is to the left of Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Francis. Francis is to the right of Edith.",
+        "hypothesis": "Edith is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is to the right of Ralph. Ralph is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is to the right of Julia. Julia is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is to the right of Martha. Martha is to the right of Bill.",
+        "hypothesis": "Bill is to the left of Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Michelle. Michelle is to the right of Amy.",
+        "hypothesis": "Amy is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Patricia. Patricia is to the right of Lucy.",
+        "hypothesis": "Lucy is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "George is to the right of Kim. Kim is to the right of Harold.",
+        "hypothesis": "Harold is to the left of George.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is to the right of Helen. Helen is to the right of Laura.",
+        "hypothesis": "Laura is to the left of Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Jessica. Jessica is to the right of Julie.",
+        "hypothesis": "Julie is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is to the right of Chris. Chris is to the right of Henry.",
+        "hypothesis": "Henry is to the left of Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is to the right of Suzanne. Suzanne is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is to the right of Donna. Donna is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Edward. Edward is to the right of Harriet.",
+        "hypothesis": "Harriet is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is to the right of George. George is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Sara. Sara is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of Rachel. Rachel is to the right of Ben.",
+        "hypothesis": "Ben is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Dave. Dave is to the right of Jennifer.",
+        "hypothesis": "Jennifer is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Peter. Peter is to the right of Claire.",
+        "hypothesis": "Claire is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Simon. Simon is to the right of Harriet.",
+        "hypothesis": "Harriet is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Bob. Bob is to the right of Edwin.",
+        "hypothesis": "Edwin is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Lisa. Lisa is to the right of George.",
+        "hypothesis": "George is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is to the right of Linda. Linda is to the right of Henry.",
+        "hypothesis": "Henry is to the left of Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Daniel. Daniel is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Kim. Kim is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Alexander. Alexander is to the right of Ray.",
+        "hypothesis": "Ray is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Ken. Ken is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is to the right of Matthew. Matthew is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is to the right of Florence. Florence is to the right of Lauren.",
+        "hypothesis": "Lauren is to the left of Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Ed. Ed is to the right of Sam.",
+        "hypothesis": "Sam is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is to the right of Christopher. Christopher is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is to the right of Jay. Jay is to the right of Ed.",
+        "hypothesis": "Ed is to the left of Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is to the right of Donna. Donna is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Rose. Rose is to the right of Jane.",
+        "hypothesis": "Jane is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Cynthia. Cynthia is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Bill. Bill is to the right of Patrick.",
+        "hypothesis": "Patrick is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is to the right of Charles. Charles is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Evelyn. Evelyn is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is to the right of Patrick. Patrick is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Martin. Martin is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is to the right of Francis. Francis is to the right of Peter.",
+        "hypothesis": "Peter is to the left of Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Jane. Jane is to the right of William.",
+        "hypothesis": "William is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Fiona. Fiona is to the right of Ray.",
+        "hypothesis": "Ray is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Anne. Anne is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is to the right of Greg. Greg is to the right of Claire.",
+        "hypothesis": "Claire is to the left of Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Nancy. Nancy is to the right of Dan.",
+        "hypothesis": "Dan is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is to the right of Jean. Jean is to the right of William.",
+        "hypothesis": "William is to the left of Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is to the right of Grace. Grace is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Marilyn. Marilyn is to the right of Wendy.",
+        "hypothesis": "Wendy is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is to the right of Jeff. Jeff is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Ruth. Ruth is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Joan. Joan is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Emily. Emily is to the right of Deborah.",
+        "hypothesis": "Deborah is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Lynn. Lynn is to the right of Francis.",
+        "hypothesis": "Francis is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is to the right of Howard. Howard is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Andrew. Andrew is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is to the right of Emma. Emma is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is to the right of Nicole. Nicole is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Marie. Marie is to the right of Deborah.",
+        "hypothesis": "Deborah is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Ron. Ron is to the right of Leslie.",
+        "hypothesis": "Leslie is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Leslie. Leslie is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is to the right of Nancy. Nancy is to the right of Diane.",
+        "hypothesis": "Diane is to the left of Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is to the right of Alice. Alice is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is to the right of Al. Al is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Harold. Harold is to the right of Tim.",
+        "hypothesis": "Tim is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is to the right of Howard. Howard is to the right of Suzanne.",
+        "hypothesis": "Suzanne is to the left of Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is to the right of Sam. Sam is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Rachel. Rachel is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Adam. Adam is to the right of Gary.",
+        "hypothesis": "Gary is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is to the right of Charlie. Charlie is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Daniel. Daniel is to the right of Jane.",
+        "hypothesis": "Jane is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is to the right of Ben. Ben is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is to the right of Eric. Eric is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Melissa. Melissa is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is to the right of Victoria. Victoria is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Melissa. Melissa is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Marilyn. Marilyn is to the right of Joe.",
+        "hypothesis": "Joe is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is to the right of Anna. Anna is to the right of Hugh.",
+        "hypothesis": "Hugh is to the left of Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is to the right of Annie. Annie is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of Karen. Karen is to the right of Lauren.",
+        "hypothesis": "Lauren is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is to the right of Alison. Alison is to the right of Ralph.",
+        "hypothesis": "Ralph is to the left of Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is to the right of Arthur. Arthur is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is to the right of Tom. Tom is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is to the right of Jeff. Jeff is to the right of Carl.",
+        "hypothesis": "Carl is to the left of Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Patrick. Patrick is to the right of Tom.",
+        "hypothesis": "Tom is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is to the right of Emily. Emily is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Keith. Keith is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Scott. Scott is to the right of Cynthia.",
+        "hypothesis": "Cynthia is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Bob. Bob is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is to the right of Stephanie. Stephanie is to the right of Brian.",
+        "hypothesis": "Brian is to the left of Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Cynthia. Cynthia is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is to the right of Thomas. Thomas is to the right of Jeff.",
+        "hypothesis": "Jeff is to the left of Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is to the right of David. David is to the right of Claire.",
+        "hypothesis": "Claire is to the left of Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Jane. Jane is to the right of Dorothy.",
+        "hypothesis": "Dorothy is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is to the right of James. James is to the right of Jason.",
+        "hypothesis": "Jason is to the left of Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Fred. Fred is to the right of Rachel.",
+        "hypothesis": "Rachel is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is to the right of Kate. Kate is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Albert. Albert is to the right of Keith.",
+        "hypothesis": "Keith is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is to the right of Tony. Tony is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is to the right of Martha. Martha is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Dan. Dan is to the right of Louise.",
+        "hypothesis": "Louise is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is to the right of Jack. Jack is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Evelyn. Evelyn is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is to the right of Heather. Heather is to the right of Dan.",
+        "hypothesis": "Dan is to the left of Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is to the right of Mike. Mike is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Kenneth. Kenneth is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is to the right of Sally. Sally is to the right of Gary.",
+        "hypothesis": "Gary is to the left of Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Johnny. Johnny is to the right of Ray.",
+        "hypothesis": "Ray is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Mary. Mary is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is to the right of Robert. Robert is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is to the right of Frederick. Frederick is to the right of Claire.",
+        "hypothesis": "Claire is to the left of Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is to the right of Matt. Matt is to the right of Betty.",
+        "hypothesis": "Betty is to the left of Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Alice. Alice is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of William. William is to the right of Ken.",
+        "hypothesis": "Ken is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is to the right of Greg. Greg is to the right of Ashley.",
+        "hypothesis": "Ashley is to the left of Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is to the right of Stephen. Stephen is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is to the right of Jeff. Jeff is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Howard. Howard is to the right of Bill.",
+        "hypothesis": "Bill is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is to the right of Alan. Alan is to the right of Sophie.",
+        "hypothesis": "Sophie is to the left of Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is to the right of Caroline. Caroline is to the right of Ralph.",
+        "hypothesis": "Ralph is to the left of Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is to the right of Donna. Donna is to the right of Anthony.",
+        "hypothesis": "Anthony is to the left of Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is to the right of Jim. Jim is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Annie. Annie is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is to the right of Kathryn. Kathryn is to the right of Donald.",
+        "hypothesis": "Donald is to the left of Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of Julie. Julie is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Johnny. Johnny is to the right of Stephanie.",
+        "hypothesis": "Stephanie is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is to the right of Donna. Donna is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of Lauren. Lauren is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Kim. Kim is to the right of Judith.",
+        "hypothesis": "Judith is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is to the right of Emily. Emily is to the right of Greg.",
+        "hypothesis": "Greg is to the left of Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Ashley. Ashley is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is to the right of Carl. Carl is to the right of Jerry.",
+        "hypothesis": "Jerry is to the left of Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of Ron. Ron is to the right of Kevin.",
+        "hypothesis": "Kevin is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Jean. Jean is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is to the right of Marilyn. Marilyn is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is to the right of Rose. Rose is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Kevin. Kevin is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is to the right of Ellen. Ellen is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is to the right of Michelle. Michelle is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Anna. Anna is to the right of Dorothy.",
+        "hypothesis": "Dorothy is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is to the right of Harry. Harry is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is to the right of Louise. Louise is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Anthony. Anthony is to the right of Michael.",
+        "hypothesis": "Michael is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is to the right of Betty. Betty is to the right of Joan.",
+        "hypothesis": "Joan is to the left of Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Matthew. Matthew is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is to the right of Frank. Frank is to the right of Wendy.",
+        "hypothesis": "Wendy is to the left of Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of Louise. Louise is to the right of Richard.",
+        "hypothesis": "Richard is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Amanda. Amanda is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Betty. Betty is to the right of Roger.",
+        "hypothesis": "Roger is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Edwin. Edwin is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is to the right of Andrew. Andrew is to the right of Diane.",
+        "hypothesis": "Diane is to the left of Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is to the right of Joseph. Joseph is to the right of Joe.",
+        "hypothesis": "Joe is to the left of Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is to the right of Patrick. Patrick is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Alice. Alice is to the right of Alex.",
+        "hypothesis": "Alex is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Roy. Roy is to the right of Kathy.",
+        "hypothesis": "Kathy is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Martin. Martin is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is to the right of Elizabeth. Elizabeth is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Harry. Harry is to the right of Robin.",
+        "hypothesis": "Robin is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Alan. Alan is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Mark. Mark is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is to the right of Alice. Alice is to the right of Ben.",
+        "hypothesis": "Ben is to the left of Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Frank. Frank is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Ken. Ken is to the right of Jill.",
+        "hypothesis": "Jill is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is to the right of Carl. Carl is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Anna. Anna is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is to the right of Pamela. Pamela is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Matt. Matt is to the right of Emily.",
+        "hypothesis": "Emily is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is to the right of Claire. Claire is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is to the right of Judith. Judith is to the right of Betty.",
+        "hypothesis": "Betty is to the left of Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of George. George is to the right of Lawrence.",
+        "hypothesis": "Lawrence is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is to the right of Carolyn. Carolyn is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is to the right of Wendy. Wendy is to the right of David.",
+        "hypothesis": "David is to the left of Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Jeff. Jeff is to the right of Anthony.",
+        "hypothesis": "Anthony is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Katherine. Katherine is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is to the right of Sam. Sam is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Martin. Martin is to the right of Greg.",
+        "hypothesis": "Greg is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Rachel. Rachel is to the right of Jill.",
+        "hypothesis": "Jill is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is to the right of Victoria. Victoria is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is to the right of George. George is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is to the right of Deborah. Deborah is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is to the right of Anna. Anna is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is to the right of Annie. Annie is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Sally. Sally is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is to the right of Sally. Sally is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Fred. Fred is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Brian. Brian is to the right of Lauren.",
+        "hypothesis": "Lauren is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is to the right of Ruth. Ruth is to the right of David.",
+        "hypothesis": "David is to the left of Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Howard. Howard is to the right of Kathleen.",
+        "hypothesis": "Kathleen is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is to the right of Fiona. Fiona is to the right of Charlotte.",
+        "hypothesis": "Charlotte is to the left of Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is to the right of Sophie. Sophie is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is to the right of Charlotte. Charlotte is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is to the right of Robin. Robin is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is to the right of Elizabeth. Elizabeth is to the right of Alan.",
+        "hypothesis": "Alan is to the left of Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is to the right of Kate. Kate is to the right of Sophie.",
+        "hypothesis": "Sophie is to the left of Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Anthony. Anthony is to the right of Jennifer.",
+        "hypothesis": "Jennifer is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Walter. Walter is to the right of Kate.",
+        "hypothesis": "Kate is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Harold. Harold is to the right of Philip.",
+        "hypothesis": "Philip is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Scott. Scott is to the right of Don.",
+        "hypothesis": "Don is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is to the right of Charlotte. Charlotte is to the right of Edwin.",
+        "hypothesis": "Edwin is to the left of Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Kathleen. Kathleen is to the right of Henry.",
+        "hypothesis": "Henry is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Nick. Nick is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Rose. Rose is to the right of Wendy.",
+        "hypothesis": "Wendy is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Louise. Louise is to the right of Donald.",
+        "hypothesis": "Donald is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Greg. Greg is to the right of Heather.",
+        "hypothesis": "Heather is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Ian. Ian is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Bobby. Bobby is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is to the right of Linda. Linda is to the right of Jean.",
+        "hypothesis": "Jean is to the left of Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Alison. Alison is to the right of Julie.",
+        "hypothesis": "Julie is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is to the right of Gary. Gary is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is to the right of Julia. Julia is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is to the right of Betty. Betty is to the right of Judith.",
+        "hypothesis": "Judith is to the left of Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Dan. Dan is to the right of Dave.",
+        "hypothesis": "Dave is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Bill. Bill is to the right of Thomas.",
+        "hypothesis": "Thomas is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Jerry. Jerry is to the right of Michael.",
+        "hypothesis": "Michael is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is to the right of Colin. Colin is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Chris. Chris is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Margaret. Margaret is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is to the right of Paul. Paul is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Dave. Dave is to the right of John.",
+        "hypothesis": "John is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Michael. Michael is to the right of Judith.",
+        "hypothesis": "Judith is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Suzanne. Suzanne is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Sue. Sue is to the right of Patricia.",
+        "hypothesis": "Patricia is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is to the right of Alexander. Alexander is to the right of Judith.",
+        "hypothesis": "Judith is to the left of Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Chris. Chris is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Steve. Steve is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is to the right of Alison. Alison is to the right of Walter.",
+        "hypothesis": "Walter is to the left of Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is to the right of Lauren. Lauren is to the right of John.",
+        "hypothesis": "John is to the left of Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is to the right of Virginia. Virginia is to the right of Alex.",
+        "hypothesis": "Alex is to the left of Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Annie. Annie is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of David. David is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Jonathan. Jonathan is to the right of Brian.",
+        "hypothesis": "Brian is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is to the right of Laura. Laura is to the right of Don.",
+        "hypothesis": "Don is to the left of Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is to the right of Heather. Heather is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is to the right of Kate. Kate is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is to the right of Annie. Annie is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is to the right of Anthony. Anthony is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Ruth. Ruth is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is to the right of Lisa. Lisa is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is to the right of Jimmy. Jimmy is to the right of Harriet.",
+        "hypothesis": "Harriet is to the left of Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of Eleanor. Eleanor is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is to the right of Heather. Heather is to the right of Louise.",
+        "hypothesis": "Louise is to the left of Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Howard. Howard is to the right of Tim.",
+        "hypothesis": "Tim is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Joe. Joe is to the right of Chris.",
+        "hypothesis": "Chris is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Jerry. Jerry is to the right of Don.",
+        "hypothesis": "Don is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is to the right of Alex. Alex is to the right of Virginia.",
+        "hypothesis": "Virginia is to the left of Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Nick. Nick is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is to the right of Betty. Betty is to the right of Anthony.",
+        "hypothesis": "Anthony is to the left of Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Deborah. Deborah is to the right of Rachel.",
+        "hypothesis": "Rachel is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Laura. Laura is to the right of Benjamin.",
+        "hypothesis": "Benjamin is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is to the right of Jennifer. Jennifer is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is to the right of Matt. Matt is to the right of Diane.",
+        "hypothesis": "Diane is to the left of Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is to the right of Lauren. Lauren is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Kelly. Kelly is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is to the right of Susan. Susan is to the right of Brian.",
+        "hypothesis": "Brian is to the left of Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Harriet. Harriet is to the right of Patrick.",
+        "hypothesis": "Patrick is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Maria. Maria is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Keith. Keith is to the right of Dan.",
+        "hypothesis": "Dan is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Chris. Chris is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is to the right of Helen. Helen is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is to the right of Roger. Roger is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of Joan. Joan is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is to the right of Kathryn. Kathryn is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is to the right of Elaine. Elaine is to the right of Edward.",
+        "hypothesis": "Edward is to the left of Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is to the right of Bill. Bill is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is to the right of Roy. Roy is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is to the right of Kenneth. Kenneth is to the right of Jean.",
+        "hypothesis": "Jean is to the left of Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Ben. Ben is to the right of Hugh.",
+        "hypothesis": "Hugh is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is to the right of Fred. Fred is to the right of Melissa.",
+        "hypothesis": "Melissa is to the left of Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Charlotte. Charlotte is to the right of Benjamin.",
+        "hypothesis": "Benjamin is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Christine. Christine is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is to the right of Emily. Emily is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Stephen. Stephen is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "George is to the right of Joseph. Joseph is to the right of William.",
+        "hypothesis": "William is to the left of George.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Dorothy. Dorothy is to the right of Stephanie.",
+        "hypothesis": "Stephanie is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is to the right of Jane. Jane is to the right of Dave.",
+        "hypothesis": "Dave is to the left of Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Susan. Susan is to the right of Lawrence.",
+        "hypothesis": "Lawrence is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is to the right of Steven. Steven is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Anna. Anna is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Kevin. Kevin is to the right of Francis.",
+        "hypothesis": "Francis is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is to the right of Katherine. Katherine is to the right of Kathryn.",
+        "hypothesis": "Kathryn is to the left of Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Roy. Roy is to the right of Robin.",
+        "hypothesis": "Robin is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Al. Al is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Jack. Jack is to the right of Julie.",
+        "hypothesis": "Julie is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Angela. Angela is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Rachel. Rachel is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of Elaine. Elaine is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is to the right of Larry. Larry is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Christopher. Christopher is to the right of Gary.",
+        "hypothesis": "Gary is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of William. William is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is to the right of Gary. Gary is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is to the right of Frank. Frank is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is to the right of Roger. Roger is to the right of Donna.",
+        "hypothesis": "Donna is to the left of Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is to the right of Fiona. Fiona is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is to the right of Julie. Julie is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Sue. Sue is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Tim. Tim is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is to the right of Steven. Steven is to the right of Ken.",
+        "hypothesis": "Ken is to the left of Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is to the right of Frank. Frank is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Carolyn. Carolyn is to the right of Harriet.",
+        "hypothesis": "Harriet is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Margaret. Margaret is to the right of Howard.",
+        "hypothesis": "Howard is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Lauren. Lauren is to the right of Richard.",
+        "hypothesis": "Richard is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is to the right of Scott. Scott is to the right of Louise.",
+        "hypothesis": "Louise is to the left of Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is to the right of Judith. Judith is to the right of Keith.",
+        "hypothesis": "Keith is to the left of Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Tim. Tim is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Albert. Albert is to the right of Amy.",
+        "hypothesis": "Amy is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Suzanne. Suzanne is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is to the right of Steven. Steven is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Richard. Richard is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Frances. Frances is to the right of Edith.",
+        "hypothesis": "Edith is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Richard. Richard is to the right of Jay.",
+        "hypothesis": "Jay is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Chris. Chris is to the right of Ryan.",
+        "hypothesis": "Ryan is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is to the right of Dorothy. Dorothy is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Bob. Bob is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Julie. Julie is to the right of Sophie.",
+        "hypothesis": "Sophie is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Diana. Diana is to the right of Adam.",
+        "hypothesis": "Adam is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is to the right of Kate. Kate is to the right of Mary.",
+        "hypothesis": "Mary is to the left of Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is to the right of Don. Don is to the right of Roy.",
+        "hypothesis": "Roy is to the left of Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Benjamin. Benjamin is to the right of Joan.",
+        "hypothesis": "Joan is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "James is to the right of Ron. Ron is to the right of Alice.",
+        "hypothesis": "Alice is to the left of James.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Angela. Angela is to the right of Kathleen.",
+        "hypothesis": "Kathleen is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Arthur. Arthur is to the right of Frances.",
+        "hypothesis": "Frances is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is to the right of Margaret. Margaret is to the right of Carolyn.",
+        "hypothesis": "Carolyn is to the left of Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Anthony. Anthony is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is to the right of Sally. Sally is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is to the right of Mary. Mary is to the right of Kevin.",
+        "hypothesis": "Kevin is to the left of Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Angela. Angela is to the right of Mary.",
+        "hypothesis": "Mary is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Christine. Christine is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Benjamin. Benjamin is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is to the right of Karen. Karen is to the right of Dorothy.",
+        "hypothesis": "Dorothy is to the left of Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Stephanie. Stephanie is to the right of Margaret.",
+        "hypothesis": "Margaret is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Betty. Betty is to the right of Frederick.",
+        "hypothesis": "Frederick is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Ray. Ray is to the right of Steven.",
+        "hypothesis": "Steven is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Al. Al is to the right of Janet.",
+        "hypothesis": "Janet is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is to the right of Kathy. Kathy is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Matt. Matt is to the right of Mark.",
+        "hypothesis": "Mark is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Albert. Albert is to the right of Hugh.",
+        "hypothesis": "Hugh is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is to the right of Victoria. Victoria is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is to the right of Lauren. Lauren is to the right of Sue.",
+        "hypothesis": "Sue is to the left of Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is to the right of Henry. Henry is to the right of Laura.",
+        "hypothesis": "Laura is to the left of Florence.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Stephen. Stephen is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Lawrence. Lawrence is to the right of Judy.",
+        "hypothesis": "Judy is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is to the right of Lisa. Lisa is to the right of Deborah.",
+        "hypothesis": "Deborah is to the left of Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is to the right of Ben. Ben is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is to the right of Jane. Jane is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is to the right of Tim. Tim is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is to the right of Virginia. Virginia is to the right of Emily.",
+        "hypothesis": "Emily is to the left of Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is to the right of Ashley. Ashley is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Linda. Linda is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is to the right of Jim. Jim is to the right of Kevin.",
+        "hypothesis": "Kevin is to the left of Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Louis. Louis is to the right of Colin.",
+        "hypothesis": "Colin is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Bruce. Bruce is to the right of Eleanor.",
+        "hypothesis": "Eleanor is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is to the right of Judy. Judy is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Alan. Alan is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is to the right of Jason. Jason is to the right of Angela.",
+        "hypothesis": "Angela is to the left of Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Jonathan. Jonathan is to the right of Daniel.",
+        "hypothesis": "Daniel is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Harold. Harold is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Alice. Alice is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is to the right of Edwin. Edwin is to the right of Frank.",
+        "hypothesis": "Frank is to the left of Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Joan. Joan is to the right of Nancy.",
+        "hypothesis": "Nancy is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Simon. Simon is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is to the right of William. William is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is to the right of Mark. Mark is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is to the right of Greg. Greg is to the right of Larry.",
+        "hypothesis": "Larry is to the left of Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is to the right of Nicole. Nicole is to the right of Frances.",
+        "hypothesis": "Frances is to the left of Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is to the right of Katie. Katie is to the right of Evelyn.",
+        "hypothesis": "Evelyn is to the left of Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is to the right of Paul. Paul is to the right of Stephanie.",
+        "hypothesis": "Stephanie is to the left of Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is to the right of Bill. Bill is to the right of Julie.",
+        "hypothesis": "Julie is to the left of Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Elaine. Elaine is to the right of Elizabeth.",
+        "hypothesis": "Elizabeth is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Emily. Emily is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is to the right of Stephen. Stephen is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Nicole. Nicole is to the right of Suzanne.",
+        "hypothesis": "Suzanne is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Simon. Simon is to the right of Karen.",
+        "hypothesis": "Karen is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Nicole. Nicole is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Jim. Jim is to the right of Harold.",
+        "hypothesis": "Harold is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is to the right of Anthony. Anthony is to the right of Al.",
+        "hypothesis": "Al is to the left of Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Howard. Howard is to the right of Laura.",
+        "hypothesis": "Laura is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Edith. Edith is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Johnny. Johnny is to the right of Robert.",
+        "hypothesis": "Robert is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is to the right of Keith. Keith is to the right of William.",
+        "hypothesis": "William is to the left of Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is to the right of Mike. Mike is to the right of Joseph.",
+        "hypothesis": "Joseph is to the left of Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "George is to the right of Lynn. Lynn is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of George.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is to the right of Nancy. Nancy is to the right of Barbara.",
+        "hypothesis": "Barbara is to the left of Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Jennifer. Jennifer is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Fiona. Fiona is to the right of Mark.",
+        "hypothesis": "Mark is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is to the right of Scott. Scott is to the right of Sara.",
+        "hypothesis": "Sara is to the left of Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is to the right of Leslie. Leslie is to the right of Richard.",
+        "hypothesis": "Richard is to the left of Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Bobby. Bobby is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is to the right of Richard. Richard is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of George. George is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is to the right of Kelly. Kelly is to the right of George.",
+        "hypothesis": "George is to the left of Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is to the right of Andrea. Andrea is to the right of Sophie.",
+        "hypothesis": "Sophie is to the left of Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Katie. Katie is to the right of Edward.",
+        "hypothesis": "Edward is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is to the right of Judy. Judy is to the right of Sara.",
+        "hypothesis": "Sara is to the left of Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Elaine. Elaine is to the right of Caroline.",
+        "hypothesis": "Caroline is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is to the right of Jay. Jay is to the right of Greg.",
+        "hypothesis": "Greg is to the left of Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is to the right of Howard. Howard is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Alice. Alice is to the right of Diane.",
+        "hypothesis": "Diane is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is to the right of Stephanie. Stephanie is to the right of Judy.",
+        "hypothesis": "Judy is to the left of Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is to the right of Nicole. Nicole is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is to the right of Jennifer. Jennifer is to the right of Elaine.",
+        "hypothesis": "Elaine is to the left of Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Bob. Bob is to the right of Jerry.",
+        "hypothesis": "Jerry is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of Matt. Matt is to the right of Thomas.",
+        "hypothesis": "Thomas is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is to the right of Samuel. Samuel is to the right of Keith.",
+        "hypothesis": "Keith is to the left of Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is to the right of Larry. Larry is to the right of Sara.",
+        "hypothesis": "Sara is to the left of Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Bob. Bob is to the right of Jason.",
+        "hypothesis": "Jason is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Emily. Emily is to the right of Ashley.",
+        "hypothesis": "Ashley is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is to the right of Jeff. Jeff is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Patricia. Patricia is to the right of Kathleen.",
+        "hypothesis": "Kathleen is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Karen. Karen is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of Brian. Brian is to the right of Robin.",
+        "hypothesis": "Robin is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is to the right of Suzanne. Suzanne is to the right of Paul.",
+        "hypothesis": "Paul is to the left of Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of Fred. Fred is to the right of Mark.",
+        "hypothesis": "Mark is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is to the right of Edward. Edward is to the right of Paul.",
+        "hypothesis": "Paul is to the left of Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is to the right of Nancy. Nancy is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is to the right of Margaret. Margaret is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is to the right of Elizabeth. Elizabeth is to the right of Kevin.",
+        "hypothesis": "Kevin is to the left of Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Alice. Alice is to the right of Florence.",
+        "hypothesis": "Florence is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Jimmy. Jimmy is to the right of Rose.",
+        "hypothesis": "Rose is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is to the right of Carol. Carol is to the right of Emma.",
+        "hypothesis": "Emma is to the left of Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is to the right of Bobby. Bobby is to the right of Charlotte.",
+        "hypothesis": "Charlotte is to the left of Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Grace. Grace is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Paul. Paul is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is to the right of Kate. Kate is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Pamela. Pamela is to the right of Fiona.",
+        "hypothesis": "Fiona is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Rose. Rose is to the right of Pamela.",
+        "hypothesis": "Pamela is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is to the right of Rose. Rose is to the right of Stephanie.",
+        "hypothesis": "Stephanie is to the left of Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is to the right of Billy. Billy is to the right of Julie.",
+        "hypothesis": "Julie is to the left of Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is to the right of Jason. Jason is to the right of Jean.",
+        "hypothesis": "Jean is to the left of Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is to the right of Ralph. Ralph is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is to the right of Lisa. Lisa is to the right of Steven.",
+        "hypothesis": "Steven is to the left of Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is to the right of Harriet. Harriet is to the right of Dorothy.",
+        "hypothesis": "Dorothy is to the left of Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is to the right of Carol. Carol is to the right of Dorothy.",
+        "hypothesis": "Dorothy is to the left of Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is to the right of Louis. Louis is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Ken. Ken is to the right of Frances.",
+        "hypothesis": "Frances is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is to the right of Walter. Walter is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is to the right of Johnny. Johnny is to the right of Deborah.",
+        "hypothesis": "Deborah is to the left of Martha.",
+        "label": 0
+    },
+    {
+        "premise": "David is to the right of Fiona. Fiona is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of David.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is to the right of Simon. Simon is to the right of Linda.",
+        "hypothesis": "Linda is to the left of Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is to the right of Christine. Christine is to the right of Rachel.",
+        "hypothesis": "Rachel is to the left of Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is to the right of Ray. Ray is to the right of Katie.",
+        "hypothesis": "Katie is to the left of Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is to the right of Judy. Judy is to the right of Florence.",
+        "hypothesis": "Florence is to the left of Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Thomas. Thomas is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is to the right of Harry. Harry is to the right of Charlie.",
+        "hypothesis": "Charlie is to the left of Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Rachel. Rachel is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is to the right of James. James is to the right of Peter.",
+        "hypothesis": "Peter is to the left of Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Tim. Tim is to the right of Kathleen.",
+        "hypothesis": "Kathleen is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is to the right of Julia. Julia is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is to the right of Alan. Alan is to the right of Jean.",
+        "hypothesis": "Jean is to the left of Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Helen. Helen is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Jessica. Jessica is to the right of Greg.",
+        "hypothesis": "Greg is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Alan. Alan is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is to the right of Frances. Frances is to the right of Christine.",
+        "hypothesis": "Christine is to the left of Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is to the right of Albert. Albert is to the right of Eric.",
+        "hypothesis": "Eric is to the left of Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Rachel. Rachel is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Louis. Louis is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is to the right of Roy. Roy is to the right of Matthew.",
+        "hypothesis": "Matthew is to the left of Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Ralph. Ralph is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Susan. Susan is to the right of Wendy.",
+        "hypothesis": "Wendy is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of Samuel. Samuel is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is to the right of Kate. Kate is to the right of Nicole.",
+        "hypothesis": "Nicole is to the left of Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is to the right of Mike. Mike is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is to the right of Martha. Martha is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is to the right of Fiona. Fiona is to the right of Dave.",
+        "hypothesis": "Dave is to the left of Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Carol. Carol is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is to the right of Edward. Edward is to the right of Paul.",
+        "hypothesis": "Paul is to the left of Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Kathleen. Kathleen is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is to the right of Dave. Dave is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "David is to the right of Robin. Robin is to the right of George.",
+        "hypothesis": "George is to the left of David.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is to the right of Karen. Karen is to the right of Joseph.",
+        "hypothesis": "Joseph is to the left of Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Julie. Julie is to the right of Barbara.",
+        "hypothesis": "Barbara is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is to the right of Alice. Alice is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Donald. Donald is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is to the right of Jack. Jack is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Catherine. Catherine is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Frank. Frank is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is to the right of Jessica. Jessica is to the right of Tom.",
+        "hypothesis": "Tom is to the left of Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is to the right of Ron. Ron is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Mary.",
+        "label": 0
+    },
+    {
+        "premise": "James is to the right of Kathryn. Kathryn is to the right of Bruce.",
+        "hypothesis": "Bruce is to the left of James.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is to the right of Katherine. Katherine is to the right of Nick.",
+        "hypothesis": "Nick is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Victoria. Victoria is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Stephanie. Stephanie is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Linda. Linda is to the right of Rebecca.",
+        "hypothesis": "Rebecca is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is to the right of Charlie. Charlie is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Donald. Donald is to the right of Martha.",
+        "hypothesis": "Martha is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is to the right of Steven. Steven is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is to the right of Bobby. Bobby is to the right of Caroline.",
+        "hypothesis": "Caroline is to the left of Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is to the right of Martin. Martin is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is to the right of Paul. Paul is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is to the right of Philip. Philip is to the right of Alexandra.",
+        "hypothesis": "Alexandra is to the left of Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is to the right of Steve. Steve is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is to the right of Anne. Anne is to the right of Jean.",
+        "hypothesis": "Jean is to the left of Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is to the right of Stephanie. Stephanie is to the right of Karen.",
+        "hypothesis": "Karen is to the left of Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Janet. Janet is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of Martha. Martha is to the right of Billy.",
+        "hypothesis": "Billy is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Nancy. Nancy is to the right of Alexander.",
+        "hypothesis": "Alexander is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Joe. Joe is to the right of Margaret.",
+        "hypothesis": "Margaret is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is to the right of Peter. Peter is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Don is to the right of Karen. Karen is to the right of Cynthia.",
+        "hypothesis": "Cynthia is to the left of Don.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Mary. Mary is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is to the right of Dorothy. Dorothy is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is to the right of Jill. Jill is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is to the right of Stephen. Stephen is to the right of Donald.",
+        "hypothesis": "Donald is to the left of Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Heather. Heather is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is to the right of Nicole. Nicole is to the right of Andrew.",
+        "hypothesis": "Andrew is to the left of Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is to the right of Michelle. Michelle is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Laura. Laura is to the right of Florence.",
+        "hypothesis": "Florence is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "William is to the right of George. George is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of William.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is to the right of Edith. Edith is to the right of Ed.",
+        "hypothesis": "Ed is to the left of Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Robert. Robert is to the right of Grace.",
+        "hypothesis": "Grace is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is to the right of Bobby. Bobby is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Dave. Dave is to the right of Carl.",
+        "hypothesis": "Carl is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is to the right of Harry. Harry is to the right of Harold.",
+        "hypothesis": "Harold is to the left of Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is to the right of Charlotte. Charlotte is to the right of Sam.",
+        "hypothesis": "Sam is to the left of Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Jill. Jill is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of John. John is to the right of Ben.",
+        "hypothesis": "Ben is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is to the right of Robert. Robert is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is to the right of Elizabeth. Elizabeth is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is to the right of Leslie. Leslie is to the right of Diane.",
+        "hypothesis": "Diane is to the left of Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Donald. Donald is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is to the right of Roger. Roger is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is to the right of Billy. Billy is to the right of Patricia.",
+        "hypothesis": "Patricia is to the left of Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Bill. Bill is to the right of Tim.",
+        "hypothesis": "Tim is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is to the right of Katherine. Katherine is to the right of Jim.",
+        "hypothesis": "Jim is to the left of Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is to the right of Amy. Amy is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of William. William is to the right of Paul.",
+        "hypothesis": "Paul is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is to the right of Rebecca. Rebecca is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is to the right of Ruth. Ruth is to the right of Sue.",
+        "hypothesis": "Sue is to the left of Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Al. Al is to the right of Florence.",
+        "hypothesis": "Florence is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Donna. Donna is to the right of Robin.",
+        "hypothesis": "Robin is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Donald. Donald is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is to the right of Carl. Carl is to the right of Joan.",
+        "hypothesis": "Joan is to the left of Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Heather. Heather is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Marilyn. Marilyn is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is to the right of Paul. Paul is to the right of Katherine.",
+        "hypothesis": "Katherine is to the left of Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Ben. Ben is to the right of Ellen.",
+        "hypothesis": "Ellen is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Al is to the right of Kathleen. Kathleen is to the right of Benjamin.",
+        "hypothesis": "Benjamin is to the left of Al.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Sally. Sally is to the right of Kim.",
+        "hypothesis": "Kim is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is to the right of Judy. Judy is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is to the right of Benjamin. Benjamin is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Tim. Tim is to the right of Ed.",
+        "hypothesis": "Ed is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is to the right of Julie. Julie is to the right of Virginia.",
+        "hypothesis": "Virginia is to the left of Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Colin. Colin is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Walter. Walter is to the right of Michael.",
+        "hypothesis": "Michael is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is to the right of Judith. Judith is to the right of Michael.",
+        "hypothesis": "Michael is to the left of Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is to the right of Cynthia. Cynthia is to the right of Ann.",
+        "hypothesis": "Ann is to the left of Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Roy. Roy is to the right of Maria.",
+        "hypothesis": "Maria is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Michael. Michael is to the right of Amy.",
+        "hypothesis": "Amy is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is to the right of Amanda. Amanda is to the right of Susan.",
+        "hypothesis": "Susan is to the left of Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is to the right of Jeff. Jeff is to the right of Alison.",
+        "hypothesis": "Alison is to the left of Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is to the right of Sophie. Sophie is to the right of Edward.",
+        "hypothesis": "Edward is to the left of Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Bill. Bill is to the right of Andrea.",
+        "hypothesis": "Andrea is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is to the right of Judy. Judy is to the right of Harry.",
+        "hypothesis": "Harry is to the left of Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is to the right of Amanda. Amanda is to the right of Jane.",
+        "hypothesis": "Jane is to the left of Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is to the right of Kim. Kim is to the right of Roger.",
+        "hypothesis": "Roger is to the left of Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is to the right of Alexander. Alexander is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is to the right of Louis. Louis is to the right of Ashley.",
+        "hypothesis": "Ashley is to the left of Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is to the right of Charlotte. Charlotte is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Julia. Julia is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is to the right of Karen. Karen is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of John. John is to the right of Kelly.",
+        "hypothesis": "Kelly is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is to the right of Katherine. Katherine is to the right of Samuel.",
+        "hypothesis": "Samuel is to the left of Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is to the right of Billy. Billy is to the right of Patrick.",
+        "hypothesis": "Patrick is to the left of Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is to the right of Donna. Donna is to the right of Charles.",
+        "hypothesis": "Charles is to the left of Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is to the right of Jason. Jason is to the right of Mike.",
+        "hypothesis": "Mike is to the left of Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Roy. Roy is to the right of Lisa.",
+        "hypothesis": "Lisa is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is to the right of William. William is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is to the right of Francis. Francis is to the right of Frederick.",
+        "hypothesis": "Frederick is to the left of Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is to the right of Keith. Keith is to the right of Joseph.",
+        "hypothesis": "Joseph is to the left of Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is to the right of Kim. Kim is to the right of Kathy.",
+        "hypothesis": "Kathy is to the left of Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is to the right of Sally. Sally is to the right of Jack.",
+        "hypothesis": "Jack is to the left of Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Eleanor. Eleanor is to the right of Laura.",
+        "hypothesis": "Laura is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is to the right of Jay. Jay is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Martha. Martha is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is to the right of William. William is to the right of Patricia.",
+        "hypothesis": "Patricia is to the left of Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is to the right of Karen. Karen is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is to the right of Robin. Robin is to the right of Ben.",
+        "hypothesis": "Ben is to the left of Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is to the right of Mike. Mike is to the right of Carl.",
+        "hypothesis": "Carl is to the left of Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is to the right of Emma. Emma is to the right of Lawrence.",
+        "hypothesis": "Lawrence is to the left of Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is to the right of Roy. Roy is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is to the right of Nicole. Nicole is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is to the right of Marilyn. Marilyn is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is to the right of Jessica. Jessica is to the right of Bob.",
+        "hypothesis": "Bob is to the left of Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is to the right of Billy. Billy is to the right of Henry.",
+        "hypothesis": "Henry is to the left of Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is to the right of Rachel. Rachel is to the right of Roger.",
+        "hypothesis": "Roger is to the left of Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is to the right of Anthony. Anthony is to the right of Arthur.",
+        "hypothesis": "Arthur is to the left of Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is to the right of Francis. Francis is to the right of Dick.",
+        "hypothesis": "Dick is to the left of Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is to the right of Sarah. Sarah is to the right of William.",
+        "hypothesis": "William is to the left of Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is to the right of Alex. Alex is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is to the right of Jerry. Jerry is to the right of Lucy.",
+        "hypothesis": "Lucy is to the left of Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is to the right of Katie. Katie is to the right of Fred.",
+        "hypothesis": "Fred is to the left of Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is to the right of Keith. Keith is to the right of Greg.",
+        "hypothesis": "Greg is to the left of Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Alexandra. Alexandra is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is to the right of Sophie. Sophie is to the right of Tony.",
+        "hypothesis": "Tony is to the left of Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is to the right of Edwin. Edwin is to the right of Edith.",
+        "hypothesis": "Edith is to the left of Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is to the right of Kate. Kate is to the right of Charles.",
+        "hypothesis": "Charles is to the left of Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is to the right of Bob. Bob is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is to the right of Eleanor. Eleanor is to the right of Bill.",
+        "hypothesis": "Bill is to the left of Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is to the right of Roy. Roy is to the right of Albert.",
+        "hypothesis": "Albert is to the left of Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Susan. Susan is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is to the right of Catherine. Catherine is to the right of David.",
+        "hypothesis": "David is to the left of Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is to the right of Katie. Katie is to the right of Ron.",
+        "hypothesis": "Ron is to the left of Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is to the right of Stephen. Stephen is to the right of Mary.",
+        "hypothesis": "Mary is to the left of Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is to the right of Joan. Joan is to the right of Jeff.",
+        "hypothesis": "Jeff is to the left of Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is to the right of Adam. Adam is to the right of Scott.",
+        "hypothesis": "Scott is to the left of Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is to the right of Brian. Brian is to the right of Amanda.",
+        "hypothesis": "Amanda is to the left of Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is to the right of Alexandra. Alexandra is to the right of Steve.",
+        "hypothesis": "Steve is to the left of Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Ruth. Ruth is to the right of Peter.",
+        "hypothesis": "Peter is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is to the right of Katherine. Katherine is to the right of Jane.",
+        "hypothesis": "Jane is to the left of Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is to the right of Alice. Alice is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is to the right of Lawrence. Lawrence is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is to the right of Linda. Linda is to the right of Jennifer.",
+        "hypothesis": "Jennifer is to the left of Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is to the right of Patricia. Patricia is to the right of Ken.",
+        "hypothesis": "Ken is to the left of Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Judy. Judy is to the right of Daniel.",
+        "hypothesis": "Daniel is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is to the right of Judith. Judith is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is to the right of Albert. Albert is to the right of Ian.",
+        "hypothesis": "Ian is to the left of Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is to the right of Eric. Eric is to the right of Kenneth.",
+        "hypothesis": "Kenneth is to the left of Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is to the right of Daniel. Daniel is to the right of Mary.",
+        "hypothesis": "Mary is to the left of Jay.",
+        "label": 0
+    },
+    {
+        "premise": "John is to the right of Alice. Alice is to the right of Johnny.",
+        "hypothesis": "Johnny is to the left of John.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is to the right of Martha. Martha is to the right of Jonathan.",
+        "hypothesis": "Jonathan is to the left of Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is to the right of Suzanne. Suzanne is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is to the right of Howard. Howard is to the right of Alfred.",
+        "hypothesis": "Alfred is to the left of Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is to the right of Jason. Jason is to the right of Louis.",
+        "hypothesis": "Louis is to the left of Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is to the right of Ellen. Ellen is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Suzanne. Suzanne is to the right of Judy.",
+        "hypothesis": "Judy is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Michelle. Michelle is to the right of Wendy.",
+        "hypothesis": "Wendy is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is to the right of Colin. Colin is to the right of Sally.",
+        "hypothesis": "Sally is to the left of Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is to the right of Richard. Richard is to the right of Simon.",
+        "hypothesis": "Simon is to the left of Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is to the right of Richard. Richard is to the right of Ed.",
+        "hypothesis": "Ed is to the left of Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is to the right of Tony. Tony is to the right of Emily.",
+        "hypothesis": "Emily is to the left of Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is to the right of Eric. Eric is to the right of Sandra.",
+        "hypothesis": "Sandra is to the left of Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is to the right of Ray. Ray is to the right of Rose.",
+        "hypothesis": "Rose is to the left of Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is to the right of John. John is to the right of Stephen.",
+        "hypothesis": "Stephen is to the left of Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is to the right of Dick. Dick is to the right of Jennifer.",
+        "hypothesis": "Jennifer is to the left of Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is to the right of Jean. Jean is to the right of William.",
+        "hypothesis": "William is to the left of Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is to the right of Ellen. Ellen is to the right of Sue.",
+        "hypothesis": "Sue is to the left of Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is to the right of Evelyn. Evelyn is to the right of Kathryn.",
+        "hypothesis": "Kathryn is to the left of Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "George is to the right of Diana. Diana is to the right of Jimmy.",
+        "hypothesis": "Jimmy is to the left of George.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Jimmy. Jimmy is to the right of Annie.",
+        "hypothesis": "Annie is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is to the right of Albert. Albert is to the right of Matthew.",
+        "hypothesis": "Matthew is to the left of Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is to the right of Kathryn. Kathryn is to the right of Frances.",
+        "hypothesis": "Frances is to the left of Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is to the right of Charlie. Charlie is to the right of William.",
+        "hypothesis": "William is to the left of Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is to the right of Dan. Dan is to the right of Carl.",
+        "hypothesis": "Carl is to the left of Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is to the right of Joe. Joe is to the right of Martin.",
+        "hypothesis": "Martin is to the left of Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of Jennifer. Jennifer is to the right of Helen.",
+        "hypothesis": "Helen is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is to the right of Pamela. Pamela is to the right of Lauren.",
+        "hypothesis": "Lauren is to the left of Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is to the right of Benjamin. Benjamin is to the right of Sharon.",
+        "hypothesis": "Sharon is to the left of Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is to the right of Martin. Martin is to the right of Victoria.",
+        "hypothesis": "Victoria is to the left of Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is to the right of Carolyn. Carolyn is to the right of Sarah.",
+        "hypothesis": "Sarah is to the left of Jane.",
+        "label": 0
+    },
+    {
+        "premise": "George is to the right of Marilyn. Marilyn is to the right of Bobby.",
+        "hypothesis": "Bobby is to the left of George.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is to the right of Stephanie. Stephanie is to the right of Cynthia.",
+        "hypothesis": "Cynthia is to the left of Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is to the right of Wendy. Wendy is to the right of Karen.",
+        "hypothesis": "Karen is to the left of Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is to the right of Larry. Larry is to the right of Deborah.",
+        "hypothesis": "Deborah is to the left of Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is to the right of Mike. Mike is to the right of Diana.",
+        "hypothesis": "Diana is to the left of Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is to the right of Thomas. Thomas is to the right of Christopher.",
+        "hypothesis": "Christopher is to the left of Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is to the right of Florence. Florence is to the right of Nancy.",
+        "hypothesis": "Nancy is to the left of Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is to the right of Amanda. Amanda is to the right of Paul.",
+        "hypothesis": "Paul is to the left of Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Diana. Diana is to the right of Roger.",
+        "hypothesis": "Roger is to the left of Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is to the right of Tim. Tim is to the right of Lucy.",
+        "hypothesis": "Lucy is to the left of Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is to the right of Alfred. Alfred is to the right of Nancy.",
+        "hypothesis": "Nancy is to the left of Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is to the right of Harry. Harry is to the right of Steven.",
+        "hypothesis": "Steven is to the left of Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is to the right of Evelyn. Evelyn is to the right of Lynn.",
+        "hypothesis": "Lynn is to the left of Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is to the right of Lisa. Lisa is to the right of Charlotte.",
+        "hypothesis": "Charlotte is to the left of Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is to the right of Dan. Dan is to the right of Julia.",
+        "hypothesis": "Julia is to the left of Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is to the right of Dorothy. Dorothy is to the right of Katie.",
+        "hypothesis": "Katie is to the left of Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is to the right of Francis. Francis is to the right of Michelle.",
+        "hypothesis": "Michelle is to the left of Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is to the right of Jeff. Jeff is to the right of Jessica.",
+        "hypothesis": "Jessica is to the left of Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is to the right of Hugh. Hugh is to the right of Marilyn.",
+        "hypothesis": "Marilyn is to the left of Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is to the right of Emily. Emily is to the right of Anna.",
+        "hypothesis": "Anna is to the left of Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is to the right of Deborah. Deborah is to the right of Bruce.",
+        "hypothesis": "Bruce is to the left of Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is to the right of Andrea. Andrea is to the right of Ruth.",
+        "hypothesis": "Ruth is to the left of Philip.",
+        "label": 0
+    }
+]

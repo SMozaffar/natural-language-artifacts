@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Anna was born in 1996 and Michael was born in 1990.",
+        "hypothesis": "Michael was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline was born in 2009 and Cynthia was born in 1998.",
+        "hypothesis": "Cynthia was born earlier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Martin was born in 2012 and Robin was born in 1998.",
+        "hypothesis": "Robin was born earlier than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth was born in 2004 and Linda was born in 1993.",
+        "hypothesis": "Linda was born earlier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff was born in 2011 and Martin was born in 1998.",
+        "hypothesis": "Martin was born earlier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer was born in 1993 and Bob was born in 1991.",
+        "hypothesis": "Bob was born earlier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Ben was born in 1991 and Cynthia was born in 1990.",
+        "hypothesis": "Cynthia was born earlier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 2013 and Christopher was born in 2005.",
+        "hypothesis": "Christopher was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 2005 and Diane was born in 1991.",
+        "hypothesis": "Diane was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 2008 and Kathleen was born in 1999.",
+        "hypothesis": "Kathleen was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia was born in 2006 and Francis was born in 1995.",
+        "hypothesis": "Francis was born earlier than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2004 and Christopher was born in 1992.",
+        "hypothesis": "Christopher was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 1999 and Suzanne was born in 1993.",
+        "hypothesis": "Suzanne was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 2014 and Suzanne was born in 2012.",
+        "hypothesis": "Suzanne was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 1992 and Dave was born in 1990.",
+        "hypothesis": "Dave was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 2001 and Gary was born in 1999.",
+        "hypothesis": "Gary was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn was born in 2019 and Kathy was born in 1997.",
+        "hypothesis": "Kathy was born earlier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 2009 and Jason was born in 2002.",
+        "hypothesis": "Jason was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 1996 and Peter was born in 1990.",
+        "hypothesis": "Peter was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Sally was born in 2012 and Alexandra was born in 1997.",
+        "hypothesis": "Alexandra was born earlier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 2000 and Harriet was born in 1993.",
+        "hypothesis": "Harriet was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor was born in 1991 and Ellen was born in 1990.",
+        "hypothesis": "Ellen was born earlier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia was born in 2012 and Donna was born in 1994.",
+        "hypothesis": "Donna was born earlier than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Betty was born in 2007 and Johnny was born in 1996.",
+        "hypothesis": "Johnny was born earlier than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Albert was born in 2008 and Matt was born in 2006.",
+        "hypothesis": "Matt was born earlier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Judy was born in 2002 and Alice was born in 1990.",
+        "hypothesis": "Alice was born earlier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2015 and Jennifer was born in 1991.",
+        "hypothesis": "Jennifer was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Jim was born in 2001 and Betty was born in 1998.",
+        "hypothesis": "Betty was born earlier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Edith was born in 2003 and Margaret was born in 1998.",
+        "hypothesis": "Margaret was born earlier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Colin was born in 2003 and Fiona was born in 2002.",
+        "hypothesis": "Fiona was born earlier than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 2003 and Christine was born in 1998.",
+        "hypothesis": "Christine was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2004 and Sam was born in 1996.",
+        "hypothesis": "Sam was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 2009 and Sally was born in 1991.",
+        "hypothesis": "Sally was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria was born in 2002 and Patrick was born in 1997.",
+        "hypothesis": "Patrick was born earlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2005 and Kevin was born in 1993.",
+        "hypothesis": "Kevin was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Jill was born in 2007 and Don was born in 1998.",
+        "hypothesis": "Don was born earlier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle was born in 2016 and Elizabeth was born in 1990.",
+        "hypothesis": "Elizabeth was born earlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2007 and Ed was born in 1994.",
+        "hypothesis": "Ed was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 1996 and Fiona was born in 1992.",
+        "hypothesis": "Fiona was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 2020 and Cynthia was born in 2001.",
+        "hypothesis": "Cynthia was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa was born in 1995 and Jay was born in 1992.",
+        "hypothesis": "Jay was born earlier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Colin was born in 2016 and Pamela was born in 1992.",
+        "hypothesis": "Pamela was born earlier than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2015 and Lucy was born in 2013.",
+        "hypothesis": "Lucy was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2017 and Anna was born in 2000.",
+        "hypothesis": "Anna was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Emma was born in 2017 and Howard was born in 2007.",
+        "hypothesis": "Howard was born earlier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn was born in 2005 and Roger was born in 1991.",
+        "hypothesis": "Roger was born earlier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 2000 and Nicole was born in 1995.",
+        "hypothesis": "Nicole was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 1997 and Sue was born in 1995.",
+        "hypothesis": "Sue was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy was born in 2014 and Charlie was born in 1999.",
+        "hypothesis": "Charlie was born earlier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 1993 and Nick was born in 1990.",
+        "hypothesis": "Nick was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Simon was born in 2004 and Samuel was born in 1994.",
+        "hypothesis": "Samuel was born earlier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2009 and Sophie was born in 2003.",
+        "hypothesis": "Sophie was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2009 and Simon was born in 2005.",
+        "hypothesis": "Simon was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine was born in 2017 and Kathy was born in 1995.",
+        "hypothesis": "Kathy was born earlier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 1997 and Karen was born in 1992.",
+        "hypothesis": "Karen was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2017 and Sandra was born in 2001.",
+        "hypothesis": "Sandra was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 2013 and Ann was born in 1994.",
+        "hypothesis": "Ann was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa was born in 2013 and Harold was born in 1993.",
+        "hypothesis": "Harold was born earlier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Frank was born in 2016 and Elizabeth was born in 1992.",
+        "hypothesis": "Elizabeth was born earlier than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2012 and Jessica was born in 1993.",
+        "hypothesis": "Jessica was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia was born in 2020 and Sarah was born in 1999.",
+        "hypothesis": "Sarah was born earlier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 2019 and Nancy was born in 1998.",
+        "hypothesis": "Nancy was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Grace was born in 2001 and Fred was born in 1993.",
+        "hypothesis": "Fred was born earlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "George was born in 2009 and Andrea was born in 1993.",
+        "hypothesis": "Andrea was born earlier than George.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 1997 and Albert was born in 1993.",
+        "hypothesis": "Albert was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Betty was born in 2007 and Diana was born in 2001.",
+        "hypothesis": "Diana was born earlier than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2013 and Charles was born in 2005.",
+        "hypothesis": "Charles was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Mary was born in 2000 and Robin was born in 1992.",
+        "hypothesis": "Robin was born earlier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Steve was born in 2019 and Tony was born in 2011.",
+        "hypothesis": "Tony was born earlier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 1999 and Fiona was born in 1995.",
+        "hypothesis": "Fiona was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 2020 and Alex was born in 1993.",
+        "hypothesis": "Alex was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2001 and Sophie was born in 1995.",
+        "hypothesis": "Sophie was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 2003 and Harriet was born in 2002.",
+        "hypothesis": "Harriet was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2001 and Bobby was born in 1998.",
+        "hypothesis": "Bobby was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Donald was born in 1996 and Virginia was born in 1991.",
+        "hypothesis": "Virginia was born earlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2010 and Stephanie was born in 2009.",
+        "hypothesis": "Stephanie was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Chris was born in 1995 and Jimmy was born in 1990.",
+        "hypothesis": "Jimmy was born earlier than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 1996 and Maria was born in 1995.",
+        "hypothesis": "Maria was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Dave was born in 2002 and Julia was born in 1997.",
+        "hypothesis": "Julia was born earlier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 1999 and Linda was born in 1994.",
+        "hypothesis": "Linda was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2008 and Sophie was born in 1990.",
+        "hypothesis": "Sophie was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2017 and Mary was born in 2012.",
+        "hypothesis": "Mary was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2011 and Jimmy was born in 2002.",
+        "hypothesis": "Jimmy was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "William was born in 2015 and Edith was born in 2005.",
+        "hypothesis": "Edith was born earlier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Michael was born in 2008 and Chris was born in 1999.",
+        "hypothesis": "Chris was born earlier than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 2019 and Sue was born in 2017.",
+        "hypothesis": "Sue was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Nick was born in 1995 and Julie was born in 1993.",
+        "hypothesis": "Julie was born earlier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 2016 and Jay was born in 2000.",
+        "hypothesis": "Jay was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 2000 and Eric was born in 1990.",
+        "hypothesis": "Eric was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 2007 and Steve was born in 2001.",
+        "hypothesis": "Steve was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2015 and Mike was born in 1994.",
+        "hypothesis": "Mike was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 2019 and Charlie was born in 2006.",
+        "hypothesis": "Charlie was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley was born in 1991 and Suzanne was born in 1990.",
+        "hypothesis": "Suzanne was born earlier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie was born in 2000 and Ellen was born in 1993.",
+        "hypothesis": "Ellen was born earlier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Mary was born in 2005 and Amy was born in 1990.",
+        "hypothesis": "Amy was born earlier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 2011 and Amanda was born in 1992.",
+        "hypothesis": "Amanda was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2016 and Helen was born in 2008.",
+        "hypothesis": "Helen was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 2018 and Jane was born in 2010.",
+        "hypothesis": "Jane was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 2008 and Kate was born in 2000.",
+        "hypothesis": "Kate was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Matt was born in 2001 and Leslie was born in 1995.",
+        "hypothesis": "Leslie was born earlier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth was born in 2004 and Michelle was born in 1998.",
+        "hypothesis": "Michelle was born earlier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 1994 and Ron was born in 1993.",
+        "hypothesis": "Ron was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 1997 and Margaret was born in 1993.",
+        "hypothesis": "Margaret was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Howard was born in 2020 and Victoria was born in 1990.",
+        "hypothesis": "Victoria was born earlier than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 2003 and Jill was born in 1996.",
+        "hypothesis": "Jill was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Jason was born in 1997 and Ann was born in 1995.",
+        "hypothesis": "Ann was born earlier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 2015 and Hugh was born in 2000.",
+        "hypothesis": "Hugh was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 1991 and Chris was born in 1990.",
+        "hypothesis": "Chris was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Karen was born in 2000 and Arthur was born in 1995.",
+        "hypothesis": "Arthur was born earlier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 2010 and Frances was born in 2009.",
+        "hypothesis": "Frances was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Judith was born in 2012 and Ryan was born in 1993.",
+        "hypothesis": "Ryan was born earlier than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth was born in 1992 and Michelle was born in 1991.",
+        "hypothesis": "Michelle was born earlier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 1998 and Colin was born in 1990.",
+        "hypothesis": "Colin was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 1997 and Keith was born in 1992.",
+        "hypothesis": "Keith was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 1993 and Louise was born in 1991.",
+        "hypothesis": "Louise was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2012 and Jeff was born in 2006.",
+        "hypothesis": "Jeff was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 1995 and Peter was born in 1994.",
+        "hypothesis": "Peter was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2012 and Linda was born in 2002.",
+        "hypothesis": "Linda was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 1993 and Alan was born in 1990.",
+        "hypothesis": "Alan was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 2004 and Stephanie was born in 1995.",
+        "hypothesis": "Stephanie was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2020 and Grace was born in 1999.",
+        "hypothesis": "Grace was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff was born in 2006 and Patrick was born in 1990.",
+        "hypothesis": "Patrick was born earlier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 1997 and Andrea was born in 1996.",
+        "hypothesis": "Andrea was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 1995 and Anna was born in 1993.",
+        "hypothesis": "Anna was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 2008 and Kevin was born in 1992.",
+        "hypothesis": "Kevin was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Scott was born in 2019 and Sally was born in 2006.",
+        "hypothesis": "Sally was born earlier than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 1991 and Greg was born in 1990.",
+        "hypothesis": "Greg was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 2015 and Emily was born in 2006.",
+        "hypothesis": "Emily was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle was born in 2007 and Paul was born in 2000.",
+        "hypothesis": "Paul was born earlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2020 and William was born in 2014.",
+        "hypothesis": "William was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia was born in 1999 and Ann was born in 1995.",
+        "hypothesis": "Ann was born earlier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2006 and Ryan was born in 1999.",
+        "hypothesis": "Ryan was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Chris was born in 1998 and Scott was born in 1990.",
+        "hypothesis": "Scott was born earlier than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 1995 and James was born in 1994.",
+        "hypothesis": "James was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 2002 and Alexandra was born in 1991.",
+        "hypothesis": "Alexandra was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2000 and Lauren was born in 1997.",
+        "hypothesis": "Lauren was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen was born in 2001 and Laura was born in 1997.",
+        "hypothesis": "Laura was born earlier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Ken was born in 2009 and Ian was born in 2005.",
+        "hypothesis": "Ian was born earlier than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 2008 and Brian was born in 2004.",
+        "hypothesis": "Brian was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 1997 and Louise was born in 1995.",
+        "hypothesis": "Louise was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Alice was born in 1994 and Kathy was born in 1991.",
+        "hypothesis": "Kathy was born earlier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle was born in 2008 and Elaine was born in 2007.",
+        "hypothesis": "Elaine was born earlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 1995 and Mike was born in 1993.",
+        "hypothesis": "Mike was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 2013 and Alice was born in 1997.",
+        "hypothesis": "Alice was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Sara was born in 2007 and Julia was born in 1994.",
+        "hypothesis": "Julia was born earlier than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Greg was born in 2017 and Julie was born in 1992.",
+        "hypothesis": "Julie was born earlier than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 1996 and Donna was born in 1995.",
+        "hypothesis": "Donna was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole was born in 1998 and Andrew was born in 1992.",
+        "hypothesis": "Andrew was born earlier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Steve was born in 1994 and Joan was born in 1990.",
+        "hypothesis": "Joan was born earlier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 2010 and Deborah was born in 2004.",
+        "hypothesis": "Deborah was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Philip was born in 2000 and Harold was born in 1999.",
+        "hypothesis": "Harold was born earlier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline was born in 2013 and Kim was born in 2012.",
+        "hypothesis": "Kim was born earlier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 1997 and Karen was born in 1990.",
+        "hypothesis": "Karen was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 2012 and Anthony was born in 2004.",
+        "hypothesis": "Anthony was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2003 and Sophie was born in 1993.",
+        "hypothesis": "Sophie was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2018 and Ruth was born in 2017.",
+        "hypothesis": "Ruth was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2008 and Suzanne was born in 1995.",
+        "hypothesis": "Suzanne was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 2005 and Adam was born in 1992.",
+        "hypothesis": "Adam was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2017 and Deborah was born in 1998.",
+        "hypothesis": "Deborah was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Donald was born in 2007 and Colin was born in 2003.",
+        "hypothesis": "Colin was born earlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff was born in 1996 and Louise was born in 1994.",
+        "hypothesis": "Louise was born earlier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Chris was born in 1995 and Matthew was born in 1990.",
+        "hypothesis": "Matthew was born earlier than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 2005 and Jim was born in 1995.",
+        "hypothesis": "Jim was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 2016 and Emily was born in 1997.",
+        "hypothesis": "Emily was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Adam was born in 1993 and Melissa was born in 1990.",
+        "hypothesis": "Melissa was born earlier than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Louis was born in 2001 and Henry was born in 1993.",
+        "hypothesis": "Henry was born earlier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry was born in 2007 and Eric was born in 1991.",
+        "hypothesis": "Eric was born earlier than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 1998 and Matt was born in 1997.",
+        "hypothesis": "Matt was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer was born in 1991 and Arthur was born in 1990.",
+        "hypothesis": "Arthur was born earlier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred was born in 2019 and Charlotte was born in 1997.",
+        "hypothesis": "Charlotte was born earlier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Jane was born in 2012 and Charlie was born in 1991.",
+        "hypothesis": "Charlie was born earlier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin was born in 1992 and Andrea was born in 1991.",
+        "hypothesis": "Andrea was born earlier than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2004 and Roy was born in 1993.",
+        "hypothesis": "Roy was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 1992 and Roger was born in 1990.",
+        "hypothesis": "Roger was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan was born in 1993 and Greg was born in 1991.",
+        "hypothesis": "Greg was born earlier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew was born in 2005 and Frances was born in 2000.",
+        "hypothesis": "Frances was born earlier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2019 and Susan was born in 1996.",
+        "hypothesis": "Susan was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2004 and Barbara was born in 1996.",
+        "hypothesis": "Barbara was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 1994 and Henry was born in 1992.",
+        "hypothesis": "Henry was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Emily was born in 2000 and Hugh was born in 1992.",
+        "hypothesis": "Hugh was born earlier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2007 and Tom was born in 2006.",
+        "hypothesis": "Tom was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia was born in 2010 and Patrick was born in 2001.",
+        "hypothesis": "Patrick was born earlier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Charles was born in 2010 and Matthew was born in 1997.",
+        "hypothesis": "Matthew was born earlier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Judith was born in 2000 and Elizabeth was born in 1995.",
+        "hypothesis": "Elizabeth was born earlier than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Harry was born in 2002 and Fred was born in 1999.",
+        "hypothesis": "Fred was born earlier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2014 and Diane was born in 2009.",
+        "hypothesis": "Diane was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 2013 and Sandra was born in 1994.",
+        "hypothesis": "Sandra was born earlier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 2010 and Samuel was born in 2006.",
+        "hypothesis": "Samuel was born earlier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2010 and Frederick was born in 1991.",
+        "hypothesis": "Frederick was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2011 and Fred was born in 2001.",
+        "hypothesis": "Fred was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan was born in 2003 and Ellen was born in 1993.",
+        "hypothesis": "Ellen was born earlier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred was born in 2003 and George was born in 1993.",
+        "hypothesis": "George was born earlier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria was born in 2017 and Jack was born in 2013.",
+        "hypothesis": "Jack was born earlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen was born in 2019 and Harry was born in 2002.",
+        "hypothesis": "Harry was born earlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Janet was born in 2008 and Jason was born in 1991.",
+        "hypothesis": "Jason was born earlier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy was born in 1991 and Mike was born in 1990.",
+        "hypothesis": "Mike was born earlier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 2011 and Charles was born in 2010.",
+        "hypothesis": "Charles was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2008 and Joe was born in 2005.",
+        "hypothesis": "Joe was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Ann was born in 1999 and Jay was born in 1990.",
+        "hypothesis": "Jay was born earlier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Albert was born in 2006 and Carol was born in 1990.",
+        "hypothesis": "Carol was born earlier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Henry was born in 2001 and Larry was born in 1997.",
+        "hypothesis": "Larry was born earlier than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 2002 and Arthur was born in 1999.",
+        "hypothesis": "Arthur was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 1994 and Suzanne was born in 1990.",
+        "hypothesis": "Suzanne was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick was born in 2005 and Amy was born in 1999.",
+        "hypothesis": "Amy was born earlier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2011 and Kelly was born in 1992.",
+        "hypothesis": "Kelly was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Philip was born in 2015 and Kathy was born in 2009.",
+        "hypothesis": "Kathy was born earlier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2008 and Patrick was born in 1997.",
+        "hypothesis": "Patrick was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 2015 and Steve was born in 2011.",
+        "hypothesis": "Steve was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 1997 and Paul was born in 1996.",
+        "hypothesis": "Paul was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2014 and Kevin was born in 2013.",
+        "hypothesis": "Kevin was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Frank was born in 2007 and Michelle was born in 1995.",
+        "hypothesis": "Michelle was born earlier than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 1996 and Ruth was born in 1994.",
+        "hypothesis": "Ruth was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Annie was born in 2000 and Eric was born in 1991.",
+        "hypothesis": "Eric was born earlier than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia was born in 2001 and Leslie was born in 1999.",
+        "hypothesis": "Leslie was born earlier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Katie was born in 1994 and Harry was born in 1993.",
+        "hypothesis": "Harry was born earlier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 1999 and Sharon was born in 1993.",
+        "hypothesis": "Sharon was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra was born in 1996 and Alex was born in 1991.",
+        "hypothesis": "Alex was born earlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Philip was born in 1991 and Virginia was born in 1990.",
+        "hypothesis": "Virginia was born earlier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen was born in 1991 and Andrew was born in 1990.",
+        "hypothesis": "Andrew was born earlier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne was born in 2002 and Linda was born in 1991.",
+        "hypothesis": "Linda was born earlier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2004 and Mary was born in 1992.",
+        "hypothesis": "Mary was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Maria was born in 1994 and Colin was born in 1991.",
+        "hypothesis": "Colin was born earlier than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 2015 and Francis was born in 1991.",
+        "hypothesis": "Francis was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 1992 and Mike was born in 1990.",
+        "hypothesis": "Mike was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy was born in 2018 and Virginia was born in 2013.",
+        "hypothesis": "Virginia was born earlier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 1991 and Jimmy was born in 1990.",
+        "hypothesis": "Jimmy was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2013 and Robert was born in 1995.",
+        "hypothesis": "Robert was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 1998 and Jean was born in 1991.",
+        "hypothesis": "Jean was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 2004 and Annie was born in 2000.",
+        "hypothesis": "Annie was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 1993 and Joan was born in 1991.",
+        "hypothesis": "Joan was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 1994 and Colin was born in 1993.",
+        "hypothesis": "Colin was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2005 and Peter was born in 2000.",
+        "hypothesis": "Peter was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 1994 and Lucy was born in 1990.",
+        "hypothesis": "Lucy was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 1998 and Charlotte was born in 1996.",
+        "hypothesis": "Charlotte was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 1991 and Carolyn was born in 1990.",
+        "hypothesis": "Carolyn was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 1998 and Frances was born in 1990.",
+        "hypothesis": "Frances was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 1999 and Deborah was born in 1994.",
+        "hypothesis": "Deborah was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly was born in 1992 and Frank was born in 1991.",
+        "hypothesis": "Frank was born earlier than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Ray was born in 2005 and Robin was born in 1992.",
+        "hypothesis": "Robin was born earlier than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2002 and Heather was born in 1998.",
+        "hypothesis": "Heather was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Jack was born in 2014 and Francis was born in 2011.",
+        "hypothesis": "Francis was born earlier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline was born in 1999 and Harry was born in 1997.",
+        "hypothesis": "Harry was born earlier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Joan was born in 2009 and Betty was born in 1997.",
+        "hypothesis": "Betty was born earlier than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Susan was born in 1995 and Dorothy was born in 1992.",
+        "hypothesis": "Dorothy was born earlier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren was born in 2012 and Samuel was born in 2003.",
+        "hypothesis": "Samuel was born earlier than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2002 and Sally was born in 2000.",
+        "hypothesis": "Sally was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2007 and Dick was born in 1993.",
+        "hypothesis": "Dick was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 2006 and Gary was born in 2003.",
+        "hypothesis": "Gary was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy was born in 1996 and Christine was born in 1994.",
+        "hypothesis": "Christine was born earlier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 1992 and Al was born in 1990.",
+        "hypothesis": "Al was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2006 and Amy was born in 2000.",
+        "hypothesis": "Amy was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2012 and Lynn was born in 2001.",
+        "hypothesis": "Lynn was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon was born in 2018 and Jeff was born in 1992.",
+        "hypothesis": "Jeff was born earlier than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen was born in 2011 and Samuel was born in 1990.",
+        "hypothesis": "Samuel was born earlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 1993 and Louise was born in 1992.",
+        "hypothesis": "Louise was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 1991 and Deborah was born in 1990.",
+        "hypothesis": "Deborah was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 1991 and Ann was born in 1990.",
+        "hypothesis": "Ann was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2018 and William was born in 1996.",
+        "hypothesis": "William was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 2005 and Annie was born in 1997.",
+        "hypothesis": "Annie was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2017 and Jack was born in 2006.",
+        "hypothesis": "Jack was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Angela was born in 2010 and Martha was born in 2004.",
+        "hypothesis": "Martha was born earlier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2014 and Al was born in 2005.",
+        "hypothesis": "Al was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2009 and Wendy was born in 2001.",
+        "hypothesis": "Wendy was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 1998 and Emily was born in 1990.",
+        "hypothesis": "Emily was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2006 and Nancy was born in 2003.",
+        "hypothesis": "Nancy was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2014 and Sophie was born in 2012.",
+        "hypothesis": "Sophie was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2000 and Janet was born in 1995.",
+        "hypothesis": "Janet was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 2001 and Elaine was born in 1995.",
+        "hypothesis": "Elaine was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 2014 and Frank was born in 2013.",
+        "hypothesis": "Frank was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole was born in 1998 and Jonathan was born in 1994.",
+        "hypothesis": "Jonathan was born earlier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Katie was born in 2018 and Barbara was born in 1990.",
+        "hypothesis": "Barbara was born earlier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin was born in 2003 and Elaine was born in 1995.",
+        "hypothesis": "Elaine was born earlier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 2020 and Jane was born in 1997.",
+        "hypothesis": "Jane was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Susan was born in 2003 and Charlie was born in 2000.",
+        "hypothesis": "Charlie was born earlier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne was born in 2009 and Ryan was born in 1999.",
+        "hypothesis": "Ryan was born earlier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Emma was born in 1992 and Patrick was born in 1991.",
+        "hypothesis": "Patrick was born earlier than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Emily was born in 2017 and Colin was born in 2002.",
+        "hypothesis": "Colin was born earlier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2004 and Emily was born in 1997.",
+        "hypothesis": "Emily was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Grace was born in 2003 and Virginia was born in 1998.",
+        "hypothesis": "Virginia was born earlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 1992 and Evelyn was born in 1990.",
+        "hypothesis": "Evelyn was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2009 and Julie was born in 1997.",
+        "hypothesis": "Julie was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 1999 and Florence was born in 1997.",
+        "hypothesis": "Florence was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 2017 and Lucy was born in 2014.",
+        "hypothesis": "Lucy was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick was born in 1999 and Jerry was born in 1993.",
+        "hypothesis": "Jerry was born earlier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra was born in 2016 and Kathryn was born in 2009.",
+        "hypothesis": "Kathryn was born earlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2005 and Kelly was born in 2003.",
+        "hypothesis": "Kelly was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Scott was born in 2012 and Lisa was born in 1995.",
+        "hypothesis": "Lisa was born earlier than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2010 and Steven was born in 1997.",
+        "hypothesis": "Steven was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 1999 and Kenneth was born in 1998.",
+        "hypothesis": "Kenneth was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Sam was born in 2015 and Mark was born in 1994.",
+        "hypothesis": "Mark was born earlier than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Harry was born in 2008 and Steve was born in 1998.",
+        "hypothesis": "Steve was born earlier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2008 and Margaret was born in 2001.",
+        "hypothesis": "Margaret was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2011 and Carol was born in 1995.",
+        "hypothesis": "Carol was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 2002 and Angela was born in 1990.",
+        "hypothesis": "Angela was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 1991 and Donna was born in 1990.",
+        "hypothesis": "Donna was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Donald was born in 1996 and Donna was born in 1991.",
+        "hypothesis": "Donna was born earlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Jason was born in 2007 and Carolyn was born in 1992.",
+        "hypothesis": "Carolyn was born earlier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 2016 and Linda was born in 1997.",
+        "hypothesis": "Linda was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen was born in 2012 and Cynthia was born in 2002.",
+        "hypothesis": "Cynthia was born earlier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Brian was born in 2012 and Joe was born in 2000.",
+        "hypothesis": "Joe was born earlier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Gary was born in 2001 and Jim was born in 1997.",
+        "hypothesis": "Jim was born earlier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 1995 and Al was born in 1990.",
+        "hypothesis": "Al was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 1994 and Lucy was born in 1990.",
+        "hypothesis": "Lucy was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Simon was born in 2006 and Charles was born in 2002.",
+        "hypothesis": "Charles was born earlier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 2017 and Carolyn was born in 2013.",
+        "hypothesis": "Carolyn was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2004 and Matt was born in 1993.",
+        "hypothesis": "Matt was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2016 and Steven was born in 2004.",
+        "hypothesis": "Steven was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 1993 and Michael was born in 1990.",
+        "hypothesis": "Michael was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 2017 and Ryan was born in 2011.",
+        "hypothesis": "Ryan was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Louise was born in 2012 and Deborah was born in 2001.",
+        "hypothesis": "Deborah was born earlier than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa was born in 2011 and Michael was born in 2000.",
+        "hypothesis": "Michael was born earlier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 2020 and Frank was born in 2004.",
+        "hypothesis": "Frank was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Grace was born in 1994 and Richard was born in 1992.",
+        "hypothesis": "Richard was born earlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2004 and Steven was born in 2002.",
+        "hypothesis": "Steven was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Harry was born in 1991 and Margaret was born in 1990.",
+        "hypothesis": "Margaret was born earlier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Katie was born in 1996 and Kathleen was born in 1995.",
+        "hypothesis": "Kathleen was born earlier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 2011 and Alfred was born in 1994.",
+        "hypothesis": "Alfred was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2008 and Jay was born in 1998.",
+        "hypothesis": "Jay was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel was born in 2000 and Dick was born in 1999.",
+        "hypothesis": "Dick was born earlier than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2018 and Richard was born in 1999.",
+        "hypothesis": "Richard was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 2015 and Lauren was born in 2011.",
+        "hypothesis": "Lauren was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle was born in 2020 and Brian was born in 2000.",
+        "hypothesis": "Brian was born earlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2012 and Amanda was born in 1999.",
+        "hypothesis": "Amanda was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 2000 and Chris was born in 1995.",
+        "hypothesis": "Chris was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Greg was born in 1999 and Pamela was born in 1992.",
+        "hypothesis": "Pamela was born earlier than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy was born in 2017 and Stephen was born in 2009.",
+        "hypothesis": "Stephen was born earlier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan was born in 1992 and Ryan was born in 1990.",
+        "hypothesis": "Ryan was born earlier than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria was born in 2011 and Annie was born in 2003.",
+        "hypothesis": "Annie was born earlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Robin was born in 1999 and Kim was born in 1997.",
+        "hypothesis": "Kim was born earlier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2020 and Edwin was born in 2016.",
+        "hypothesis": "Edwin was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Judith was born in 2011 and Ray was born in 1996.",
+        "hypothesis": "Ray was born earlier than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2007 and Edwin was born in 2003.",
+        "hypothesis": "Edwin was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher was born in 2011 and Donald was born in 1997.",
+        "hypothesis": "Donald was born earlier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2010 and Kelly was born in 2000.",
+        "hypothesis": "Kelly was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 2009 and Robert was born in 1995.",
+        "hypothesis": "Robert was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 2018 and Nicole was born in 2010.",
+        "hypothesis": "Nicole was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2010 and Steven was born in 2007.",
+        "hypothesis": "Steven was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Edith was born in 1998 and Ruth was born in 1997.",
+        "hypothesis": "Ruth was born earlier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2008 and Keith was born in 2007.",
+        "hypothesis": "Keith was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra was born in 2000 and Ashley was born in 1999.",
+        "hypothesis": "Ashley was born earlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2016 and Tony was born in 1994.",
+        "hypothesis": "Tony was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Frank was born in 2018 and Dave was born in 1998.",
+        "hypothesis": "Dave was born earlier than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Dave was born in 2011 and Jonathan was born in 2010.",
+        "hypothesis": "Jonathan was born earlier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 2001 and Roger was born in 2000.",
+        "hypothesis": "Roger was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy was born in 2010 and Dorothy was born in 1997.",
+        "hypothesis": "Dorothy was born earlier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry was born in 1991 and Katie was born in 1990.",
+        "hypothesis": "Katie was born earlier than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Charles was born in 2019 and Alexander was born in 1999.",
+        "hypothesis": "Alexander was born earlier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 2004 and Lisa was born in 2003.",
+        "hypothesis": "Lisa was born earlier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2019 and Richard was born in 2009.",
+        "hypothesis": "Richard was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Claire was born in 2015 and Kathleen was born in 2013.",
+        "hypothesis": "Kathleen was born earlier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Susan was born in 1994 and Simon was born in 1993.",
+        "hypothesis": "Simon was born earlier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 2000 and Claire was born in 1997.",
+        "hypothesis": "Claire was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Louis was born in 1991 and Katie was born in 1990.",
+        "hypothesis": "Katie was born earlier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 2017 and Steven was born in 1994.",
+        "hypothesis": "Steven was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 2000 and Alfred was born in 1990.",
+        "hypothesis": "Alfred was born earlier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2002 and Albert was born in 2001.",
+        "hypothesis": "Albert was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Betty was born in 1993 and Alfred was born in 1992.",
+        "hypothesis": "Alfred was born earlier than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick was born in 2007 and Scott was born in 2003.",
+        "hypothesis": "Scott was born earlier than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Henry was born in 2006 and Kim was born in 1996.",
+        "hypothesis": "Kim was born earlier than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Amy was born in 1996 and Katherine was born in 1990.",
+        "hypothesis": "Katherine was born earlier than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2016 and Alfred was born in 2010.",
+        "hypothesis": "Alfred was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine was born in 2004 and Robert was born in 1996.",
+        "hypothesis": "Robert was born earlier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Sally was born in 2011 and Carl was born in 2000.",
+        "hypothesis": "Carl was born earlier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 2019 and Kathleen was born in 2003.",
+        "hypothesis": "Kathleen was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 2013 and Ann was born in 1998.",
+        "hypothesis": "Ann was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2019 and Amanda was born in 1997.",
+        "hypothesis": "Amanda was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel was born in 1991 and Dan was born in 1990.",
+        "hypothesis": "Dan was born earlier than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2004 and Alfred was born in 2003.",
+        "hypothesis": "Alfred was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2009 and Nick was born in 1997.",
+        "hypothesis": "Nick was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Betty was born in 1993 and Lawrence was born in 1990.",
+        "hypothesis": "Lawrence was born earlier than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2015 and Bruce was born in 1991.",
+        "hypothesis": "Bruce was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 2020 and Steve was born in 1998.",
+        "hypothesis": "Steve was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen was born in 1997 and Kathryn was born in 1996.",
+        "hypothesis": "Kathryn was born earlier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2005 and Donald was born in 1995.",
+        "hypothesis": "Donald was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy was born in 1993 and Margaret was born in 1991.",
+        "hypothesis": "Margaret was born earlier than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Alice was born in 2012 and Jim was born in 2011.",
+        "hypothesis": "Jim was born earlier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy was born in 2009 and Fiona was born in 2008.",
+        "hypothesis": "Fiona was born earlier than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor was born in 1996 and Emily was born in 1994.",
+        "hypothesis": "Emily was born earlier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Gary was born in 2004 and Catherine was born in 2000.",
+        "hypothesis": "Catherine was born earlier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2006 and Cynthia was born in 1994.",
+        "hypothesis": "Cynthia was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny was born in 1996 and Betty was born in 1994.",
+        "hypothesis": "Betty was born earlier than Johnny.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2007 and Billy was born in 1998.",
+        "hypothesis": "Billy was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra was born in 1996 and Fiona was born in 1992.",
+        "hypothesis": "Fiona was born earlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Grace was born in 2015 and Harold was born in 1996.",
+        "hypothesis": "Harold was born earlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2008 and Fred was born in 1992.",
+        "hypothesis": "Fred was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 2011 and Ben was born in 1990.",
+        "hypothesis": "Ben was born earlier than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Amy was born in 2019 and Rebecca was born in 1997.",
+        "hypothesis": "Rebecca was born earlier than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley was born in 1991 and Mark was born in 1990.",
+        "hypothesis": "Mark was born earlier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 2018 and Mike was born in 1992.",
+        "hypothesis": "Mike was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 2012 and Simon was born in 1996.",
+        "hypothesis": "Simon was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 2011 and Fiona was born in 1991.",
+        "hypothesis": "Fiona was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 2006 and Rose was born in 1990.",
+        "hypothesis": "Rose was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 2000 and Stephanie was born in 1990.",
+        "hypothesis": "Stephanie was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2007 and Mike was born in 1992.",
+        "hypothesis": "Mike was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah was born in 2006 and Alison was born in 2003.",
+        "hypothesis": "Alison was born earlier than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 1998 and Elizabeth was born in 1994.",
+        "hypothesis": "Elizabeth was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Fred was born in 1991 and Alexandra was born in 1990.",
+        "hypothesis": "Alexandra was born earlier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2001 and Betty was born in 1995.",
+        "hypothesis": "Betty was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 1994 and Pamela was born in 1993.",
+        "hypothesis": "Pamela was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Florence was born in 2002 and Stephanie was born in 1996.",
+        "hypothesis": "Stephanie was born earlier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 1993 and Jonathan was born in 1991.",
+        "hypothesis": "Jonathan was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Anne was born in 2019 and Pamela was born in 1992.",
+        "hypothesis": "Pamela was born earlier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen was born in 1992 and Larry was born in 1991.",
+        "hypothesis": "Larry was born earlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 2014 and Nicole was born in 1991.",
+        "hypothesis": "Nicole was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 1992 and Fiona was born in 1991.",
+        "hypothesis": "Fiona was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Tim was born in 2001 and Ray was born in 1996.",
+        "hypothesis": "Ray was born earlier than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Linda was born in 2015 and Keith was born in 1992.",
+        "hypothesis": "Keith was born earlier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn was born in 2019 and Jane was born in 2001.",
+        "hypothesis": "Jane was born earlier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 1999 and Frank was born in 1994.",
+        "hypothesis": "Frank was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred was born in 2000 and Jay was born in 1996.",
+        "hypothesis": "Jay was born earlier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 2008 and Christopher was born in 2004.",
+        "hypothesis": "Christopher was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 2013 and Rose was born in 2006.",
+        "hypothesis": "Rose was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2014 and Gary was born in 1992.",
+        "hypothesis": "Gary was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Ian was born in 2009 and Florence was born in 1991.",
+        "hypothesis": "Florence was born earlier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2016 and Virginia was born in 2003.",
+        "hypothesis": "Virginia was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2010 and Kelly was born in 1995.",
+        "hypothesis": "Kelly was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2014 and Frank was born in 2001.",
+        "hypothesis": "Frank was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Jay was born in 2003 and Steven was born in 2001.",
+        "hypothesis": "Steven was born earlier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2014 and Louis was born in 1991.",
+        "hypothesis": "Louis was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 1993 and Robin was born in 1992.",
+        "hypothesis": "Robin was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 2012 and Lynn was born in 2001.",
+        "hypothesis": "Lynn was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2011 and Jeff was born in 1994.",
+        "hypothesis": "Jeff was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon was born in 1994 and Rachel was born in 1991.",
+        "hypothesis": "Rachel was born earlier than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Maria was born in 2007 and Lauren was born in 1993.",
+        "hypothesis": "Lauren was born earlier than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2012 and Ray was born in 1992.",
+        "hypothesis": "Ray was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 2011 and Nicole was born in 2004.",
+        "hypothesis": "Nicole was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 2005 and Tony was born in 1999.",
+        "hypothesis": "Tony was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly was born in 2018 and Katie was born in 2017.",
+        "hypothesis": "Katie was born earlier than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2010 and Pamela was born in 1991.",
+        "hypothesis": "Pamela was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2017 and Nick was born in 2001.",
+        "hypothesis": "Nick was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2001 and Nancy was born in 1994.",
+        "hypothesis": "Nancy was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin was born in 2019 and Ian was born in 2016.",
+        "hypothesis": "Ian was born earlier than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra was born in 2019 and Julie was born in 2005.",
+        "hypothesis": "Julie was born earlier than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2004 and Steven was born in 2002.",
+        "hypothesis": "Steven was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 2007 and John was born in 1992.",
+        "hypothesis": "John was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 1999 and Rebecca was born in 1992.",
+        "hypothesis": "Rebecca was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 2007 and Edward was born in 1996.",
+        "hypothesis": "Edward was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Frances was born in 2011 and Nick was born in 2007.",
+        "hypothesis": "Nick was born earlier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Colin was born in 2005 and Frank was born in 2001.",
+        "hypothesis": "Frank was born earlier than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 2020 and Ray was born in 2006.",
+        "hypothesis": "Ray was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce was born in 1996 and Walter was born in 1995.",
+        "hypothesis": "Walter was born earlier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Jill was born in 2008 and Robert was born in 1992.",
+        "hypothesis": "Robert was born earlier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 1998 and Arthur was born in 1993.",
+        "hypothesis": "Arthur was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 1993 and Amy was born in 1992.",
+        "hypothesis": "Amy was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 2006 and Katherine was born in 1992.",
+        "hypothesis": "Katherine was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Albert was born in 2016 and Al was born in 1997.",
+        "hypothesis": "Al was born earlier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen was born in 2013 and Albert was born in 2002.",
+        "hypothesis": "Albert was born earlier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Greg was born in 2012 and Ken was born in 2006.",
+        "hypothesis": "Ken was born earlier than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra was born in 2000 and Jonathan was born in 1997.",
+        "hypothesis": "Jonathan was born earlier than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona was born in 2007 and Jay was born in 2002.",
+        "hypothesis": "Jay was born earlier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Annie was born in 2010 and Fiona was born in 2001.",
+        "hypothesis": "Fiona was born earlier than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Greg was born in 1991 and Kate was born in 1990.",
+        "hypothesis": "Kate was born earlier than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Bill was born in 2020 and Patrick was born in 2017.",
+        "hypothesis": "Patrick was born earlier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 1993 and Ed was born in 1991.",
+        "hypothesis": "Ed was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Harry was born in 2017 and Martha was born in 2008.",
+        "hypothesis": "Martha was born earlier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine was born in 2011 and Keith was born in 1994.",
+        "hypothesis": "Keith was born earlier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Tim was born in 2018 and Kathryn was born in 2014.",
+        "hypothesis": "Kathryn was born earlier than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce was born in 2015 and John was born in 1994.",
+        "hypothesis": "John was born earlier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Karen was born in 1991 and Sarah was born in 1990.",
+        "hypothesis": "Sarah was born earlier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 1994 and Bruce was born in 1993.",
+        "hypothesis": "Bruce was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2019 and Janet was born in 2016.",
+        "hypothesis": "Janet was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 1991 and Sophie was born in 1990.",
+        "hypothesis": "Sophie was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn was born in 2015 and Caroline was born in 1998.",
+        "hypothesis": "Caroline was born earlier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 2019 and Alexander was born in 2018.",
+        "hypothesis": "Alexander was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine was born in 2013 and Jessica was born in 2001.",
+        "hypothesis": "Jessica was born earlier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Chris was born in 1991 and Rachel was born in 1990.",
+        "hypothesis": "Rachel was born earlier than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 2006 and Kathy was born in 2005.",
+        "hypothesis": "Kathy was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2013 and Bill was born in 2010.",
+        "hypothesis": "Bill was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy was born in 2016 and Sarah was born in 1995.",
+        "hypothesis": "Sarah was born earlier than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 2019 and Grace was born in 2004.",
+        "hypothesis": "Grace was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen was born in 1997 and Jason was born in 1991.",
+        "hypothesis": "Jason was born earlier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona was born in 2014 and Samuel was born in 1990.",
+        "hypothesis": "Samuel was born earlier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2017 and Paul was born in 1993.",
+        "hypothesis": "Paul was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2016 and Chris was born in 2001.",
+        "hypothesis": "Chris was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Susan was born in 1999 and Nick was born in 1990.",
+        "hypothesis": "Nick was born earlier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Louis was born in 1997 and Carolyn was born in 1993.",
+        "hypothesis": "Carolyn was born earlier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 2013 and Sam was born in 2010.",
+        "hypothesis": "Sam was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Henry was born in 2019 and James was born in 1990.",
+        "hypothesis": "James was born earlier than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce was born in 2009 and Arthur was born in 2008.",
+        "hypothesis": "Arthur was born earlier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2015 and Don was born in 2009.",
+        "hypothesis": "Don was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 2015 and Paul was born in 2007.",
+        "hypothesis": "Paul was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 2007 and Rose was born in 2002.",
+        "hypothesis": "Rose was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2004 and Marilyn was born in 2000.",
+        "hypothesis": "Marilyn was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Nick was born in 2014 and Dan was born in 2012.",
+        "hypothesis": "Dan was born earlier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2002 and George was born in 1991.",
+        "hypothesis": "George was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Emily was born in 2005 and Diana was born in 1998.",
+        "hypothesis": "Diana was born earlier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Louis was born in 2012 and Dick was born in 2006.",
+        "hypothesis": "Dick was born earlier than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2013 and Jason was born in 2007.",
+        "hypothesis": "Jason was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria was born in 2002 and Peter was born in 1991.",
+        "hypothesis": "Peter was born earlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Angela was born in 2003 and Ray was born in 1995.",
+        "hypothesis": "Ray was born earlier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2003 and Edith was born in 1996.",
+        "hypothesis": "Edith was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy was born in 2008 and Edward was born in 1994.",
+        "hypothesis": "Edward was born earlier than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Diana was born in 2020 and Lauren was born in 2011.",
+        "hypothesis": "Lauren was born earlier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 2010 and Martin was born in 2006.",
+        "hypothesis": "Martin was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Steven was born in 2011 and Alexander was born in 1992.",
+        "hypothesis": "Alexander was born earlier than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer was born in 2001 and Jeff was born in 1992.",
+        "hypothesis": "Jeff was born earlier than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff was born in 2017 and Mark was born in 1999.",
+        "hypothesis": "Mark was born earlier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 2004 and Samuel was born in 2000.",
+        "hypothesis": "Samuel was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 2011 and Marie was born in 1995.",
+        "hypothesis": "Marie was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth was born in 2013 and Bobby was born in 1998.",
+        "hypothesis": "Bobby was born earlier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn was born in 2015 and Gary was born in 2011.",
+        "hypothesis": "Gary was born earlier than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 2007 and Kathryn was born in 2000.",
+        "hypothesis": "Kathryn was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Michael was born in 2001 and Benjamin was born in 1990.",
+        "hypothesis": "Benjamin was born earlier than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Jason was born in 2003 and Amy was born in 1991.",
+        "hypothesis": "Amy was born earlier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia was born in 2006 and Philip was born in 1997.",
+        "hypothesis": "Philip was born earlier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 1995 and Sarah was born in 1991.",
+        "hypothesis": "Sarah was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Jane was born in 2010 and Helen was born in 1992.",
+        "hypothesis": "Helen was born earlier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 1998 and Thomas was born in 1996.",
+        "hypothesis": "Thomas was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Nick was born in 2012 and Colin was born in 2010.",
+        "hypothesis": "Colin was born earlier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia was born in 2010 and Laura was born in 1999.",
+        "hypothesis": "Laura was born earlier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 2010 and Alison was born in 1990.",
+        "hypothesis": "Alison was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 2015 and Jill was born in 2012.",
+        "hypothesis": "Jill was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew was born in 2000 and Pamela was born in 1999.",
+        "hypothesis": "Pamela was born earlier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Harry was born in 2020 and Ann was born in 2001.",
+        "hypothesis": "Ann was born earlier than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 1998 and Emma was born in 1990.",
+        "hypothesis": "Emma was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 2012 and Henry was born in 1993.",
+        "hypothesis": "Henry was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 2000 and Emma was born in 1996.",
+        "hypothesis": "Emma was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Jill was born in 2001 and Frank was born in 1990.",
+        "hypothesis": "Frank was born earlier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 2008 and Dorothy was born in 1994.",
+        "hypothesis": "Dorothy was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 1994 and Alice was born in 1991.",
+        "hypothesis": "Alice was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 1996 and Sharon was born in 1990.",
+        "hypothesis": "Sharon was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 2014 and Leslie was born in 2011.",
+        "hypothesis": "Leslie was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2018 and Barbara was born in 1993.",
+        "hypothesis": "Barbara was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan was born in 2009 and Ed was born in 2006.",
+        "hypothesis": "Ed was born earlier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 1998 and Fred was born in 1994.",
+        "hypothesis": "Fred was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 1996 and Ken was born in 1994.",
+        "hypothesis": "Ken was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 2018 and Jim was born in 2014.",
+        "hypothesis": "Jim was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2013 and Florence was born in 2006.",
+        "hypothesis": "Florence was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Judith was born in 1994 and Jill was born in 1991.",
+        "hypothesis": "Jill was born earlier than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 1999 and Alexandra was born in 1990.",
+        "hypothesis": "Alexandra was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen was born in 2020 and Alexandra was born in 1992.",
+        "hypothesis": "Alexandra was born earlier than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan was born in 1998 and Kenneth was born in 1994.",
+        "hypothesis": "Kenneth was born earlier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa was born in 1996 and Heather was born in 1993.",
+        "hypothesis": "Heather was born earlier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Ray was born in 1999 and Kathy was born in 1998.",
+        "hypothesis": "Kathy was born earlier than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 1998 and Don was born in 1992.",
+        "hypothesis": "Don was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 1993 and Sharon was born in 1990.",
+        "hypothesis": "Sharon was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 2004 and Mary was born in 2002.",
+        "hypothesis": "Mary was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Katie was born in 1992 and Frances was born in 1991.",
+        "hypothesis": "Frances was born earlier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea was born in 2016 and Frances was born in 2010.",
+        "hypothesis": "Frances was born earlier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 1997 and Paul was born in 1993.",
+        "hypothesis": "Paul was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2007 and Jean was born in 2002.",
+        "hypothesis": "Jean was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 2016 and Ralph was born in 1990.",
+        "hypothesis": "Ralph was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Jim was born in 1998 and George was born in 1995.",
+        "hypothesis": "George was born earlier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Judy was born in 2002 and Benjamin was born in 2000.",
+        "hypothesis": "Benjamin was born earlier than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin was born in 1999 and Richard was born in 1993.",
+        "hypothesis": "Richard was born earlier than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 2015 and Kenneth was born in 1992.",
+        "hypothesis": "Kenneth was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2020 and Lucy was born in 2004.",
+        "hypothesis": "Lucy was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 2017 and Stephen was born in 1995.",
+        "hypothesis": "Stephen was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2004 and Karen was born in 1992.",
+        "hypothesis": "Karen was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 1999 and Anthony was born in 1990.",
+        "hypothesis": "Anthony was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 2014 and Maria was born in 2000.",
+        "hypothesis": "Maria was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 1993 and Ken was born in 1991.",
+        "hypothesis": "Ken was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2002 and Donna was born in 1995.",
+        "hypothesis": "Donna was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Carl was born in 1991 and Daniel was born in 1990.",
+        "hypothesis": "Daniel was born earlier than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2012 and James was born in 2002.",
+        "hypothesis": "James was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 1996 and Roger was born in 1995.",
+        "hypothesis": "Roger was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2020 and Emma was born in 1997.",
+        "hypothesis": "Emma was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth was born in 1995 and Frederick was born in 1990.",
+        "hypothesis": "Frederick was born earlier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Jane was born in 1993 and Ben was born in 1991.",
+        "hypothesis": "Ben was born earlier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Alice was born in 1999 and Florence was born in 1996.",
+        "hypothesis": "Florence was born earlier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Karen was born in 2012 and Patricia was born in 1995.",
+        "hypothesis": "Patricia was born earlier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 2008 and Kathy was born in 2002.",
+        "hypothesis": "Kathy was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 1993 and Brian was born in 1991.",
+        "hypothesis": "Brian was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 2008 and Joseph was born in 1993.",
+        "hypothesis": "Joseph was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2013 and Frank was born in 1999.",
+        "hypothesis": "Frank was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 1993 and Joan was born in 1990.",
+        "hypothesis": "Joan was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Jack was born in 2016 and Jeff was born in 2009.",
+        "hypothesis": "Jeff was born earlier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 2010 and Charlotte was born in 1999.",
+        "hypothesis": "Charlotte was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth was born in 2015 and Henry was born in 2003.",
+        "hypothesis": "Henry was born earlier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2009 and Kelly was born in 1992.",
+        "hypothesis": "Kelly was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2014 and Linda was born in 2012.",
+        "hypothesis": "Linda was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 1993 and Ryan was born in 1991.",
+        "hypothesis": "Ryan was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 1995 and Heather was born in 1993.",
+        "hypothesis": "Heather was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Bob was born in 2012 and Edith was born in 2006.",
+        "hypothesis": "Edith was born earlier than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2014 and Charles was born in 2000.",
+        "hypothesis": "Charles was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Simon was born in 2013 and Joe was born in 1992.",
+        "hypothesis": "Joe was born earlier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 1999 and Emma was born in 1990.",
+        "hypothesis": "Emma was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 2009 and Ben was born in 1995.",
+        "hypothesis": "Ben was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Diana was born in 1992 and Jennifer was born in 1990.",
+        "hypothesis": "Jennifer was born earlier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra was born in 1996 and Carl was born in 1992.",
+        "hypothesis": "Carl was born earlier than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel was born in 2016 and Jennifer was born in 2010.",
+        "hypothesis": "Jennifer was born earlier than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2014 and Nick was born in 2001.",
+        "hypothesis": "Nick was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 2010 and Ralph was born in 2002.",
+        "hypothesis": "Ralph was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Julie was born in 2016 and Claire was born in 2003.",
+        "hypothesis": "Claire was born earlier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline was born in 1996 and Melissa was born in 1993.",
+        "hypothesis": "Melissa was born earlier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Claire was born in 1993 and Christine was born in 1990.",
+        "hypothesis": "Christine was born earlier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2010 and Rose was born in 1993.",
+        "hypothesis": "Rose was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Annie was born in 2000 and Cynthia was born in 1992.",
+        "hypothesis": "Cynthia was born earlier than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah was born in 2000 and Helen was born in 1994.",
+        "hypothesis": "Helen was born earlier than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2017 and Don was born in 2016.",
+        "hypothesis": "Don was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon was born in 1996 and Charles was born in 1990.",
+        "hypothesis": "Charles was born earlier than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred was born in 2008 and Catherine was born in 2003.",
+        "hypothesis": "Catherine was born earlier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 2017 and Victoria was born in 2016.",
+        "hypothesis": "Victoria was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 2017 and Andrea was born in 1993.",
+        "hypothesis": "Andrea was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn was born in 1992 and Judith was born in 1991.",
+        "hypothesis": "Judith was born earlier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 1993 and Scott was born in 1992.",
+        "hypothesis": "Scott was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea was born in 1993 and Roy was born in 1991.",
+        "hypothesis": "Roy was born earlier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 2015 and Jane was born in 2003.",
+        "hypothesis": "Jane was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Jack was born in 1994 and Frederick was born in 1992.",
+        "hypothesis": "Frederick was born earlier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 2003 and Emily was born in 1998.",
+        "hypothesis": "Emily was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie was born in 1991 and Margaret was born in 1990.",
+        "hypothesis": "Margaret was born earlier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2010 and Dave was born in 1997.",
+        "hypothesis": "Dave was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 2003 and Sharon was born in 1998.",
+        "hypothesis": "Sharon was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel was born in 2015 and Larry was born in 2008.",
+        "hypothesis": "Larry was born earlier than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Bob was born in 1997 and Hugh was born in 1996.",
+        "hypothesis": "Hugh was born earlier than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 2020 and Fiona was born in 1990.",
+        "hypothesis": "Fiona was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2000 and Tim was born in 1997.",
+        "hypothesis": "Tim was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Janet was born in 2020 and Thomas was born in 1995.",
+        "hypothesis": "Thomas was born earlier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Diana was born in 2019 and Lynn was born in 2001.",
+        "hypothesis": "Lynn was born earlier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 2017 and Steven was born in 2012.",
+        "hypothesis": "Steven was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2006 and Rose was born in 1995.",
+        "hypothesis": "Rose was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2018 and Ian was born in 2011.",
+        "hypothesis": "Ian was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2019 and Linda was born in 2008.",
+        "hypothesis": "Linda was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne was born in 1995 and Virginia was born in 1991.",
+        "hypothesis": "Virginia was born earlier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa was born in 2017 and Anne was born in 2012.",
+        "hypothesis": "Anne was born earlier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Jim was born in 1991 and Melissa was born in 1990.",
+        "hypothesis": "Melissa was born earlier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Louise was born in 2015 and Barbara was born in 2006.",
+        "hypothesis": "Barbara was born earlier than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Howard was born in 2013 and Jack was born in 2009.",
+        "hypothesis": "Jack was born earlier than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 1999 and James was born in 1997.",
+        "hypothesis": "James was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole was born in 2016 and Sue was born in 2004.",
+        "hypothesis": "Sue was born earlier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2015 and Tom was born in 1992.",
+        "hypothesis": "Tom was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 1994 and Emma was born in 1993.",
+        "hypothesis": "Emma was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Matt was born in 2015 and Edward was born in 2003.",
+        "hypothesis": "Edward was born earlier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa was born in 2013 and Kate was born in 1996.",
+        "hypothesis": "Kate was born earlier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa was born in 1993 and John was born in 1990.",
+        "hypothesis": "John was born earlier than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2012 and Melissa was born in 1991.",
+        "hypothesis": "Melissa was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 1991 and Pamela was born in 1990.",
+        "hypothesis": "Pamela was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 2018 and Bruce was born in 2013.",
+        "hypothesis": "Bruce was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Charles was born in 2014 and Tom was born in 2010.",
+        "hypothesis": "Tom was born earlier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 2006 and Kenneth was born in 2001.",
+        "hypothesis": "Kenneth was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 2009 and Frances was born in 2007.",
+        "hypothesis": "Frances was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Edith was born in 2020 and Ian was born in 1995.",
+        "hypothesis": "Ian was born earlier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Jack was born in 2015 and Emma was born in 2007.",
+        "hypothesis": "Emma was born earlier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 2007 and Colin was born in 2000.",
+        "hypothesis": "Colin was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Ken was born in 2014 and Sally was born in 1994.",
+        "hypothesis": "Sally was born earlier than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2011 and Amy was born in 2005.",
+        "hypothesis": "Amy was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2009 and Susan was born in 2003.",
+        "hypothesis": "Susan was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2010 and Patricia was born in 1994.",
+        "hypothesis": "Patricia was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 1997 and Anthony was born in 1993.",
+        "hypothesis": "Anthony was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara was born in 2004 and Ann was born in 2000.",
+        "hypothesis": "Ann was born earlier than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan was born in 2011 and Howard was born in 2003.",
+        "hypothesis": "Howard was born earlier than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 1995 and Joe was born in 1993.",
+        "hypothesis": "Joe was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen was born in 1997 and Kevin was born in 1996.",
+        "hypothesis": "Kevin was born earlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 1991 and Jessica was born in 1990.",
+        "hypothesis": "Jessica was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Henry was born in 1993 and Louise was born in 1991.",
+        "hypothesis": "Louise was born earlier than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Edith was born in 2000 and Betty was born in 1991.",
+        "hypothesis": "Betty was born earlier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Linda was born in 2017 and Roger was born in 2012.",
+        "hypothesis": "Roger was born earlier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Jane was born in 2004 and Margaret was born in 1992.",
+        "hypothesis": "Margaret was born earlier than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 2009 and Lynn was born in 2004.",
+        "hypothesis": "Lynn was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 2020 and Laura was born in 2001.",
+        "hypothesis": "Laura was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 2015 and Christopher was born in 2004.",
+        "hypothesis": "Christopher was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 1998 and Alex was born in 1994.",
+        "hypothesis": "Alex was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria was born in 2020 and Eric was born in 2002.",
+        "hypothesis": "Eric was born earlier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2001 and Tim was born in 1993.",
+        "hypothesis": "Tim was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Charles was born in 2014 and Heather was born in 2013.",
+        "hypothesis": "Heather was born earlier than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2009 and Steven was born in 2006.",
+        "hypothesis": "Steven was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2014 and Matt was born in 1995.",
+        "hypothesis": "Matt was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "George was born in 2006 and Matthew was born in 2005.",
+        "hypothesis": "Matthew was born earlier than George.",
+        "label": 0
+    },
+    {
+        "premise": "Martin was born in 1998 and Andrea was born in 1994.",
+        "hypothesis": "Andrea was born earlier than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 2005 and Susan was born in 1998.",
+        "hypothesis": "Susan was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy was born in 1998 and Mike was born in 1991.",
+        "hypothesis": "Mike was born earlier than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 2013 and Deborah was born in 2012.",
+        "hypothesis": "Deborah was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2016 and Donna was born in 2001.",
+        "hypothesis": "Donna was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 2016 and Dorothy was born in 1995.",
+        "hypothesis": "Dorothy was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin was born in 2011 and Charlotte was born in 1990.",
+        "hypothesis": "Charlotte was born earlier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea was born in 2012 and Alfred was born in 2001.",
+        "hypothesis": "Alfred was born earlier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Jill was born in 2006 and Peter was born in 1996.",
+        "hypothesis": "Peter was born earlier than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher was born in 2000 and Thomas was born in 1997.",
+        "hypothesis": "Thomas was born earlier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2018 and Sue was born in 1997.",
+        "hypothesis": "Sue was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 1996 and Alexandra was born in 1994.",
+        "hypothesis": "Alexandra was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin was born in 2007 and Lucy was born in 2000.",
+        "hypothesis": "Lucy was born earlier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Frances was born in 2005 and Eric was born in 1990.",
+        "hypothesis": "Eric was born earlier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 2004 and Maria was born in 1999.",
+        "hypothesis": "Maria was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona was born in 2015 and Lynn was born in 2014.",
+        "hypothesis": "Lynn was born earlier than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2004 and Anne was born in 1990.",
+        "hypothesis": "Anne was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 2017 and Nicole was born in 2001.",
+        "hypothesis": "Nicole was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Brian was born in 2012 and Mark was born in 1994.",
+        "hypothesis": "Mark was born earlier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 1991 and Bob was born in 1990.",
+        "hypothesis": "Bob was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2017 and Elaine was born in 2007.",
+        "hypothesis": "Elaine was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 1992 and Colin was born in 1991.",
+        "hypothesis": "Colin was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Joan was born in 2013 and Bob was born in 1994.",
+        "hypothesis": "Bob was born earlier than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Bill was born in 2010 and Edith was born in 2001.",
+        "hypothesis": "Edith was born earlier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2016 and Alexandra was born in 1997.",
+        "hypothesis": "Alexandra was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2011 and Charlie was born in 1991.",
+        "hypothesis": "Charlie was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Sue was born in 1994 and Alice was born in 1992.",
+        "hypothesis": "Alice was born earlier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2002 and Leslie was born in 2001.",
+        "hypothesis": "Leslie was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 2020 and Kenneth was born in 1998.",
+        "hypothesis": "Kenneth was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 2015 and Kenneth was born in 2005.",
+        "hypothesis": "Kenneth was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred was born in 2006 and Rachel was born in 1991.",
+        "hypothesis": "Rachel was born earlier than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Anne was born in 2011 and Jack was born in 1996.",
+        "hypothesis": "Jack was born earlier than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne was born in 1995 and Kathleen was born in 1990.",
+        "hypothesis": "Kathleen was born earlier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2018 and Melissa was born in 2014.",
+        "hypothesis": "Melissa was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 2008 and Marilyn was born in 1993.",
+        "hypothesis": "Marilyn was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Paul was born in 2004 and Marilyn was born in 1996.",
+        "hypothesis": "Marilyn was born earlier than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 1995 and Scott was born in 1993.",
+        "hypothesis": "Scott was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 2006 and Helen was born in 1994.",
+        "hypothesis": "Helen was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Angela was born in 2002 and Stephanie was born in 1992.",
+        "hypothesis": "Stephanie was born earlier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 2003 and Sarah was born in 1998.",
+        "hypothesis": "Sarah was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Ann was born in 2016 and Francis was born in 1990.",
+        "hypothesis": "Francis was born earlier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn was born in 2002 and Harriet was born in 1998.",
+        "hypothesis": "Harriet was born earlier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy was born in 1999 and Eric was born in 1990.",
+        "hypothesis": "Eric was born earlier than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth was born in 2010 and Edith was born in 1994.",
+        "hypothesis": "Edith was born earlier than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Howard was born in 2002 and Jerry was born in 1993.",
+        "hypothesis": "Jerry was born earlier than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Mary was born in 2016 and Walter was born in 1996.",
+        "hypothesis": "Walter was born earlier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2017 and Philip was born in 1992.",
+        "hypothesis": "Philip was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 2015 and Joan was born in 2009.",
+        "hypothesis": "Joan was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 2006 and Eleanor was born in 1992.",
+        "hypothesis": "Eleanor was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Mark was born in 2019 and Cynthia was born in 2005.",
+        "hypothesis": "Cynthia was born earlier than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley was born in 2020 and Charlie was born in 2005.",
+        "hypothesis": "Charlie was born earlier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Martin was born in 2015 and Leslie was born in 2004.",
+        "hypothesis": "Leslie was born earlier than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2008 and Kelly was born in 2003.",
+        "hypothesis": "Kelly was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 2013 and Lisa was born in 1999.",
+        "hypothesis": "Lisa was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2011 and Diana was born in 1997.",
+        "hypothesis": "Diana was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "William was born in 1997 and Ian was born in 1990.",
+        "hypothesis": "Ian was born earlier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2005 and Elizabeth was born in 1998.",
+        "hypothesis": "Elizabeth was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2015 and Frank was born in 2000.",
+        "hypothesis": "Frank was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Ray was born in 2003 and Scott was born in 1998.",
+        "hypothesis": "Scott was born earlier than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 1995 and Florence was born in 1992.",
+        "hypothesis": "Florence was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Jim was born in 1993 and Michelle was born in 1991.",
+        "hypothesis": "Michelle was born earlier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine was born in 1992 and Jay was born in 1991.",
+        "hypothesis": "Jay was born earlier than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 2006 and Joseph was born in 1993.",
+        "hypothesis": "Joseph was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 2017 and Philip was born in 1996.",
+        "hypothesis": "Philip was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Brian was born in 2000 and Frances was born in 1995.",
+        "hypothesis": "Frances was born earlier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 2000 and Mark was born in 1996.",
+        "hypothesis": "Mark was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2001 and Charlotte was born in 1990.",
+        "hypothesis": "Charlotte was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2009 and Kim was born in 2002.",
+        "hypothesis": "Kim was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Susan was born in 2015 and Edward was born in 1994.",
+        "hypothesis": "Edward was born earlier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 2018 and Carl was born in 1990.",
+        "hypothesis": "Carl was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy was born in 2015 and Rachel was born in 1991.",
+        "hypothesis": "Rachel was born earlier than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Edith was born in 1996 and Annie was born in 1994.",
+        "hypothesis": "Annie was born earlier than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Donald was born in 1998 and Suzanne was born in 1994.",
+        "hypothesis": "Suzanne was born earlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda was born in 2005 and Ken was born in 2003.",
+        "hypothesis": "Ken was born earlier than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry was born in 1997 and Sandra was born in 1995.",
+        "hypothesis": "Sandra was born earlier than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 1993 and Steven was born in 1990.",
+        "hypothesis": "Steven was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy was born in 2016 and Steve was born in 2000.",
+        "hypothesis": "Steve was born earlier than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander was born in 2015 and Alan was born in 2008.",
+        "hypothesis": "Alan was born earlier than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Ian was born in 2001 and Carl was born in 1994.",
+        "hypothesis": "Carl was born earlier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Florence was born in 1996 and Benjamin was born in 1994.",
+        "hypothesis": "Benjamin was born earlier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph was born in 2010 and Hugh was born in 2008.",
+        "hypothesis": "Hugh was born earlier than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 1998 and Tim was born in 1990.",
+        "hypothesis": "Tim was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 2019 and Andrea was born in 2006.",
+        "hypothesis": "Andrea was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 2018 and Elaine was born in 2001.",
+        "hypothesis": "Elaine was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Robin was born in 2009 and Edward was born in 1995.",
+        "hypothesis": "Edward was born earlier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2018 and Daniel was born in 1999.",
+        "hypothesis": "Daniel was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth was born in 2000 and John was born in 1999.",
+        "hypothesis": "John was born earlier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Alex was born in 2007 and Julie was born in 1992.",
+        "hypothesis": "Julie was born earlier than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn was born in 2010 and Keith was born in 2000.",
+        "hypothesis": "Keith was born earlier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "George was born in 2000 and Billy was born in 1992.",
+        "hypothesis": "Billy was born earlier than George.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia was born in 2009 and Florence was born in 1995.",
+        "hypothesis": "Florence was born earlier than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 2002 and Michelle was born in 1996.",
+        "hypothesis": "Michelle was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2006 and Joseph was born in 1992.",
+        "hypothesis": "Joseph was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 2012 and Stephen was born in 2000.",
+        "hypothesis": "Stephen was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Ann was born in 2014 and Harry was born in 1996.",
+        "hypothesis": "Harry was born earlier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Bill was born in 1999 and Ann was born in 1991.",
+        "hypothesis": "Ann was born earlier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2012 and Walter was born in 2005.",
+        "hypothesis": "Walter was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 1999 and Andrew was born in 1996.",
+        "hypothesis": "Andrew was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Emily was born in 1991 and Kelly was born in 1990.",
+        "hypothesis": "Kelly was born earlier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 1996 and Joe was born in 1995.",
+        "hypothesis": "Joe was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn was born in 2010 and Ray was born in 2009.",
+        "hypothesis": "Ray was born earlier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2000 and Sara was born in 1993.",
+        "hypothesis": "Sara was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2020 and Barbara was born in 2000.",
+        "hypothesis": "Barbara was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2006 and Bob was born in 2003.",
+        "hypothesis": "Bob was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 2006 and Anna was born in 1995.",
+        "hypothesis": "Anna was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 2004 and Alice was born in 2000.",
+        "hypothesis": "Alice was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Larry was born in 1997 and Daniel was born in 1995.",
+        "hypothesis": "Daniel was born earlier than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 2001 and Ray was born in 1995.",
+        "hypothesis": "Ray was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Dick was born in 2010 and Diane was born in 2006.",
+        "hypothesis": "Diane was born earlier than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2015 and Lisa was born in 2004.",
+        "hypothesis": "Lisa was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 2006 and Maria was born in 2004.",
+        "hypothesis": "Maria was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Sam was born in 2001 and Amanda was born in 1995.",
+        "hypothesis": "Amanda was born earlier than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 1997 and Alan was born in 1993.",
+        "hypothesis": "Alan was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 2001 and Rose was born in 1994.",
+        "hypothesis": "Rose was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur was born in 2001 and Melissa was born in 1990.",
+        "hypothesis": "Melissa was born earlier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley was born in 2018 and Eleanor was born in 2001.",
+        "hypothesis": "Eleanor was born earlier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Tim was born in 1997 and Marie was born in 1993.",
+        "hypothesis": "Marie was born earlier than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea was born in 2003 and Sandra was born in 1990.",
+        "hypothesis": "Sandra was born earlier than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Frances was born in 1998 and Marie was born in 1994.",
+        "hypothesis": "Marie was born earlier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 2017 and Andrew was born in 1998.",
+        "hypothesis": "Andrew was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Ian was born in 1996 and Wendy was born in 1994.",
+        "hypothesis": "Wendy was born earlier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2001 and Sophie was born in 1993.",
+        "hypothesis": "Sophie was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 1997 and Deborah was born in 1991.",
+        "hypothesis": "Deborah was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia was born in 2005 and Alexander was born in 2000.",
+        "hypothesis": "Alexander was born earlier than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Karen was born in 2019 and Elizabeth was born in 2010.",
+        "hypothesis": "Elizabeth was born earlier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 1997 and Adam was born in 1996.",
+        "hypothesis": "Adam was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Robert was born in 2005 and Benjamin was born in 1995.",
+        "hypothesis": "Benjamin was born earlier than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Gary was born in 2002 and Deborah was born in 2001.",
+        "hypothesis": "Deborah was born earlier than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2008 and Stephen was born in 2002.",
+        "hypothesis": "Stephen was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Robin was born in 2001 and Ken was born in 1996.",
+        "hypothesis": "Ken was born earlier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Frances was born in 2013 and Tom was born in 1994.",
+        "hypothesis": "Tom was born earlier than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline was born in 2011 and Amy was born in 2004.",
+        "hypothesis": "Amy was born earlier than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 2015 and Emily was born in 1993.",
+        "hypothesis": "Emily was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2020 and Frederick was born in 2014.",
+        "hypothesis": "Frederick was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 1996 and Hugh was born in 1990.",
+        "hypothesis": "Hugh was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2011 and Lauren was born in 1995.",
+        "hypothesis": "Lauren was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn was born in 1999 and Kate was born in 1996.",
+        "hypothesis": "Kate was born earlier than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Florence was born in 1993 and Angela was born in 1992.",
+        "hypothesis": "Angela was born earlier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Kim was born in 2005 and Chris was born in 2004.",
+        "hypothesis": "Chris was born earlier than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy was born in 1992 and Henry was born in 1990.",
+        "hypothesis": "Henry was born earlier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Keith was born in 2003 and Dick was born in 1998.",
+        "hypothesis": "Dick was born earlier than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "William was born in 1996 and Stephanie was born in 1995.",
+        "hypothesis": "Stephanie was born earlier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa was born in 1996 and Ed was born in 1991.",
+        "hypothesis": "Ed was born earlier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Jack was born in 1991 and Chris was born in 1990.",
+        "hypothesis": "Chris was born earlier than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Donald was born in 2013 and Rachel was born in 2011.",
+        "hypothesis": "Rachel was born earlier than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 2004 and Annie was born in 2003.",
+        "hypothesis": "Annie was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen was born in 2000 and Emma was born in 1994.",
+        "hypothesis": "Emma was born earlier than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick was born in 1991 and Anna was born in 1990.",
+        "hypothesis": "Anna was born earlier than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 1993 and Don was born in 1991.",
+        "hypothesis": "Don was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "William was born in 2009 and Laura was born in 1998.",
+        "hypothesis": "Laura was born earlier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff was born in 2014 and Arthur was born in 2013.",
+        "hypothesis": "Arthur was born earlier than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 1997 and Charles was born in 1996.",
+        "hypothesis": "Charles was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Steven was born in 1995 and Sam was born in 1992.",
+        "hypothesis": "Sam was born earlier than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 2000 and Sandra was born in 1990.",
+        "hypothesis": "Sandra was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2002 and Alan was born in 2001.",
+        "hypothesis": "Alan was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra was born in 2015 and Amy was born in 2011.",
+        "hypothesis": "Amy was born earlier than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence was born in 2006 and Lynn was born in 1995.",
+        "hypothesis": "Lynn was born earlier than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Sara was born in 2008 and Catherine was born in 1999.",
+        "hypothesis": "Catherine was born earlier than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 1992 and Janet was born in 1990.",
+        "hypothesis": "Janet was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 2007 and Ralph was born in 1996.",
+        "hypothesis": "Ralph was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2000 and Lawrence was born in 1997.",
+        "hypothesis": "Lawrence was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Annie was born in 2019 and Adam was born in 2004.",
+        "hypothesis": "Adam was born earlier than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher was born in 2019 and Cynthia was born in 2007.",
+        "hypothesis": "Cynthia was born earlier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2004 and Ashley was born in 1999.",
+        "hypothesis": "Ashley was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2013 and Mary was born in 2008.",
+        "hypothesis": "Mary was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Peter was born in 1992 and Helen was born in 1991.",
+        "hypothesis": "Helen was born earlier than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Martin was born in 2011 and Suzanne was born in 2008.",
+        "hypothesis": "Suzanne was born earlier than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph was born in 2006 and Lawrence was born in 2003.",
+        "hypothesis": "Lawrence was born earlier than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Steve was born in 2020 and Joe was born in 2013.",
+        "hypothesis": "Joe was born earlier than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2013 and Jean was born in 1999.",
+        "hypothesis": "Jean was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Fred was born in 2019 and Bruce was born in 1994.",
+        "hypothesis": "Bruce was born earlier than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Roy was born in 2015 and Ruth was born in 1996.",
+        "hypothesis": "Ruth was born earlier than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2006 and Al was born in 1998.",
+        "hypothesis": "Al was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Claire was born in 2003 and Linda was born in 1996.",
+        "hypothesis": "Linda was born earlier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2012 and Chris was born in 2006.",
+        "hypothesis": "Chris was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Ron was born in 2005 and Jim was born in 1996.",
+        "hypothesis": "Jim was born earlier than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Ray was born in 1996 and Kelly was born in 1995.",
+        "hypothesis": "Kelly was born earlier than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Janet was born in 2004 and Hugh was born in 1999.",
+        "hypothesis": "Hugh was born earlier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Michael was born in 1992 and Sam was born in 1990.",
+        "hypothesis": "Sam was born earlier than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet was born in 2017 and Helen was born in 2009.",
+        "hypothesis": "Helen was born earlier than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2016 and Mark was born in 2006.",
+        "hypothesis": "Mark was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Simon was born in 2010 and Donna was born in 2006.",
+        "hypothesis": "Donna was born earlier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Ben was born in 2018 and Marilyn was born in 1998.",
+        "hypothesis": "Marilyn was born earlier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn was born in 2019 and Katherine was born in 2016.",
+        "hypothesis": "Katherine was born earlier than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Julie was born in 1991 and Ralph was born in 1990.",
+        "hypothesis": "Ralph was born earlier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly was born in 2005 and Emily was born in 2004.",
+        "hypothesis": "Emily was born earlier than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew was born in 2003 and Sam was born in 2001.",
+        "hypothesis": "Sam was born earlier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy was born in 2000 and Wendy was born in 1998.",
+        "hypothesis": "Wendy was born earlier than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Harold was born in 2002 and Benjamin was born in 1999.",
+        "hypothesis": "Benjamin was born earlier than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne was born in 2010 and Elizabeth was born in 1991.",
+        "hypothesis": "Elizabeth was born earlier than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Angela was born in 1992 and Grace was born in 1991.",
+        "hypothesis": "Grace was born earlier than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2001 and Hugh was born in 1998.",
+        "hypothesis": "Hugh was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Martin was born in 1995 and Dick was born in 1993.",
+        "hypothesis": "Dick was born earlier than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Diane was born in 2001 and Wendy was born in 1996.",
+        "hypothesis": "Wendy was born earlier than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2013 and Katie was born in 1990.",
+        "hypothesis": "Katie was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2002 and Charlotte was born in 1999.",
+        "hypothesis": "Charlotte was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "James was born in 2016 and Colin was born in 2008.",
+        "hypothesis": "Colin was born earlier than James.",
+        "label": 0
+    },
+    {
+        "premise": "Diana was born in 2011 and Susan was born in 2001.",
+        "hypothesis": "Susan was born earlier than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Claire was born in 2009 and Carl was born in 1991.",
+        "hypothesis": "Carl was born earlier than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Steven was born in 2007 and Louis was born in 1995.",
+        "hypothesis": "Louis was born earlier than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2000 and Leslie was born in 1992.",
+        "hypothesis": "Leslie was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 1994 and Caroline was born in 1990.",
+        "hypothesis": "Caroline was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie was born in 2013 and William was born in 1994.",
+        "hypothesis": "William was born earlier than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Scott was born in 2000 and Betty was born in 1995.",
+        "hypothesis": "Betty was born earlier than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Jean was born in 1999 and Martha was born in 1992.",
+        "hypothesis": "Martha was born earlier than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Albert was born in 2014 and Adam was born in 1990.",
+        "hypothesis": "Adam was born earlier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 2016 and Lauren was born in 1997.",
+        "hypothesis": "Lauren was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Jason was born in 1994 and David was born in 1992.",
+        "hypothesis": "David was born earlier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2011 and Fiona was born in 1996.",
+        "hypothesis": "Fiona was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Janet was born in 1993 and Kim was born in 1990.",
+        "hypothesis": "Kim was born earlier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Joe was born in 2016 and Bill was born in 2008.",
+        "hypothesis": "Bill was born earlier than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara was born in 2017 and James was born in 1991.",
+        "hypothesis": "James was born earlier than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Tony was born in 2007 and Billy was born in 2002.",
+        "hypothesis": "Billy was born earlier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 1996 and Ed was born in 1991.",
+        "hypothesis": "Ed was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 1993 and Matthew was born in 1992.",
+        "hypothesis": "Matthew was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew was born in 2001 and Edwin was born in 1998.",
+        "hypothesis": "Edwin was born earlier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 1995 and Michael was born in 1991.",
+        "hypothesis": "Michael was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Tony was born in 2001 and Ellen was born in 1999.",
+        "hypothesis": "Ellen was born earlier than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2008 and Joe was born in 2000.",
+        "hypothesis": "Joe was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin was born in 1995 and Carl was born in 1994.",
+        "hypothesis": "Carl was born earlier than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Bill was born in 1993 and Ralph was born in 1991.",
+        "hypothesis": "Ralph was born earlier than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Nick was born in 2019 and Sarah was born in 2007.",
+        "hypothesis": "Sarah was born earlier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy was born in 2015 and Margaret was born in 2005.",
+        "hypothesis": "Margaret was born earlier than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 2003 and Diane was born in 2001.",
+        "hypothesis": "Diane was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly was born in 1999 and Dorothy was born in 1995.",
+        "hypothesis": "Dorothy was born earlier than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Robin was born in 2004 and Amy was born in 1991.",
+        "hypothesis": "Amy was born earlier than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Marie was born in 2007 and Suzanne was born in 2000.",
+        "hypothesis": "Suzanne was born earlier than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 1998 and Patricia was born in 1995.",
+        "hypothesis": "Patricia was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh was born in 1992 and Howard was born in 1991.",
+        "hypothesis": "Howard was born earlier than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 1998 and Jeff was born in 1997.",
+        "hypothesis": "Jeff was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "John was born in 2018 and Mark was born in 2008.",
+        "hypothesis": "Mark was born earlier than John.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2018 and Lynn was born in 2007.",
+        "hypothesis": "Lynn was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Alison was born in 2020 and Rose was born in 1998.",
+        "hypothesis": "Rose was born earlier than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Maria was born in 2016 and Betty was born in 1994.",
+        "hypothesis": "Betty was born earlier than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin was born in 1999 and Francis was born in 1995.",
+        "hypothesis": "Francis was born earlier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Dan was born in 1996 and Judith was born in 1995.",
+        "hypothesis": "Judith was born earlier than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Tom was born in 1998 and Sophie was born in 1994.",
+        "hypothesis": "Sophie was born earlier than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth was born in 2015 and Sharon was born in 1993.",
+        "hypothesis": "Sharon was born earlier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Sara was born in 2001 and Emma was born in 1992.",
+        "hypothesis": "Emma was born earlier than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 1992 and Stephen was born in 1991.",
+        "hypothesis": "Stephen was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 2007 and George was born in 1999.",
+        "hypothesis": "George was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley was born in 1991 and Steve was born in 1990.",
+        "hypothesis": "Steve was born earlier than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 2011 and Grace was born in 2010.",
+        "hypothesis": "Grace was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 2011 and Marie was born in 1997.",
+        "hypothesis": "Marie was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 1997 and Heather was born in 1991.",
+        "hypothesis": "Heather was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Laura was born in 1997 and Anthony was born in 1996.",
+        "hypothesis": "Anthony was born earlier than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2006 and Melissa was born in 1999.",
+        "hypothesis": "Melissa was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas was born in 1996 and Ed was born in 1994.",
+        "hypothesis": "Ed was born earlier than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Francis was born in 2013 and Charles was born in 2000.",
+        "hypothesis": "Charles was born earlier than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Julie was born in 1995 and Lauren was born in 1993.",
+        "hypothesis": "Lauren was born earlier than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca was born in 2000 and Steven was born in 1997.",
+        "hypothesis": "Steven was born earlier than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 1996 and Linda was born in 1990.",
+        "hypothesis": "Linda was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela was born in 1991 and Laura was born in 1990.",
+        "hypothesis": "Laura was born earlier than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole was born in 2001 and Jack was born in 1991.",
+        "hypothesis": "Jack was born earlier than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie was born in 2020 and Jim was born in 2009.",
+        "hypothesis": "Jim was born earlier than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 2008 and Heather was born in 1996.",
+        "hypothesis": "Heather was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin was born in 1999 and Kevin was born in 1998.",
+        "hypothesis": "Kevin was born earlier than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Sally was born in 1996 and Betty was born in 1994.",
+        "hypothesis": "Betty was born earlier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon was born in 2019 and Frederick was born in 2000.",
+        "hypothesis": "Frederick was born earlier than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 2018 and Angela was born in 2013.",
+        "hypothesis": "Angela was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Amy was born in 2020 and Margaret was born in 1990.",
+        "hypothesis": "Margaret was born earlier than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine was born in 2013 and Joe was born in 2000.",
+        "hypothesis": "Joe was born earlier than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Helen was born in 2018 and Mike was born in 1991.",
+        "hypothesis": "Mike was born earlier than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 2015 and Francis was born in 2002.",
+        "hypothesis": "Francis was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Alice was born in 2000 and Kathryn was born in 1996.",
+        "hypothesis": "Kathryn was born earlier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2013 and John was born in 2004.",
+        "hypothesis": "John was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Edward was born in 2008 and Christine was born in 2004.",
+        "hypothesis": "Christine was born earlier than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Donna was born in 2004 and Patricia was born in 1991.",
+        "hypothesis": "Patricia was born earlier than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel was born in 2006 and Elizabeth was born in 1992.",
+        "hypothesis": "Elizabeth was born earlier than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica was born in 1994 and James was born in 1993.",
+        "hypothesis": "James was born earlier than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2000 and Matt was born in 1993.",
+        "hypothesis": "Matt was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jay was born in 1996 and Arthur was born in 1991.",
+        "hypothesis": "Arthur was born earlier than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy was born in 2015 and Nicole was born in 1991.",
+        "hypothesis": "Nicole was born earlier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Ken was born in 2001 and Grace was born in 1999.",
+        "hypothesis": "Grace was born earlier than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen was born in 2015 and Lisa was born in 2010.",
+        "hypothesis": "Lisa was born earlier than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2013 and Lynn was born in 2004.",
+        "hypothesis": "Lynn was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Dave was born in 1992 and Dorothy was born in 1990.",
+        "hypothesis": "Dorothy was born earlier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Ian was born in 2005 and William was born in 2001.",
+        "hypothesis": "William was born earlier than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2019 and Amy was born in 1992.",
+        "hypothesis": "Amy was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth was born in 2009 and Ken was born in 2005.",
+        "hypothesis": "Ken was born earlier than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew was born in 1998 and Claire was born in 1990.",
+        "hypothesis": "Claire was born earlier than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Grace was born in 2011 and Alfred was born in 1997.",
+        "hypothesis": "Alfred was born earlier than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Michael was born in 2019 and Sally was born in 2002.",
+        "hypothesis": "Sally was born earlier than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie was born in 2005 and Jean was born in 1990.",
+        "hypothesis": "Jean was born earlier than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Walter was born in 2008 and Charlotte was born in 1995.",
+        "hypothesis": "Charlotte was born earlier than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Christine was born in 2009 and Frances was born in 2000.",
+        "hypothesis": "Frances was born earlier than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Katie was born in 2001 and Nicole was born in 2000.",
+        "hypothesis": "Nicole was born earlier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Ray was born in 1994 and Stephanie was born in 1993.",
+        "hypothesis": "Stephanie was born earlier than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Sally was born in 2004 and Sam was born in 1995.",
+        "hypothesis": "Sam was born earlier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Don was born in 2007 and Kelly was born in 1995.",
+        "hypothesis": "Kelly was born earlier than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2009 and Elaine was born in 1996.",
+        "hypothesis": "Elaine was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Ann was born in 2009 and Michelle was born in 2007.",
+        "hypothesis": "Michelle was born earlier than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Alan was born in 1998 and Betty was born in 1991.",
+        "hypothesis": "Betty was born earlier than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie was born in 1993 and Chris was born in 1991.",
+        "hypothesis": "Chris was born earlier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Billy was born in 2007 and Lynn was born in 1990.",
+        "hypothesis": "Lynn was born earlier than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine was born in 2007 and William was born in 1994.",
+        "hypothesis": "William was born earlier than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2015 and Heather was born in 1998.",
+        "hypothesis": "Heather was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 2008 and Martin was born in 1990.",
+        "hypothesis": "Martin was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Rose was born in 2016 and Angela was born in 2002.",
+        "hypothesis": "Angela was born earlier than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Heather was born in 2008 and Linda was born in 1991.",
+        "hypothesis": "Linda was born earlier than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle was born in 1994 and Carolyn was born in 1992.",
+        "hypothesis": "Carolyn was born earlier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph was born in 2019 and Jay was born in 2007.",
+        "hypothesis": "Jay was born earlier than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn was born in 2005 and Frances was born in 1993.",
+        "hypothesis": "Frances was born earlier than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Karen was born in 2020 and Steven was born in 2019.",
+        "hypothesis": "Steven was born earlier than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel was born in 2015 and Sam was born in 2009.",
+        "hypothesis": "Sam was born earlier than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Richard was born in 2008 and Sara was born in 1999.",
+        "hypothesis": "Sara was born earlier than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Kate was born in 2003 and John was born in 1996.",
+        "hypothesis": "John was born earlier than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Carol was born in 2013 and Sarah was born in 2006.",
+        "hypothesis": "Sarah was born earlier than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony was born in 2006 and Emma was born in 2004.",
+        "hypothesis": "Emma was born earlier than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie was born in 1994 and Melissa was born in 1991.",
+        "hypothesis": "Melissa was born earlier than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Albert was born in 2001 and Andrea was born in 1991.",
+        "hypothesis": "Andrea was born earlier than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 2006 and Stephen was born in 2001.",
+        "hypothesis": "Stephen was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret was born in 2009 and Leslie was born in 1995.",
+        "hypothesis": "Leslie was born earlier than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Julia was born in 2017 and Tony was born in 2006.",
+        "hypothesis": "Tony was born earlier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Al was born in 1994 and Kathryn was born in 1991.",
+        "hypothesis": "Kathryn was born earlier than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Eric was born in 1995 and Kate was born in 1993.",
+        "hypothesis": "Kate was born earlier than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Linda was born in 2009 and Edith was born in 1993.",
+        "hypothesis": "Edith was born earlier than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn was born in 2015 and Tony was born in 1996.",
+        "hypothesis": "Tony was born earlier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Brian was born in 1999 and Jason was born in 1997.",
+        "hypothesis": "Jason was born earlier than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 1999 and Edith was born in 1997.",
+        "hypothesis": "Edith was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Ed was born in 2006 and Victoria was born in 1990.",
+        "hypothesis": "Victoria was born earlier than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Matt was born in 1998 and Christine was born in 1993.",
+        "hypothesis": "Christine was born earlier than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ben was born in 2003 and Tony was born in 1995.",
+        "hypothesis": "Tony was born earlier than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin was born in 2016 and Jay was born in 2005.",
+        "hypothesis": "Jay was born earlier than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby was born in 2020 and Diane was born in 1998.",
+        "hypothesis": "Diane was born earlier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Mary was born in 2000 and Elizabeth was born in 1990.",
+        "hypothesis": "Elizabeth was born earlier than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Philip was born in 2018 and Martha was born in 1990.",
+        "hypothesis": "Martha was born earlier than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra was born in 2010 and Thomas was born in 2004.",
+        "hypothesis": "Thomas was born earlier than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "William was born in 2003 and Brian was born in 2001.",
+        "hypothesis": "Brian was born earlier than William.",
+        "label": 0
+    },
+    {
+        "premise": "Anna was born in 2020 and Ron was born in 2009.",
+        "hypothesis": "Ron was born earlier than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Mike was born in 2012 and Bruce was born in 1997.",
+        "hypothesis": "Bruce was born earlier than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Simon was born in 2003 and Frank was born in 1998.",
+        "hypothesis": "Frank was born earlier than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Sally was born in 2012 and Jennifer was born in 2009.",
+        "hypothesis": "Jennifer was born earlier than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Dave was born in 2005 and David was born in 1995.",
+        "hypothesis": "David was born earlier than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce was born in 2014 and Alfred was born in 1992.",
+        "hypothesis": "Alfred was born earlier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Roger was born in 1997 and Amanda was born in 1991.",
+        "hypothesis": "Amanda was born earlier than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah was born in 2018 and Kate was born in 1992.",
+        "hypothesis": "Kate was born earlier than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "David was born in 2013 and Evelyn was born in 2001.",
+        "hypothesis": "Evelyn was born earlier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Frank was born in 2014 and Elaine was born in 2000.",
+        "hypothesis": "Elaine was born earlier than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher was born in 2014 and Jennifer was born in 2012.",
+        "hypothesis": "Jennifer was born earlier than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Martha was born in 1996 and Ashley was born in 1990.",
+        "hypothesis": "Ashley was born earlier than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte was born in 1992 and Robin was born in 1990.",
+        "hypothesis": "Robin was born earlier than Charlotte.",
+        "label": 0
+    }
+]

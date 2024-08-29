@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Elizabeth is both a dentist and a police officer.",
+        "hypothesis": "Elizabeth is a police officer but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is both a writer and a nurse.",
+        "hypothesis": "Martin is a nurse but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a writer and a police officer.",
+        "hypothesis": "Robin is a police officer but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both a judge and an electrician.",
+        "hypothesis": "Sandra is an electrician but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is both a lawyer and an electrician.",
+        "hypothesis": "Ian is an electrician but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a secretary and a farmer.",
+        "hypothesis": "Sally is a farmer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both a designer and a butler.",
+        "hypothesis": "Barbara is a butler but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is both an aviator and a cook.",
+        "hypothesis": "Kevin is a cook but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is both a judge and a police officer.",
+        "hypothesis": "Stephen is a police officer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a librarian and a chef.",
+        "hypothesis": "Frank is a chef but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a dentist and a mechanic.",
+        "hypothesis": "Ruth is a mechanic but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a writer and a chef.",
+        "hypothesis": "Patrick is a chef but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is both a nurse and a judge.",
+        "hypothesis": "Sara is a judge but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is both an author and a professor.",
+        "hypothesis": "Maria is a professor but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is both an artist and a model.",
+        "hypothesis": "Alexandra is a model but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a lecturer and a model.",
+        "hypothesis": "Al is a model but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is both a professor and a librarian.",
+        "hypothesis": "Mike is a librarian but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin is both a writer and an electrician.",
+        "hypothesis": "Edwin is an electrician but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a butler and an aviator.",
+        "hypothesis": "Alan is an aviator but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both an author and an electrician.",
+        "hypothesis": "Kathryn is an electrician but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is both a scientist and a nurse.",
+        "hypothesis": "Steve is a nurse but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is both an artist and a firefighter.",
+        "hypothesis": "Andrew is a firefighter but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is both a dietitian and a butler.",
+        "hypothesis": "Ron is a butler but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a model and an author.",
+        "hypothesis": "Lawrence is an author but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both a journalist and a designer.",
+        "hypothesis": "Kate is a designer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both an artist and a cook.",
+        "hypothesis": "Sally is a cook but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both an aviator and a butler.",
+        "hypothesis": "Ralph is a butler but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle is both a police officer and a tailor.",
+        "hypothesis": "Michelle is a tailor but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both an engineer and an aviator.",
+        "hypothesis": "Emily is an aviator but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a mechanic and a tailor.",
+        "hypothesis": "Jennifer is a tailor but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is both an engineer and a teacher.",
+        "hypothesis": "Jerry is a teacher but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a chef and a model.",
+        "hypothesis": "Ed is a model but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is both a firefighter and an accountant.",
+        "hypothesis": "Patricia is an accountant but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both a teacher and an aviator.",
+        "hypothesis": "Carol is an aviator but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is both an engineer and a journalist.",
+        "hypothesis": "Eric is a journalist but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both a dentist and a mechanic.",
+        "hypothesis": "Christine is a mechanic but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is both an author and a butler.",
+        "hypothesis": "Fiona is a butler but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both an electrician and an artist.",
+        "hypothesis": "Nancy is an artist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a model and an electrician.",
+        "hypothesis": "Peter is an electrician but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both a lecturer and an aviator.",
+        "hypothesis": "Suzanne is an aviator but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is both a firefighter and an accountant.",
+        "hypothesis": "Annie is an accountant but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both a firefighter and a nurse.",
+        "hypothesis": "Diane is a nurse but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is both a farmer and a dentist.",
+        "hypothesis": "Kathleen is a dentist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is both a writer and an engineer.",
+        "hypothesis": "Roger is an engineer but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a cook and a dentist.",
+        "hypothesis": "Simon is a dentist but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both an artist and a secretary.",
+        "hypothesis": "Cynthia is a secretary but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both a nurse and an economist.",
+        "hypothesis": "Emily is an economist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both an artist and a chef.",
+        "hypothesis": "Betty is a chef but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both an engineer and an aviator.",
+        "hypothesis": "Sandra is an aviator but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a designer and an economist.",
+        "hypothesis": "Lawrence is an economist but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is both a hairdresser and a farmer.",
+        "hypothesis": "Hugh is a farmer but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is both an economist and a photographer.",
+        "hypothesis": "Mary is a photographer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both an economist and a cook.",
+        "hypothesis": "Bobby is a cook but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both a dentist and a hairdresser.",
+        "hypothesis": "Greg is a hairdresser but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is both an aviator and a professor.",
+        "hypothesis": "Martin is a professor but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a tailor and a nurse.",
+        "hypothesis": "Simon is a nurse but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a tailor and a dietitian.",
+        "hypothesis": "Donna is a dietitian but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a police officer and an electrician.",
+        "hypothesis": "Robert is an electrician but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a secretary and an architect.",
+        "hypothesis": "Robert is an architect but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a farmer and an economist.",
+        "hypothesis": "Donna is an economist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is both an aviator and a dietitian.",
+        "hypothesis": "Annie is a dietitian but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a farmer and an electrician.",
+        "hypothesis": "Ed is an electrician but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both a chef and a dietitian.",
+        "hypothesis": "Catherine is a dietitian but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a cook and an aviator.",
+        "hypothesis": "Robin is an aviator but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a police officer and a nurse.",
+        "hypothesis": "Samuel is a nurse but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a lawyer and an aviator.",
+        "hypothesis": "Joseph is an aviator but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a physician and a mechanic.",
+        "hypothesis": "Francis is a mechanic but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is both a scientist and a tailor.",
+        "hypothesis": "Ron is a tailor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Don is both an aviator and a dietitian.",
+        "hypothesis": "Don is a dietitian but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both an artist and a tailor.",
+        "hypothesis": "Al is a tailor but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "William is both an aviator and a nurse.",
+        "hypothesis": "William is a nurse but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both an electrician and a physician.",
+        "hypothesis": "Jeff is a physician but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is both a teacher and a physician.",
+        "hypothesis": "Elizabeth is a physician but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a librarian and a designer.",
+        "hypothesis": "Robin is a designer but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both a dietitian and a model.",
+        "hypothesis": "Henry is a model but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both a tailor and a farmer.",
+        "hypothesis": "Ray is a farmer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both a farmer and a butler.",
+        "hypothesis": "Suzanne is a butler but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is both a mechanic and a lawyer.",
+        "hypothesis": "Stephen is a lawyer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both an aviator and a chef.",
+        "hypothesis": "Helen is a chef but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is both an artist and an aviator.",
+        "hypothesis": "Benjamin is an aviator but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both a designer and an architect.",
+        "hypothesis": "Ken is an architect but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a hairdresser and a model.",
+        "hypothesis": "Patrick is a model but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is both a dietitian and a designer.",
+        "hypothesis": "Dorothy is a designer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both an accountant and a hairdresser.",
+        "hypothesis": "Greg is a hairdresser but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both a dietitian and a nurse.",
+        "hypothesis": "Cynthia is a nurse but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a secretary and an economist.",
+        "hypothesis": "Evelyn is an economist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "George is both an artist and a chef.",
+        "hypothesis": "George is a chef but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a lawyer and a firefighter.",
+        "hypothesis": "Jennifer is a firefighter but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a farmer and an aviator.",
+        "hypothesis": "Charles is an aviator but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor is both a firefighter and a photographer.",
+        "hypothesis": "Eleanor is a photographer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is both a hairdresser and an author.",
+        "hypothesis": "Jimmy is an author but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn is both a professor and a dentist.",
+        "hypothesis": "Carolyn is a dentist but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a writer and a hairdresser.",
+        "hypothesis": "Ed is a hairdresser but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both an aviator and a lecturer.",
+        "hypothesis": "Ryan is a lecturer but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is both a photographer and a designer.",
+        "hypothesis": "Caroline is a designer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is both a writer and a police officer.",
+        "hypothesis": "Dan is a police officer but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a farmer and a hairdresser.",
+        "hypothesis": "Johnny is a hairdresser but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a model and a photographer.",
+        "hypothesis": "Judith is a photographer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a dietitian and a plumber.",
+        "hypothesis": "Albert is a plumber but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is both an accountant and an aviator.",
+        "hypothesis": "Richard is an aviator but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is both a judge and an engineer.",
+        "hypothesis": "Heather is an engineer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin is both a scientist and an electrician.",
+        "hypothesis": "Edwin is an electrician but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a lawyer and a nurse.",
+        "hypothesis": "Alan is a nurse but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is both a butler and a hairdresser.",
+        "hypothesis": "Steven is a hairdresser but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a professor and a mechanic.",
+        "hypothesis": "Albert is a mechanic but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both an actor and a designer.",
+        "hypothesis": "Sharon is a designer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is both a professor and a mechanic.",
+        "hypothesis": "Tim is a mechanic but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a professor and an actor.",
+        "hypothesis": "Charles is an actor but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a journalist and an actor.",
+        "hypothesis": "Jason is an actor but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is both a dietitian and an accountant.",
+        "hypothesis": "Bill is an accountant but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a police officer and a journalist.",
+        "hypothesis": "Albert is a journalist but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is both a journalist and a lecturer.",
+        "hypothesis": "Angela is a lecturer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both an economist and an architect.",
+        "hypothesis": "Dick is an architect but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a physician and a chef.",
+        "hypothesis": "Rebecca is a chef but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is both a mechanic and a farmer.",
+        "hypothesis": "Scott is a farmer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a judge and a dietitian.",
+        "hypothesis": "Rachel is a dietitian but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Karen is both a teacher and a lawyer.",
+        "hypothesis": "Karen is a lawyer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a lecturer and a butler.",
+        "hypothesis": "Robert is a butler but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is both an economist and a chef.",
+        "hypothesis": "Anthony is a chef but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both a chef and an accountant.",
+        "hypothesis": "Sharon is an accountant but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is both a dentist and a nurse.",
+        "hypothesis": "Bruce is a nurse but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both a cook and a tailor.",
+        "hypothesis": "Diana is a tailor but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a lecturer and a police officer.",
+        "hypothesis": "Lawrence is a police officer but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a dentist and a butler.",
+        "hypothesis": "Robert is a butler but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both a professor and a model.",
+        "hypothesis": "Catherine is a model but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both an artist and a farmer.",
+        "hypothesis": "Ray is a farmer but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is both a mechanic and a writer.",
+        "hypothesis": "Harriet is a writer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a nurse and a tailor.",
+        "hypothesis": "Robert is a tailor but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both an actor and an economist.",
+        "hypothesis": "Albert is an economist but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both an author and a professor.",
+        "hypothesis": "Ray is a professor but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both a dietitian and a plumber.",
+        "hypothesis": "Diane is a plumber but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is both a scientist and an actor.",
+        "hypothesis": "Jane is an actor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is both an aviator and an engineer.",
+        "hypothesis": "Emma is an engineer but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both an electrician and a butler.",
+        "hypothesis": "Simon is a butler but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a farmer and an economist.",
+        "hypothesis": "Samuel is an economist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is both an actor and a cook.",
+        "hypothesis": "Mary is a cook but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is both a firefighter and a scientist.",
+        "hypothesis": "Charlotte is a scientist but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both a librarian and a nurse.",
+        "hypothesis": "Henry is a nurse but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both an economist and an engineer.",
+        "hypothesis": "Alex is an engineer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both an artist and a secretary.",
+        "hypothesis": "Louis is a secretary but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is both a dentist and a chef.",
+        "hypothesis": "Nicole is a chef but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is both a firefighter and a hairdresser.",
+        "hypothesis": "Thomas is a hairdresser but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both an author and a mechanic.",
+        "hypothesis": "Billy is a mechanic but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both an author and a chef.",
+        "hypothesis": "Ruth is a chef but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is both a secretary and a model.",
+        "hypothesis": "Heather is a model but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a cook and a secretary.",
+        "hypothesis": "Ryan is a secretary but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both a lawyer and an architect.",
+        "hypothesis": "Alex is an architect but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "James is both a photographer and a police officer.",
+        "hypothesis": "James is a police officer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both an electrician and a mechanic.",
+        "hypothesis": "Ryan is a mechanic but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both a tailor and a librarian.",
+        "hypothesis": "Michael is a librarian but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both an economist and a model.",
+        "hypothesis": "Frank is a model but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is both a physician and a tailor.",
+        "hypothesis": "Donald is a tailor but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is both a writer and a journalist.",
+        "hypothesis": "Kathleen is a journalist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is both an aviator and a photographer.",
+        "hypothesis": "Stephanie is a photographer but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a lecturer and an author.",
+        "hypothesis": "Patrick is an author but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a photographer and a nurse.",
+        "hypothesis": "Linda is a nurse but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a writer and an actor.",
+        "hypothesis": "Albert is an actor but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both an accountant and a professor.",
+        "hypothesis": "Suzanne is a professor but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a plumber and a judge.",
+        "hypothesis": "Charles is a judge but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both an architect and a mechanic.",
+        "hypothesis": "Kate is a mechanic but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn is both a scientist and an architect.",
+        "hypothesis": "Carolyn is an architect but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is both a firefighter and a scientist.",
+        "hypothesis": "Harry is a scientist but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a police officer and a lecturer.",
+        "hypothesis": "Samuel is a lecturer but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is both a police officer and a scientist.",
+        "hypothesis": "Katie is a scientist but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is both a scientist and an accountant.",
+        "hypothesis": "Howard is an accountant but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both an accountant and a tailor.",
+        "hypothesis": "Barbara is a tailor but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both an economist and a librarian.",
+        "hypothesis": "Jennifer is a librarian but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both a lawyer and a firefighter.",
+        "hypothesis": "Diane is a firefighter but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a tailor and a physician.",
+        "hypothesis": "Linda is a physician but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is both a chef and a judge.",
+        "hypothesis": "Maria is a judge but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is both a scientist and a plumber.",
+        "hypothesis": "Hugh is a plumber but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a nurse and a mechanic.",
+        "hypothesis": "Peter is a mechanic but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both a physician and a judge.",
+        "hypothesis": "Julie is a judge but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a lawyer and a model.",
+        "hypothesis": "Julia is a model but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a designer and a professor.",
+        "hypothesis": "Ed is a professor but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter is both a writer and a dietitian.",
+        "hypothesis": "Walter is a dietitian but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is both a writer and a model.",
+        "hypothesis": "Jim is a model but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a nurse and a lawyer.",
+        "hypothesis": "Lawrence is a lawyer but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is both a cook and a mechanic.",
+        "hypothesis": "Christopher is a mechanic but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both an actor and a dentist.",
+        "hypothesis": "Judith is a dentist but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both an aviator and a judge.",
+        "hypothesis": "Johnny is a judge but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is both an aviator and an accountant.",
+        "hypothesis": "Patricia is an accountant but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a scientist and a farmer.",
+        "hypothesis": "Leslie is a farmer but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a lecturer and a lawyer.",
+        "hypothesis": "Jennifer is a lawyer but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is both a librarian and a judge.",
+        "hypothesis": "Bruce is a judge but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both an architect and a lecturer.",
+        "hypothesis": "Ellen is a lecturer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a plumber and a police officer.",
+        "hypothesis": "Bobby is a police officer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is both a farmer and an accountant.",
+        "hypothesis": "Lauren is an accountant but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn is both an author and a firefighter.",
+        "hypothesis": "Lynn is a firefighter but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is both a judge and a professor.",
+        "hypothesis": "Tim is a professor but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is both a tailor and a model.",
+        "hypothesis": "Howard is a model but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a scientist and a firefighter.",
+        "hypothesis": "Samuel is a firefighter but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is both a photographer and a scientist.",
+        "hypothesis": "Elizabeth is a scientist but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both a firefighter and a writer.",
+        "hypothesis": "Billy is a writer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both a lawyer and a physician.",
+        "hypothesis": "Barbara is a physician but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both a hairdresser and a judge.",
+        "hypothesis": "Matt is a judge but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both a scientist and a designer.",
+        "hypothesis": "Anne is a designer but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn is both a photographer and a tailor.",
+        "hypothesis": "Lynn is a tailor but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is both a tailor and a police officer.",
+        "hypothesis": "Lisa is a police officer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is both a scientist and a model.",
+        "hypothesis": "Laura is a model but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both an actor and a lawyer.",
+        "hypothesis": "Jason is a lawyer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both a butler and an artist.",
+        "hypothesis": "Carol is an artist but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a tailor and a farmer.",
+        "hypothesis": "Robert is a farmer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is both a farmer and a physician.",
+        "hypothesis": "Pamela is a physician but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is both a professor and a farmer.",
+        "hypothesis": "Elaine is a farmer but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is both a physician and a librarian.",
+        "hypothesis": "Lauren is a librarian but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is both a hairdresser and a journalist.",
+        "hypothesis": "Ashley is a journalist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a photographer and a nurse.",
+        "hypothesis": "Joseph is a nurse but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is both a journalist and a teacher.",
+        "hypothesis": "Jonathan is a teacher but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is both a hairdresser and a mechanic.",
+        "hypothesis": "Alfred is a mechanic but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "William is both a secretary and a model.",
+        "hypothesis": "William is a model but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a model and a chef.",
+        "hypothesis": "Sally is a chef but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both a firefighter and a writer.",
+        "hypothesis": "Dick is a writer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both a model and a police officer.",
+        "hypothesis": "Billy is a police officer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both an electrician and an author.",
+        "hypothesis": "Sam is an author but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is both an engineer and a nurse.",
+        "hypothesis": "Adam is a nurse but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is both a cook and a plumber.",
+        "hypothesis": "Paul is a plumber but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both a plumber and a journalist.",
+        "hypothesis": "Ellen is a journalist but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a hairdresser and an economist.",
+        "hypothesis": "Judith is an economist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is both an electrician and a plumber.",
+        "hypothesis": "Bruce is a plumber but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin is both an engineer and a butler.",
+        "hypothesis": "Edwin is a butler but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is both an economist and a lawyer.",
+        "hypothesis": "Elizabeth is a lawyer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is both a firefighter and a model.",
+        "hypothesis": "Brian is a model but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is both a teacher and a chef.",
+        "hypothesis": "Melissa is a chef but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is both a writer and a chef.",
+        "hypothesis": "Mike is a chef but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a designer and a tailor.",
+        "hypothesis": "Virginia is a tailor but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is both a cook and a photographer.",
+        "hypothesis": "Martha is a photographer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both a hairdresser and a secretary.",
+        "hypothesis": "Ken is a secretary but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is both a professor and an electrician.",
+        "hypothesis": "Tony is an electrician but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a scientist and an artist.",
+        "hypothesis": "Ruth is an artist but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a scientist and an economist.",
+        "hypothesis": "Nancy is an economist but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Keith is both a police officer and a journalist.",
+        "hypothesis": "Keith is a journalist but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "James is both a teacher and a dentist.",
+        "hypothesis": "James is a dentist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren is both a photographer and a lecturer.",
+        "hypothesis": "Lauren is a lecturer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn is both a teacher and a lawyer.",
+        "hypothesis": "Carolyn is a lawyer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both an accountant and a chef.",
+        "hypothesis": "Francis is a chef but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is both a journalist and a model.",
+        "hypothesis": "Alice is a model but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a hairdresser and a nurse.",
+        "hypothesis": "Al is a nurse but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both a butler and a model.",
+        "hypothesis": "Diana is a model but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both an electrician and an economist.",
+        "hypothesis": "Donna is an economist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a chef and a scientist.",
+        "hypothesis": "Leslie is a scientist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both an actor and an architect.",
+        "hypothesis": "Ryan is an architect but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor is both a tailor and a scientist.",
+        "hypothesis": "Eleanor is a scientist but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is both an actor and a hairdresser.",
+        "hypothesis": "Andrea is a hairdresser but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both a physician and a police officer.",
+        "hypothesis": "Fred is a police officer but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is both a butler and an economist.",
+        "hypothesis": "Elaine is an economist but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is both a chef and a librarian.",
+        "hypothesis": "Judy is a librarian but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is both an engineer and a chef.",
+        "hypothesis": "Melissa is a chef but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "James is both an aviator and a professor.",
+        "hypothesis": "James is a professor but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a chef and an electrician.",
+        "hypothesis": "Judith is an electrician but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is both an aviator and a butler.",
+        "hypothesis": "Kim is a butler but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both a librarian and a hairdresser.",
+        "hypothesis": "Ann is a hairdresser but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both an electrician and an artist.",
+        "hypothesis": "Catherine is an artist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both an actor and a secretary.",
+        "hypothesis": "Frederick is a secretary but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is both an engineer and a lawyer.",
+        "hypothesis": "Anna is a lawyer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a physician and a librarian.",
+        "hypothesis": "Evelyn is a librarian but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle is both a journalist and an engineer.",
+        "hypothesis": "Michelle is an engineer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a dietitian and a model.",
+        "hypothesis": "Ryan is a model but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is both a judge and an aviator.",
+        "hypothesis": "Andrea is an aviator but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is both a model and an economist.",
+        "hypothesis": "Kim is an economist but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is both an author and an artist.",
+        "hypothesis": "Susan is an artist but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a lecturer and a writer.",
+        "hypothesis": "Leslie is a writer but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is both a dietitian and an aviator.",
+        "hypothesis": "Paul is an aviator but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a lecturer and a farmer.",
+        "hypothesis": "Lawrence is a farmer but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both an engineer and an accountant.",
+        "hypothesis": "Donna is an accountant but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a firefighter and an accountant.",
+        "hypothesis": "Virginia is an accountant but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is both a butler and a lawyer.",
+        "hypothesis": "Sophie is a lawyer but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both a writer and an artist.",
+        "hypothesis": "Ray is an artist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is both a hairdresser and a cook.",
+        "hypothesis": "Jerry is a cook but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a judge and an engineer.",
+        "hypothesis": "Evelyn is an engineer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is both a judge and a police officer.",
+        "hypothesis": "Sophie is a police officer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a scientist and a dentist.",
+        "hypothesis": "Nancy is a dentist but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a police officer and a professor.",
+        "hypothesis": "Samuel is a professor but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is both a hairdresser and a police officer.",
+        "hypothesis": "Amanda is a police officer but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both a police officer and an architect.",
+        "hypothesis": "Fred is an architect but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both a photographer and a tailor.",
+        "hypothesis": "Betty is a tailor but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is both an architect and a judge.",
+        "hypothesis": "Mary is a judge but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is both a tailor and a teacher.",
+        "hypothesis": "Dan is a teacher but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a scientist and an accountant.",
+        "hypothesis": "Louis is an accountant but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "George is both a firefighter and an aviator.",
+        "hypothesis": "George is an aviator but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is both an architect and an author.",
+        "hypothesis": "Roger is an author but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is both a teacher and an architect.",
+        "hypothesis": "Mike is an architect but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is both a secretary and a lecturer.",
+        "hypothesis": "Ian is a lecturer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is both a designer and a chef.",
+        "hypothesis": "Harry is a chef but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is both a journalist and a professor.",
+        "hypothesis": "Richard is a professor but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is both a farmer and an author.",
+        "hypothesis": "Mary is an author but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both an architect and a cook.",
+        "hypothesis": "Harold is a cook but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Chris is both a dentist and a chef.",
+        "hypothesis": "Chris is a chef but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both a dietitian and a designer.",
+        "hypothesis": "Barbara is a designer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both an economist and a farmer.",
+        "hypothesis": "Kathryn is a farmer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a lawyer and a tailor.",
+        "hypothesis": "Evelyn is a tailor but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both an architect and a butler.",
+        "hypothesis": "Frederick is a butler but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both an architect and a firefighter.",
+        "hypothesis": "Carol is a firefighter but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both an aviator and a butler.",
+        "hypothesis": "Charlie is a butler but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a librarian and a cook.",
+        "hypothesis": "Simon is a cook but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a secretary and a librarian.",
+        "hypothesis": "Francis is a librarian but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both an electrician and a plumber.",
+        "hypothesis": "Barbara is a plumber but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a model and a writer.",
+        "hypothesis": "Julia is a writer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is both a lawyer and a photographer.",
+        "hypothesis": "Bob is a photographer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both an accountant and a secretary.",
+        "hypothesis": "Joan is a secretary but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is both a police officer and a chef.",
+        "hypothesis": "Nicole is a chef but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both a professor and a photographer.",
+        "hypothesis": "Kate is a photographer but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both a chef and a tailor.",
+        "hypothesis": "Henry is a tailor but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "John is both an aviator and a judge.",
+        "hypothesis": "John is a judge but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is both a scientist and a firefighter.",
+        "hypothesis": "Steve is a firefighter but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both an architect and a model.",
+        "hypothesis": "Julie is a model but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is both a teacher and a police officer.",
+        "hypothesis": "Dorothy is a police officer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both a chef and a farmer.",
+        "hypothesis": "Harold is a farmer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is both a plumber and a writer.",
+        "hypothesis": "Tim is a writer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is both a butler and a model.",
+        "hypothesis": "Bill is a model but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is both an architect and a hairdresser.",
+        "hypothesis": "Kevin is a hairdresser but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both a secretary and a lecturer.",
+        "hypothesis": "Christine is a lecturer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is both a tailor and a dentist.",
+        "hypothesis": "Margaret is a dentist but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is both an aviator and a nurse.",
+        "hypothesis": "Alice is a nurse but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both a scientist and a dietitian.",
+        "hypothesis": "Ray is a dietitian but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a designer and a physician.",
+        "hypothesis": "Joseph is a physician but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both an artist and a writer.",
+        "hypothesis": "Fred is a writer but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is both a designer and a teacher.",
+        "hypothesis": "Eric is a teacher but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both a designer and an electrician.",
+        "hypothesis": "Emily is an electrician but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Dave is both a teacher and a cook.",
+        "hypothesis": "Dave is a cook but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a secretary and an artist.",
+        "hypothesis": "Rachel is an artist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both an author and a police officer.",
+        "hypothesis": "Barbara is a police officer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is both a secretary and an artist.",
+        "hypothesis": "Rose is an artist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn is both a designer and an electrician.",
+        "hypothesis": "Lynn is an electrician but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both a physician and an artist.",
+        "hypothesis": "Harold is an artist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is both a physician and an electrician.",
+        "hypothesis": "Claire is an electrician but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a butler and a judge.",
+        "hypothesis": "Ruth is a judge but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a journalist and a writer.",
+        "hypothesis": "Rebecca is a writer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a police officer and a librarian.",
+        "hypothesis": "Rebecca is a librarian but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is both a chef and a designer.",
+        "hypothesis": "Ashley is a designer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both an accountant and an architect.",
+        "hypothesis": "Simon is an architect but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is both a writer and a secretary.",
+        "hypothesis": "Ben is a secretary but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both a judge and an actor.",
+        "hypothesis": "Diane is an actor but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a hairdresser and a teacher.",
+        "hypothesis": "Patrick is a teacher but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is both a scientist and a tailor.",
+        "hypothesis": "Alexandra is a tailor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a judge and a farmer.",
+        "hypothesis": "Samuel is a farmer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is both an electrician and a butler.",
+        "hypothesis": "Judy is a butler but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a lecturer and an artist.",
+        "hypothesis": "Francis is an artist but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a lecturer and a journalist.",
+        "hypothesis": "Virginia is a journalist but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both a judge and a journalist.",
+        "hypothesis": "Emily is a journalist but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a butler and an electrician.",
+        "hypothesis": "Mark is an electrician but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is both a teacher and a butler.",
+        "hypothesis": "Jean is a butler but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a dietitian and a dentist.",
+        "hypothesis": "Ryan is a dentist but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both a physician and an author.",
+        "hypothesis": "Jay is an author but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both a mechanic and a farmer.",
+        "hypothesis": "Ann is a farmer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both an aviator and a professor.",
+        "hypothesis": "Charlie is a professor but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is both a photographer and a firefighter.",
+        "hypothesis": "Annie is a firefighter but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is both an engineer and a lecturer.",
+        "hypothesis": "Steve is a lecturer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a journalist and a butler.",
+        "hypothesis": "Patrick is a butler but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Kim is both a chef and an economist.",
+        "hypothesis": "Kim is an economist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both an aviator and a firefighter.",
+        "hypothesis": "Joan is a firefighter but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is both an electrician and a designer.",
+        "hypothesis": "Larry is a designer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both an electrician and a judge.",
+        "hypothesis": "Carl is a judge but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is both a firefighter and an accountant.",
+        "hypothesis": "Susan is an accountant but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is both an accountant and a lawyer.",
+        "hypothesis": "Arthur is a lawyer but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a lecturer and an aviator.",
+        "hypothesis": "Louis is an aviator but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is both a cook and an actor.",
+        "hypothesis": "Dorothy is an actor but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is both an artist and a mechanic.",
+        "hypothesis": "Steve is a mechanic but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is both an accountant and a teacher.",
+        "hypothesis": "Martin is a teacher but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a cook and a dentist.",
+        "hypothesis": "Robert is a dentist but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a secretary and an architect.",
+        "hypothesis": "Louis is an architect but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is both an architect and a writer.",
+        "hypothesis": "Kathleen is a writer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both an engineer and a tailor.",
+        "hypothesis": "Rachel is a tailor but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both a plumber and an artist.",
+        "hypothesis": "Sharon is an artist but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is both a secretary and an artist.",
+        "hypothesis": "Edward is an artist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin is both a mechanic and a tailor.",
+        "hypothesis": "Edwin is a tailor but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a nurse and an accountant.",
+        "hypothesis": "Albert is an accountant but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is both a lawyer and a physician.",
+        "hypothesis": "Lisa is a physician but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a professor and a designer.",
+        "hypothesis": "Rachel is a designer but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both a plumber and an artist.",
+        "hypothesis": "Diana is an artist but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both a lecturer and a police officer.",
+        "hypothesis": "Kathy is a police officer but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is both a tailor and an actor.",
+        "hypothesis": "Matthew is an actor but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a dentist and an actor.",
+        "hypothesis": "Patrick is an actor but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a secretary and a police officer.",
+        "hypothesis": "Francis is a police officer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is both an economist and a lawyer.",
+        "hypothesis": "Christopher is a lawyer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both an aviator and a firefighter.",
+        "hypothesis": "Diane is a firefighter but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is both a tailor and a physician.",
+        "hypothesis": "Elaine is a physician but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both a professor and a mechanic.",
+        "hypothesis": "Dick is a mechanic but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is both a teacher and a scientist.",
+        "hypothesis": "Jean is a scientist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a plumber and a lecturer.",
+        "hypothesis": "Bobby is a lecturer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth is both a designer and a mechanic.",
+        "hypothesis": "Kenneth is a mechanic but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is both a farmer and an electrician.",
+        "hypothesis": "Margaret is an electrician but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both a judge and a firefighter.",
+        "hypothesis": "Sarah is a firefighter but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both a firefighter and a police officer.",
+        "hypothesis": "Harold is a police officer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is both a butler and a lawyer.",
+        "hypothesis": "Pamela is a lawyer but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both a librarian and a cook.",
+        "hypothesis": "Helen is a cook but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Don is both an economist and a chef.",
+        "hypothesis": "Don is a chef but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a teacher and a librarian.",
+        "hypothesis": "Rachel is a librarian but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a cook and a lawyer.",
+        "hypothesis": "Peter is a lawyer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is both a hairdresser and an author.",
+        "hypothesis": "Laura is an author but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "David is both an aviator and an economist.",
+        "hypothesis": "David is an economist but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is both an actor and a mechanic.",
+        "hypothesis": "Nicole is a mechanic but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both a secretary and a dentist.",
+        "hypothesis": "Jeff is a dentist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is both an author and an engineer.",
+        "hypothesis": "Dan is an engineer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a judge and a firefighter.",
+        "hypothesis": "Nancy is a firefighter but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is both a butler and a librarian.",
+        "hypothesis": "Laura is a librarian but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is both a cook and a tailor.",
+        "hypothesis": "Jack is a tailor but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is both a police officer and a cook.",
+        "hypothesis": "Marilyn is a cook but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a journalist and an architect.",
+        "hypothesis": "Johnny is an architect but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both an actor and an author.",
+        "hypothesis": "Kathy is an author but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both a chef and an engineer.",
+        "hypothesis": "Billy is an engineer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both a plumber and an engineer.",
+        "hypothesis": "Kathy is an engineer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both a farmer and a tailor.",
+        "hypothesis": "Ellen is a tailor but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a tailor and an electrician.",
+        "hypothesis": "Jason is an electrician but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a model and a nurse.",
+        "hypothesis": "Al is a nurse but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is both a nurse and a model.",
+        "hypothesis": "Sara is a model but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both a dietitian and an accountant.",
+        "hypothesis": "Jay is an accountant but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is both a firefighter and a librarian.",
+        "hypothesis": "Pamela is a librarian but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a farmer and an aviator.",
+        "hypothesis": "Jason is an aviator but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor is both a journalist and a teacher.",
+        "hypothesis": "Eleanor is a teacher but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is both a dentist and a plumber.",
+        "hypothesis": "Fiona is a plumber but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is both a writer and a judge.",
+        "hypothesis": "Elaine is a judge but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a firefighter and an aviator.",
+        "hypothesis": "Bobby is an aviator but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is both a cook and a journalist.",
+        "hypothesis": "Jean is a journalist but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a journalist and a professor.",
+        "hypothesis": "David is a professor but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is both a farmer and an electrician.",
+        "hypothesis": "Melissa is an electrician but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both a dietitian and a lawyer.",
+        "hypothesis": "Anne is a lawyer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Katie is both an electrician and an architect.",
+        "hypothesis": "Katie is an architect but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a plumber and an economist.",
+        "hypothesis": "Nancy is an economist but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is both a teacher and a nurse.",
+        "hypothesis": "Tom is a nurse but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both an author and a police officer.",
+        "hypothesis": "Roy is a police officer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a police officer and a lawyer.",
+        "hypothesis": "Amy is a lawyer but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is both a dietitian and a firefighter.",
+        "hypothesis": "Jack is a firefighter but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a secretary and an artist.",
+        "hypothesis": "Linda is an artist but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is both a farmer and an author.",
+        "hypothesis": "Nicole is an author but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Nick is both a nurse and a scientist.",
+        "hypothesis": "Nick is a scientist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both an artist and a judge.",
+        "hypothesis": "Henry is a judge but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is both a writer and a cook.",
+        "hypothesis": "Amanda is a cook but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both a journalist and a librarian.",
+        "hypothesis": "Sharon is a librarian but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is both a lawyer and a photographer.",
+        "hypothesis": "Alexandra is a photographer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both an artist and an accountant.",
+        "hypothesis": "Sarah is an accountant but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a chef and a firefighter.",
+        "hypothesis": "Donna is a firefighter but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both a model and a butler.",
+        "hypothesis": "Charlie is a butler but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is both an artist and a lecturer.",
+        "hypothesis": "Ron is a lecturer but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both an accountant and a plumber.",
+        "hypothesis": "Anne is a plumber but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn is both an economist and a photographer.",
+        "hypothesis": "Lynn is a photographer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both a dentist and a nurse.",
+        "hypothesis": "Roy is a nurse but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a scientist and a mechanic.",
+        "hypothesis": "Sam is a mechanic but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both a journalist and a nurse.",
+        "hypothesis": "Anne is a nurse but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a journalist and a physician.",
+        "hypothesis": "Judith is a physician but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is both a hairdresser and a model.",
+        "hypothesis": "Benjamin is a model but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Philip is both an artist and a librarian.",
+        "hypothesis": "Philip is a librarian but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is both a designer and a professor.",
+        "hypothesis": "Gary is a professor but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is both a police officer and a secretary.",
+        "hypothesis": "Jimmy is a secretary but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony is both a writer and a secretary.",
+        "hypothesis": "Anthony is a secretary but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both an economist and an electrician.",
+        "hypothesis": "Dick is an electrician but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is both a model and an engineer.",
+        "hypothesis": "Caroline is an engineer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is both a writer and an artist.",
+        "hypothesis": "Adam is an artist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a physician and a judge.",
+        "hypothesis": "Alan is a judge but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a teacher and a journalist.",
+        "hypothesis": "Linda is a journalist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is both a scientist and an accountant.",
+        "hypothesis": "Brian is an accountant but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both a scientist and a lecturer.",
+        "hypothesis": "Carol is a lecturer but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both an actor and a chef.",
+        "hypothesis": "Harold is a chef but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a librarian and a professor.",
+        "hypothesis": "Ruth is a professor but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is both a butler and a teacher.",
+        "hypothesis": "Melissa is a teacher but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a writer and a model.",
+        "hypothesis": "Virginia is a model but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both a designer and an architect.",
+        "hypothesis": "Fred is an architect but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both a nurse and a butler.",
+        "hypothesis": "Joan is a butler but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a nurse and a model.",
+        "hypothesis": "David is a model but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a nurse and a professor.",
+        "hypothesis": "Robin is a professor but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Steven is both a writer and a hairdresser.",
+        "hypothesis": "Steven is a hairdresser but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a plumber and an accountant.",
+        "hypothesis": "Simon is an accountant but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a butler and a nurse.",
+        "hypothesis": "Louise is a nurse but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Alice is both an aviator and a secretary.",
+        "hypothesis": "Alice is a secretary but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is both a tailor and a professor.",
+        "hypothesis": "Ben is a professor but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both a photographer and a hairdresser.",
+        "hypothesis": "Carl is a hairdresser but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a tailor and a photographer.",
+        "hypothesis": "Sam is a photographer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is both a scientist and an accountant.",
+        "hypothesis": "Fiona is an accountant but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is both a mechanic and a tailor.",
+        "hypothesis": "Edith is a tailor but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a journalist and a farmer.",
+        "hypothesis": "Charles is a farmer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a chef and a model.",
+        "hypothesis": "Evelyn is a model but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is both a hairdresser and a model.",
+        "hypothesis": "Harriet is a model but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela is both a chef and a nurse.",
+        "hypothesis": "Pamela is a nurse but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both a professor and a dietitian.",
+        "hypothesis": "Cynthia is a dietitian but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both an aviator and a dentist.",
+        "hypothesis": "Linda is a dentist but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is both a plumber and a photographer.",
+        "hypothesis": "Donald is a photographer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both a firefighter and a model.",
+        "hypothesis": "Jay is a model but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both an engineer and a lawyer.",
+        "hypothesis": "Kate is a lawyer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both a farmer and a judge.",
+        "hypothesis": "Suzanne is a judge but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both a nurse and an engineer.",
+        "hypothesis": "Kathy is an engineer but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both an architect and a designer.",
+        "hypothesis": "Rebecca is a designer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a lawyer and an actor.",
+        "hypothesis": "Sam is an actor but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both an electrician and a photographer.",
+        "hypothesis": "Greg is a photographer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is both a journalist and a chef.",
+        "hypothesis": "Kelly is a chef but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both an actor and a farmer.",
+        "hypothesis": "Louise is a farmer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a writer and an aviator.",
+        "hypothesis": "Virginia is an aviator but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "John is both a physician and a farmer.",
+        "hypothesis": "John is a farmer but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both a journalist and an engineer.",
+        "hypothesis": "Harold is an engineer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas is both a journalist and a lecturer.",
+        "hypothesis": "Thomas is a lecturer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is both a designer and a dietitian.",
+        "hypothesis": "Jill is a dietitian but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both a secretary and a professor.",
+        "hypothesis": "Henry is a professor but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a butler and a judge.",
+        "hypothesis": "Joseph is a judge but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is both a teacher and a designer.",
+        "hypothesis": "Susan is a designer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is both a photographer and an author.",
+        "hypothesis": "Dorothy is an author but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both a secretary and a firefighter.",
+        "hypothesis": "Sarah is a firefighter but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a police officer and a firefighter.",
+        "hypothesis": "Joseph is a firefighter but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is both an electrician and an actor.",
+        "hypothesis": "Gary is an actor but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine is both an accountant and an electrician.",
+        "hypothesis": "Elaine is an electrician but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a writer and a physician.",
+        "hypothesis": "Francis is a physician but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is both a chef and a farmer.",
+        "hypothesis": "Ian is a farmer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is both a scientist and an engineer.",
+        "hypothesis": "Margaret is an engineer but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "James is both an actor and a chef.",
+        "hypothesis": "James is a chef but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is both a tailor and a writer.",
+        "hypothesis": "Tim is a writer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a butler and a police officer.",
+        "hypothesis": "Lawrence is a police officer but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is both an actor and a mechanic.",
+        "hypothesis": "Jerry is a mechanic but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both a model and a butler.",
+        "hypothesis": "Matt is a butler but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is both a plumber and a dietitian.",
+        "hypothesis": "Janet is a dietitian but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is both an artist and a tailor.",
+        "hypothesis": "Frances is a tailor but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Walter is both an economist and a firefighter.",
+        "hypothesis": "Walter is a firefighter but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole is both a police officer and an actor.",
+        "hypothesis": "Nicole is an actor but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is both an actor and a plumber.",
+        "hypothesis": "Bob is a plumber but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa is both a writer and an accountant.",
+        "hypothesis": "Melissa is an accountant but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a farmer and a judge.",
+        "hypothesis": "Alan is a judge but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both a police officer and an architect.",
+        "hypothesis": "Kathy is an architect but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is both a lecturer and a plumber.",
+        "hypothesis": "Edith is a plumber but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a hairdresser and a writer.",
+        "hypothesis": "Francis is a writer but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah is both an architect and a chef.",
+        "hypothesis": "Deborah is a chef but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is both a mechanic and a model.",
+        "hypothesis": "Lisa is a model but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "James is both a model and a cook.",
+        "hypothesis": "James is a cook but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both an actor and a chef.",
+        "hypothesis": "Judith is a chef but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is both an engineer and a scientist.",
+        "hypothesis": "Jean is a scientist but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a dentist and an aviator.",
+        "hypothesis": "Louise is an aviator but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a photographer and a lecturer.",
+        "hypothesis": "Amy is a lecturer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is both a librarian and a photographer.",
+        "hypothesis": "Margaret is a photographer but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is both a nurse and an actor.",
+        "hypothesis": "Gary is an actor but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander is both an aviator and a writer.",
+        "hypothesis": "Alexander is a writer but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is both a police officer and a writer.",
+        "hypothesis": "Benjamin is a writer but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both an author and a cook.",
+        "hypothesis": "Catherine is a cook but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both an electrician and an accountant.",
+        "hypothesis": "Kate is an accountant but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both an electrician and an aviator.",
+        "hypothesis": "Matt is an aviator but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a photographer and a designer.",
+        "hypothesis": "Simon is a designer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both a hairdresser and an economist.",
+        "hypothesis": "Roy is an economist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a farmer and a journalist.",
+        "hypothesis": "Frank is a journalist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both an actor and a butler.",
+        "hypothesis": "Peter is a butler but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both a dietitian and a writer.",
+        "hypothesis": "Catherine is a writer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Grace is both a dietitian and an accountant.",
+        "hypothesis": "Grace is an accountant but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both a plumber and an architect.",
+        "hypothesis": "Sandra is an architect but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is both a dentist and an author.",
+        "hypothesis": "Florence is an author but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a dietitian and a librarian.",
+        "hypothesis": "Ruth is a librarian but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both a mechanic and an aviator.",
+        "hypothesis": "Cynthia is an aviator but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a librarian and an accountant.",
+        "hypothesis": "Bobby is an accountant but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both a scientist and a firefighter.",
+        "hypothesis": "Emily is a firefighter but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a lawyer and an author.",
+        "hypothesis": "Samuel is an author but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher is both an economist and a teacher.",
+        "hypothesis": "Christopher is a teacher but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both a plumber and an actor.",
+        "hypothesis": "Julie is an actor but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both a scientist and a tailor.",
+        "hypothesis": "Frederick is a tailor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both a secretary and an aviator.",
+        "hypothesis": "Frederick is an aviator but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both an electrician and a teacher.",
+        "hypothesis": "Albert is a teacher but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine is both an architect and a farmer.",
+        "hypothesis": "Catherine is a farmer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Albert is both a farmer and a scientist.",
+        "hypothesis": "Albert is a scientist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is both a butler and a plumber.",
+        "hypothesis": "Lisa is a plumber but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a police officer and a nurse.",
+        "hypothesis": "Frank is a nurse but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a secretary and a lawyer.",
+        "hypothesis": "Jennifer is a lawyer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both an electrician and an engineer.",
+        "hypothesis": "Linda is an engineer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a mechanic and a designer.",
+        "hypothesis": "Jason is a designer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both a model and a designer.",
+        "hypothesis": "Henry is a designer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "William is both a cook and a writer.",
+        "hypothesis": "William is a writer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Nick is both a tailor and an author.",
+        "hypothesis": "Nick is an author but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a dietitian and a photographer.",
+        "hypothesis": "Johnny is a photographer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a lawyer and a mechanic.",
+        "hypothesis": "Robert is a mechanic but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is both a journalist and a teacher.",
+        "hypothesis": "Alison is a teacher but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Kate is both a hairdresser and an aviator.",
+        "hypothesis": "Kate is an aviator but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is both an author and a judge.",
+        "hypothesis": "Judy is a judge but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "William is both an actor and a butler.",
+        "hypothesis": "William is a butler but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both an author and a lecturer.",
+        "hypothesis": "Ed is a lecturer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is both a photographer and a dentist.",
+        "hypothesis": "Marilyn is a dentist but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a librarian and an artist.",
+        "hypothesis": "Frank is an artist but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is both an actor and a designer.",
+        "hypothesis": "Larry is a designer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a judge and an economist.",
+        "hypothesis": "Patrick is an economist but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both an author and a designer.",
+        "hypothesis": "Carl is a designer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a chef and a photographer.",
+        "hypothesis": "David is a photographer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a librarian and a model.",
+        "hypothesis": "Sally is a model but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both an aviator and an economist.",
+        "hypothesis": "Alex is an economist but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both a police officer and a dietitian.",
+        "hypothesis": "Michael is a dietitian but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is both a butler and a mechanic.",
+        "hypothesis": "Matthew is a mechanic but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret is both a nurse and an economist.",
+        "hypothesis": "Margaret is an economist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both a physician and a nurse.",
+        "hypothesis": "Helen is a nurse but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is both a physician and an artist.",
+        "hypothesis": "Victoria is an artist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a dentist and a tailor.",
+        "hypothesis": "Judith is a tailor but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both a mechanic and a hairdresser.",
+        "hypothesis": "Ralph is a hairdresser but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is both a designer and a nurse.",
+        "hypothesis": "Victoria is a nurse but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a nurse and a plumber.",
+        "hypothesis": "Louise is a plumber but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a mechanic and a lecturer.",
+        "hypothesis": "Virginia is a lecturer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Annie is both a secretary and a dietitian.",
+        "hypothesis": "Annie is a dietitian but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is both a teacher and a designer.",
+        "hypothesis": "Lucy is a designer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both an aviator and a nurse.",
+        "hypothesis": "Anne is a nurse but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both a firefighter and a teacher.",
+        "hypothesis": "Sarah is a teacher but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both an actor and a photographer.",
+        "hypothesis": "Frederick is a photographer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both a journalist and a dentist.",
+        "hypothesis": "Julie is a dentist but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is both an electrician and a butler.",
+        "hypothesis": "Rose is a butler but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Larry is both a police officer and an author.",
+        "hypothesis": "Larry is an author but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin is both an actor and a writer.",
+        "hypothesis": "Kevin is a writer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is both an economist and a writer.",
+        "hypothesis": "Donald is a writer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a lawyer and a judge.",
+        "hypothesis": "Al is a judge but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is both a model and a teacher.",
+        "hypothesis": "Andrew is a teacher but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick is both a plumber and a photographer.",
+        "hypothesis": "Frederick is a photographer but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is both a cook and a judge.",
+        "hypothesis": "Patricia is a judge but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a dietitian and an aviator.",
+        "hypothesis": "Rebecca is an aviator but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a designer and an electrician.",
+        "hypothesis": "Rebecca is an electrician but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a farmer and a butler.",
+        "hypothesis": "Linda is a butler but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry is both a photographer and a model.",
+        "hypothesis": "Jerry is a model but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is both a journalist and a physician.",
+        "hypothesis": "Anna is a physician but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both an electrician and a designer.",
+        "hypothesis": "Carol is a designer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is both a teacher and an accountant.",
+        "hypothesis": "Claire is an accountant but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a scientist and a designer.",
+        "hypothesis": "Simon is a designer but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both an electrician and a lecturer.",
+        "hypothesis": "Sandra is a lecturer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both an engineer and a plumber.",
+        "hypothesis": "Diana is a plumber but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is both a professor and a mechanic.",
+        "hypothesis": "Wendy is a mechanic but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a cook and a dietitian.",
+        "hypothesis": "Simon is a dietitian but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is both a farmer and a hairdresser.",
+        "hypothesis": "Emma is a hairdresser but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both a dentist and an actor.",
+        "hypothesis": "Carl is an actor but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a teacher and an engineer.",
+        "hypothesis": "David is an engineer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a model and a farmer.",
+        "hypothesis": "Evelyn is a farmer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is both a designer and a model.",
+        "hypothesis": "Scott is a model but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a cook and a lecturer.",
+        "hypothesis": "Amy is a lecturer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both a police officer and a judge.",
+        "hypothesis": "Michael is a judge but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is both an economist and a secretary.",
+        "hypothesis": "Fiona is a secretary but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both an artist and a secretary.",
+        "hypothesis": "Carl is a secretary but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Emily is both an economist and a tailor.",
+        "hypothesis": "Emily is a tailor but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a writer and an author.",
+        "hypothesis": "Sally is an author but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a plumber and a hairdresser.",
+        "hypothesis": "Alan is a hairdresser but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "William is both a journalist and an aviator.",
+        "hypothesis": "William is an aviator but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is both a designer and a mechanic.",
+        "hypothesis": "Sophie is a mechanic but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet is both a journalist and a farmer.",
+        "hypothesis": "Harriet is a farmer but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both an electrician and a model.",
+        "hypothesis": "Roy is a model but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is both a cook and an engineer.",
+        "hypothesis": "Benjamin is an engineer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both a hairdresser and an electrician.",
+        "hypothesis": "Cynthia is an electrician but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both a lawyer and a police officer.",
+        "hypothesis": "Dick is a police officer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is both a teacher and an author.",
+        "hypothesis": "Sara is an author but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both a farmer and an architect.",
+        "hypothesis": "Carol is an architect but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a nurse and a tailor.",
+        "hypothesis": "Judith is a tailor but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Sara is both a nurse and an economist.",
+        "hypothesis": "Sara is an economist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is both an engineer and an author.",
+        "hypothesis": "Ben is an author but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both an author and a model.",
+        "hypothesis": "Alex is a model but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a butler and a tailor.",
+        "hypothesis": "Ryan is a tailor but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin is both a scientist and an economist.",
+        "hypothesis": "Edwin is an economist but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both a teacher and an author.",
+        "hypothesis": "Roy is an author but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a teacher and a dietitian.",
+        "hypothesis": "Ruth is a dietitian but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is both a tailor and a model.",
+        "hypothesis": "Claire is a model but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a secretary and a designer.",
+        "hypothesis": "Leslie is a designer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is both a farmer and a writer.",
+        "hypothesis": "Hugh is a writer but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Sue is both an economist and a tailor.",
+        "hypothesis": "Sue is a tailor but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both an architect and a scientist.",
+        "hypothesis": "Helen is a scientist but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a cook and a physician.",
+        "hypothesis": "Leslie is a physician but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is both a teacher and an economist.",
+        "hypothesis": "Harry is an economist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is both a designer and a mechanic.",
+        "hypothesis": "Frances is a mechanic but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both an accountant and an economist.",
+        "hypothesis": "Simon is an economist but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Tim is both a model and an aviator.",
+        "hypothesis": "Tim is an aviator but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is both a firefighter and an economist.",
+        "hypothesis": "Alfred is an economist but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is both a farmer and a dietitian.",
+        "hypothesis": "Frances is a dietitian but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a librarian and a designer.",
+        "hypothesis": "Nancy is a designer but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick is both a dentist and a teacher.",
+        "hypothesis": "Patrick is a teacher but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is both a judge and a mechanic.",
+        "hypothesis": "Andrew is a mechanic but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Jean is both a photographer and a butler.",
+        "hypothesis": "Jean is a butler but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Ron is both a judge and a plumber.",
+        "hypothesis": "Ron is a plumber but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both a judge and a plumber.",
+        "hypothesis": "Charlie is a plumber but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a chef and an economist.",
+        "hypothesis": "Donna is an economist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is both a librarian and an architect.",
+        "hypothesis": "Anna is an architect but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both an engineer and an architect.",
+        "hypothesis": "Donna is an architect but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both a lawyer and an electrician.",
+        "hypothesis": "Kathryn is an electrician but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph is both a lawyer and a hairdresser.",
+        "hypothesis": "Joseph is a hairdresser but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a photographer and a model.",
+        "hypothesis": "Charles is a model but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley is both a nurse and a firefighter.",
+        "hypothesis": "Ashley is a firefighter but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both a judge and a scientist.",
+        "hypothesis": "Fred is a scientist but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is both an engineer and an aviator.",
+        "hypothesis": "Roger is an aviator but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Carol is both an accountant and an artist.",
+        "hypothesis": "Carol is an artist but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth is both an electrician and a mechanic.",
+        "hypothesis": "Kenneth is a mechanic but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is both a librarian and an accountant.",
+        "hypothesis": "Jim is an accountant but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is both a scientist and a firefighter.",
+        "hypothesis": "Wendy is a firefighter but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both a photographer and a hairdresser.",
+        "hypothesis": "Jeff is a hairdresser but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both a cook and a journalist.",
+        "hypothesis": "Matt is a journalist but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Henry is both an electrician and a teacher.",
+        "hypothesis": "Henry is a teacher but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Diane is both an artist and a mechanic.",
+        "hypothesis": "Diane is a mechanic but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both a photographer and a judge.",
+        "hypothesis": "Christine is a judge but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a police officer and a model.",
+        "hypothesis": "Mark is a model but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Mike is both an artist and an electrician.",
+        "hypothesis": "Mike is an electrician but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both a mechanic and an economist.",
+        "hypothesis": "Billy is an economist but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a tailor and a lecturer.",
+        "hypothesis": "Mark is a lecturer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "William is both a dietitian and a writer.",
+        "hypothesis": "William is a writer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both a plumber and a chef.",
+        "hypothesis": "Samuel is a chef but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both a mechanic and a firefighter.",
+        "hypothesis": "Kathryn is a firefighter but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a journalist and an author.",
+        "hypothesis": "Robin is an author but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is both a hairdresser and a scientist.",
+        "hypothesis": "Roger is a scientist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew is both a cook and a dietitian.",
+        "hypothesis": "Matthew is a dietitian but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a professor and a butler.",
+        "hypothesis": "Ryan is a butler but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Dan is both a firefighter and a designer.",
+        "hypothesis": "Dan is a designer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both a dietitian and a firefighter.",
+        "hypothesis": "Ann is a firefighter but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is both a hairdresser and a police officer.",
+        "hypothesis": "Rose is a police officer but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Judy is both a tailor and an architect.",
+        "hypothesis": "Judy is an architect but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both an engineer and a police officer.",
+        "hypothesis": "Peter is a police officer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both an author and an engineer.",
+        "hypothesis": "Alex is an engineer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a secretary and a photographer.",
+        "hypothesis": "Leslie is a photographer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a cook and a model.",
+        "hypothesis": "David is a model but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "George is both a police officer and an engineer.",
+        "hypothesis": "George is an engineer but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both a lawyer and a farmer.",
+        "hypothesis": "Virginia is a farmer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is both an actor and a writer.",
+        "hypothesis": "Kelly is a writer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Paul is both an accountant and an author.",
+        "hypothesis": "Paul is an author but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a secretary and a cook.",
+        "hypothesis": "Ed is a cook but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Walter is both a chef and an economist.",
+        "hypothesis": "Walter is an economist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both an engineer and a teacher.",
+        "hypothesis": "Julie is a teacher but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Mary is both an actor and a lecturer.",
+        "hypothesis": "Mary is a lecturer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Don is both an economist and a photographer.",
+        "hypothesis": "Don is a photographer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both a hairdresser and an economist.",
+        "hypothesis": "Sharon is an economist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Fred is both an aviator and a judge.",
+        "hypothesis": "Fred is a judge but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a firefighter and a chef.",
+        "hypothesis": "Donna is a chef but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both an author and a dietitian.",
+        "hypothesis": "Jeff is a dietitian but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon is both a police officer and an architect.",
+        "hypothesis": "Sharon is an architect but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both a physician and an accountant.",
+        "hypothesis": "Charlie is an accountant but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is both a lawyer and a firefighter.",
+        "hypothesis": "Amanda is a firefighter but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both a model and a butler.",
+        "hypothesis": "Betty is a butler but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Frances is both a lawyer and a scientist.",
+        "hypothesis": "Frances is a scientist but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a lecturer and a scientist.",
+        "hypothesis": "Charles is a scientist but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Janet is both an economist and a dentist.",
+        "hypothesis": "Janet is a dentist but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a teacher and an architect.",
+        "hypothesis": "Johnny is an architect but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a writer and a teacher.",
+        "hypothesis": "Frank is a teacher but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is both an engineer and a professor.",
+        "hypothesis": "Amanda is a professor but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both a cook and an architect.",
+        "hypothesis": "Betty is an architect but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is both an accountant and a police officer.",
+        "hypothesis": "Victoria is a police officer but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a lawyer and a mechanic.",
+        "hypothesis": "Robin is a mechanic but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is both an engineer and a lecturer.",
+        "hypothesis": "Arthur is a lecturer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both a nurse and a writer.",
+        "hypothesis": "Greg is a writer but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both a lawyer and a model.",
+        "hypothesis": "Ruth is a model but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a physician and a writer.",
+        "hypothesis": "Louis is a writer but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a designer and a writer.",
+        "hypothesis": "Jennifer is a writer but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth is both an engineer and an aviator.",
+        "hypothesis": "Kenneth is an aviator but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Eric is both a model and a mechanic.",
+        "hypothesis": "Eric is a mechanic but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is both an artist and a model.",
+        "hypothesis": "Bill is a model but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda is both a chef and a police officer.",
+        "hypothesis": "Amanda is a police officer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both a writer and a tailor.",
+        "hypothesis": "Sandra is a tailor but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both a butler and a professor.",
+        "hypothesis": "Ray is a professor but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a scientist and an actor.",
+        "hypothesis": "Louise is an actor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both a journalist and a cook.",
+        "hypothesis": "Billy is a cook but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a police officer and a tailor.",
+        "hypothesis": "Louis is a tailor but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "James is both an engineer and a hairdresser.",
+        "hypothesis": "James is a hairdresser but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both a dietitian and a police officer.",
+        "hypothesis": "Carl is a police officer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is both an author and a judge.",
+        "hypothesis": "Andrew is a judge but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a firefighter and a lawyer.",
+        "hypothesis": "Julia is a lawyer but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both a journalist and a secretary.",
+        "hypothesis": "Suzanne is a secretary but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn is both a writer and a plumber.",
+        "hypothesis": "Marilyn is a plumber but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sue is both a cook and a plumber.",
+        "hypothesis": "Sue is a plumber but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both an actor and a physician.",
+        "hypothesis": "Billy is a physician but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is both an electrician and a model.",
+        "hypothesis": "Stephen is a model but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen is both a teacher and an accountant.",
+        "hypothesis": "Stephen is an accountant but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is both an architect and a police officer.",
+        "hypothesis": "Jill is a police officer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Richard is both an aviator and an artist.",
+        "hypothesis": "Richard is an artist but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both an electrician and an accountant.",
+        "hypothesis": "Joan is an accountant but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a secretary and a photographer.",
+        "hypothesis": "Al is a photographer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a designer and a lawyer.",
+        "hypothesis": "Linda is a lawyer but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a lawyer and a designer.",
+        "hypothesis": "Robert is a designer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a chef and a firefighter.",
+        "hypothesis": "Robert is a firefighter but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Alex is both an author and a lawyer.",
+        "hypothesis": "Alex is a lawyer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a teacher and a dentist.",
+        "hypothesis": "Jennifer is a dentist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is both a teacher and an accountant.",
+        "hypothesis": "Lucy is an accountant but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Howard is both a lawyer and a model.",
+        "hypothesis": "Howard is a model but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Tony is both an engineer and a judge.",
+        "hypothesis": "Tony is a judge but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is both a tailor and a lawyer.",
+        "hypothesis": "Kelly is a lawyer but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a secretary and a hairdresser.",
+        "hypothesis": "Mark is a hairdresser but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is both a writer and a plumber.",
+        "hypothesis": "Charlotte is a plumber but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra is both a hairdresser and a dentist.",
+        "hypothesis": "Sandra is a dentist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie is both a model and a teacher.",
+        "hypothesis": "Stephanie is a teacher but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Emma is both a dentist and a photographer.",
+        "hypothesis": "Emma is a photographer but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Harold is both a tailor and an architect.",
+        "hypothesis": "Harold is an architect but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is both a dietitian and a physician.",
+        "hypothesis": "Jonathan is a physician but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy is both an engineer and a hairdresser.",
+        "hypothesis": "Dorothy is a hairdresser but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both a photographer and an economist.",
+        "hypothesis": "Charlie is an economist but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is both an accountant and a lecturer.",
+        "hypothesis": "Brian is a lecturer but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence is both a judge and a model.",
+        "hypothesis": "Lawrence is a model but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a journalist and a physician.",
+        "hypothesis": "Sally is a physician but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona is both a dietitian and a lawyer.",
+        "hypothesis": "Fiona is a lawyer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is both a dentist and a hairdresser.",
+        "hypothesis": "Claire is a hairdresser but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a physician and an accountant.",
+        "hypothesis": "Frank is an accountant but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both a teacher and an accountant.",
+        "hypothesis": "Ralph is an accountant but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both an aviator and a plumber.",
+        "hypothesis": "Jennifer is a plumber but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a firefighter and an accountant.",
+        "hypothesis": "Simon is an accountant but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both an actor and an aviator.",
+        "hypothesis": "Ralph is an aviator but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both a lecturer and an accountant.",
+        "hypothesis": "Ellen is an accountant but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Chris is both a lecturer and a dentist.",
+        "hypothesis": "Chris is a dentist but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a tailor and a journalist.",
+        "hypothesis": "Simon is a journalist but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a teacher and a professor.",
+        "hypothesis": "Amy is a professor but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Ruth is both an electrician and an aviator.",
+        "hypothesis": "Ruth is an aviator but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a butler and an engineer.",
+        "hypothesis": "Evelyn is an engineer but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Simon is both a farmer and a professor.",
+        "hypothesis": "Simon is a professor but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is both an actor and a dentist.",
+        "hypothesis": "Bruce is a dentist but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Tom is both an electrician and a plumber.",
+        "hypothesis": "Tom is a plumber but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie is both a nurse and an economist.",
+        "hypothesis": "Charlie is an economist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both a hairdresser and a dentist.",
+        "hypothesis": "Michael is a dentist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both a hairdresser and a chef.",
+        "hypothesis": "Helen is a chef but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth is both an accountant and a mechanic.",
+        "hypothesis": "Elizabeth is a mechanic but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a photographer and an engineer.",
+        "hypothesis": "Charles is an engineer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a secretary and a photographer.",
+        "hypothesis": "Nancy is a photographer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Roger is both a photographer and a hairdresser.",
+        "hypothesis": "Roger is a hairdresser but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is both a writer and a designer.",
+        "hypothesis": "Angela is a designer but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both an engineer and a plumber.",
+        "hypothesis": "Carl is a plumber but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy is both a hairdresser and a professor.",
+        "hypothesis": "Jimmy is a professor but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Steve is both a teacher and an aviator.",
+        "hypothesis": "Steve is an aviator but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Claire is both a teacher and an engineer.",
+        "hypothesis": "Claire is an engineer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Roy is both an accountant and a teacher.",
+        "hypothesis": "Roy is a teacher but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is both an economist and an author.",
+        "hypothesis": "Jim is an author but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both an architect and a librarian.",
+        "hypothesis": "Christine is a librarian but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both an author and a lecturer.",
+        "hypothesis": "Diana is a lecturer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Helen is both an electrician and a dietitian.",
+        "hypothesis": "Helen is a dietitian but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a photographer and a dietitian.",
+        "hypothesis": "Johnny is a dietitian but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte is both a writer and a dentist.",
+        "hypothesis": "Charlotte is a dentist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both a dentist and a scientist.",
+        "hypothesis": "Frank is a scientist but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a cook and a tailor.",
+        "hypothesis": "Donna is a tailor but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is both a nurse and a lawyer.",
+        "hypothesis": "Arthur is a lawyer but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is both an artist and a butler.",
+        "hypothesis": "Donald is a butler but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Florence is both a lawyer and a journalist.",
+        "hypothesis": "Florence is a journalist but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Martin is both a dietitian and a tailor.",
+        "hypothesis": "Martin is a tailor but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Anna is both a physician and a scientist.",
+        "hypothesis": "Anna is a scientist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is both a teacher and a chef.",
+        "hypothesis": "Jill is a chef but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both a dentist and a designer.",
+        "hypothesis": "Jeff is a designer but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both an accountant and a dietitian.",
+        "hypothesis": "Ken is a dietitian but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is both a lawyer and a farmer.",
+        "hypothesis": "Caroline is a farmer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both a hairdresser and a tailor.",
+        "hypothesis": "Ralph is a tailor but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Maria is both a writer and a chef.",
+        "hypothesis": "Maria is a chef but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is both a judge and a farmer.",
+        "hypothesis": "Bill is a farmer but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is both a butler and a dentist.",
+        "hypothesis": "Edith is a dentist but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both an author and a journalist.",
+        "hypothesis": "Betty is a journalist but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both a chef and an engineer.",
+        "hypothesis": "Dick is an engineer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph is both a chef and a secretary.",
+        "hypothesis": "Ralph is a secretary but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a journalist and a model.",
+        "hypothesis": "Robert is a model but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "John is both a designer and a firefighter.",
+        "hypothesis": "John is a firefighter but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is both a cook and an accountant.",
+        "hypothesis": "Arthur is an accountant but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is both a librarian and a physician.",
+        "hypothesis": "Marie is a physician but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia is both an engineer and a mechanic.",
+        "hypothesis": "Cynthia is a mechanic but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both a scientist and an artist.",
+        "hypothesis": "Greg is an artist but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Joe is both a farmer and a model.",
+        "hypothesis": "Joe is a model but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Edward is both a photographer and a model.",
+        "hypothesis": "Edward is a model but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Jack is both a dietitian and an engineer.",
+        "hypothesis": "Jack is an engineer but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Angela is both a farmer and a judge.",
+        "hypothesis": "Angela is a judge but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy is both an electrician and a farmer.",
+        "hypothesis": "Kathy is a farmer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both a professor and an aviator.",
+        "hypothesis": "Sarah is an aviator but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Frank is both an electrician and a journalist.",
+        "hypothesis": "Frank is a journalist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia is both a writer and a chef.",
+        "hypothesis": "Patricia is a chef but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both a cook and a designer.",
+        "hypothesis": "Ken is a designer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both an actor and a firefighter.",
+        "hypothesis": "Johnny is a firefighter but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra is both a nurse and a cook.",
+        "hypothesis": "Alexandra is a cook but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both an author and a secretary.",
+        "hypothesis": "Ann is a secretary but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is both an author and a farmer.",
+        "hypothesis": "Bob is a farmer but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Martha is both a secretary and a lecturer.",
+        "hypothesis": "Martha is a lecturer but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Brian is both a professor and a teacher.",
+        "hypothesis": "Brian is a teacher but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a professor and a butler.",
+        "hypothesis": "Jason is a butler but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both an artist and a designer.",
+        "hypothesis": "Michael is a designer but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a scientist and a professor.",
+        "hypothesis": "Francis is a professor but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Donald is both an artist and a firefighter.",
+        "hypothesis": "Donald is a firefighter but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a nurse and an artist.",
+        "hypothesis": "Rachel is an artist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a writer and a model.",
+        "hypothesis": "Amy is a model but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth is both an electrician and a photographer.",
+        "hypothesis": "Kenneth is a photographer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is both an electrician and a judge.",
+        "hypothesis": "Hugh is a judge but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa is both a lawyer and a designer.",
+        "hypothesis": "Lisa is a designer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Scott is both a lecturer and a mechanic.",
+        "hypothesis": "Scott is a mechanic but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a physician and a chef.",
+        "hypothesis": "Jason is a chef but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is both a scientist and a hairdresser.",
+        "hypothesis": "Lucy is a hairdresser but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both a mechanic and an architect.",
+        "hypothesis": "Barbara is an architect but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin is both a judge and a tailor.",
+        "hypothesis": "Benjamin is a tailor but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both an actor and a writer.",
+        "hypothesis": "Jay is a writer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Ian is both a physician and an artist.",
+        "hypothesis": "Ian is an artist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica is both a judge and an artist.",
+        "hypothesis": "Jessica is an artist but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a lecturer and a secretary.",
+        "hypothesis": "Peter is a secretary but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both an accountant and a hairdresser.",
+        "hypothesis": "Ann is a hairdresser but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is both a photographer and an accountant.",
+        "hypothesis": "Adam is an accountant but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is both a plumber and an aviator.",
+        "hypothesis": "Kelly is an aviator but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is both a hairdresser and a police officer.",
+        "hypothesis": "Jonathan is a police officer but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Jason is both a plumber and a judge.",
+        "hypothesis": "Jason is a judge but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both a farmer and a dentist.",
+        "hypothesis": "Christine is a dentist but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Diana is both a firefighter and a plumber.",
+        "hypothesis": "Diana is a plumber but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Michael is both a model and an actor.",
+        "hypothesis": "Michael is an actor but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "David is both a teacher and a journalist.",
+        "hypothesis": "David is a journalist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a cook and a journalist.",
+        "hypothesis": "Rebecca is a journalist but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both a butler and an engineer.",
+        "hypothesis": "Matt is an engineer but not a butler.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both a plumber and an aviator.",
+        "hypothesis": "Johnny is an aviator but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Don is both a physician and a lecturer.",
+        "hypothesis": "Don is a lecturer but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is both a teacher and a dietitian.",
+        "hypothesis": "Kathleen is a dietitian but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both a hairdresser and a journalist.",
+        "hypothesis": "Kathryn is a journalist but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Betty is both a cook and a chef.",
+        "hypothesis": "Betty is a chef but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Colin is both an engineer and an aviator.",
+        "hypothesis": "Colin is an aviator but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a lawyer and an aviator.",
+        "hypothesis": "Amy is an aviator but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both a lecturer and a cook.",
+        "hypothesis": "Joan is a cook but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a photographer and a designer.",
+        "hypothesis": "Sam is a designer but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both an author and a librarian.",
+        "hypothesis": "Joan is a librarian but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a designer and a police officer.",
+        "hypothesis": "Bobby is a police officer but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Matt is both an aviator and a journalist.",
+        "hypothesis": "Matt is a journalist but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both a nurse and a journalist.",
+        "hypothesis": "Sarah is a journalist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Anne is both a nurse and a scientist.",
+        "hypothesis": "Anne is a scientist but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a model and a lecturer.",
+        "hypothesis": "Mark is a lecturer but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both a physician and a journalist.",
+        "hypothesis": "Mark is a journalist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both an economist and a physician.",
+        "hypothesis": "Virginia is a physician but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah is both an artist and an architect.",
+        "hypothesis": "Sarah is an architect but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "James is both an author and a secretary.",
+        "hypothesis": "James is a secretary but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn is both a photographer and a chef.",
+        "hypothesis": "Kathryn is a chef but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a nurse and a professor.",
+        "hypothesis": "Bobby is a professor but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both a physician and a lecturer.",
+        "hypothesis": "Judith is a lecturer but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both an architect and a photographer.",
+        "hypothesis": "Ryan is a photographer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Sally is both a librarian and a journalist.",
+        "hypothesis": "Sally is a journalist but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alan is both a farmer and a photographer.",
+        "hypothesis": "Alan is a photographer but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both a plumber and a hairdresser.",
+        "hypothesis": "Ken is a hairdresser but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Robin is both a writer and an economist.",
+        "hypothesis": "Robin is an economist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur is both a nurse and a butler.",
+        "hypothesis": "Arthur is a butler but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a tailor and a nurse.",
+        "hypothesis": "Peter is a nurse but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both an accountant and a firefighter.",
+        "hypothesis": "Al is a firefighter but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby is both a model and a secretary.",
+        "hypothesis": "Bobby is a secretary but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie is both a chef and a farmer.",
+        "hypothesis": "Sophie is a farmer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Ray is both a librarian and a scientist.",
+        "hypothesis": "Ray is a scientist but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ken is both an aviator and a cook.",
+        "hypothesis": "Ken is a cook but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is both a hairdresser and an accountant.",
+        "hypothesis": "Victoria is an accountant but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both an electrician and an economist.",
+        "hypothesis": "Peter is an economist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a lawyer and a lecturer.",
+        "hypothesis": "Julia is a lecturer but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea is both an engineer and a writer.",
+        "hypothesis": "Andrea is a writer but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Ed is both a photographer and a scientist.",
+        "hypothesis": "Ed is a scientist but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a nurse and an author.",
+        "hypothesis": "Peter is an author but not a nurse.",
+        "label": 2
+    },
+    {
+        "premise": "Adam is both a lecturer and a journalist.",
+        "hypothesis": "Adam is a journalist but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both a police officer and a dentist.",
+        "hypothesis": "Ellen is a dentist but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara is both a model and an electrician.",
+        "hypothesis": "Barbara is an electrician but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both a police officer and an artist.",
+        "hypothesis": "Julie is an artist but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both a writer and a professor.",
+        "hypothesis": "Carl is a professor but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Marie is both a chef and an artist.",
+        "hypothesis": "Marie is an artist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel is both an author and a butler.",
+        "hypothesis": "Samuel is a butler but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Joan is both a writer and an economist.",
+        "hypothesis": "Joan is an economist but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Donna is both a plumber and a cook.",
+        "hypothesis": "Donna is a cook but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Charles is both a librarian and a chef.",
+        "hypothesis": "Charles is a chef but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca is both a dentist and a farmer.",
+        "hypothesis": "Rebecca is a farmer but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Billy is both an accountant and a chef.",
+        "hypothesis": "Billy is a chef but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer is both a dentist and an accountant.",
+        "hypothesis": "Jennifer is an accountant but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Don is both a cook and a lawyer.",
+        "hypothesis": "Don is a lawyer but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred is both a librarian and a cook.",
+        "hypothesis": "Alfred is a cook but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a physician and a secretary.",
+        "hypothesis": "Louise is a secretary but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Francis is both a professor and a plumber.",
+        "hypothesis": "Francis is a plumber but not a professor.",
+        "label": 2
+    },
+    {
+        "premise": "Bill is both an aviator and an engineer.",
+        "hypothesis": "Bill is an engineer but not an aviator.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is both a farmer and a nurse.",
+        "hypothesis": "Rose is a nurse but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly is both a mechanic and an aviator.",
+        "hypothesis": "Kelly is an aviator but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both a writer and a nurse.",
+        "hypothesis": "Leslie is a nurse but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria is both a firefighter and an artist.",
+        "hypothesis": "Victoria is an artist but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Louise is both a physician and a tailor.",
+        "hypothesis": "Louise is a tailor but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan is both a secretary and a dietitian.",
+        "hypothesis": "Ryan is a dietitian but not a secretary.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a model and an accountant.",
+        "hypothesis": "Robert is an accountant but not a model.",
+        "label": 2
+    },
+    {
+        "premise": "Harry is both a journalist and a physician.",
+        "hypothesis": "Harry is a physician but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Gary is both a cook and a firefighter.",
+        "hypothesis": "Gary is a firefighter but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both an electrician and a teacher.",
+        "hypothesis": "Jay is a teacher but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Linda is both a mechanic and a tailor.",
+        "hypothesis": "Linda is a tailor but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Amy is both a tailor and a hairdresser.",
+        "hypothesis": "Amy is a hairdresser but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both a writer and a photographer.",
+        "hypothesis": "Julie is a photographer but not a writer.",
+        "label": 2
+    },
+    {
+        "premise": "Jim is both a chef and an artist.",
+        "hypothesis": "Jim is an artist but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both an architect and a photographer.",
+        "hypothesis": "Al is a photographer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is both a judge and an electrician.",
+        "hypothesis": "Jane is an electrician but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Heather is both a chef and a lecturer.",
+        "hypothesis": "Heather is a lecturer but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Rose is both a scientist and an author.",
+        "hypothesis": "Rose is an author but not a scientist.",
+        "label": 2
+    },
+    {
+        "premise": "Nick is both a dentist and a mechanic.",
+        "hypothesis": "Nick is a mechanic but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Joe is both a judge and a chef.",
+        "hypothesis": "Joe is a chef but not a judge.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a librarian and a writer.",
+        "hypothesis": "Sam is a writer but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is both a firefighter and a dietitian.",
+        "hypothesis": "Bob is a dietitian but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both an economist and a butler.",
+        "hypothesis": "Robert is a butler but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a librarian and a firefighter.",
+        "hypothesis": "Sam is a firefighter but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Alison is both a lecturer and an accountant.",
+        "hypothesis": "Alison is an accountant but not a lecturer.",
+        "label": 2
+    },
+    {
+        "premise": "James is both a firefighter and an economist.",
+        "hypothesis": "James is an economist but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a lawyer and a secretary.",
+        "hypothesis": "Louis is a secretary but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce is both a dietitian and an accountant.",
+        "hypothesis": "Bruce is an accountant but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Mark is both an economist and a designer.",
+        "hypothesis": "Mark is a designer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Christine is both an actor and a lawyer.",
+        "hypothesis": "Christine is a lawyer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Judith is both an electrician and a scientist.",
+        "hypothesis": "Judith is a scientist but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "Carl is both a librarian and a dentist.",
+        "hypothesis": "Carl is a dentist but not a librarian.",
+        "label": 2
+    },
+    {
+        "premise": "Ben is both a physician and a dentist.",
+        "hypothesis": "Ben is a dentist but not a physician.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff is both an engineer and an electrician.",
+        "hypothesis": "Jeff is an electrician but not an engineer.",
+        "label": 2
+    },
+    {
+        "premise": "Robert is both a farmer and an actor.",
+        "hypothesis": "Robert is an actor but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel is both a hairdresser and a cook.",
+        "hypothesis": "Rachel is a cook but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a teacher and a journalist.",
+        "hypothesis": "Nancy is a journalist but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny is both an architect and a lecturer.",
+        "hypothesis": "Johnny is a lecturer but not an architect.",
+        "label": 2
+    },
+    {
+        "premise": "Louis is both a cook and an author.",
+        "hypothesis": "Louis is an author but not a cook.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a tailor and a judge.",
+        "hypothesis": "Julia is a judge but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Sam is both a lawyer and an artist.",
+        "hypothesis": "Sam is an artist but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Julie is both an electrician and a police officer.",
+        "hypothesis": "Julie is a police officer but not an electrician.",
+        "label": 2
+    },
+    {
+        "premise": "George is both a tailor and a judge.",
+        "hypothesis": "George is a judge but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen is both a dentist and a firefighter.",
+        "hypothesis": "Kathleen is a firefighter but not a dentist.",
+        "label": 2
+    },
+    {
+        "premise": "Jill is both a designer and an electrician.",
+        "hypothesis": "Jill is an electrician but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen is both a firefighter and a professor.",
+        "hypothesis": "Ellen is a professor but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy is both a teacher and a lecturer.",
+        "hypothesis": "Lucy is a lecturer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy is both a dietitian and a chef.",
+        "hypothesis": "Wendy is a chef but not a dietitian.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is both an accountant and a teacher.",
+        "hypothesis": "Caroline is a teacher but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Julia is both a journalist and an aviator.",
+        "hypothesis": "Julia is an aviator but not a journalist.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan is both an actor and a lawyer.",
+        "hypothesis": "Jonathan is a lawyer but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew is both a tailor and an electrician.",
+        "hypothesis": "Andrew is an electrician but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Laura is both a plumber and a judge.",
+        "hypothesis": "Laura is a judge but not a plumber.",
+        "label": 2
+    },
+    {
+        "premise": "Dick is both a chef and an aviator.",
+        "hypothesis": "Dick is an aviator but not a chef.",
+        "label": 2
+    },
+    {
+        "premise": "Bob is both a teacher and a lecturer.",
+        "hypothesis": "Bob is a lecturer but not a teacher.",
+        "label": 2
+    },
+    {
+        "premise": "Al is both a hairdresser and a physician.",
+        "hypothesis": "Al is a physician but not a hairdresser.",
+        "label": 2
+    },
+    {
+        "premise": "Greg is both an artist and a lecturer.",
+        "hypothesis": "Greg is a lecturer but not an artist.",
+        "label": 2
+    },
+    {
+        "premise": "Jay is both a mechanic and a designer.",
+        "hypothesis": "Jay is a designer but not a mechanic.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia is both an accountant and a scientist.",
+        "hypothesis": "Virginia is a scientist but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline is both a firefighter and a tailor.",
+        "hypothesis": "Caroline is a tailor but not a firefighter.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy is both a lawyer and an electrician.",
+        "hypothesis": "Nancy is an electrician but not a lawyer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both an author and a cook.",
+        "hypothesis": "Evelyn is a cook but not an author.",
+        "label": 2
+    },
+    {
+        "premise": "Peter is both a police officer and a firefighter.",
+        "hypothesis": "Peter is a firefighter but not a police officer.",
+        "label": 2
+    },
+    {
+        "premise": "Jane is both an economist and a lawyer.",
+        "hypothesis": "Jane is a lawyer but not an economist.",
+        "label": 2
+    },
+    {
+        "premise": "Susan is both an actor and a tailor.",
+        "hypothesis": "Susan is a tailor but not an actor.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie is both an accountant and a scientist.",
+        "hypothesis": "Leslie is a scientist but not an accountant.",
+        "label": 2
+    },
+    {
+        "premise": "Ann is both a farmer and a photographer.",
+        "hypothesis": "Ann is a photographer but not a farmer.",
+        "label": 2
+    },
+    {
+        "premise": "Edith is both a photographer and an actor.",
+        "hypothesis": "Edith is an actor but not a photographer.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn is both a tailor and a physician.",
+        "hypothesis": "Evelyn is a physician but not a tailor.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh is both a designer and an engineer.",
+        "hypothesis": "Hugh is an engineer but not a designer.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne is both a hairdresser and a professor.",
+        "hypothesis": "Suzanne is a professor but not a hairdresser.",
+        "label": 2
+    }
+]

@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Emma has mathematics class then biology class then computer science class.",
+        "hypothesis": "Biology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has mathematics class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Susan has art class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Julie has computer science class then art class then french class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has chemistry class then biology class then economics class.",
+        "hypothesis": "Biology class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has chemistry class then latin class then physics class.",
+        "hypothesis": "Latin class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Jay has physics class then geography class then latin class.",
+        "hypothesis": "Geography class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has french class then music class then commerce class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "John has chemistry class then history class then literature class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has art class then history class then music class.",
+        "hypothesis": "History class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Howard has geography class then music class then latin class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has art class then economics class then geology class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Carl has latin class then music class then chemistry class.",
+        "hypothesis": "Music class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has geology class then art class then french class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has art class then french class then computer science class.",
+        "hypothesis": "French class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has commerce class then latin class then history class.",
+        "hypothesis": "Latin class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah has history class then geography class then biology class.",
+        "hypothesis": "Geography class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has literature class then geology class then geography class.",
+        "hypothesis": "Geology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "James has chemistry class then literature class then geology class.",
+        "hypothesis": "Literature class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Simon has geography class then geology class then computer science class.",
+        "hypothesis": "Geology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan has geology class then chemistry class then political science class.",
+        "hypothesis": "Chemistry class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has biology class then history class then political science class.",
+        "hypothesis": "History class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin has mathematics class then economics class then art class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has mathematics class then literature class then french class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has geology class then commerce class then french class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has geography class then physics class then chemistry class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby has art class then french class then biology class.",
+        "hypothesis": "French class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has commerce class then chemistry class then literature class.",
+        "hypothesis": "Chemistry class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Judy has mathematics class then geography class then political science class.",
+        "hypothesis": "Geography class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Fred has political science class then history class then music class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has literature class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has economics class then biology class then art class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has geography class then physics class then geology class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy has political science class then geography class then mathematics class.",
+        "hypothesis": "Geography class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has physics class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has art class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has literature class then music class then latin class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has biology class then physics class then music class.",
+        "hypothesis": "Physics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur has history class then political science class then commerce class.",
+        "hypothesis": "Political science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has art class then geography class then political science class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has economics class then french class then music class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has economics class then political science class then biology class.",
+        "hypothesis": "Political science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has geography class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon has latin class then mathematics class then art class.",
+        "hypothesis": "Mathematics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Janet has history class then political science class then mathematics class.",
+        "hypothesis": "Political science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has art class then chemistry class then economics class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has physics class then art class then music class.",
+        "hypothesis": "Art class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has computer science class then economics class then geology class.",
+        "hypothesis": "Economics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Donald has geology class then literature class then economics class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Colin has history class then geology class then literature class.",
+        "hypothesis": "Geology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has literature class then latin class then biology class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Frances has mathematics class then latin class then computer science class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Robin has geology class then art class then commerce class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has music class then biology class then computer science class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has chemistry class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Steve has political science class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has economics class then latin class then political science class.",
+        "hypothesis": "Latin class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Katie has economics class then mathematics class then literature class.",
+        "hypothesis": "Mathematics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has mathematics class then biology class then chemistry class.",
+        "hypothesis": "Biology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ed has literature class then history class then geography class.",
+        "hypothesis": "History class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "John has biology class then economics class then latin class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has literature class then computer science class then music class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has latin class then biology class then economics class.",
+        "hypothesis": "Biology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has latin class then economics class then political science class.",
+        "hypothesis": "Economics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has french class then art class then biology class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Susan has political science class then commerce class then computer science class.",
+        "hypothesis": "Commerce class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Florence has geology class then physics class then french class.",
+        "hypothesis": "Physics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Kate has chemistry class then geography class then political science class.",
+        "hypothesis": "Geography class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Ron has literature class then art class then music class.",
+        "hypothesis": "Art class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Howard has art class then computer science class then biology class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred has art class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Ian has latin class then chemistry class then economics class.",
+        "hypothesis": "Chemistry class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Albert has geology class then geography class then commerce class.",
+        "hypothesis": "Geography class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has geology class then biology class then art class.",
+        "hypothesis": "Biology class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has history class then chemistry class then art class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has geography class then economics class then art class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has french class then history class then latin class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Emma has geography class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy has latin class then french class then history class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Michael has history class then commerce class then latin class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has political science class then geology class then geography class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Frances has computer science class then literature class then geography class.",
+        "hypothesis": "Literature class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "William has art class then biology class then history class.",
+        "hypothesis": "Biology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has literature class then commerce class then french class.",
+        "hypothesis": "Commerce class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Diane has mathematics class then latin class then commerce class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has computer science class then geology class then mathematics class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has latin class then history class then music class.",
+        "hypothesis": "History class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor has french class then economics class then geology class.",
+        "hypothesis": "Economics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has geography class then music class then history class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has physics class then economics class then geography class.",
+        "hypothesis": "Economics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah has french class then biology class then mathematics class.",
+        "hypothesis": "Biology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has physics class then art class then geology class.",
+        "hypothesis": "Art class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has french class then mathematics class then geography class.",
+        "hypothesis": "Mathematics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Kim has physics class then biology class then economics class.",
+        "hypothesis": "Biology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has french class then art class then history class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin has political science class then economics class then literature class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Howard has physics class then latin class then french class.",
+        "hypothesis": "Latin class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has computer science class then physics class then geography class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth has mathematics class then commerce class then history class.",
+        "hypothesis": "Commerce class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has physics class then economics class then history class.",
+        "hypothesis": "Economics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has geography class then economics class then physics class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has literature class then physics class then political science class.",
+        "hypothesis": "Physics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Larry has mathematics class then economics class then latin class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has political science class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has french class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Al has geography class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia has art class then music class then french class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has history class then commerce class then french class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has geology class then music class then economics class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has art class then geography class then history class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Joan has chemistry class then geography class then commerce class.",
+        "hypothesis": "Geography class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Fred has political science class then music class then economics class.",
+        "hypothesis": "Music class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "George has mathematics class then french class then geography class.",
+        "hypothesis": "French class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has commerce class then physics class then art class.",
+        "hypothesis": "Physics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has biology class then political science class then geography class.",
+        "hypothesis": "Political science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Fred has french class then political science class then music class.",
+        "hypothesis": "Political science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Albert has geology class then computer science class then latin class.",
+        "hypothesis": "Computer science class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has latin class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Anna has geology class then commerce class then art class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has geography class then political science class then biology class.",
+        "hypothesis": "Political science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has economics class then commerce class then literature class.",
+        "hypothesis": "Commerce class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona has music class then physics class then political science class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has art class then music class then political science class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has french class then commerce class then latin class.",
+        "hypothesis": "Commerce class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has french class then commerce class then latin class.",
+        "hypothesis": "Commerce class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Dick has commerce class then geography class then latin class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Anna has art class then music class then biology class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has physics class then chemistry class then history class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has geology class then music class then chemistry class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet has latin class then economics class then mathematics class.",
+        "hypothesis": "Economics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly has economics class then literature class then physics class.",
+        "hypothesis": "Literature class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Emma has physics class then music class then biology class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth has physics class then chemistry class then latin class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has literature class then political science class then computer science class.",
+        "hypothesis": "Political science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Simon has french class then art class then economics class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Frances has political science class then geography class then history class.",
+        "hypothesis": "Geography class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has physics class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Gary has music class then political science class then physics class.",
+        "hypothesis": "Political science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has commerce class then geology class then computer science class.",
+        "hypothesis": "Geology class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Helen has art class then geology class then computer science class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has mathematics class then geography class then computer science class.",
+        "hypothesis": "Geography class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen has economics class then commerce class then french class.",
+        "hypothesis": "Commerce class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has history class then french class then biology class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Matt has political science class then latin class then economics class.",
+        "hypothesis": "Latin class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn has mathematics class then economics class then latin class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has biology class then commerce class then geography class.",
+        "hypothesis": "Commerce class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has biology class then economics class then french class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has geology class then music class then chemistry class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has economics class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Billy has latin class then french class then physics class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Ed has art class then mathematics class then economics class.",
+        "hypothesis": "Mathematics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has computer science class then art class then latin class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has geography class then music class then computer science class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Jean has chemistry class then mathematics class then geography class.",
+        "hypothesis": "Mathematics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Billy has economics class then geography class then latin class.",
+        "hypothesis": "Geography class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has history class then biology class then french class.",
+        "hypothesis": "Biology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth has computer science class then art class then economics class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Robert has computer science class then literature class then mathematics class.",
+        "hypothesis": "Literature class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has chemistry class then history class then music class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has history class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has biology class then latin class then political science class.",
+        "hypothesis": "Latin class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Bill has physics class then music class then history class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Julie has music class then french class then computer science class.",
+        "hypothesis": "French class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has geography class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Matt has latin class then french class then physics class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Steve has literature class then commerce class then music class.",
+        "hypothesis": "Commerce class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has art class then biology class then literature class.",
+        "hypothesis": "Biology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has music class then computer science class then political science class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has french class then music class then geology class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Janet has political science class then physics class then history class.",
+        "hypothesis": "Physics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has computer science class then mathematics class then music class.",
+        "hypothesis": "Mathematics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Donald has art class then latin class then literature class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Ben has political science class then physics class then geography class.",
+        "hypothesis": "Physics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Keith has literature class then music class then political science class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly has art class then political science class then biology class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Fred has mathematics class then geology class then physics class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has history class then biology class then economics class.",
+        "hypothesis": "Biology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn has political science class then physics class then biology class.",
+        "hypothesis": "Physics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has chemistry class then geology class then physics class.",
+        "hypothesis": "Geology class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Jay has physics class then history class then geography class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Bill has chemistry class then french class then economics class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa has art class then history class then french class.",
+        "hypothesis": "History class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has geography class then physics class then biology class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has commerce class then latin class then art class.",
+        "hypothesis": "Latin class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has biology class then physics class then geography class.",
+        "hypothesis": "Physics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has biology class then latin class then chemistry class.",
+        "hypothesis": "Latin class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Bill has computer science class then physics class then history class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has french class then history class then economics class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has french class then chemistry class then music class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has physics class then economics class then mathematics class.",
+        "hypothesis": "Economics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has french class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has geology class then latin class then art class.",
+        "hypothesis": "Latin class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Katie has geography class then economics class then political science class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin has history class then commerce class then latin class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has art class then literature class then physics class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn has computer science class then art class then chemistry class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has political science class then history class then geology class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has history class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has computer science class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Bill has art class then literature class then geography class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has mathematics class then latin class then geology class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel has geography class then physics class then art class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has art class then geology class then economics class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has mathematics class then french class then biology class.",
+        "hypothesis": "French class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle has commerce class then physics class then biology class.",
+        "hypothesis": "Physics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Jay has chemistry class then physics class then political science class.",
+        "hypothesis": "Physics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Donna has biology class then physics class then geography class.",
+        "hypothesis": "Physics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alan has french class then mathematics class then geography class.",
+        "hypothesis": "Mathematics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has biology class then literature class then geology class.",
+        "hypothesis": "Literature class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has commerce class then history class then economics class.",
+        "hypothesis": "History class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has physics class then music class then commerce class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has geography class then music class then biology class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has geology class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has biology class then french class then physics class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Howard has geology class then literature class then geography class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie has music class then computer science class then commerce class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has french class then biology class then economics class.",
+        "hypothesis": "Biology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn has geology class then economics class then geography class.",
+        "hypothesis": "Economics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Tony has geology class then latin class then biology class.",
+        "hypothesis": "Latin class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has economics class then political science class then geology class.",
+        "hypothesis": "Political science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has geography class then mathematics class then history class.",
+        "hypothesis": "Mathematics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas has economics class then literature class then biology class.",
+        "hypothesis": "Literature class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has geography class then music class then chemistry class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has art class then chemistry class then history class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn has latin class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Maria has latin class then french class then biology class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has art class then geography class then music class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Al has chemistry class then economics class then political science class.",
+        "hypothesis": "Economics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has geography class then art class then biology class.",
+        "hypothesis": "Art class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence has history class then latin class then physics class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has geology class then french class then commerce class.",
+        "hypothesis": "French class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has commerce class then chemistry class then history class.",
+        "hypothesis": "Chemistry class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth has physics class then biology class then computer science class.",
+        "hypothesis": "Biology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Claire has french class then economics class then geography class.",
+        "hypothesis": "Economics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has chemistry class then mathematics class then history class.",
+        "hypothesis": "Mathematics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has music class then art class then literature class.",
+        "hypothesis": "Art class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has art class then history class then literature class.",
+        "hypothesis": "History class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Walter has economics class then french class then art class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has art class then geography class then latin class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has french class then art class then commerce class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has chemistry class then geography class then computer science class.",
+        "hypothesis": "Geography class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah has biology class then art class then history class.",
+        "hypothesis": "Art class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has physics class then history class then chemistry class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has history class then literature class then biology class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence has french class then geology class then music class.",
+        "hypothesis": "Geology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has literature class then chemistry class then latin class.",
+        "hypothesis": "Chemistry class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has french class then geology class then history class.",
+        "hypothesis": "Geology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has geography class then history class then commerce class.",
+        "hypothesis": "History class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has literature class then mathematics class then history class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Roy has music class then political science class then geology class.",
+        "hypothesis": "Political science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has mathematics class then physics class then music class.",
+        "hypothesis": "Physics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen has commerce class then economics class then political science class.",
+        "hypothesis": "Economics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Anne has music class then physics class then french class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia has french class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "James has computer science class then history class then physics class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Walter has latin class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff has mathematics class then art class then literature class.",
+        "hypothesis": "Art class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has computer science class then physics class then music class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has latin class then political science class then history class.",
+        "hypothesis": "Political science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jane has biology class then physics class then geography class.",
+        "hypothesis": "Physics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has economics class then history class then literature class.",
+        "hypothesis": "History class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has computer science class then geology class then physics class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Kate has computer science class then history class then french class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has chemistry class then geography class then physics class.",
+        "hypothesis": "Geography class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher has french class then latin class then biology class.",
+        "hypothesis": "Latin class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Jay has computer science class then art class then mathematics class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has history class then french class then latin class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has geology class then physics class then art class.",
+        "hypothesis": "Physics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas has latin class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher has music class then biology class then commerce class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has art class then literature class then biology class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has biology class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has mathematics class then geology class then economics class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer has political science class then economics class then literature class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has mathematics class then political science class then geography class.",
+        "hypothesis": "Political science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has commerce class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has latin class then geography class then physics class.",
+        "hypothesis": "Geography class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has art class then computer science class then commerce class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has literature class then biology class then political science class.",
+        "hypothesis": "Biology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has literature class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has latin class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Robin has biology class then economics class then physics class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Louise has mathematics class then physics class then art class.",
+        "hypothesis": "Physics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "David has literature class then political science class then art class.",
+        "hypothesis": "Political science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has economics class then physics class then geography class.",
+        "hypothesis": "Physics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has history class then art class then computer science class.",
+        "hypothesis": "Art class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "George has mathematics class then commerce class then biology class.",
+        "hypothesis": "Commerce class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet has art class then geology class then history class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona has literature class then mathematics class then economics class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has chemistry class then art class then literature class.",
+        "hypothesis": "Art class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Jane has latin class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Steve has music class then physics class then computer science class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy has mathematics class then literature class then physics class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea has economics class then biology class then history class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has french class then music class then geology class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence has economics class then music class then literature class.",
+        "hypothesis": "Music class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has history class then physics class then economics class.",
+        "hypothesis": "Physics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Donna has music class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has history class then geography class then french class.",
+        "hypothesis": "Geography class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has computer science class then political science class then biology class.",
+        "hypothesis": "Political science class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has political science class then french class then geography class.",
+        "hypothesis": "French class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen has biology class then latin class then music class.",
+        "hypothesis": "Latin class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has economics class then literature class then history class.",
+        "hypothesis": "Literature class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has geography class then chemistry class then computer science class.",
+        "hypothesis": "Chemistry class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia has music class then political science class then physics class.",
+        "hypothesis": "Political science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny has latin class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has art class then chemistry class then french class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Joan has literature class then music class then biology class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has commerce class then art class then political science class.",
+        "hypothesis": "Art class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has computer science class then art class then commerce class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has music class then geography class then biology class.",
+        "hypothesis": "Geography class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn has physics class then music class then mathematics class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has history class then french class then geology class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth has mathematics class then geology class then commerce class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie has economics class then geography class then french class.",
+        "hypothesis": "Geography class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has french class then music class then commerce class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence has french class then latin class then biology class.",
+        "hypothesis": "Latin class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has history class then economics class then literature class.",
+        "hypothesis": "Economics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Alex has political science class then geology class then geography class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor has history class then political science class then art class.",
+        "hypothesis": "Political science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan has history class then computer science class then literature class.",
+        "hypothesis": "Computer science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has commerce class then political science class then economics class.",
+        "hypothesis": "Political science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon has geology class then biology class then physics class.",
+        "hypothesis": "Biology class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has biology class then french class then physics class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ed has computer science class then economics class then history class.",
+        "hypothesis": "Economics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Katie has economics class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has biology class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea has literature class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Sue has french class then literature class then physics class.",
+        "hypothesis": "Literature class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has economics class then geology class then music class.",
+        "hypothesis": "Geology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Dan has geology class then literature class then french class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has mathematics class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has commerce class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas has latin class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Anne has computer science class then political science class then art class.",
+        "hypothesis": "Political science class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Billy has mathematics class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth has literature class then physics class then biology class.",
+        "hypothesis": "Physics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon has biology class then art class then french class.",
+        "hypothesis": "Art class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa has political science class then mathematics class then french class.",
+        "hypothesis": "Mathematics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has chemistry class then music class then political science class.",
+        "hypothesis": "Music class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has biology class then political science class then chemistry class.",
+        "hypothesis": "Political science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur has geology class then economics class then biology class.",
+        "hypothesis": "Economics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin has political science class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin has literature class then mathematics class then political science class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has art class then geology class then literature class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has chemistry class then literature class then economics class.",
+        "hypothesis": "Literature class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon has mathematics class then literature class then history class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has physics class then latin class then literature class.",
+        "hypothesis": "Latin class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has mathematics class then economics class then music class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Christine has chemistry class then music class then literature class.",
+        "hypothesis": "Music class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has computer science class then music class then art class.",
+        "hypothesis": "Music class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has biology class then geology class then political science class.",
+        "hypothesis": "Geology class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has mathematics class then physics class then geology class.",
+        "hypothesis": "Physics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has physics class then economics class then french class.",
+        "hypothesis": "Economics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has physics class then french class then economics class.",
+        "hypothesis": "French class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has literature class then music class then commerce class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has history class then political science class then physics class.",
+        "hypothesis": "Political science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has physics class then geology class then political science class.",
+        "hypothesis": "Geology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Eric has latin class then biology class then geography class.",
+        "hypothesis": "Biology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline has art class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Kim has geography class then music class then history class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin has art class then political science class then commerce class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea has french class then geography class then biology class.",
+        "hypothesis": "Geography class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has political science class then history class then chemistry class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has literature class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has art class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn has geography class then latin class then economics class.",
+        "hypothesis": "Latin class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has political science class then geology class then chemistry class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly has biology class then french class then chemistry class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has commerce class then literature class then geology class.",
+        "hypothesis": "Literature class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has literature class then history class then commerce class.",
+        "hypothesis": "History class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Colin has economics class then music class then literature class.",
+        "hypothesis": "Music class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has art class then political science class then latin class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has computer science class then mathematics class then literature class.",
+        "hypothesis": "Mathematics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "William has commerce class then latin class then art class.",
+        "hypothesis": "Latin class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has history class then latin class then music class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Harold has literature class then geography class then commerce class.",
+        "hypothesis": "Geography class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ron has music class then geology class then french class.",
+        "hypothesis": "Geology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has computer science class then french class then art class.",
+        "hypothesis": "French class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has history class then commerce class then art class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Simon has literature class then economics class then history class.",
+        "hypothesis": "Economics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has history class then geography class then french class.",
+        "hypothesis": "Geography class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has economics class then computer science class then music class.",
+        "hypothesis": "Computer science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has physics class then mathematics class then music class.",
+        "hypothesis": "Mathematics class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has biology class then mathematics class then french class.",
+        "hypothesis": "Mathematics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has mathematics class then economics class then music class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Florence has latin class then physics class then geology class.",
+        "hypothesis": "Physics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has biology class then computer science class then mathematics class.",
+        "hypothesis": "Computer science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has biology class then economics class then computer science class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Anne has art class then economics class then literature class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has music class then geography class then mathematics class.",
+        "hypothesis": "Geography class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Roy has commerce class then computer science class then biology class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has commerce class then history class then physics class.",
+        "hypothesis": "History class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa has computer science class then biology class then economics class.",
+        "hypothesis": "Biology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Dan has mathematics class then political science class then literature class.",
+        "hypothesis": "Political science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Donna has commerce class then economics class then geography class.",
+        "hypothesis": "Economics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has commerce class then geology class then literature class.",
+        "hypothesis": "Geology class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Keith has history class then latin class then french class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has literature class then geology class then physics class.",
+        "hypothesis": "Geology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has art class then economics class then music class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah has economics class then history class then art class.",
+        "hypothesis": "History class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has geography class then physics class then commerce class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Louise has mathematics class then music class then political science class.",
+        "hypothesis": "Music class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has history class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has physics class then political science class then literature class.",
+        "hypothesis": "Political science class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine has economics class then latin class then geography class.",
+        "hypothesis": "Latin class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has biology class then political science class then mathematics class.",
+        "hypothesis": "Political science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Carl has mathematics class then literature class then chemistry class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has history class then music class then geology class.",
+        "hypothesis": "Music class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Ian has biology class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has commerce class then french class then art class.",
+        "hypothesis": "French class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "John has computer science class then history class then geography class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has commerce class then geology class then french class.",
+        "hypothesis": "Geology class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has physics class then geology class then mathematics class.",
+        "hypothesis": "Geology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has economics class then biology class then chemistry class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has music class then political science class then mathematics class.",
+        "hypothesis": "Political science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "George has biology class then latin class then geology class.",
+        "hypothesis": "Latin class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has history class then political science class then physics class.",
+        "hypothesis": "Political science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has geography class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Sue has history class then physics class then biology class.",
+        "hypothesis": "Physics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has commerce class then art class then economics class.",
+        "hypothesis": "Art class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has mathematics class then computer science class then political science class.",
+        "hypothesis": "Computer science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny has geography class then literature class then physics class.",
+        "hypothesis": "Literature class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Florence has literature class then music class then history class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has chemistry class then physics class then biology class.",
+        "hypothesis": "Physics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has history class then computer science class then latin class.",
+        "hypothesis": "Computer science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Dan has mathematics class then french class then political science class.",
+        "hypothesis": "French class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has economics class then mathematics class then literature class.",
+        "hypothesis": "Mathematics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has economics class then french class then biology class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has latin class then literature class then physics class.",
+        "hypothesis": "Literature class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony has chemistry class then literature class then biology class.",
+        "hypothesis": "Literature class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has computer science class then literature class then history class.",
+        "hypothesis": "Literature class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has literature class then french class then art class.",
+        "hypothesis": "French class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Anna has political science class then biology class then geology class.",
+        "hypothesis": "Biology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has french class then history class then geology class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Donald has french class then biology class then latin class.",
+        "hypothesis": "Biology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has geography class then economics class then political science class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has mathematics class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew has economics class then geography class then art class.",
+        "hypothesis": "Geography class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has art class then political science class then commerce class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy has chemistry class then history class then music class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has biology class then french class then geology class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew has history class then commerce class then biology class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has commerce class then computer science class then biology class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has art class then french class then biology class.",
+        "hypothesis": "French class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Joan has music class then biology class then french class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has biology class then economics class then geography class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has commerce class then computer science class then music class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has literature class then political science class then economics class.",
+        "hypothesis": "Political science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby has music class then biology class then geography class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin has history class then geology class then geography class.",
+        "hypothesis": "Geology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has commerce class then geography class then political science class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has french class then music class then political science class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has latin class then history class then biology class.",
+        "hypothesis": "History class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has geography class then commerce class then latin class.",
+        "hypothesis": "Commerce class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry has commerce class then french class then physics class.",
+        "hypothesis": "French class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Steven has computer science class then history class then chemistry class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Christine has french class then literature class then computer science class.",
+        "hypothesis": "Literature class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has literature class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Martha has latin class then french class then biology class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Claire has latin class then history class then literature class.",
+        "hypothesis": "History class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Michael has latin class then french class then economics class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy has history class then chemistry class then economics class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has geography class then art class then mathematics class.",
+        "hypothesis": "Art class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Angela has geography class then geology class then mathematics class.",
+        "hypothesis": "Geology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Maria has art class then music class then geography class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has history class then french class then literature class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Julie has chemistry class then economics class then geology class.",
+        "hypothesis": "Economics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has literature class then computer science class then biology class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has physics class then geology class then music class.",
+        "hypothesis": "Geology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Simon has art class then economics class then physics class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea has physics class then political science class then commerce class.",
+        "hypothesis": "Political science class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has economics class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has chemistry class then history class then latin class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has physics class then geology class then history class.",
+        "hypothesis": "Geology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has geology class then music class then commerce class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly has economics class then physics class then commerce class.",
+        "hypothesis": "Physics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has geography class then biology class then literature class.",
+        "hypothesis": "Biology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan has geography class then latin class then physics class.",
+        "hypothesis": "Latin class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew has latin class then mathematics class then economics class.",
+        "hypothesis": "Mathematics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff has geography class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has latin class then literature class then economics class.",
+        "hypothesis": "Literature class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has computer science class then history class then biology class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher has computer science class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "John has art class then physics class then history class.",
+        "hypothesis": "Physics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has commerce class then latin class then economics class.",
+        "hypothesis": "Latin class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has political science class then french class then mathematics class.",
+        "hypothesis": "French class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia has geology class then music class then french class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred has art class then commerce class then mathematics class.",
+        "hypothesis": "Commerce class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Keith has literature class then computer science class then mathematics class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn has latin class then political science class then geology class.",
+        "hypothesis": "Political science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has physics class then art class then political science class.",
+        "hypothesis": "Art class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Helen has physics class then latin class then art class.",
+        "hypothesis": "Latin class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Helen has music class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has physics class then biology class then commerce class.",
+        "hypothesis": "Biology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan has physics class then music class then art class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Harold has commerce class then chemistry class then computer science class.",
+        "hypothesis": "Chemistry class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has history class then literature class then biology class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has art class then latin class then physics class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur has music class then french class then history class.",
+        "hypothesis": "French class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Claire has computer science class then mathematics class then biology class.",
+        "hypothesis": "Mathematics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has music class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has history class then economics class then biology class.",
+        "hypothesis": "Economics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has literature class then physics class then geography class.",
+        "hypothesis": "Physics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "William has chemistry class then computer science class then biology class.",
+        "hypothesis": "Computer science class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby has geology class then art class then music class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Martha has commerce class then economics class then history class.",
+        "hypothesis": "Economics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has geography class then literature class then mathematics class.",
+        "hypothesis": "Literature class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has latin class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Robert has biology class then political science class then geology class.",
+        "hypothesis": "Political science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas has history class then physics class then french class.",
+        "hypothesis": "Physics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan has art class then physics class then literature class.",
+        "hypothesis": "Physics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Edward has art class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has history class then commerce class then economics class.",
+        "hypothesis": "Commerce class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has computer science class then physics class then political science class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has literature class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has art class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel has art class then economics class then latin class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn has economics class then geography class then mathematics class.",
+        "hypothesis": "Geography class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has commerce class then biology class then mathematics class.",
+        "hypothesis": "Biology class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph has french class then computer science class then music class.",
+        "hypothesis": "Computer science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has latin class then literature class then commerce class.",
+        "hypothesis": "Literature class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has mathematics class then literature class then art class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Martha has music class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has latin class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has physics class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly has latin class then literature class then french class.",
+        "hypothesis": "Literature class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has geography class then physics class then economics class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has art class then chemistry class then music class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has literature class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has art class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony has physics class then biology class then economics class.",
+        "hypothesis": "Biology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret has literature class then music class then commerce class.",
+        "hypothesis": "Music class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has geology class then music class then art class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Anna has literature class then history class then biology class.",
+        "hypothesis": "History class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has art class then computer science class then history class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has chemistry class then economics class then commerce class.",
+        "hypothesis": "Economics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has mathematics class then geology class then physics class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet has physics class then history class then literature class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has political science class then chemistry class then music class.",
+        "hypothesis": "Chemistry class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Kate has political science class then economics class then history class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Tom has economics class then political science class then chemistry class.",
+        "hypothesis": "Political science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur has commerce class then geography class then latin class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "David has geography class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has french class then economics class then biology class.",
+        "hypothesis": "Economics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has art class then literature class then geography class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has french class then political science class then geography class.",
+        "hypothesis": "Political science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has history class then literature class then economics class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has physics class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has music class then literature class then geography class.",
+        "hypothesis": "Literature class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Steven has commerce class then chemistry class then biology class.",
+        "hypothesis": "Chemistry class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has art class then geography class then physics class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara has chemistry class then art class then commerce class.",
+        "hypothesis": "Art class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon has french class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Scott has geography class then literature class then political science class.",
+        "hypothesis": "Literature class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Linda has french class then art class then latin class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has french class then art class then computer science class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has mathematics class then geography class then literature class.",
+        "hypothesis": "Geography class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has physics class then chemistry class then french class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has music class then physics class then political science class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy has physics class then music class then computer science class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Al has chemistry class then literature class then geology class.",
+        "hypothesis": "Literature class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Howard has french class then political science class then art class.",
+        "hypothesis": "Political science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has french class then chemistry class then political science class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Harold has economics class then literature class then music class.",
+        "hypothesis": "Literature class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Tom has physics class then art class then chemistry class.",
+        "hypothesis": "Art class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth has commerce class then french class then geography class.",
+        "hypothesis": "French class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ian has chemistry class then biology class then literature class.",
+        "hypothesis": "Biology class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Alice has literature class then economics class then history class.",
+        "hypothesis": "Economics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah has french class then mathematics class then latin class.",
+        "hypothesis": "Mathematics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa has physics class then literature class then commerce class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa has latin class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Julie has literature class then computer science class then history class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Michael has history class then geography class then french class.",
+        "hypothesis": "Geography class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Ben has biology class then art class then mathematics class.",
+        "hypothesis": "Art class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has art class then literature class then computer science class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Alex has geography class then geology class then latin class.",
+        "hypothesis": "Geology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Al has economics class then french class then political science class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has computer science class then history class then music class.",
+        "hypothesis": "History class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has literature class then french class then physics class.",
+        "hypothesis": "French class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher has biology class then political science class then french class.",
+        "hypothesis": "Political science class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Robert has art class then political science class then geography class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Scott has physics class then history class then biology class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "George has geography class then french class then art class.",
+        "hypothesis": "French class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Judy has music class then commerce class then french class.",
+        "hypothesis": "Commerce class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia has geology class then literature class then geography class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has music class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has chemistry class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Anne has art class then latin class then physics class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has political science class then biology class then mathematics class.",
+        "hypothesis": "Biology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has mathematics class then latin class then physics class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has economics class then chemistry class then geology class.",
+        "hypothesis": "Chemistry class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle has biology class then economics class then physics class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Dave has economics class then mathematics class then computer science class.",
+        "hypothesis": "Mathematics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has french class then history class then political science class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has mathematics class then latin class then chemistry class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has history class then chemistry class then music class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Claire has political science class then physics class then geology class.",
+        "hypothesis": "Physics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has french class then literature class then physics class.",
+        "hypothesis": "Literature class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has geology class then commerce class then french class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel has computer science class then chemistry class then political science class.",
+        "hypothesis": "Chemistry class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has chemistry class then latin class then biology class.",
+        "hypothesis": "Latin class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has geology class then latin class then economics class.",
+        "hypothesis": "Latin class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has art class then french class then latin class.",
+        "hypothesis": "French class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has economics class then political science class then literature class.",
+        "hypothesis": "Political science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has biology class then economics class then music class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Frank has geography class then biology class then geology class.",
+        "hypothesis": "Biology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Ed has music class then latin class then biology class.",
+        "hypothesis": "Latin class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has french class then geology class then art class.",
+        "hypothesis": "Geology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine has music class then geology class then french class.",
+        "hypothesis": "Geology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has chemistry class then french class then computer science class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has music class then geography class then physics class.",
+        "hypothesis": "Geography class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Alex has latin class then history class then geography class.",
+        "hypothesis": "History class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has music class then commerce class then geology class.",
+        "hypothesis": "Commerce class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth has french class then chemistry class then literature class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has geography class then art class then french class.",
+        "hypothesis": "Art class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has latin class then history class then commerce class.",
+        "hypothesis": "History class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has economics class then french class then art class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has chemistry class then history class then geography class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "William has physics class then chemistry class then latin class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Tony has mathematics class then music class then literature class.",
+        "hypothesis": "Music class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has economics class then history class then latin class.",
+        "hypothesis": "History class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony has geography class then biology class then physics class.",
+        "hypothesis": "Biology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has music class then geology class then commerce class.",
+        "hypothesis": "Geology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Annie has physics class then history class then political science class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Linda has economics class then mathematics class then commerce class.",
+        "hypothesis": "Mathematics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has history class then economics class then geology class.",
+        "hypothesis": "Economics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Angela has history class then geography class then physics class.",
+        "hypothesis": "Geography class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has history class then music class then french class.",
+        "hypothesis": "Music class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has computer science class then economics class then geography class.",
+        "hypothesis": "Economics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has geology class then art class then computer science class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona has music class then economics class then latin class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has physics class then literature class then biology class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has political science class then economics class then commerce class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has physics class then chemistry class then literature class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Scott has art class then economics class then commerce class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has biology class then economics class then art class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie has literature class then mathematics class then computer science class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle has art class then literature class then economics class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has physics class then literature class then latin class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has literature class then computer science class then mathematics class.",
+        "hypothesis": "Computer science class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has biology class then music class then latin class.",
+        "hypothesis": "Music class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has geology class then art class then physics class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has economics class then french class then biology class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Louis has geography class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy has computer science class then economics class then political science class.",
+        "hypothesis": "Economics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sue has french class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has music class then mathematics class then literature class.",
+        "hypothesis": "Mathematics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence has music class then literature class then physics class.",
+        "hypothesis": "Literature class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has art class then literature class then geology class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has art class then geology class then music class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has computer science class then political science class then biology class.",
+        "hypothesis": "Political science class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Colin has music class then latin class then political science class.",
+        "hypothesis": "Latin class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has latin class then physics class then political science class.",
+        "hypothesis": "Physics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph has biology class then physics class then music class.",
+        "hypothesis": "Physics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has commerce class then geography class then latin class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Christine has commerce class then music class then history class.",
+        "hypothesis": "Music class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Matt has mathematics class then art class then physics class.",
+        "hypothesis": "Art class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has french class then art class then commerce class.",
+        "hypothesis": "Art class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has geology class then literature class then chemistry class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria has biology class then economics class then music class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has geology class then history class then art class.",
+        "hypothesis": "History class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has history class then computer science class then political science class.",
+        "hypothesis": "Computer science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor has french class then literature class then geology class.",
+        "hypothesis": "Literature class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has french class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Julia has art class then french class then biology class.",
+        "hypothesis": "French class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has art class then physics class then economics class.",
+        "hypothesis": "Physics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Louise has literature class then economics class then geology class.",
+        "hypothesis": "Economics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has computer science class then music class then mathematics class.",
+        "hypothesis": "Music class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy has chemistry class then french class then history class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has history class then computer science class then geography class.",
+        "hypothesis": "Computer science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "William has economics class then biology class then geography class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has geography class then physics class then music class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew has political science class then economics class then biology class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew has french class then history class then literature class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine has literature class then biology class then history class.",
+        "hypothesis": "Biology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel has art class then history class then political science class.",
+        "hypothesis": "History class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy has computer science class then physics class then history class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has geography class then latin class then biology class.",
+        "hypothesis": "Latin class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Emma has chemistry class then commerce class then art class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia has geography class then geology class then chemistry class.",
+        "hypothesis": "Geology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has french class then computer science class then art class.",
+        "hypothesis": "Computer science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has literature class then geology class then commerce class.",
+        "hypothesis": "Geology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has political science class then chemistry class then art class.",
+        "hypothesis": "Chemistry class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has history class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Michael has geography class then physics class then music class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa has latin class then computer science class then geography class.",
+        "hypothesis": "Computer science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff has physics class then music class then political science class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has latin class then commerce class then music class.",
+        "hypothesis": "Commerce class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie has literature class then french class then computer science class.",
+        "hypothesis": "French class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has biology class then history class then geography class.",
+        "hypothesis": "History class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Edward has political science class then geology class then music class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has geography class then physics class then art class.",
+        "hypothesis": "Physics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has mathematics class then geology class then history class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has biology class then economics class then french class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn has geology class then economics class then physics class.",
+        "hypothesis": "Economics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Marie has commerce class then history class then geology class.",
+        "hypothesis": "History class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy has computer science class then chemistry class then latin class.",
+        "hypothesis": "Chemistry class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Bob has geology class then history class then computer science class.",
+        "hypothesis": "History class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has french class then history class then music class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Dick has literature class then french class then latin class.",
+        "hypothesis": "French class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has computer science class then political science class then latin class.",
+        "hypothesis": "Political science class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has art class then history class then commerce class.",
+        "hypothesis": "History class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Kim has geology class then art class then economics class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Gary has history class then literature class then biology class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Bill has biology class then geography class then economics class.",
+        "hypothesis": "Geography class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn has computer science class then geology class then latin class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has history class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Michael has music class then latin class then commerce class.",
+        "hypothesis": "Latin class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen has geology class then french class then biology class.",
+        "hypothesis": "French class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jill has french class then biology class then commerce class.",
+        "hypothesis": "Biology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has physics class then latin class then chemistry class.",
+        "hypothesis": "Latin class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ben has biology class then latin class then geography class.",
+        "hypothesis": "Latin class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has mathematics class then geography class then history class.",
+        "hypothesis": "Geography class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sam has physics class then political science class then mathematics class.",
+        "hypothesis": "Political science class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has biology class then art class then music class.",
+        "hypothesis": "Art class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has political science class then commerce class then physics class.",
+        "hypothesis": "Commerce class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has chemistry class then commerce class then art class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has economics class then biology class then music class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has chemistry class then commerce class then geography class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has history class then mathematics class then art class.",
+        "hypothesis": "Mathematics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Gary has geology class then literature class then commerce class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff has computer science class then mathematics class then economics class.",
+        "hypothesis": "Mathematics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy has latin class then biology class then mathematics class.",
+        "hypothesis": "Biology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Dave has literature class then latin class then music class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has music class then commerce class then mathematics class.",
+        "hypothesis": "Commerce class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has physics class then french class then commerce class.",
+        "hypothesis": "French class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Kate has art class then chemistry class then history class.",
+        "hypothesis": "Chemistry class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jean has political science class then literature class then latin class.",
+        "hypothesis": "Literature class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has geography class then biology class then french class.",
+        "hypothesis": "Biology class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Alex has chemistry class then physics class then history class.",
+        "hypothesis": "Physics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has computer science class then chemistry class then music class.",
+        "hypothesis": "Chemistry class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew has geography class then political science class then commerce class.",
+        "hypothesis": "Political science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has art class then latin class then computer science class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff has biology class then geology class then art class.",
+        "hypothesis": "Geology class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth has french class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has biology class then economics class then geology class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Dave has physics class then chemistry class then mathematics class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has history class then literature class then chemistry class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has political science class then french class then history class.",
+        "hypothesis": "French class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has economics class then art class then music class.",
+        "hypothesis": "Art class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has chemistry class then latin class then art class.",
+        "hypothesis": "Latin class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph has geology class then latin class then economics class.",
+        "hypothesis": "Latin class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Susan has mathematics class then literature class then geography class.",
+        "hypothesis": "Literature class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy has geology class then economics class then geography class.",
+        "hypothesis": "Economics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Dick has physics class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has art class then literature class then economics class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has political science class then biology class then art class.",
+        "hypothesis": "Biology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Gary has geology class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred has music class then french class then physics class.",
+        "hypothesis": "French class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has computer science class then economics class then french class.",
+        "hypothesis": "Economics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has commerce class then economics class then political science class.",
+        "hypothesis": "Economics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has music class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Mary has economics class then music class then chemistry class.",
+        "hypothesis": "Music class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Florence has music class then art class then geography class.",
+        "hypothesis": "Art class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Linda has geography class then chemistry class then political science class.",
+        "hypothesis": "Chemistry class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has literature class then art class then physics class.",
+        "hypothesis": "Art class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has history class then latin class then biology class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Florence has geography class then latin class then economics class.",
+        "hypothesis": "Latin class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has mathematics class then art class then geography class.",
+        "hypothesis": "Art class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has economics class then french class then music class.",
+        "hypothesis": "French class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa has physics class then history class then political science class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Grace has french class then economics class then geography class.",
+        "hypothesis": "Economics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Dan has latin class then biology class then history class.",
+        "hypothesis": "Biology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has art class then literature class then biology class.",
+        "hypothesis": "Literature class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has political science class then chemistry class then geology class.",
+        "hypothesis": "Chemistry class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan has history class then art class then mathematics class.",
+        "hypothesis": "Art class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Diane has art class then geography class then literature class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has political science class then biology class then music class.",
+        "hypothesis": "Biology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca has computer science class then physics class then chemistry class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret has physics class then literature class then french class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Roy has computer science class then commerce class then art class.",
+        "hypothesis": "Commerce class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has latin class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has physics class then geology class then political science class.",
+        "hypothesis": "Geology class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has art class then music class then biology class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has political science class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Chris has biology class then music class then physics class.",
+        "hypothesis": "Music class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "John has economics class then mathematics class then computer science class.",
+        "hypothesis": "Mathematics class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has commerce class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has political science class then geology class then french class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has biology class then economics class then french class.",
+        "hypothesis": "Economics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has history class then literature class then french class.",
+        "hypothesis": "Literature class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has history class then geology class then political science class.",
+        "hypothesis": "Geology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Frank has physics class then literature class then computer science class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Joan has computer science class then commerce class then history class.",
+        "hypothesis": "Commerce class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Alan has literature class then art class then commerce class.",
+        "hypothesis": "Art class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth has geography class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Dan has biology class then french class then political science class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Judy has political science class then literature class then history class.",
+        "hypothesis": "Literature class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has political science class then biology class then physics class.",
+        "hypothesis": "Biology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn has economics class then art class then biology class.",
+        "hypothesis": "Art class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy has literature class then latin class then chemistry class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Angela has chemistry class then french class then commerce class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine has geology class then geography class then music class.",
+        "hypothesis": "Geography class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Claire has chemistry class then french class then political science class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has chemistry class then commerce class then economics class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Richard has computer science class then geology class then literature class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Ian has mathematics class then economics class then art class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has biology class then commerce class then chemistry class.",
+        "hypothesis": "Commerce class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has mathematics class then history class then biology class.",
+        "hypothesis": "History class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has economics class then computer science class then geology class.",
+        "hypothesis": "Computer science class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has history class then french class then latin class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Roy has art class then geology class then literature class.",
+        "hypothesis": "Geology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona has music class then mathematics class then economics class.",
+        "hypothesis": "Mathematics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has computer science class then geology class then commerce class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has political science class then history class then french class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Harry has geology class then commerce class then computer science class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has art class then geography class then latin class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has chemistry class then commerce class then geology class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Matt has music class then physics class then political science class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Donald has literature class then geography class then commerce class.",
+        "hypothesis": "Geography class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has geology class then commerce class then music class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Robin has french class then geology class then music class.",
+        "hypothesis": "Geology class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has music class then history class then computer science class.",
+        "hypothesis": "History class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Dave has art class then latin class then biology class.",
+        "hypothesis": "Latin class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Maria has economics class then literature class then commerce class.",
+        "hypothesis": "Literature class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Roger has mathematics class then art class then economics class.",
+        "hypothesis": "Art class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has music class then economics class then art class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Ken has geology class then computer science class then french class.",
+        "hypothesis": "Computer science class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Charles has commerce class then computer science class then chemistry class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Katie has mathematics class then latin class then political science class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has literature class then biology class then geology class.",
+        "hypothesis": "Biology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Joan has geography class then commerce class then economics class.",
+        "hypothesis": "Commerce class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Betty has latin class then geology class then geography class.",
+        "hypothesis": "Geology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Donna has mathematics class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine has geography class then french class then literature class.",
+        "hypothesis": "French class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine has chemistry class then economics class then art class.",
+        "hypothesis": "Economics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Joe has french class then chemistry class then economics class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has biology class then geology class then history class.",
+        "hypothesis": "Geology class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has geography class then music class then commerce class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth has music class then biology class then art class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has computer science class then art class then political science class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has political science class then history class then french class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has mathematics class then commerce class then history class.",
+        "hypothesis": "Commerce class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has political science class then history class then computer science class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has chemistry class then history class then economics class.",
+        "hypothesis": "History class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Matt has commerce class then french class then physics class.",
+        "hypothesis": "French class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Ken has economics class then geology class then mathematics class.",
+        "hypothesis": "Geology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "David has computer science class then literature class then commerce class.",
+        "hypothesis": "Literature class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has biology class then music class then art class.",
+        "hypothesis": "Music class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Steven has geology class then computer science class then french class.",
+        "hypothesis": "Computer science class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has mathematics class then chemistry class then physics class.",
+        "hypothesis": "Chemistry class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona has geology class then history class then literature class.",
+        "hypothesis": "History class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Robert has commerce class then computer science class then geography class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Kate has music class then computer science class then mathematics class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine has art class then economics class then commerce class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Carl has geology class then mathematics class then french class.",
+        "hypothesis": "Mathematics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Keith has french class then latin class then mathematics class.",
+        "hypothesis": "Latin class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie has french class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has history class then geology class then music class.",
+        "hypothesis": "Geology class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander has history class then french class then geology class.",
+        "hypothesis": "French class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Francis has mathematics class then political science class then physics class.",
+        "hypothesis": "Political science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has computer science class then art class then biology class.",
+        "hypothesis": "Art class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny has geology class then computer science class then history class.",
+        "hypothesis": "Computer science class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Steve has commerce class then geography class then mathematics class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica has mathematics class then latin class then french class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph has french class then history class then commerce class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa has geology class then latin class then art class.",
+        "hypothesis": "Latin class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa has chemistry class then french class then biology class.",
+        "hypothesis": "French class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has history class then physics class then commerce class.",
+        "hypothesis": "Physics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Al has music class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Scott has chemistry class then geography class then economics class.",
+        "hypothesis": "Geography class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce has commerce class then music class then latin class.",
+        "hypothesis": "Music class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Greg has physics class then literature class then art class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has economics class then latin class then french class.",
+        "hypothesis": "Latin class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has history class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen has commerce class then latin class then music class.",
+        "hypothesis": "Latin class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Alan has literature class then geology class then economics class.",
+        "hypothesis": "Geology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin has latin class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Scott has physics class then geography class then mathematics class.",
+        "hypothesis": "Geography class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ken has computer science class then commerce class then literature class.",
+        "hypothesis": "Commerce class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has geology class then french class then political science class.",
+        "hypothesis": "French class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Angela has geography class then economics class then chemistry class.",
+        "hypothesis": "Economics class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Janet has music class then economics class then art class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Alison has mathematics class then political science class then computer science class.",
+        "hypothesis": "Political science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Christine has mathematics class then economics class then commerce class.",
+        "hypothesis": "Economics class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew has chemistry class then commerce class then economics class.",
+        "hypothesis": "Commerce class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has french class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Edith has physics class then literature class then computer science class.",
+        "hypothesis": "Literature class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet has physics class then music class then art class.",
+        "hypothesis": "Music class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has art class then economics class then political science class.",
+        "hypothesis": "Economics class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Billy has economics class then art class then geology class.",
+        "hypothesis": "Art class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny has geology class then music class then physics class.",
+        "hypothesis": "Music class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has commerce class then geology class then geography class.",
+        "hypothesis": "Geology class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Diane has chemistry class then art class then commerce class.",
+        "hypothesis": "Art class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew has chemistry class then political science class then physics class.",
+        "hypothesis": "Political science class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "John has economics class then geology class then french class.",
+        "hypothesis": "Geology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny has geography class then computer science class then history class.",
+        "hypothesis": "Computer science class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie has literature class then geography class then commerce class.",
+        "hypothesis": "Geography class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has geology class then literature class then political science class.",
+        "hypothesis": "Literature class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has biology class then geology class then chemistry class.",
+        "hypothesis": "Geology class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ray has political science class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Mark has mathematics class then commerce class then geography class.",
+        "hypothesis": "Commerce class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra has computer science class then physics class then political science class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy has french class then literature class then physics class.",
+        "hypothesis": "Literature class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has biology class then geology class then mathematics class.",
+        "hypothesis": "Geology class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Heather has music class then literature class then economics class.",
+        "hypothesis": "Literature class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Jack has computer science class then music class then physics class.",
+        "hypothesis": "Music class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas has economics class then commerce class then geography class.",
+        "hypothesis": "Commerce class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has political science class then art class then literature class.",
+        "hypothesis": "Art class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Louise has political science class then geology class then literature class.",
+        "hypothesis": "Geology class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret has history class then chemistry class then commerce class.",
+        "hypothesis": "Chemistry class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Susan has french class then chemistry class then art class.",
+        "hypothesis": "Chemistry class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy has geography class then french class then economics class.",
+        "hypothesis": "French class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Jay has history class then latin class then geography class.",
+        "hypothesis": "Latin class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn has economics class then biology class then music class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh has latin class then chemistry class then geology class.",
+        "hypothesis": "Chemistry class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra has literature class then commerce class then physics class.",
+        "hypothesis": "Commerce class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth has literature class then latin class then political science class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred has music class then french class then physics class.",
+        "hypothesis": "French class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah has literature class then commerce class then political science class.",
+        "hypothesis": "Commerce class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ben has computer science class then physics class then geography class.",
+        "hypothesis": "Physics class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Brian has geography class then music class then art class.",
+        "hypothesis": "Music class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Henry has economics class then geography class then computer science class.",
+        "hypothesis": "Geography class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen has political science class then history class then music class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren has art class then music class then political science class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has commerce class then literature class then computer science class.",
+        "hypothesis": "Literature class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has music class then biology class then history class.",
+        "hypothesis": "Biology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Mike has latin class then french class then computer science class.",
+        "hypothesis": "French class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has political science class then latin class then economics class.",
+        "hypothesis": "Latin class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jason has literature class then latin class then physics class.",
+        "hypothesis": "Latin class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph has art class then music class then physics class.",
+        "hypothesis": "Music class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret has commerce class then computer science class then french class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has biology class then music class then physics class.",
+        "hypothesis": "Music class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Robert has chemistry class then music class then geography class.",
+        "hypothesis": "Music class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "David has latin class then physics class then political science class.",
+        "hypothesis": "Physics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has geology class then physics class then history class.",
+        "hypothesis": "Physics class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Janet has latin class then political science class then mathematics class.",
+        "hypothesis": "Political science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Laura has commerce class then mathematics class then history class.",
+        "hypothesis": "Mathematics class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Alan has music class then economics class then physics class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel has biology class then french class then literature class.",
+        "hypothesis": "French class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has political science class then history class then art class.",
+        "hypothesis": "History class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie has latin class then geology class then computer science class.",
+        "hypothesis": "Geology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn has commerce class then computer science class then french class.",
+        "hypothesis": "Computer science class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin has computer science class then geology class then literature class.",
+        "hypothesis": "Geology class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Paul has history class then physics class then latin class.",
+        "hypothesis": "Physics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel has political science class then latin class then literature class.",
+        "hypothesis": "Latin class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn has french class then history class then commerce class.",
+        "hypothesis": "History class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has biology class then mathematics class then music class.",
+        "hypothesis": "Mathematics class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "David has geology class then biology class then art class.",
+        "hypothesis": "Biology class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela has music class then political science class then geology class.",
+        "hypothesis": "Political science class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "James has literature class then history class then physics class.",
+        "hypothesis": "History class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy has biology class then music class then art class.",
+        "hypothesis": "Music class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Don has french class then music class then physics class.",
+        "hypothesis": "Music class is after french class.",
+        "label": 0
+    },
+    {
+        "premise": "Emma has political science class then economics class then mathematics class.",
+        "hypothesis": "Economics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Jim has art class then political science class then latin class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Carl has mathematics class then computer science class then art class.",
+        "hypothesis": "Computer science class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor has art class then biology class then latin class.",
+        "hypothesis": "Biology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Martin has art class then geography class then history class.",
+        "hypothesis": "Geography class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew has computer science class then geography class then music class.",
+        "hypothesis": "Geography class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick has chemistry class then latin class then literature class.",
+        "hypothesis": "Latin class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "James has political science class then physics class then economics class.",
+        "hypothesis": "Physics class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth has geography class then art class then latin class.",
+        "hypothesis": "Art class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has commerce class then french class then mathematics class.",
+        "hypothesis": "French class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Rose has chemistry class then physics class then mathematics class.",
+        "hypothesis": "Physics class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Robin has latin class then geography class then physics class.",
+        "hypothesis": "Geography class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has music class then economics class then art class.",
+        "hypothesis": "Economics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy has mathematics class then latin class then art class.",
+        "hypothesis": "Latin class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Emily has art class then political science class then music class.",
+        "hypothesis": "Political science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Peter has literature class then mathematics class then geology class.",
+        "hypothesis": "Mathematics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Sara has computer science class then french class then political science class.",
+        "hypothesis": "French class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Emma has literature class then history class then music class.",
+        "hypothesis": "History class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Anne has geography class then chemistry class then history class.",
+        "hypothesis": "Chemistry class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Judith has latin class then biology class then geology class.",
+        "hypothesis": "Biology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has music class then commerce class then literature class.",
+        "hypothesis": "Commerce class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Julia has music class then geology class then latin class.",
+        "hypothesis": "Geology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle has latin class then geology class then physics class.",
+        "hypothesis": "Geology class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick has history class then music class then mathematics class.",
+        "hypothesis": "Music class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Amy has history class then art class then geology class.",
+        "hypothesis": "Art class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew has economics class then commerce class then geography class.",
+        "hypothesis": "Commerce class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "David has physics class then history class then music class.",
+        "hypothesis": "History class is after physics class.",
+        "label": 0
+    },
+    {
+        "premise": "Susan has chemistry class then computer science class then economics class.",
+        "hypothesis": "Computer science class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Sally has music class then physics class then political science class.",
+        "hypothesis": "Physics class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine has literature class then physics class then commerce class.",
+        "hypothesis": "Physics class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has art class then computer science class then physics class.",
+        "hypothesis": "Computer science class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Philip has biology class then literature class then french class.",
+        "hypothesis": "Literature class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Ann has latin class then music class then geology class.",
+        "hypothesis": "Music class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Jane has biology class then commerce class then french class.",
+        "hypothesis": "Commerce class is after biology class.",
+        "label": 0
+    },
+    {
+        "premise": "Alex has geology class then art class then physics class.",
+        "hypothesis": "Art class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur has music class then latin class then computer science class.",
+        "hypothesis": "Latin class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has commerce class then geography class then chemistry class.",
+        "hypothesis": "Geography class is after commerce class.",
+        "label": 0
+    },
+    {
+        "premise": "Albert has latin class then political science class then geology class.",
+        "hypothesis": "Political science class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen has geography class then art class then physics class.",
+        "hypothesis": "Art class is after geography class.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte has art class then biology class then literature class.",
+        "hypothesis": "Biology class is after art class.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole has political science class then music class then economics class.",
+        "hypothesis": "Music class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Adam has music class then geology class then history class.",
+        "hypothesis": "Geology class is after music class.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth has literature class then biology class then history class.",
+        "hypothesis": "Biology class is after literature class.",
+        "label": 0
+    },
+    {
+        "premise": "Tim has geology class then commerce class then literature class.",
+        "hypothesis": "Commerce class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Katie has mathematics class then geology class then french class.",
+        "hypothesis": "Geology class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph has chemistry class then computer science class then history class.",
+        "hypothesis": "Computer science class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley has latin class then music class then art class.",
+        "hypothesis": "Music class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Nick has computer science class then chemistry class then mathematics class.",
+        "hypothesis": "Chemistry class is after computer science class.",
+        "label": 0
+    },
+    {
+        "premise": "Anna has chemistry class then literature class then computer science class.",
+        "hypothesis": "Literature class is after chemistry class.",
+        "label": 0
+    },
+    {
+        "premise": "Martha has history class then mathematics class then art class.",
+        "hypothesis": "Mathematics class is after history class.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline has political science class then literature class then chemistry class.",
+        "hypothesis": "Literature class is after political science class.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda has economics class then biology class then commerce class.",
+        "hypothesis": "Biology class is after economics class.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne has mathematics class then music class then computer science class.",
+        "hypothesis": "Music class is after mathematics class.",
+        "label": 0
+    },
+    {
+        "premise": "Sue has geology class then french class then literature class.",
+        "hypothesis": "French class is after geology class.",
+        "label": 0
+    },
+    {
+        "premise": "Diana has latin class then mathematics class then history class.",
+        "hypothesis": "Mathematics class is after latin class.",
+        "label": 0
+    },
+    {
+        "premise": "Carol has economics class then chemistry class then geography class.",
+        "hypothesis": "Chemistry class is after economics class.",
+        "label": 0
+    }
+]

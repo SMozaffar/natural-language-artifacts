@@ -1,0 +1,2793 @@
+Attack(
+  (search_method): GreedyWordSwapWIR(
+    (wir_method):  delete
+  )
+  (goal_function):  UntargetedClassification
+  (transformation):  WordSwapMaskedLM(
+    (method):  bae
+    (masked_lm_name):  BertForMaskedLM
+    (max_length):  512
+    (max_candidates):  50
+    (min_confidence):  0.0
+  )
+  (constraints): 
+    (0): PartOfSpeech(
+        (tagger_type):  nltk
+        (tagset):  universal
+        (allow_verb_noun_swap):  True
+        (compare_against_original):  True
+      )
+    (1): UniversalSentenceEncoder(
+        (metric):  cosine
+        (threshold):  0.936338023
+        (window_size):  15
+        (skip_text_shorter_than_window):  True
+        (compare_against_original):  True
+      )
+    (2): RepeatModification
+    (3): StopwordModification
+  (is_black_box):  True
+) 
+
+--------------------------------------------- Result 1 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (96%)]]
+
+[[[[Premise]]]]: A person on a horse [[jumps]] over a broken down [[airplane]].
+[[[[Hypothesis]]]]: [[A]] person is training his horse for a [[competition]].
+
+[[[[Premise]]]]: A person on a horse [[leaping]] over a broken down [[vehicle]].
+[[[[Hypothesis]]]]: [[no]] person is training his horse for a [[contest]].
+
+
+--------------------------------------------- Result 2 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A person on a horse jumps over a broken down airplane.
+[[[[Hypothesis]]]]: A person is at a diner, ordering an omelette.
+
+
+--------------------------------------------- Result 3 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A person on a horse jumps over a broken down [[airplane]].
+[[[[Hypothesis]]]]: [[A]] person is outdoors, on a horse.
+
+[[[[Premise]]]]: A person on a horse jumps over a broken down [[body]].
+[[[[Hypothesis]]]]: [[any]] person is outdoors, on a horse.
+
+
+--------------------------------------------- Result 4 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Children smiling and waving at camera
+[[[[Hypothesis]]]]: They are smiling at their [[parents]]
+
+[[[[Premise]]]]: Children smiling and waving at camera
+[[[[Hypothesis]]]]: They are smiling at their [[bed]]
+
+
+--------------------------------------------- Result 5 ---------------------------------------------
+[[Entailment (100%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: [[Children]] smiling and waving at camera
+[[[[Hypothesis]]]]: There are children present
+
+[[[[Premise]]]]: [[are]] smiling and waving at camera
+[[[[Hypothesis]]]]: There are children present
+
+
+--------------------------------------------- Result 6 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (98%)]]
+
+[[[[Premise]]]]: Children smiling and waving at camera
+[[[[Hypothesis]]]]: The kids are [[frowning]]
+
+[[[[Premise]]]]: Children smiling and waving at camera
+[[[[Hypothesis]]]]: The kids are [[smiling]]
+
+
+--------------------------------------------- Result 7 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Entailment (94%)]]
+
+[[[[Premise]]]]: A boy is jumping on skateboard in the middle of a red bridge.
+[[[[Hypothesis]]]]: The boy skates down the [[sidewalk]].
+
+[[[[Premise]]]]: A boy is jumping on skateboard in the middle of a red bridge.
+[[[[Hypothesis]]]]: The boy skates down the [[walkway]].
+
+
+--------------------------------------------- Result 8 ---------------------------------------------
+[[Entailment (93%)]] --> [[Neutral (71%)]]
+
+[[[[Premise]]]]: A boy is jumping on [[skateboard]] in the middle of a red [[bridge]].
+[[[[Hypothesis]]]]: [[The]] boy does a skateboarding trick.
+
+[[[[Premise]]]]: A boy is jumping on [[skate]] in the middle of a red [[pond]].
+[[[[Hypothesis]]]]: [[every]] boy does a skateboarding trick.
+
+
+--------------------------------------------- Result 9 ---------------------------------------------
+[[Neutral (98%)]] --> [[Entailment (86%)]]
+
+[[[[Premise]]]]: A boy is [[jumping]] on skateboard in the middle of a red bridge.
+[[[[Hypothesis]]]]: The boy is [[wearing]] safety equipment.
+
+[[[[Premise]]]]: A boy is [[being]] on skateboard in the middle of a red bridge.
+[[[[Hypothesis]]]]: The boy is [[having]] safety equipment.
+
+
+--------------------------------------------- Result 10 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (95%)]]
+
+[[[[Premise]]]]: An older [[man]] sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+[[[[Hypothesis]]]]: An older man drinks his [[juice]] as he waits for his daughter to get off work.
+
+[[[[Premise]]]]: An older [[couple]] sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+[[[[Hypothesis]]]]: An older man drinks his [[beverages]] as he waits for his daughter to get off work.
+
+
+--------------------------------------------- Result 11 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+[[[[Hypothesis]]]]: A boy flips a burger.
+
+
+--------------------------------------------- Result 12 ---------------------------------------------
+[[Entailment (99%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: An older man sits with his orange juice at a small table in a coffee shop while employees in bright colored shirts smile in the background.
+[[[[Hypothesis]]]]: An elderly man sits in a small shop.
+
+
+--------------------------------------------- Result 13 ---------------------------------------------
+[[Neutral (100%)]] --> [[Entailment (94%)]]
+
+[[[[Premise]]]]: Two blond women are hugging one another.
+[[[[Hypothesis]]]]: Some women are hugging on [[vacation]].
+
+[[[[Premise]]]]: Two blond women are hugging one another.
+[[[[Hypothesis]]]]: Some women are hugging on [[someone]].
+
+
+--------------------------------------------- Result 14 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (100%)]]
+
+[[[[Premise]]]]: Two blond women are hugging one another.
+[[[[Hypothesis]]]]: The women are [[sleeping]].
+
+[[[[Premise]]]]: Two blond women are hugging one another.
+[[[[Hypothesis]]]]: The women are [[embracing]].
+
+
+--------------------------------------------- Result 15 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Two blond [[women]] are hugging one another.
+[[[[Hypothesis]]]]: There are women showing affection.
+
+[[[[Premise]]]]: Two blond [[children]] are hugging one another.
+[[[[Hypothesis]]]]: There are women showing affection.
+
+
+--------------------------------------------- Result 16 ---------------------------------------------
+[[Contradiction (96%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A few people in a restaurant setting, one of them is drinking orange juice.
+[[[[Hypothesis]]]]: The people are eating omelettes.
+
+
+--------------------------------------------- Result 17 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A few people in a restaurant setting, one of them is drinking orange juice.
+[[[[Hypothesis]]]]: The people are sitting at desks in school.
+
+
+--------------------------------------------- Result 18 ---------------------------------------------
+[[Entailment (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A few people in a restaurant setting, one of them is drinking orange juice.
+[[[[Hypothesis]]]]: The diners are at a restaurant.
+
+
+--------------------------------------------- Result 19 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (59%)]]
+
+[[[[Premise]]]]: An older [[man]] is drinking orange juice at a restaurant.
+[[[[Hypothesis]]]]: A man is drinking juice.
+
+[[[[Premise]]]]: An older [[boy]] is drinking orange juice at a restaurant.
+[[[[Hypothesis]]]]: A man is drinking juice.
+
+
+--------------------------------------------- Result 20 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: An older man is drinking orange juice at a restaurant.
+[[[[Hypothesis]]]]: Two women are at a restaurant drinking wine.
+
+
+--------------------------------------------- Result 21 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: An older man is drinking orange juice at a [[restaurant]].
+[[[[Hypothesis]]]]: A man in a restaurant is [[waiting]] for his meal to arrive.
+
+[[[[Premise]]]]: An older man is drinking orange juice at a [[station]].
+[[[[Hypothesis]]]]: A man in a restaurant is [[waited]] for his meal to arrive.
+
+
+--------------------------------------------- Result 22 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (69%)]]
+
+[[[[Premise]]]]: A man with blond-hair, and a brown shirt drinking out of a public water [[fountain]].
+[[[[Hypothesis]]]]: A blond man getting a drink of water from a [[fountain]] in the park.
+
+[[[[Premise]]]]: A man with blond-hair, and a brown shirt drinking out of a public water [[tower]].
+[[[[Hypothesis]]]]: A blond man getting a drink of water from a [[fountains]] in the park.
+
+
+--------------------------------------------- Result 23 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (90%)]]
+
+[[[[Premise]]]]: A man with [[blond-hair]], and a brown shirt drinking out of a public [[water]] fountain.
+[[[[Hypothesis]]]]: A blond man wearing a brown shirt is [[reading]] a book on a bench in the park
+
+[[[[Premise]]]]: A man with [[books]], and a brown shirt drinking out of a public [[drink]] fountain.
+[[[[Hypothesis]]]]: A blond man wearing a brown shirt is [[holding]] a book on a bench in the park
+
+
+--------------------------------------------- Result 24 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (100%)]]
+
+[[[[Premise]]]]: A man with [[blond-hair]], and a brown shirt drinking out of a public water fountain.
+[[[[Hypothesis]]]]: A blond man drinking water from a fountain.
+
+[[[[Premise]]]]: A man with [[legs]], and a brown shirt drinking out of a public water fountain.
+[[[[Hypothesis]]]]: A blond man drinking water from a fountain.
+
+
+--------------------------------------------- Result 25 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: Two women who just had lunch hugging and saying goodbye.
+[[[[Hypothesis]]]]: The friends [[scowl]] at each other over a full dinner table.
+
+[[[[Premise]]]]: Two women who just had lunch hugging and saying goodbye.
+[[[[Hypothesis]]]]: The friends [[beaming]] at each other over a full dinner table.
+
+
+--------------------------------------------- Result 26 ---------------------------------------------
+[[Entailment (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two women who just had lunch hugging and saying goodbye.
+[[[[Hypothesis]]]]: There are two woman in this picture.
+
+
+--------------------------------------------- Result 27 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two women who just had lunch hugging and saying goodbye.
+[[[[Hypothesis]]]]: The friends have just met for the first time in 20 years, and have had a great time catching up.
+
+
+--------------------------------------------- Result 28 ---------------------------------------------
+[[Neutral (97%)]] --> [[Contradiction (93%)]]
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[hug]].
+[[[[Hypothesis]]]]: The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[arrived]].
+[[[[Hypothesis]]]]: The two sisters saw each other across the crowded diner and shared a hug, both clutching their doggie bags.
+
+
+--------------------------------------------- Result 29 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (86%)]]
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[hug]].
+[[[[Hypothesis]]]]: Two [[groups]] of rival gang members [[flipped]] each other off.
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[assault]].
+[[[[Hypothesis]]]]: Two [[group]] of rival gang members [[hold]] each other off.
+
+
+--------------------------------------------- Result 30 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[hug]].
+[[[[Hypothesis]]]]: Two women hug each other.
+
+[[[[Premise]]]]: Two women, holding food carryout containers, [[run]].
+[[[[Hypothesis]]]]: Two women hug each other.
+
+
+--------------------------------------------- Result 31 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (45%)]]
+
+[[[[Premise]]]]: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+[[[[Hypothesis]]]]: A team is trying to score the games [[winning]] out.
+
+[[[[Premise]]]]: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+[[[[Hypothesis]]]]: A team is trying to score the games [[plays]] out.
+
+
+--------------------------------------------- Result 32 ---------------------------------------------
+[[Contradiction (68%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+[[[[Hypothesis]]]]: A team is trying to tag a runner out.
+
+
+--------------------------------------------- Result 33 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A Little League team tries to catch a runner sliding into a base in an afternoon game.
+[[[[Hypothesis]]]]: A team is playing baseball on Saturn.
+
+
+--------------------------------------------- Result 34 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.
+[[[[Hypothesis]]]]: A school hosts a basketball game.
+
+
+--------------------------------------------- Result 35 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: The school is having a special event in [[order]] to show the american culture on how other [[cultures]] are [[dealt]] with in parties.
+[[[[Hypothesis]]]]: A high school is hosting an event.
+
+[[[[Premise]]]]: The school is having a special event in [[college]] to show the american culture on how other [[culture]] are [[deal]] with in parties.
+[[[[Hypothesis]]]]: A high school is hosting an event.
+
+
+--------------------------------------------- Result 36 ---------------------------------------------
+[[Entailment (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: The school is having a special event in order to show the american culture on how other cultures are dealt with in parties.
+[[[[Hypothesis]]]]: A school is hosting an event.
+
+
+--------------------------------------------- Result 37 ---------------------------------------------
+[[Contradiction (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: High fashion ladies wait outside a tram beside a crowd of people in the city.
+[[[[Hypothesis]]]]: The women do not care what clothes they wear.
+
+
+--------------------------------------------- Result 38 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: High fashion [[ladies]] wait outside a tram beside a crowd of people in the city.
+[[[[Hypothesis]]]]: Women are waiting by a tram.
+
+[[[[Premise]]]]: High fashion [[guys]] wait outside a tram beside a crowd of people in the city.
+[[[[Hypothesis]]]]: Women are waiting by a tram.
+
+
+--------------------------------------------- Result 39 ---------------------------------------------
+[[Neutral (95%)]] --> [[Contradiction (92%)]]
+
+[[[[Premise]]]]: High fashion ladies wait outside a tram beside a crowd of people in the city.
+[[[[Hypothesis]]]]: The women enjoy having a [[good]] fashion sense.
+
+[[[[Premise]]]]: High fashion ladies wait outside a tram beside a crowd of people in the city.
+[[[[Hypothesis]]]]: The women enjoy having a [[simple]] fashion sense.
+
+
+--------------------------------------------- Result 40 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man, woman, and child enjoying themselves on a beach.
+[[[[Hypothesis]]]]: A child with mom and dad, on summer vacation at the beach.
+
+
+--------------------------------------------- Result 41 ---------------------------------------------
+[[Entailment (65%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A man, woman, and child enjoying themselves on a [[beach]].
+[[[[Hypothesis]]]]: A family of three is at the beach.
+
+[[[[Premise]]]]: A man, woman, and child enjoying themselves on a [[playground]].
+[[[[Hypothesis]]]]: A family of three is at the beach.
+
+
+--------------------------------------------- Result 42 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (92%)]]
+
+[[[[Premise]]]]: A man, woman, and child enjoying themselves on a [[beach]].
+[[[[Hypothesis]]]]: A family of three is at the mall shopping.
+
+[[[[Premise]]]]: A man, woman, and child enjoying themselves on a [[table]].
+[[[[Hypothesis]]]]: A family of three is at the mall shopping.
+
+
+--------------------------------------------- Result 43 ---------------------------------------------
+[[Neutral (84%)]] --> [[Contradiction (78%)]]
+
+[[[[Premise]]]]: People waiting to get on a train or just getting off.
+[[[[Hypothesis]]]]: The people [[waiting]] on the train are sitting.
+
+[[[[Premise]]]]: People waiting to get on a train or just getting off.
+[[[[Hypothesis]]]]: The people [[being]] on the train are sitting.
+
+
+--------------------------------------------- Result 44 ---------------------------------------------
+[[Entailment (97%)]] --> [[Neutral (38%)]]
+
+[[[[Premise]]]]: People waiting to [[get]] on a [[train]] or just getting off.
+[[[[Hypothesis]]]]: [[There]] are people just getting on a train
+
+[[[[Premise]]]]: People waiting to [[be]] on a [[trains]] or just getting off.
+[[[[Hypothesis]]]]: [[the]] are people just getting on a train
+
+
+--------------------------------------------- Result 45 ---------------------------------------------
+[[Entailment (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: People waiting to get on a train or just getting off.
+[[[[Hypothesis]]]]: There are people waiting on a train.
+
+
+--------------------------------------------- Result 46 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A couple playing with a little boy on the [[beach]].
+[[[[Hypothesis]]]]: A couple are playing with a young child outside.
+
+[[[[Premise]]]]: A couple playing with a little boy on the [[bed]].
+[[[[Hypothesis]]]]: A couple are playing with a young child outside.
+
+
+--------------------------------------------- Result 47 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A couple playing with a little boy on the [[beach]].
+[[[[Hypothesis]]]]: A couple are [[playing]] frisbee with a young child at the beach.
+
+[[[[Premise]]]]: A couple playing with a little boy on the [[bed]].
+[[[[Hypothesis]]]]: A couple are [[enjoying]] frisbee with a young child at the beach.
+
+
+--------------------------------------------- Result 48 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (91%)]]
+
+[[[[Premise]]]]: A couple playing with a little [[boy]] on the beach.
+[[[[Hypothesis]]]]: A couple watch a little girl [[play]] by herself on the beach.
+
+[[[[Premise]]]]: A couple playing with a little [[kid]] on the beach.
+[[[[Hypothesis]]]]: A couple watch a little girl [[playing]] by herself on the beach.
+
+
+--------------------------------------------- Result 49 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A couple play in the tide with their young son.
+[[[[Hypothesis]]]]: The family is sitting down for dinner.
+
+
+--------------------------------------------- Result 50 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A couple play in the [[tide]] with their young son.
+[[[[Hypothesis]]]]: The family is outside.
+
+[[[[Premise]]]]: A couple play in the [[kitchen]] with their young son.
+[[[[Hypothesis]]]]: The family is outside.
+
+
+--------------------------------------------- Result 51 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (80%)]]
+
+[[[[Premise]]]]: A couple play in the tide with their young son.
+[[[[Hypothesis]]]]: [[The]] family is on [[vacation]].
+
+[[[[Premise]]]]: A couple play in the tide with their young son.
+[[[[Hypothesis]]]]: [[neither]] family is on [[holiday]].
+
+
+--------------------------------------------- Result 52 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (54%)]]
+
+[[[[Premise]]]]: A man and a woman [[cross]] the street in front of a pizza and gyro restaurant.
+[[[[Hypothesis]]]]: The people are standing [[still]] on the curb.
+
+[[[[Premise]]]]: A man and a woman [[watch]] the street in front of a pizza and gyro restaurant.
+[[[[Hypothesis]]]]: The people are standing [[here]] on the curb.
+
+
+--------------------------------------------- Result 53 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (54%)]]
+
+[[[[Premise]]]]: [[A]] man and a woman [[cross]] the street in front of a pizza and gyro [[restaurant]].
+[[[[Hypothesis]]]]: [[Near]] a couple of restaurants, two people walk across the street.
+
+[[[[Premise]]]]: [[a]] man and a woman [[watch]] the street in front of a pizza and gyro [[table]].
+[[[[Hypothesis]]]]: [[in]] a couple of restaurants, two people walk across the street.
+
+
+--------------------------------------------- Result 54 ---------------------------------------------
+[[Entailment (72%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man and a woman cross the street in front of a pizza and gyro restaurant.
+[[[[Hypothesis]]]]: The couple are walking across the street together.
+
+
+--------------------------------------------- Result 55 ---------------------------------------------
+[[Contradiction (97%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: The woman is [[nake]].
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: The woman is [[right]].
+
+
+--------------------------------------------- Result 56 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (79%)]]
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: [[The]] woman is cold.
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: [[every]] woman is cold.
+
+
+--------------------------------------------- Result 57 ---------------------------------------------
+[[Entailment (100%)]] --> [[Neutral (61%)]]
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: The woman is [[wearing]] green.
+
+[[[[Premise]]]]: A woman in a green jacket and hood over her head looking towards a valley.
+[[[[Hypothesis]]]]: The woman is [[looking]] green.
+
+
+--------------------------------------------- Result 58 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (83%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a [[man]] slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The man with the sign is [[caucasian]].
+
+[[[[Premise]]]]: Woman in white in foreground and a [[girl]] slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The man with the sign is [[white]].
+
+
+--------------------------------------------- Result 59 ---------------------------------------------
+[[Neutral (87%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: They are protesting outside the capital.
+
+
+--------------------------------------------- Result 60 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[Woman]] in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A woman in [[white]].
+
+[[[[Premise]]]]: [[girl]] in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A woman in [[red]].
+
+
+--------------------------------------------- Result 61 ---------------------------------------------
+[[Neutral (95%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A man is advertising for a restaurant.
+
+
+--------------------------------------------- Result 62 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is [[wearing]] black.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is [[colored]] black.
+
+
+--------------------------------------------- Result 63 ---------------------------------------------
+[[Neutral (96%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[walking]] with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A man and a woman walk down a crowded city street.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[standing]] with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A man and a woman walk down a crowded city street.
+
+
+--------------------------------------------- Result 64 ---------------------------------------------
+[[Entailment (100%)]] --> [[Neutral (74%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is [[wearing]] white.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is [[standing]] white.
+
+
+--------------------------------------------- Result 65 ---------------------------------------------
+[[Neutral (98%)]] --> [[Entailment (35%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: They are [[working]] for John's Pizza.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: They are [[standing]] for John's Pizza.
+
+
+--------------------------------------------- Result 66 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: Olympic swimming.
+
+
+--------------------------------------------- Result 67 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Entailment (79%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A man and a soman are [[eating]] together at John's Pizza and Gyro.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A man and a soman are [[being]] together at John's Pizza and Gyro.
+
+
+--------------------------------------------- Result 68 ---------------------------------------------
+[[Entailment (98%)]] --> [[Neutral (77%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a [[sign]] for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: They are walking with a sign.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind walking with a [[man]] for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: They are walking with a sign.
+
+
+--------------------------------------------- Result 69 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (87%)]]
+
+[[[[Premise]]]]: [[Woman]] in white in foreground and a man slightly behind walking with a [[sign]] for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is waiting for a [[friend]].
+
+[[[[Premise]]]]: [[girl]] in white in foreground and a man slightly behind walking with a [[order]] for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman is waiting for a [[woman]].
+
+
+--------------------------------------------- Result 70 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (73%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[walking]] with a sign for John's [[Pizza]] and Gyro in the [[background]].
+[[[[Hypothesis]]]]: The man is [[sitting]] down while he has a sign for John's Pizza and Gyro in his arms.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[seated]] with a sign for John's [[pizza]] and Gyro in the [[chest]].
+[[[[Hypothesis]]]]: The man is [[seated]] down while he has a sign for John's Pizza and Gyro in his arms.
+
+
+--------------------------------------------- Result 71 ---------------------------------------------
+[[Entailment (96%)]] --> [[Neutral (77%)]]
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[walking]] with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman and man are outdoors.
+
+[[[[Premise]]]]: Woman in white in foreground and a man slightly behind [[man]] with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: The woman and man are outdoors.
+
+
+--------------------------------------------- Result 72 ---------------------------------------------
+[[Neutral (88%)]] --> [[Contradiction (79%)]]
+
+[[[[Premise]]]]: [[Woman]] in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A woman ordering pizza.
+
+[[[[Premise]]]]: [[girl]] in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+[[[[Hypothesis]]]]: A woman ordering pizza.
+
+
+--------------------------------------------- Result 73 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[The]] people are related.
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[any]] people are related.
+
+
+--------------------------------------------- Result 74 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Neutral (76%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults [[run]] across the street to get away from a red shirted person chasing them.
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults [[getting]] across the street to get away from a red shirted person chasing them.
+
+
+--------------------------------------------- Result 75 ---------------------------------------------
+[[Entailment (97%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one [[male]], gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: The adults are both male and female.
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one [[striped]], gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: The adults are both male and female.
+
+
+--------------------------------------------- Result 76 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (73%)]]
+
+[[[[Premise]]]]: [[Two]] adults, one female in white, with shades and one male, gray clothes, [[walking]] [[across]] a street, away from a [[eatery]] with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[Two]] people [[walk]] home after a tasty steak dinner.
+
+[[[[Premise]]]]: [[one]] adults, one female in white, with shades and one male, gray clothes, [[jogged]] [[along]] a street, away from a [[restaurant]] with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[six]] people [[walked]] home after a tasty steak dinner.
+
+
+--------------------------------------------- Result 77 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults swimming in water
+
+
+--------------------------------------------- Result 78 ---------------------------------------------
+[[Entailment (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults walk across a street.
+
+
+--------------------------------------------- Result 79 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two people ride bicycles into a tunnel.
+
+
+--------------------------------------------- Result 80 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (62%)]]
+
+[[[[Premise]]]]: Two [[adults]], one female in white, with shades and one male, gray clothes, walking across a [[street]], [[away]] from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two people walk away from a restaurant across a street.
+
+[[[[Premise]]]]: Two [[persons]], one female in white, with shades and one male, gray clothes, walking across a [[lot]], [[far]] from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two people walk away from a restaurant across a street.
+
+
+--------------------------------------------- Result 81 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (81%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red [[shirted]] person in the [[foreground]].
+[[[[Hypothesis]]]]: Two adults walking across a road near the convicted prisoner dressed in red
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red [[faced]] person in the [[vicinity]].
+[[[[Hypothesis]]]]: Two adults walking across a road near the convicted prisoner dressed in red
+
+
+--------------------------------------------- Result 82 ---------------------------------------------
+[[Neutral (97%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, [[walking]] across a street, away from a eatery with a blurred [[image]] of a dark colored red shirted person in the [[foreground]].
+[[[[Hypothesis]]]]: [[Two]] friends cross a street.
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, [[sit]] across a street, away from a eatery with a blurred [[images]] of a dark colored red shirted person in the [[room]].
+[[[[Hypothesis]]]]: [[eight]] friends cross a street.
+
+
+--------------------------------------------- Result 83 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Some people board a train.
+
+
+--------------------------------------------- Result 84 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (88%)]]
+
+[[[[Premise]]]]: [[Two]] adults, one female in white, with shades and one male, gray clothes, walking across a [[street]], away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults walk across the street.
+
+[[[[Premise]]]]: [[three]] adults, one female in white, with shades and one male, gray clothes, walking across a [[building]], away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults walk across the street.
+
+
+--------------------------------------------- Result 85 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (51%)]]
+
+[[[[Premise]]]]: [[Two]] [[adults]], one female in white, with shades and one male, gray clothes, walking across a [[street]], away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults walking [[across]] a road
+
+[[[[Premise]]]]: [[four]] [[adult]], one female in white, with shades and one male, gray clothes, walking across a [[alley]], away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults walking [[onto]] a road
+
+
+--------------------------------------------- Result 86 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (98%)]]
+
+[[[[Premise]]]]: Two adults, one [[female]] in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[There]] are no women in the picture.
+
+[[[[Premise]]]]: Two adults, one [[men]] in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: [[what]] are no women in the picture.
+
+
+--------------------------------------------- Result 87 ---------------------------------------------
+[[Neutral (94%)]] --> [[Contradiction (89%)]]
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, [[walking]] across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults [[walk]] across the street to get away from a red shirted person who is chasing them.
+
+[[[[Premise]]]]: Two adults, one female in white, with shades and one male, gray clothes, [[standing]] across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+[[[[Hypothesis]]]]: Two adults [[walking]] across the street to get away from a red shirted person who is chasing them.
+
+
+--------------------------------------------- Result 88 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A woman wearing all white and eating, walks next to a man holding a briefcase.
+[[[[Hypothesis]]]]: A married couple is sleeping.
+
+
+--------------------------------------------- Result 89 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A [[woman]] wearing all white and eating, walks next to a man holding a briefcase.
+[[[[Hypothesis]]]]: A female is next to a man.
+
+[[[[Premise]]]]: A [[dude]] wearing all white and eating, walks next to a man holding a briefcase.
+[[[[Hypothesis]]]]: A female is next to a man.
+
+
+--------------------------------------------- Result 90 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (66%)]]
+
+[[[[Premise]]]]: A woman wearing all white and eating, [[walks]] next to a man holding a briefcase.
+[[[[Hypothesis]]]]: A married couple is walking [[next]] to each other.
+
+[[[[Premise]]]]: A woman wearing all white and eating, [[running]] next to a man holding a briefcase.
+[[[[Hypothesis]]]]: A married couple is walking [[adjacent]] to each other.
+
+
+--------------------------------------------- Result 91 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: [[Nobody]] has food.
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: [[something]] has food.
+
+
+--------------------------------------------- Result 92 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (64%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a [[banana]], while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A woman eats a banana and walks across a street, and there is a [[man]] trailing behind her.
+
+[[[[Premise]]]]: A [[lady]] is walking across the street eating a [[bananas]], while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A woman eats a banana and walks across a street, and there is a [[woman]] trailing behind her.
+
+
+--------------------------------------------- Result 93 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: The woman and man are playing baseball together.
+
+
+--------------------------------------------- Result 94 ---------------------------------------------
+[[Neutral (97%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: two coworkers cross pathes on a street
+
+
+--------------------------------------------- Result 95 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Entailment (71%)]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a [[man]] is following with his briefcase.
+[[[[Hypothesis]]]]: A [[woman]] eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse.
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a [[woman]] is following with his briefcase.
+[[[[Hypothesis]]]]: A [[person]] eats ice cream walking down the sidewalk, and there is another woman in front of her with a purse.
+
+
+--------------------------------------------- Result 96 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (97%)]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his [[briefcase]].
+[[[[Hypothesis]]]]: The mans briefcase is for work.
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his [[dog]].
+[[[[Hypothesis]]]]: The mans briefcase is for work.
+
+
+--------------------------------------------- Result 97 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (41%)]]
+
+[[[[Premise]]]]: A woman is walking across the street [[eating]] a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A person eating.
+
+[[[[Premise]]]]: A woman is walking across the street [[pulling]] a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A person eating.
+
+
+--------------------------------------------- Result 98 ---------------------------------------------
+[[Neutral (67%)]] --> [[Entailment (53%)]]
+
+[[[[Premise]]]]: A woman is walking across the [[street]] eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A person that is hungry.
+
+[[[[Premise]]]]: A woman is walking across the [[floor]] eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: A person that is hungry.
+
+
+--------------------------------------------- Result 99 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: An actress and her favorite assistant talk a walk in the city.
+
+[[[[Premise]]]]: A [[man]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: An actress and her favorite assistant talk a walk in the city.
+
+
+--------------------------------------------- Result 100 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: a woman eating a banana crosses a street
+
+[[[[Premise]]]]: A [[man]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: a woman eating a banana crosses a street
+
+
+--------------------------------------------- Result 101 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: the woman is a [[seductress]]
+
+[[[[Premise]]]]: A [[guy]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: the woman is a [[ner]]
+
+
+--------------------------------------------- Result 102 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: a woman [[sits]] for lunch
+
+[[[[Premise]]]]: A woman is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: a woman [[goes]] for lunch
+
+
+--------------------------------------------- Result 103 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (41%)]]
+
+[[[[Premise]]]]: A woman is walking across the [[street]] eating a banana, while a man is following with his [[briefcase]].
+[[[[Hypothesis]]]]: the woman is having coffee at the [[cafe]]
+
+[[[[Premise]]]]: A woman is walking across the [[lot]] eating a banana, while a man is following with his [[coffee]].
+[[[[Hypothesis]]]]: the woman is having coffee at the [[coffee]]
+
+
+--------------------------------------------- Result 104 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (90%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a [[banana]], while a man is following with his briefcase.
+[[[[Hypothesis]]]]: The woman is [[eating]] a banana.
+
+[[[[Premise]]]]: A [[girl]] is walking across the street eating a [[bananas]], while a man is following with his briefcase.
+[[[[Hypothesis]]]]: The woman is [[making]] a banana.
+
+
+--------------------------------------------- Result 105 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (96%)]]
+
+[[[[Premise]]]]: A [[woman]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: the woman is outside
+
+[[[[Premise]]]]: A [[man]] is walking across the street eating a banana, while a man is following with his briefcase.
+[[[[Hypothesis]]]]: the woman is outside
+
+
+--------------------------------------------- Result 106 ---------------------------------------------
+[[Entailment (90%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A skier slides along a metal rail.
+[[[[Hypothesis]]]]: A skier is near the rail looking down.
+
+
+--------------------------------------------- Result 107 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A [[skier]] slides along a metal rail.
+[[[[Hypothesis]]]]: A skier is near the rail.
+
+[[[[Premise]]]]: A [[kid]] slides along a metal rail.
+[[[[Hypothesis]]]]: A skier is near the rail.
+
+
+--------------------------------------------- Result 108 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Entailment (96%)]]
+
+[[[[Premise]]]]: A skier slides along a metal rail.
+[[[[Hypothesis]]]]: A skier is [[away]] from the rail.
+
+[[[[Premise]]]]: A skier slides along a metal rail.
+[[[[Hypothesis]]]]: A skier is [[down]] from the rail.
+
+
+--------------------------------------------- Result 109 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: A person on [[skis]] on a rail at night.
+[[[[Hypothesis]]]]: The woman [[eats]] a car
+
+[[[[Premise]]]]: A person on [[rest]] on a rail at night.
+[[[[Hypothesis]]]]: The woman [[watching]] a car
+
+
+--------------------------------------------- Result 110 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A person on [[skis]] on a rail at night.
+[[[[Hypothesis]]]]: The person skiis
+
+[[[[Premise]]]]: A person on [[bikes]] on a rail at night.
+[[[[Hypothesis]]]]: The person skiis
+
+
+--------------------------------------------- Result 111 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: [[A]] person on skis on a [[rail]] at night.
+[[[[Hypothesis]]]]: [[They]] are [[fantastic]] [[skiiers]]
+
+[[[[Premise]]]]: [[no]] person on skis on a [[blizzard]] at night.
+[[[[Hypothesis]]]]: [[what]] are [[aliens]] [[n]]
+
+
+--------------------------------------------- Result 112 ---------------------------------------------
+[[Entailment (96%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A skier in electric green on the edge of a ramp made of metal bars.
+[[[[Hypothesis]]]]: The skier was on the edge of the ramp.
+
+
+--------------------------------------------- Result 113 ---------------------------------------------
+[[Contradiction (42%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A skier in electric green on the edge of a ramp made of metal bars.
+[[[[Hypothesis]]]]: The brightly dressed skier slid down the race course.
+
+
+--------------------------------------------- Result 114 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A skier in electric green on the edge of a ramp made of metal bars.
+[[[[Hypothesis]]]]: The jogger ran through the streets.
+
+
+--------------------------------------------- Result 115 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A yellow uniformed skier is performing a trick across a railed object.
+[[[[Hypothesis]]]]: A snowboarder is riding a ski lift.
+
+
+--------------------------------------------- Result 116 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A yellow uniformed skier is performing a trick across a railed object.
+[[[[Hypothesis]]]]: A skier is competing in a competition.
+
+
+--------------------------------------------- Result 117 ---------------------------------------------
+[[Entailment (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A yellow uniformed skier is performing a trick across a railed object.
+[[[[Hypothesis]]]]: Somebody is engaging in winter sports.
+
+
+--------------------------------------------- Result 118 ---------------------------------------------
+[[Neutral (97%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A blond man is drinking from a public fountain.
+[[[[Hypothesis]]]]: The man is drinking water.
+
+
+--------------------------------------------- Result 119 ---------------------------------------------
+[[Neutral (97%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A blond man is drinking from a public [[fountain]].
+[[[[Hypothesis]]]]: [[The]] man is very thirsty.
+
+[[[[Premise]]]]: A blond man is drinking from a public [[mirror]].
+[[[[Hypothesis]]]]: [[no]] man is very thirsty.
+
+
+--------------------------------------------- Result 120 ---------------------------------------------
+[[Neutral (99%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A blond man is drinking from a public fountain.
+[[[[Hypothesis]]]]: The man is drinking coffee.
+
+
+--------------------------------------------- Result 121 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Wet brown dog swims towards camera.
+[[[[Hypothesis]]]]: The dog is sleeping in his bed.
+
+
+--------------------------------------------- Result 122 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Wet brown [[dog]] swims towards camera.
+[[[[Hypothesis]]]]: A dog is playing fetch in a pond.
+
+[[[[Premise]]]]: Wet brown [[dolphin]] swims towards camera.
+[[[[Hypothesis]]]]: A dog is playing fetch in a pond.
+
+
+--------------------------------------------- Result 123 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Wet brown [[dog]] swims towards camera.
+[[[[Hypothesis]]]]: A dog is in the water.
+
+[[[[Premise]]]]: Wet brown [[woman]] swims towards camera.
+[[[[Hypothesis]]]]: A dog is in the water.
+
+
+--------------------------------------------- Result 124 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: Closeup image of a dog swimming.
+[[[[Hypothesis]]]]: A [[cat]] reluctantly takes a bath.
+
+[[[[Premise]]]]: Closeup image of a dog swimming.
+[[[[Hypothesis]]]]: A [[dog]] reluctantly takes a bath.
+
+
+--------------------------------------------- Result 125 ---------------------------------------------
+[[Neutral (97%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: Closeup image of a dog [[swimming]].
+[[[[Hypothesis]]]]: An underwater camera takes a photo of a puppy.
+
+[[[[Premise]]]]: Closeup image of a dog [[falls]].
+[[[[Hypothesis]]]]: An underwater camera takes a photo of a puppy.
+
+
+--------------------------------------------- Result 126 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Closeup image of a dog [[swimming]].
+[[[[Hypothesis]]]]: A dog swims in a body of water.
+
+[[[[Premise]]]]: Closeup image of a dog [[tracks]].
+[[[[Hypothesis]]]]: A dog swims in a body of water.
+
+
+--------------------------------------------- Result 127 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: The furry brown [[dog]] is swimming in the ocean.
+[[[[Hypothesis]]]]: A dog is chasing a [[fish]].
+
+[[[[Premise]]]]: The furry brown [[fish]] is swimming in the ocean.
+[[[[Hypothesis]]]]: A dog is chasing a [[dog]].
+
+
+--------------------------------------------- Result 128 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: The furry brown dog is [[swimming]] in the ocean.
+[[[[Hypothesis]]]]: A dog is swimming.
+
+[[[[Premise]]]]: The furry brown dog is [[fishing]] in the ocean.
+[[[[Hypothesis]]]]: A dog is swimming.
+
+
+--------------------------------------------- Result 129 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (55%)]]
+
+[[[[Premise]]]]: The furry brown dog is swimming in the ocean.
+[[[[Hypothesis]]]]: A dog is [[running]] around the yard.
+
+[[[[Premise]]]]: The furry brown dog is swimming in the ocean.
+[[[[Hypothesis]]]]: A dog is [[moving]] around the yard.
+
+
+--------------------------------------------- Result 130 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: A big brown dog [[swims]] towards the camera.
+[[[[Hypothesis]]]]: A dog is chasing a stick.
+
+[[[[Premise]]]]: A big brown dog [[leaps]] towards the camera.
+[[[[Hypothesis]]]]: A dog is chasing a stick.
+
+
+--------------------------------------------- Result 131 ---------------------------------------------
+[[Neutral (73%)]] --> [[Contradiction (95%)]]
+
+[[[[Premise]]]]: A big brown dog swims towards the [[camera]].
+[[[[Hypothesis]]]]: A photographer is taking pictures of a dog.
+
+[[[[Premise]]]]: A big brown dog swims towards the [[pier]].
+[[[[Hypothesis]]]]: A photographer is taking pictures of a dog.
+
+
+--------------------------------------------- Result 132 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A big brown dog [[swims]] towards the camera.
+[[[[Hypothesis]]]]: A dog swims towards the camera.
+
+[[[[Premise]]]]: A big brown dog [[dances]] towards the camera.
+[[[[Hypothesis]]]]: A dog swims towards the camera.
+
+
+--------------------------------------------- Result 133 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (97%)]]
+
+[[[[Premise]]]]: A man wearing black with a [[gray]] hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The farmer wearing a gray hat is driving a horse-drawn cart.
+
+[[[[Premise]]]]: A man wearing black with a [[colored]] hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The farmer wearing a gray hat is driving a horse-drawn cart.
+
+
+--------------------------------------------- Result 134 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A man wearing black with a [[gray]] hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The man with the gray hat and pitchfork is directing the cart.
+
+[[[[Premise]]]]: A man wearing black with a [[colored]] hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The man with the gray hat and pitchfork is directing the cart.
+
+
+--------------------------------------------- Result 135 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (64%)]]
+
+[[[[Premise]]]]: A [[man]] [[wearing]] black with a gray hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The [[woman]] in a blue dress is hitching a horse to a cart.
+
+[[[[Premise]]]]: A [[someone]] [[going]] black with a gray hat, holding a pitchfork, directs a horse-drawn cart.
+[[[[Hypothesis]]]]: The [[female]] in a blue dress is hitching a horse to a cart.
+
+
+--------------------------------------------- Result 136 ---------------------------------------------
+[[Neutral (93%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man is leading a Clydesdale up a hay road, within a Old Country.
+[[[[Hypothesis]]]]: A man is walking with his horse up a country road.
+
+
+--------------------------------------------- Result 137 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man is leading a Clydesdale up a hay road, within a Old Country.
+[[[[Hypothesis]]]]: A woman in a gray business suit is drinking tea.
+
+
+--------------------------------------------- Result 138 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man is leading a Clydesdale up a hay road, within a Old Country.
+[[[[Hypothesis]]]]: A man in a straw hat and overalls is walking with his horse up a country road.
+
+
+--------------------------------------------- Result 139 ---------------------------------------------
+[[Entailment (97%)]] --> [[Neutral (95%)]]
+
+[[[[Premise]]]]: A farmer [[fertilizing]] his garden with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is fertilizering his garden.
+
+[[[[Premise]]]]: A farmer [[filled]] his garden with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is fertilizering his garden.
+
+
+--------------------------------------------- Result 140 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: A farmer fertilizing his [[garden]] with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is on the city street with his horse and wagon.
+
+[[[[Premise]]]]: A farmer fertilizing his [[ground]] with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is on the city street with his horse and wagon.
+
+
+--------------------------------------------- Result 141 ---------------------------------------------
+[[Neutral (83%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A farmer fertilizing his garden with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is in an [[open]] field with a horse and wagon.
+
+[[[[Premise]]]]: A farmer fertilizing his garden with manure with a horse and wagon.
+[[[[Hypothesis]]]]: The man is in an [[actual]] field with a horse and wagon.
+
+
+--------------------------------------------- Result 142 ---------------------------------------------
+[[Entailment (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A white horse is pulling a cart while a man stands and watches.
+[[[[Hypothesis]]]]: A horse is hauling goods.
+
+
+--------------------------------------------- Result 143 ---------------------------------------------
+[[Entailment (97%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A white horse is pulling a cart while a man stands and watches.
+[[[[Hypothesis]]]]: An animal is walking outside.
+
+
+--------------------------------------------- Result 144 ---------------------------------------------
+[[Neutral (97%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A white horse is pulling a cart while a man stands and watches.
+[[[[Hypothesis]]]]: A man is watching a horse race.
+
+
+--------------------------------------------- Result 145 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A small group of church-goers watch a choir [[practice]].
+[[[[Hypothesis]]]]: A group watches a practice.
+
+[[[[Premise]]]]: A small group of church-goers watch a choir [[picnic]].
+[[[[Hypothesis]]]]: A group watches a practice.
+
+
+--------------------------------------------- Result 146 ---------------------------------------------
+[[Neutral (84%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A small group of church-goers watch a choir practice.
+[[[[Hypothesis]]]]: A choir performs in front of packed crowd.
+
+
+--------------------------------------------- Result 147 ---------------------------------------------
+[[Neutral (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A small group of church-goers watch a choir practice.
+[[[[Hypothesis]]]]: The pastor and elders watch the choir to make sure they are good.
+
+
+--------------------------------------------- Result 148 ---------------------------------------------
+[[Contradiction (96%)]] --> [[Neutral (95%)]]
+
+[[[[Premise]]]]: A dog [[drops]] a red disc on a beach.
+[[[[Hypothesis]]]]: a dog catch the ball on a beach
+
+[[[[Premise]]]]: A dog [[reach]] a red disc on a beach.
+[[[[Hypothesis]]]]: a dog catch the ball on a beach
+
+
+--------------------------------------------- Result 149 ---------------------------------------------
+[[Neutral (100%)]] --> [[Entailment (53%)]]
+
+[[[[Premise]]]]: A dog drops a red disc on a beach.
+[[[[Hypothesis]]]]: a dog drops a disc with a [[boy]]
+
+[[[[Premise]]]]: A dog drops a red disc on a beach.
+[[[[Hypothesis]]]]: a dog drops a disc with a [[[UNK]]]
+
+
+--------------------------------------------- Result 150 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: A dog drops a [[red]] disc on a beach.
+[[[[Hypothesis]]]]: a dog drops a red disc
+
+[[[[Premise]]]]: A dog drops a [[light]] disc on a beach.
+[[[[Hypothesis]]]]: a dog drops a red disc
+
+
+--------------------------------------------- Result 151 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (73%)]]
+
+[[[[Premise]]]]: A man and a woman are walking on a street at the top of a [[hill]].
+[[[[Hypothesis]]]]: A married couple walks atop a hill.
+
+[[[[Premise]]]]: A man and a woman are walking on a street at the top of a [[town]].
+[[[[Hypothesis]]]]: A married couple walks atop a hill.
+
+
+--------------------------------------------- Result 152 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A [[man]] and a woman are walking on a street at the top of a hill.
+[[[[Hypothesis]]]]: A man and woman walk on a street.
+
+[[[[Premise]]]]: A [[woman]] and a woman are walking on a street at the top of a hill.
+[[[[Hypothesis]]]]: A man and woman walk on a street.
+
+
+--------------------------------------------- Result 153 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man and a woman are walking on a street at the top of a hill.
+[[[[Hypothesis]]]]: Two men play catch on a hill.
+
+
+--------------------------------------------- Result 154 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Neutral (70%)]]
+
+[[[[Premise]]]]: An elderly man is drinking orange juice at a [[cafe]].
+[[[[Hypothesis]]]]: An elderly man is drinking apple juice at a bar.
+
+[[[[Premise]]]]: An elderly man is drinking orange juice at a [[tavern]].
+[[[[Hypothesis]]]]: An elderly man is drinking apple juice at a bar.
+
+
+--------------------------------------------- Result 155 ---------------------------------------------
+[[Neutral (95%)]] --> [[Entailment (56%)]]
+
+[[[[Premise]]]]: An elderly man is drinking orange juice at a cafe.
+[[[[Hypothesis]]]]: An older gentleman is enjoying his orange juice at a [[new]] cafe.
+
+[[[[Premise]]]]: An elderly man is drinking orange juice at a cafe.
+[[[[Hypothesis]]]]: An older gentleman is enjoying his orange juice at a [[little]] cafe.
+
+
+--------------------------------------------- Result 156 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (92%)]]
+
+[[[[Premise]]]]: An [[elderly]] man is drinking orange juice at a cafe.
+[[[[Hypothesis]]]]: An old man is enjoying a beverage at a cafe.
+
+[[[[Premise]]]]: An [[ill]] man is drinking orange juice at a cafe.
+[[[[Hypothesis]]]]: An old man is enjoying a beverage at a cafe.
+
+
+--------------------------------------------- Result 157 ---------------------------------------------
+[[Neutral (99%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: A couple holding hands walks down a street.
+[[[[Hypothesis]]]]: Two [[men]] hold hands while walking down the street.
+
+[[[[Premise]]]]: A couple holding hands walks down a street.
+[[[[Hypothesis]]]]: Two [[people]] hold hands while walking down the street.
+
+
+--------------------------------------------- Result 158 ---------------------------------------------
+[[Contradiction (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A couple holding hands walks down a street.
+[[[[Hypothesis]]]]: There are people sitting on the side of the road.
+
+
+--------------------------------------------- Result 159 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A couple holding [[hands]] walks down a street.
+[[[[Hypothesis]]]]: People are holding hands and walking.
+
+[[[[Premise]]]]: A couple holding [[swords]] walks down a street.
+[[[[Hypothesis]]]]: People are holding hands and walking.
+
+
+--------------------------------------------- Result 160 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A couple [[walk]] through a white brick town.
+[[[[Hypothesis]]]]: People are walking outdoors.
+
+[[[[Premise]]]]: A couple [[rides]] through a white brick town.
+[[[[Hypothesis]]]]: People are walking outdoors.
+
+
+--------------------------------------------- Result 161 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: A couple walk through a white brick town.
+[[[[Hypothesis]]]]: A man and woman walk in a [[brown]] brick city.
+
+[[[[Premise]]]]: A couple walk through a white brick town.
+[[[[Hypothesis]]]]: A man and woman walk in a [[dark]] brick city.
+
+
+--------------------------------------------- Result 162 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[A]] [[couple]] walk through a white brick town.
+[[[[Hypothesis]]]]: A man and [[woman]] walk through a [[big]] city.
+
+[[[[Premise]]]]: [[a]] [[woman]] walk through a white brick town.
+[[[[Hypothesis]]]]: A man and [[person]] walk through a [[large]] city.
+
+
+--------------------------------------------- Result 163 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Entailment (98%)]]
+
+[[[[Premise]]]]: Children going home from school.
+[[[[Hypothesis]]]]: The children are at the [[library]].
+
+[[[[Premise]]]]: Children going home from school.
+[[[[Hypothesis]]]]: The children are at the [[home]].
+
+
+--------------------------------------------- Result 164 ---------------------------------------------
+[[Entailment (98%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: Children going home from [[school]].
+[[[[Hypothesis]]]]: The school children head home.
+
+[[[[Premise]]]]: Children going home from [[camp]].
+[[[[Hypothesis]]]]: The school children head home.
+
+
+--------------------------------------------- Result 165 ---------------------------------------------
+[[Neutral (90%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: Children going home from school.
+[[[[Hypothesis]]]]: The children are [[walking]] in the afternooon.
+
+[[[[Premise]]]]: Children going home from school.
+[[[[Hypothesis]]]]: The children are [[bathing]] in the afternooon.
+
+
+--------------------------------------------- Result 166 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: People listening to a choir in a Catholic church.
+[[[[Hypothesis]]]]: People are listening to a metal band.
+
+
+--------------------------------------------- Result 167 ---------------------------------------------
+[[Entailment (84%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People listening to a [[choir]] in a Catholic church.
+[[[[Hypothesis]]]]: Choir singing in mass.
+
+[[[[Premise]]]]: People listening to a [[conversation]] in a Catholic church.
+[[[[Hypothesis]]]]: Choir singing in mass.
+
+
+--------------------------------------------- Result 168 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: People listening to a choir in a Catholic church.
+[[[[Hypothesis]]]]: People are in mass for a first communion
+
+
+--------------------------------------------- Result 169 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: Bicyclists [[waiting]] at an [[intersection]].
+[[[[Hypothesis]]]]: A bicyclist is sitting down having lunch at the mall.
+
+[[[[Premise]]]]: Bicyclists [[sitting]] at an [[diner]].
+[[[[Hypothesis]]]]: A bicyclist is sitting down having lunch at the mall.
+
+
+--------------------------------------------- Result 170 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an [[intersection]].
+[[[[Hypothesis]]]]: The bicyclists are outside.
+
+[[[[Premise]]]]: Bicyclists waiting at an [[elevator]].
+[[[[Hypothesis]]]]: The bicyclists are outside.
+
+
+--------------------------------------------- Result 171 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: [[Bicyclists]] waiting for a car to pass.
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: [[swimmers]] waiting for a car to pass.
+
+
+--------------------------------------------- Result 172 ---------------------------------------------
+[[Neutral (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: A person on a bike is waiting while the light is green.
+
+
+--------------------------------------------- Result 173 ---------------------------------------------
+[[Entailment (88%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[Bicyclists]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicycles are on a road.
+
+[[[[Premise]]]]: [[dogs]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicycles are on a road.
+
+
+--------------------------------------------- Result 174 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[Bicyclists]] waiting at an intersection.
+[[[[Hypothesis]]]]: A person on a bike is near a street.
+
+[[[[Premise]]]]: [[buses]] waiting at an intersection.
+[[[[Hypothesis]]]]: A person on a bike is near a street.
+
+
+--------------------------------------------- Result 175 ---------------------------------------------
+[[Neutral (92%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: Bikers stop and wait for traffic at the intersection.
+
+
+--------------------------------------------- Result 176 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The [[bicyclists]] ride through the [[mall]] on their bikes.
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The [[tourists]] ride through the [[day]] on their bikes.
+
+
+--------------------------------------------- Result 177 ---------------------------------------------
+[[Neutral (95%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: Bicyclists waiting their turn to cross.
+
+
+--------------------------------------------- Result 178 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: Bicyclists [[riding]] along a freeway.
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: Bicyclists [[planning]] along a freeway.
+
+
+--------------------------------------------- Result 179 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are [[dead]].
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are [[ready]].
+
+
+--------------------------------------------- Result 180 ---------------------------------------------
+[[Neutral (95%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[Bicyclists]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are riding to the book store.
+
+[[[[Premise]]]]: [[cops]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are riding to the book store.
+
+
+--------------------------------------------- Result 181 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: [[Bicyclists]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are in a race.
+
+[[[[Premise]]]]: [[pedestrians]] waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are in a race.
+
+
+--------------------------------------------- Result 182 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are at [[home]].
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: The bicyclists are at [[crossroads]].
+
+
+--------------------------------------------- Result 183 ---------------------------------------------
+[[Neutral (87%)]] --> [[Entailment (55%)]]
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: A group of bicyclists remain on the [[sidewalk]] at the intersection.
+
+[[[[Premise]]]]: Bicyclists waiting at an intersection.
+[[[[Hypothesis]]]]: A group of bicyclists remain on the [[street]] at the intersection.
+
+
+--------------------------------------------- Result 184 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: A bunch of friends are on a boat
+
+[[[[Premise]]]]: People waiting at a light on [[water]].
+[[[[Hypothesis]]]]: A bunch of friends are on a boat
+
+
+--------------------------------------------- Result 185 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: People with bikes.
+
+[[[[Premise]]]]: People waiting at a light on [[cars]].
+[[[[Hypothesis]]]]: People with bikes.
+
+
+--------------------------------------------- Result 186 ---------------------------------------------
+[[Entailment (99%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: There are people on bikes at a light
+
+
+--------------------------------------------- Result 187 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: The people are [[inside]] waiting.
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: The people are [[in]] waiting.
+
+
+--------------------------------------------- Result 188 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (77%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: There are some people outside.
+
+[[[[Premise]]]]: People waiting at a light on [[downstairs]].
+[[[[Hypothesis]]]]: There are some people outside.
+
+
+--------------------------------------------- Result 189 ---------------------------------------------
+[[Entailment (91%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: People are on their bikes.
+
+[[[[Premise]]]]: People waiting at a light on [[porch]].
+[[[[Hypothesis]]]]: People are on their bikes.
+
+
+--------------------------------------------- Result 190 ---------------------------------------------
+[[Neutral (59%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: The people are riding their bikes to the gym.
+
+[[[[Premise]]]]: People waiting at a light on [[downstairs]].
+[[[[Hypothesis]]]]: The people are riding their bikes to the gym.
+
+
+--------------------------------------------- Result 191 ---------------------------------------------
+[[Contradiction (66%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: People biking through the city.
+
+
+--------------------------------------------- Result 192 ---------------------------------------------
+[[Entailment (95%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: The people are on bikes.
+
+[[[[Premise]]]]: People waiting at a light on [[buses]].
+[[[[Hypothesis]]]]: The people are on bikes.
+
+
+--------------------------------------------- Result 193 ---------------------------------------------
+[[Neutral (92%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: There is [[traffic]] next to the bikes.
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: There is [[nothing]] next to the bikes.
+
+
+--------------------------------------------- Result 194 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Neutral (100%)]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: The people are [[running]] a red light.
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: The people are [[awaiting]] a red light.
+
+
+--------------------------------------------- Result 195 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: People in a [[car]] race.
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: People in a [[cycling]] race.
+
+
+--------------------------------------------- Result 196 ---------------------------------------------
+[[Neutral (96%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: Men and women outside on a street corner.
+
+
+--------------------------------------------- Result 197 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (66%)]]
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: A ladybug has [[landed]] on a beautiful pink rose.
+
+[[[[Premise]]]]: People waiting at a light on bikes.
+[[[[Hypothesis]]]]: A ladybug has [[commented]] on a beautiful pink rose.
+
+
+--------------------------------------------- Result 198 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (65%)]]
+
+[[[[Premise]]]]: People waiting at a light on [[bikes]].
+[[[[Hypothesis]]]]: Men and women on their motorcycles, wearing helmets and protective [[jackets]].
+
+[[[[Premise]]]]: People waiting at a light on [[sidewalk]].
+[[[[Hypothesis]]]]: Men and women on their motorcycles, wearing helmets and protective [[tops]].
+
+
+--------------------------------------------- Result 199 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (100%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: The people are on [[skateboards]].
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: The people are on [[bikes]].
+
+
+--------------------------------------------- Result 200 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People on [[bicycles]] waiting at an intersection.
+[[[[Hypothesis]]]]: People are riding their bicycles.
+
+[[[[Premise]]]]: People on [[sidewalk]] waiting at an intersection.
+[[[[Hypothesis]]]]: People are riding their bicycles.
+
+
+--------------------------------------------- Result 201 ---------------------------------------------
+[[Neutral (96%)]] --> [[Contradiction (91%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an [[intersection]].
+[[[[Hypothesis]]]]: [[There]] is a bike [[race]] happening right now.
+
+[[[[Premise]]]]: People on bicycles waiting at an [[suv]].
+[[[[Hypothesis]]]]: [[all]] is a bike [[racing]] happening right now.
+
+
+--------------------------------------------- Result 202 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: People on bicycles enjoy a conversation waiting for traffic.
+
+
+--------------------------------------------- Result 203 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (84%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an [[intersection]].
+[[[[Hypothesis]]]]: The people are trying to get to the convenience [[store]] across the street.
+
+[[[[Premise]]]]: People on bicycles waiting at an [[arcade]].
+[[[[Hypothesis]]]]: The people are trying to get to the convenience [[stores]] across the street.
+
+
+--------------------------------------------- Result 204 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an [[intersection]].
+[[[[Hypothesis]]]]: People wait on traffic.
+
+[[[[Premise]]]]: People on bicycles waiting at an [[aquarium]].
+[[[[Hypothesis]]]]: People wait on traffic.
+
+
+--------------------------------------------- Result 205 ---------------------------------------------
+[[Entailment (97%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: Some people on bikes are stopped at a junction.
+
+
+--------------------------------------------- Result 206 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: People are waiting on [[foot]].
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: People are waiting on [[vehicles]].
+
+
+--------------------------------------------- Result 207 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: People on [[bicycles]] waiting at an intersection.
+[[[[Hypothesis]]]]: There are bicyclists stopped at a road.
+
+[[[[Premise]]]]: People on [[dogs]] waiting at an intersection.
+[[[[Hypothesis]]]]: There are bicyclists stopped at a road.
+
+
+--------------------------------------------- Result 208 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: The people are [[sleeping]].
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: The people are [[moving]].
+
+
+--------------------------------------------- Result 209 ---------------------------------------------
+[[Neutral (96%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: The people are waiting for the movie to begin.
+
+
+--------------------------------------------- Result 210 ---------------------------------------------
+[[Neutral (66%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People on bicycles waiting at an intersection.
+[[[[Hypothesis]]]]: More than one person on a bicycle is obeying traffic laws.
+
+
+--------------------------------------------- Result 211 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People on [[bicycles]] waiting at an intersection.
+[[[[Hypothesis]]]]: People are on mountain bikes.
+
+[[[[Premise]]]]: People on [[tractors]] waiting at an intersection.
+[[[[Hypothesis]]]]: People are on mountain bikes.
+
+
+--------------------------------------------- Result 212 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: People on [[bicycles]] waiting at an intersection.
+[[[[Hypothesis]]]]: There are people on bicycles.
+
+[[[[Premise]]]]: People on [[airplanes]] waiting at an intersection.
+[[[[Hypothesis]]]]: There are people on bicycles.
+
+
+--------------------------------------------- Result 213 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: People on bicycles [[waiting]] at an intersection.
+[[[[Hypothesis]]]]: People on bicycles speed through an intersection.
+
+[[[[Premise]]]]: People on bicycles [[accelerate]] at an intersection.
+[[[[Hypothesis]]]]: People on bicycles speed through an intersection.
+
+
+--------------------------------------------- Result 214 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (90%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching [[another]] man who is standing on top of a attached cart filled to the [[top]].
+[[[[Hypothesis]]]]: The cart is empty.
+
+[[[[Premise]]]]: A man with a red shirt is watching [[the]] man who is standing on top of a attached cart filled to the [[empty]].
+[[[[Hypothesis]]]]: The cart is empty.
+
+
+--------------------------------------------- Result 215 ---------------------------------------------
+[[Neutral (94%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is giving another man a piggyback ride.
+
+
+--------------------------------------------- Result 216 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (50%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart [[filled]] to the top.
+[[[[Hypothesis]]]]: A cart is full of items.
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart [[pointed]] to the top.
+[[[[Hypothesis]]]]: A cart is full of items.
+
+
+--------------------------------------------- Result 217 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is sleeping under a bench.
+
+
+--------------------------------------------- Result 218 ---------------------------------------------
+[[Entailment (100%)]] --> [[Neutral (72%)]]
+
+[[[[Premise]]]]: A man with a red shirt is [[watching]] another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man watches another man.
+
+[[[[Premise]]]]: A man with a red shirt is [[holding]] another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man watches another man.
+
+
+--------------------------------------------- Result 219 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A produce vendor is watched by a health department worker.
+
+
+--------------------------------------------- Result 220 ---------------------------------------------
+[[Entailment (97%)]] --> [[Neutral (83%)]]
+
+[[[[Premise]]]]: A man with a red shirt is [[watching]] another man who is standing on top of a attached cart [[filled]] to the top.
+[[[[Hypothesis]]]]: Someone is on top of a cart full of items, while someone else observes.
+
+[[[[Premise]]]]: A man with a red shirt is [[holding]] another man who is standing on top of a attached cart [[going]] to the top.
+[[[[Hypothesis]]]]: Someone is on top of a cart full of items, while someone else observes.
+
+
+--------------------------------------------- Result 221 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (94%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another [[man]] who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: The man is watching a [[woman]].
+
+[[[[Premise]]]]: A man with a red shirt is watching another [[person]] who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: The man is watching a [[lady]].
+
+
+--------------------------------------------- Result 222 ---------------------------------------------
+[[Neutral (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A merchant and his assistant are trying to determine how many products are in their cart.
+
+
+--------------------------------------------- Result 223 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached [[cart]] filled to the top.
+[[[[Hypothesis]]]]: [[The]] cart is full of coal.
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached [[basket]] filled to the top.
+[[[[Hypothesis]]]]: [[any]] cart is full of coal.
+
+
+--------------------------------------------- Result 224 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (88%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is [[standing]] on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is standing on top of a cart.
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is [[perched]] on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is standing on top of a cart.
+
+
+--------------------------------------------- Result 225 ---------------------------------------------
+[[Entailment (98%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached [[cart]] filled to the top.
+[[[[Hypothesis]]]]: The cart is filled to the [[top]].
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached [[carts]] filled to the top.
+[[[[Hypothesis]]]]: The cart is filled to the [[bottom]].
+
+
+--------------------------------------------- Result 226 ---------------------------------------------
+[[Entailment (94%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: The men are outside.
+
+
+--------------------------------------------- Result 227 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man eats octopus.
+
+
+--------------------------------------------- Result 228 ---------------------------------------------
+[[Neutral (99%)]] --> [[Entailment (97%)]]
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is standing on a cart full of [[groceries]].
+
+[[[[Premise]]]]: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+[[[[Hypothesis]]]]: A man is standing on a cart full of [[things]].
+
+
+--------------------------------------------- Result 229 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A [[boy]] is drinking out of a water fountain shaped like a woman.
+[[[[Hypothesis]]]]: A male is getting a drink of water.
+
+[[[[Premise]]]]: A [[kid]] is drinking out of a water fountain shaped like a woman.
+[[[[Hypothesis]]]]: A male is getting a drink of water.
+
+
+--------------------------------------------- Result 230 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (87%)]]
+
+[[[[Premise]]]]: A boy is drinking out of a water fountain shaped like a [[woman]].
+[[[[Hypothesis]]]]: A sculptor takes a drink from a fountain that he [[made]] that looks like his girlfriend.
+
+[[[[Premise]]]]: A boy is drinking out of a water fountain shaped like a [[football]].
+[[[[Hypothesis]]]]: A sculptor takes a drink from a fountain that he [[wears]] that looks like his girlfriend.
+
+
+--------------------------------------------- Result 231 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (54%)]]
+
+[[[[Premise]]]]: A boy is drinking out of a water fountain shaped [[like]] a woman.
+[[[[Hypothesis]]]]: [[A]] [[man]] is drinking lemonade from a glass.
+
+[[[[Premise]]]]: A boy is drinking out of a water fountain shaped [[as]] a woman.
+[[[[Hypothesis]]]]: [[a]] [[child]] is drinking lemonade from a glass.
+
+
+--------------------------------------------- Result 232 ---------------------------------------------
+[[Contradiction (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: cars stop in town
+
+
+--------------------------------------------- Result 233 ---------------------------------------------
+[[Entailment (98%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three [[bikers]] stop in town.
+[[[[Hypothesis]]]]: Bikers stop in towns
+
+[[[[Premise]]]]: three [[runners]] stop in town.
+[[[[Hypothesis]]]]: Bikers stop in towns
+
+
+--------------------------------------------- Result 234 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: [[three]] bikers stop in town.
+[[[[Hypothesis]]]]: A town has witnessed the arrival of three bikers.
+
+[[[[Premise]]]]: [[five]] bikers stop in town.
+[[[[Hypothesis]]]]: A town has witnessed the arrival of three bikers.
+
+
+--------------------------------------------- Result 235 ---------------------------------------------
+[[Neutral (92%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Thoes bikers are [[slowing]] down
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Thoes bikers are [[chased]] down
+
+
+--------------------------------------------- Result 236 ---------------------------------------------
+[[Neutral (82%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three [[bikers]] stop in town.
+[[[[Hypothesis]]]]: The bikers are riding Harley's.
+
+[[[[Premise]]]]: three [[hunters]] stop in town.
+[[[[Hypothesis]]]]: The bikers are riding Harley's.
+
+
+--------------------------------------------- Result 237 ---------------------------------------------
+[[Contradiction (97%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bikers are going 100 [[mph]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bikers are going 100 [[girls]]
+
+
+--------------------------------------------- Result 238 ---------------------------------------------
+[[Contradiction (98%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: The bikers breathe [[water]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: The bikers breathe [[thinking]]
+
+
+--------------------------------------------- Result 239 ---------------------------------------------
+[[Neutral (99%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Bikers stop for gas
+
+
+--------------------------------------------- Result 240 ---------------------------------------------
+[[Neutral (95%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bicyclists are riding in a [[pack]].
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bicyclists are riding in a [[limo]].
+
+
+--------------------------------------------- Result 241 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (99%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: There is a very angry [[dog]].
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: There is a very angry [[rider]].
+
+
+--------------------------------------------- Result 242 ---------------------------------------------
+[[Neutral (95%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bikers are taking a [[rest]] in the town.
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: Three bikers are taking a [[dive]] in the town.
+
+
+--------------------------------------------- Result 243 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three [[bikers]] stop in town.
+[[[[Hypothesis]]]]: The bikers are in the town.
+
+[[[[Premise]]]]: three [[planes]] stop in town.
+[[[[Hypothesis]]]]: The bikers are in the town.
+
+
+--------------------------------------------- Result 244 ---------------------------------------------
+[[Entailment (98%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: three [[bikers]] stop in town.
+[[[[Hypothesis]]]]: A group of bikers are in the street.
+
+[[[[Premise]]]]: three [[trains]] stop in town.
+[[[[Hypothesis]]]]: A group of bikers are in the street.
+
+
+--------------------------------------------- Result 245 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (90%)]]
+
+[[[[Premise]]]]: three bikers [[stop]] in town.
+[[[[Hypothesis]]]]: The bikers didn't stop in the town.
+
+[[[[Premise]]]]: three bikers [[disappeared]] in town.
+[[[[Hypothesis]]]]: The bikers didn't stop in the town.
+
+
+--------------------------------------------- Result 246 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Entailment (98%)]]
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: [[Five]] [[bikers]] are riding on the road.
+
+[[[[Premise]]]]: three bikers stop in town.
+[[[[Hypothesis]]]]: [[three]] [[vehicles]] are riding on the road.
+
+
+--------------------------------------------- Result 247 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (76%)]]
+
+[[[[Premise]]]]: Two people loading brush on a trailer attached to a [[truck]].
+[[[[Hypothesis]]]]: A man is carrying a canoe to the water.
+
+[[[[Premise]]]]: Two people loading brush on a trailer attached to a [[canoe]].
+[[[[Hypothesis]]]]: A man is carrying a canoe to the water.
+
+
+--------------------------------------------- Result 248 ---------------------------------------------
+[[Entailment (97%)]] --> [[Neutral (86%)]]
+
+[[[[Premise]]]]: Two people loading brush on a [[trailer]] attached to a [[truck]].
+[[[[Hypothesis]]]]: A couple of people are loading brush onto a trailer that is attached to a truck.
+
+[[[[Premise]]]]: Two people loading brush on a [[trailers]] attached to a [[trailer]].
+[[[[Hypothesis]]]]: A couple of people are loading brush onto a trailer that is attached to a truck.
+
+
+--------------------------------------------- Result 249 ---------------------------------------------
+[[Neutral (99%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: Two people loading brush on a trailer attached to a [[truck]].
+[[[[Hypothesis]]]]: Two people loading brush on a trailer attached to a truck so they can go camping and burn it.
+
+[[[[Premise]]]]: Two people loading brush on a trailer attached to a [[dock]].
+[[[[Hypothesis]]]]: Two people loading brush on a trailer attached to a truck so they can go camping and burn it.
+
+
+--------------------------------------------- Result 250 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (53%)]]
+
+[[[[Premise]]]]: A man with a [[beard]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: a bearded man pulls a rope
+
+[[[[Premise]]]]: A man with a [[shave]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: a bearded man pulls a rope
+
+
+--------------------------------------------- Result 251 ---------------------------------------------
+[[Neutral (97%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A bearded man is pulling a rope at work.
+
+
+--------------------------------------------- Result 252 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (98%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[rope]].
+[[[[Hypothesis]]]]: A man pulls on a rope.
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[mask]].
+[[[[Hypothesis]]]]: A man pulls on a rope.
+
+
+--------------------------------------------- Result 253 ---------------------------------------------
+[[Neutral (98%)]] --> [[Contradiction (54%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man was on the job [[trying]] to move some equipment.
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man was on the job [[asking]] to move some equipment.
+
+
+--------------------------------------------- Result 254 ---------------------------------------------
+[[Entailment (95%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: a man pulls his beard
+
+
+--------------------------------------------- Result 255 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (49%)]]
+
+[[[[Premise]]]]: A [[man]] with a beard, wearing a red shirt with gray sleeves and work gloves, [[pulling]] on a [[rope]].
+[[[[Hypothesis]]]]: a bearded man is pulling a car with his teeth.
+
+[[[[Premise]]]]: A [[father]] with a beard, wearing a red shirt with gray sleeves and work gloves, [[pulls]] on a [[car]].
+[[[[Hypothesis]]]]: a bearded man is pulling a car with his teeth.
+
+
+--------------------------------------------- Result 256 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (57%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[rope]].
+[[[[Hypothesis]]]]: a man competes in a rope pulling contest
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[blanket]].
+[[[[Hypothesis]]]]: a man competes in a rope pulling contest
+
+
+--------------------------------------------- Result 257 ---------------------------------------------
+[[Neutral (86%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man is trying to [[pull]] his car out of a lake
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man is trying to [[push]] his car out of a lake
+
+
+--------------------------------------------- Result 258 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: A man with a [[beard]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man was clean [[shaven]].
+
+[[[[Premise]]]]: A man with a [[shave]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man was clean [[shaved]].
+
+
+--------------------------------------------- Result 259 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (44%)]]
+
+[[[[Premise]]]]: A man with a [[beard]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A bearded man is pulling on a rope.
+
+[[[[Premise]]]]: A man with a [[shave]], wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A bearded man is pulling on a rope.
+
+
+--------------------------------------------- Result 260 ---------------------------------------------
+[[Contradiction (92%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man is dragging a sled behind him.
+
+
+--------------------------------------------- Result 261 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man in a swimsuit, swings on a rope.
+
+
+--------------------------------------------- Result 262 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (92%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a [[red]] shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man is wearing a black shirt
+
+[[[[Premise]]]]: A man with a beard, wearing a [[bright]] shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: A man is wearing a black shirt
+
+
+--------------------------------------------- Result 263 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[rope]].
+[[[[Hypothesis]]]]: A man is pulling on a rope.
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a [[bucket]].
+[[[[Hypothesis]]]]: A man is pulling on a rope.
+
+
+--------------------------------------------- Result 264 ---------------------------------------------
+[[Entailment (95%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man is [[able]] to grow a beard.
+
+[[[[Premise]]]]: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+[[[[Hypothesis]]]]: The man is [[likely]] to grow a beard.
+
+
+--------------------------------------------- Result 265 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man with facial hair and a red and gray shirt tugging on a piece of rope.
+[[[[Hypothesis]]]]: A man is naked on the bed.
+
+
+--------------------------------------------- Result 266 ---------------------------------------------
+[[Entailment (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man with facial hair and a red and gray shirt tugging on a piece of rope.
+[[[[Hypothesis]]]]: A man is wearing a red and gray shirt.
+
+
+--------------------------------------------- Result 267 ---------------------------------------------
+[[Entailment (100%)]] --> [[Contradiction (96%)]]
+
+[[[[Premise]]]]: A [[man]] with facial hair and a red and gray shirt tugging on a piece of rope.
+[[[[Hypothesis]]]]: A man has facial hair.
+
+[[[[Premise]]]]: A [[boy]] with facial hair and a red and gray shirt tugging on a piece of rope.
+[[[[Hypothesis]]]]: A man has facial hair.
+
+
+--------------------------------------------- Result 268 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (44%)]]
+
+[[[[Premise]]]]: A middle-aged [[oriental]] woman in a green headscarf and blue shirt is [[flashing]] a giant smile.
+[[[[Hypothesis]]]]: The middle aged oriental woman is watchingt [[v]]
+
+[[[[Premise]]]]: A middle-aged [[chinese]] woman in a green headscarf and blue shirt is [[beaming]] a giant smile.
+[[[[Hypothesis]]]]: The middle aged oriental woman is watchingt [[g]]
+
+
+--------------------------------------------- Result 269 ---------------------------------------------
+[[Entailment (97%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A middle-aged oriental woman in a [[green]] headscarf and blue shirt is flashing a giant smile.
+[[[[Hypothesis]]]]: A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile
+
+[[[[Premise]]]]: A middle-aged oriental woman in a [[greenish]] headscarf and blue shirt is flashing a giant smile.
+[[[[Hypothesis]]]]: A middle aged oriental woman in a green headscarf and blue shirt is flashing a giant smile
+
+
+--------------------------------------------- Result 270 ---------------------------------------------
+[[Neutral (84%)]] --> [[Entailment (68%)]]
+
+[[[[Premise]]]]: A middle-aged oriental woman in a green [[headscarf]] and blue shirt is flashing a giant smile.
+[[[[Hypothesis]]]]: The middle aged oriental [[woman]] is very happy
+
+[[[[Premise]]]]: A middle-aged oriental woman in a green [[scarf]] and blue shirt is flashing a giant smile.
+[[[[Hypothesis]]]]: The middle aged oriental [[lady]] is very happy
+
+
+--------------------------------------------- Result 271 ---------------------------------------------
+[[Neutral (100%)]] --> [[Contradiction (51%)]]
+
+[[[[Premise]]]]: An Asian woman in a blue top and green headscarf [[smiling]] widely as another woman rows a boat in the [[background]].
+[[[[Hypothesis]]]]: [[An]] Asian woman is happy because she found [[money]] on the ground.
+
+[[[[Premise]]]]: An Asian woman in a blue top and green headscarf [[smiled]] widely as another woman rows a boat in the [[channel]].
+[[[[Hypothesis]]]]: [[every]] Asian woman is happy because she found [[everything]] on the ground.
+
+
+--------------------------------------------- Result 272 ---------------------------------------------
+[[Entailment (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: An Asian woman in a blue top and green headscarf smiling widely as another woman rows a boat in the background.
+[[[[Hypothesis]]]]: An Asian woman is smiling at while another lady is rowing.
+
+
+--------------------------------------------- Result 273 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (58%)]]
+
+[[[[Premise]]]]: An [[Asian]] woman in a blue top and green headscarf smiling [[widely]] as another [[woman]] rows a boat in the background.
+[[[[Hypothesis]]]]: An Asian woman is [[running]] from a dog.
+
+[[[[Premise]]]]: An [[oriental]] woman in a blue top and green headscarf smiling [[wildly]] as another [[person]] rows a boat in the background.
+[[[[Hypothesis]]]]: An Asian woman is [[escaping]] from a dog.
+
+
+--------------------------------------------- Result 274 ---------------------------------------------
+[[Entailment (94%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A [[boat]] worker securing line.
+[[[[Hypothesis]]]]: A worker is doing something to a boat.
+
+[[[[Premise]]]]: A [[railway]] worker securing line.
+[[[[Hypothesis]]]]: A worker is doing something to a boat.
+
+
+--------------------------------------------- Result 275 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (96%)]]
+
+[[[[Premise]]]]: A boat worker securing line.
+[[[[Hypothesis]]]]: The boat worker is [[swimming]] in the ocean.
+
+[[[[Premise]]]]: A boat worker securing line.
+[[[[Hypothesis]]]]: The boat worker is [[working]] in the ocean.
+
+
+--------------------------------------------- Result 276 ---------------------------------------------
+[[Neutral (73%)]] --> [[Entailment (97%)]]
+
+[[[[Premise]]]]: A boat worker securing line.
+[[[[Hypothesis]]]]: The boat worker works hard to [[establish]] the line.
+
+[[[[Premise]]]]: A boat worker securing line.
+[[[[Hypothesis]]]]: The boat worker works hard to [[ensure]] the line.
+
+
+--------------------------------------------- Result 277 ---------------------------------------------
+[[Neutral (98%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: A small girl with a necklace is [[swimming]].
+[[[[Hypothesis]]]]: A small girl with a necklace is swimming in a pool
+
+[[[[Premise]]]]: A small girl with a necklace is [[sitting]].
+[[[[Hypothesis]]]]: A small girl with a necklace is swimming in a pool
+
+
+--------------------------------------------- Result 278 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A small girl with a necklace is swimming.
+[[[[Hypothesis]]]]: A fat girl is diving off the edge
+
+
+--------------------------------------------- Result 279 ---------------------------------------------
+[[Entailment (98%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: A small girl with a [[necklace]] is swimming.
+[[[[Hypothesis]]]]: A small girl with a necklace is in the water
+
+[[[[Premise]]]]: A small girl with a [[jewelry]] is swimming.
+[[[[Hypothesis]]]]: A small girl with a necklace is in the water
+
+
+--------------------------------------------- Result 280 ---------------------------------------------
+[[Contradiction (97%)]] --> [[Entailment (99%)]]
+
+[[[[Premise]]]]: a skateboarder skates in the pool.
+[[[[Hypothesis]]]]: A skate [[swims]] in the pool.
+
+[[[[Premise]]]]: a skateboarder skates in the pool.
+[[[[Hypothesis]]]]: A skate [[skate]] in the pool.
+
+
+--------------------------------------------- Result 281 ---------------------------------------------
+[[Entailment (99%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: a skateboarder skates in the [[pool]].
+[[[[Hypothesis]]]]: A skater is in the pool.
+
+[[[[Premise]]]]: a skateboarder skates in the [[street]].
+[[[[Hypothesis]]]]: A skater is in the pool.
+
+
+--------------------------------------------- Result 282 ---------------------------------------------
+[[Neutral (89%)]] --> [[Contradiction (100%)]]
+
+[[[[Premise]]]]: a skateboarder skates in the [[pool]].
+[[[[Hypothesis]]]]: A skater grinds on the lip of the pool.
+
+[[[[Premise]]]]: a skateboarder skates in the [[river]].
+[[[[Hypothesis]]]]: A skater grinds on the lip of the pool.
+
+
+--------------------------------------------- Result 283 ---------------------------------------------
+[[Contradiction (91%)]] --> [[Neutral (67%)]]
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: A man is [[wrapped]] in a UNICEF blanket.
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: A man is [[placed]] in a UNICEF blanket.
+
+
+--------------------------------------------- Result 284 ---------------------------------------------
+[[Entailment (98%)]] --> [[Neutral (88%)]]
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of [[water]], the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: A couple carrying a child are walking [[along]] water.
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of [[waters]], the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: A couple carrying a child are walking [[toward]] water.
+
+
+--------------------------------------------- Result 285 ---------------------------------------------
+[[Neutral (98%)]] --> [[Entailment (85%)]]
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: An Indian couple is [[seeking]] refuge with a humanitarian organization.
+
+[[[[Premise]]]]: A couple, who appear to be Indian or Pakistani, walk on a path beside a body of water, the mother carrying a child in a diaper, the father wrapped in a blanket with the logo of the humanitarian organization "Save the Children."
+[[[[Hypothesis]]]]: An Indian couple is [[provided]] refuge with a humanitarian organization.
+
+
+--------------------------------------------- Result 286 ---------------------------------------------
+[[Neutral (69%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: There is a woman holding a baby, along with a man with a save the children bag.
+[[[[Hypothesis]]]]: A group of people are possing for an add.
+
+
+--------------------------------------------- Result 287 ---------------------------------------------
+[[Neutral (98%)]] --> [[Contradiction (90%)]]
+
+[[[[Premise]]]]: There is a woman holding a baby, along with a [[man]] with a save the children bag.
+[[[[Hypothesis]]]]: A man and a woman are hoding their son.
+
+[[[[Premise]]]]: There is a woman holding a baby, along with a [[boy]] with a save the children bag.
+[[[[Hypothesis]]]]: A man and a woman are hoding their son.
+
+
+--------------------------------------------- Result 288 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: There is a woman holding a baby, along with a man with a save the children bag.
+[[[[Hypothesis]]]]: A man is watching an airplane.
+
+
+--------------------------------------------- Result 289 ---------------------------------------------
+[[Contradiction (99%)]] --> [[Entailment (57%)]]
+
+[[[[Premise]]]]: A family with a baby, the father is wearing a save the children [[sign]].
+[[[[Hypothesis]]]]: [[Three]] adults are pictured.
+
+[[[[Premise]]]]: A family with a baby, the father is wearing a save the children [[bikini]].
+[[[[Hypothesis]]]]: [[two]] adults are pictured.
+
+
+--------------------------------------------- Result 290 ---------------------------------------------
+[[Entailment (96%)]] --> [[Contradiction (99%)]]
+
+[[[[Premise]]]]: A family with a baby, the [[father]] is [[wearing]] a save the children sign.
+[[[[Hypothesis]]]]: [[A]] man is wearing something with writing on it.
+
+[[[[Premise]]]]: A family with a baby, the [[dad]] is [[getting]] a save the children sign.
+[[[[Hypothesis]]]]: [[every]] man is wearing something with writing on it.
+
+
+--------------------------------------------- Result 291 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A family with a baby, the father is wearing a save the children sign.
+[[[[Hypothesis]]]]: A woman is holding a baby.
+
+
+--------------------------------------------- Result 292 ---------------------------------------------
+[[Contradiction (100%)]] --> [[Neutral (97%)]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: they are [[riding]] a bike
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: they are [[holding]] a bike
+
+
+--------------------------------------------- Result 293 ---------------------------------------------
+[[Neutral (96%)]] --> [[Contradiction (95%)]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the [[water]].
+[[[[Hypothesis]]]]: People are walking next to a lake.
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the [[wall]].
+[[[[Hypothesis]]]]: People are walking next to a lake.
+
+
+--------------------------------------------- Result 294 ---------------------------------------------
+[[Neutral (96%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: A foreigner group of cousins hike along a trail next to a stream.
+
+
+--------------------------------------------- Result 295 ---------------------------------------------
+[[Entailment (99%)]] --> [[Neutral (94%)]]
+
+[[[[Premise]]]]: A foreign family is walking along a [[dirt]] path next to the water.
+[[[[Hypothesis]]]]: A foreign family walks by a dirt trail along a body of water.
+
+[[[[Premise]]]]: A foreign family is walking along a [[side]] path next to the water.
+[[[[Hypothesis]]]]: A foreign family walks by a dirt trail along a body of water.
+
+
+--------------------------------------------- Result 296 ---------------------------------------------
+[[Neutral (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: The family is admiring the water
+
+
+--------------------------------------------- Result 297 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: The people are driving a car on the freeway.
+
+
+--------------------------------------------- Result 298 ---------------------------------------------
+[[Contradiction (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: A family of foreigners swims in the water.
+
+
+--------------------------------------------- Result 299 ---------------------------------------------
+[[Neutral (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: they are trying not to fall in the water
+
+
+--------------------------------------------- Result 300 ---------------------------------------------
+[[Contradiction (96%)]] --> [[Neutral (98%)]]
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: A group of locals [[run]] on a dirt trail next to a frozen stream.
+
+[[[[Premise]]]]: A foreign family is walking along a dirt path next to the water.
+[[[[Hypothesis]]]]: A group of locals [[go]] on a dirt trail next to a frozen stream.
+
+
+
++-------------------------------+-------+
+| Attack Results                |       |
++-------------------------------+-------+
+| Number of successful attacks: | 216   |
+| Number of failed attacks:     | 51    |
+| Number of skipped attacks:    | 33    |
+| Original accuracy:            | 89.0% |
+| Accuracy under attack:        | 17.0% |
+| Attack success rate:          | 80.9% |
+| Average perturbed word %:     | 7.59% |
+| Average num. words per input: | 21.68 |
+| Avg num queries:              | 48.74 |
++-------------------------------+-------+

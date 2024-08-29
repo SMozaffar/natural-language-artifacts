@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Lisa is tougher than Thomas but not Laura.",
+        "hypothesis": "Lisa is softer than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is tougher than Francis but not Elizabeth.",
+        "hypothesis": "Judy is softer than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is slower than Susan but not Amy.",
+        "hypothesis": "Melissa is faster than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is happier than Sandra but not Anthony.",
+        "hypothesis": "Linda is sadder than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is younger than Thomas but not Linda.",
+        "hypothesis": "Anne is elder than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is slower than Jessica but not Billy.",
+        "hypothesis": "Alex is faster than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is funny than Jimmy but not Peter.",
+        "hypothesis": "Suzanne is boring than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is older than Andrew but not Maria.",
+        "hypothesis": "Sharon is younger than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is powerful than Edith but not Sam.",
+        "hypothesis": "Dave is weak than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is interesting than Arthur but not Alice.",
+        "hypothesis": "Robin is boring than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is weaker than Angela but not Philip.",
+        "hypothesis": "Harriet is stronger than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is nicer than Elizabeth but not Carl.",
+        "hypothesis": "Angela is ruder than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is crazy than Jim but not Suzanne.",
+        "hypothesis": "Jimmy is normal than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is wealthier than Katie but not Edward.",
+        "hypothesis": "Mary is poorer than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is older than Don but not Jean.",
+        "hypothesis": "Bruce is younger than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is beautiful than Fiona but not Alexander.",
+        "hypothesis": "Sam is ugly than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is funny than John but not Roy.",
+        "hypothesis": "Amy is boring than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is smart than Alfred but not Suzanne.",
+        "hypothesis": "Albert is dumb than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is crazy than Philip but not Christopher.",
+        "hypothesis": "Jennifer is normal than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is nicer than Tom but not Marie.",
+        "hypothesis": "Mike is ruder than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is clever than Rebecca but not Marie.",
+        "hypothesis": "Wendy is dumb than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is younger than Julia but not Catherine.",
+        "hypothesis": "Laura is elder than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is older than Lauren but not Frank.",
+        "hypothesis": "Lynn is younger than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is older than Rachel but not Kathy.",
+        "hypothesis": "Emily is younger than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is nicer than Heather but not Billy.",
+        "hypothesis": "Stephanie is ruder than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is older than Katherine but not Nicole.",
+        "hypothesis": "Alexander is younger than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is heavier than Patrick but not Peter.",
+        "hypothesis": "Joan is lighter than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is smarter than Laura but not Andrew.",
+        "hypothesis": "Jennifer is dumber than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is real than Wendy but not Ryan.",
+        "hypothesis": "Hugh is fake than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is complicated than Gary but not Chris.",
+        "hypothesis": "Maria is simple than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is louder than Margaret but not Dan.",
+        "hypothesis": "Jean is quieter than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is older than Fred but not Jonathan.",
+        "hypothesis": "Walter is younger than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is normal than Mike but not Don.",
+        "hypothesis": "Samuel is crazy than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is bigger than Joe but not Steven.",
+        "hypothesis": "Anthony is tinier than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is real than Ruth but not Greg.",
+        "hypothesis": "Bill is fake than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is funny than William but not Ashley.",
+        "hypothesis": "Albert is boring than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is tinier than Linda but not Jerry.",
+        "hypothesis": "Tony is bigger than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is funny than Matt but not Frances.",
+        "hypothesis": "Albert is boring than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is slower than Sophie but not Roy.",
+        "hypothesis": "Jerry is faster than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is happier than Sara but not Alfred.",
+        "hypothesis": "Ben is sadder than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is tougher than Ruth but not Matthew.",
+        "hypothesis": "Larry is softer than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is smart than Melissa but not Mike.",
+        "hypothesis": "Pamela is dumb than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is heavier than Lawrence but not Sharon.",
+        "hypothesis": "Suzanne is lighter than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is crazy than Judith but not Michael.",
+        "hypothesis": "Frances is normal than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is happier than Howard but not Edwin.",
+        "hypothesis": "Anthony is sadder than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "William is stronger than Heather but not Jessica.",
+        "hypothesis": "William is weaker than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is slower than Andrea but not Roy.",
+        "hypothesis": "Benjamin is faster than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is richer than Bill but not Catherine.",
+        "hypothesis": "Patrick is poorer than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is bigger than Julia but not Jonathan.",
+        "hypothesis": "Kathleen is tinier than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is shorter than Stephen but not Alexander.",
+        "hypothesis": "Ann is taller than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is funny than Leslie but not Fiona.",
+        "hypothesis": "Elizabeth is boring than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is taller than Louise but not Katie.",
+        "hypothesis": "Tim is shorter than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is clever than Howard but not Dick.",
+        "hypothesis": "Sue is dumb than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is younger than Annie but not Kathleen.",
+        "hypothesis": "Melissa is elder than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is older than Alan but not Kathryn.",
+        "hypothesis": "Richard is younger than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is shorter than Larry but not Christine.",
+        "hypothesis": "Ian is taller than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is shorter than Melissa but not Alex.",
+        "hypothesis": "Lynn is taller than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is happier than Edith but not Fiona.",
+        "hypothesis": "Betty is sadder than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is heavier than Ron but not Edith.",
+        "hypothesis": "Colin is lighter than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is interesting than Edith but not Sara.",
+        "hypothesis": "Joe is boring than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is tougher than Kevin but not Louis.",
+        "hypothesis": "Marilyn is softer than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is quieter than Lawrence but not Samuel.",
+        "hypothesis": "Thomas is louder than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is interesting than Greg but not Daniel.",
+        "hypothesis": "Diane is boring than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is quicker than Johnny but not Diane.",
+        "hypothesis": "Ashley is slower than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is younger than Jean but not Kelly.",
+        "hypothesis": "Harry is elder than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is older than Carolyn but not Donald.",
+        "hypothesis": "Caroline is younger than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is beautiful than Richard but not Robin.",
+        "hypothesis": "Annie is ugly than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is quicker than Al but not Robert.",
+        "hypothesis": "Stephanie is slower than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is tinier than Matt but not Dick.",
+        "hypothesis": "Simon is bigger than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is older than Judith but not Henry.",
+        "hypothesis": "Jonathan is younger than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is richer than Howard but not Patricia.",
+        "hypothesis": "Mary is poorer than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is real than Lisa but not Al.",
+        "hypothesis": "Matt is fake than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is faster than Joe but not Steve.",
+        "hypothesis": "Alan is slower than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is poorer than Harry but not Louise.",
+        "hypothesis": "Ralph is richer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is crazy than Kevin but not Virginia.",
+        "hypothesis": "Jonathan is normal than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is complicated than Ryan but not Claire.",
+        "hypothesis": "Diana is simple than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is quicker than Sara but not Don.",
+        "hypothesis": "Jeff is slower than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is crazy than Dorothy but not Marie.",
+        "hypothesis": "Helen is normal than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is cunning than Kate but not Wendy.",
+        "hypothesis": "Jack is honest than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "William is intelligent than Charlotte but not George.",
+        "hypothesis": "William is foolish than George.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is faster than Grace but not Richard.",
+        "hypothesis": "Donna is slower than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is powerful than Victoria but not Grace.",
+        "hypothesis": "Nick is weak than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is older than Simon but not Benjamin.",
+        "hypothesis": "Ian is younger than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is smart than Kim but not Arthur.",
+        "hypothesis": "Anne is dumb than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is taller than Alexander but not Kathy.",
+        "hypothesis": "Roy is shorter than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is older than Mike but not James.",
+        "hypothesis": "Mark is younger than James.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is real than Alfred but not Anne.",
+        "hypothesis": "Ray is fake than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is funny than Brian but not Nicole.",
+        "hypothesis": "Martha is boring than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is happier than Carol but not Steven.",
+        "hypothesis": "Ian is sadder than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is heavier than Helen but not Leslie.",
+        "hypothesis": "Larry is lighter than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is stronger than Anne but not Virginia.",
+        "hypothesis": "Maria is weaker than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is beautiful than Steve but not Claire.",
+        "hypothesis": "Albert is ugly than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is interesting than Ray but not Joan.",
+        "hypothesis": "Anne is boring than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is thinner than Martin but not Charles.",
+        "hypothesis": "Amy is fatter than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is wealthier than Alan but not Cynthia.",
+        "hypothesis": "Emma is poorer than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is quieter than Karen but not Ellen.",
+        "hypothesis": "Charlotte is louder than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is thinner than David but not Barbara.",
+        "hypothesis": "Cynthia is fatter than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is smarter than Grace but not Jean.",
+        "hypothesis": "Ben is dumber than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is tougher than Sarah but not Mike.",
+        "hypothesis": "Christine is softer than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is quieter than Ian but not Jason.",
+        "hypothesis": "Matt is louder than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is quieter than Elaine but not Tony.",
+        "hypothesis": "Jonathan is louder than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is faster than Andrew but not Amanda.",
+        "hypothesis": "Evelyn is slower than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is poorer than Jeff but not Patrick.",
+        "hypothesis": "Sharon is richer than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is tinier than Joan but not Judith.",
+        "hypothesis": "Eleanor is bigger than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is nicer than Lucy but not Ann.",
+        "hypothesis": "Dave is ruder than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is powerful than Patrick but not Larry.",
+        "hypothesis": "Evelyn is weak than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is happier than Christopher but not Patricia.",
+        "hypothesis": "Charlie is sadder than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is wealthier than Edwin but not Arthur.",
+        "hypothesis": "Jason is poorer than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is clever than Jimmy but not Diana.",
+        "hypothesis": "Diane is dumb than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is funny than Ellen but not Heather.",
+        "hypothesis": "Patrick is boring than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is powerful than Jay but not Marie.",
+        "hypothesis": "Adam is weak than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is normal than Harriet but not Elizabeth.",
+        "hypothesis": "Arthur is crazy than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is faster than Bill but not Robert.",
+        "hypothesis": "Jessica is slower than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is cunning than Bob but not Julie.",
+        "hypothesis": "Emily is honest than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is shorter than Patrick but not Charlie.",
+        "hypothesis": "Caroline is taller than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is stronger than Steve but not Suzanne.",
+        "hypothesis": "Emma is weaker than Suzanne.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is clever than Greg but not Roger.",
+        "hypothesis": "Alan is dumb than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is heavier than Kathy but not Hugh.",
+        "hypothesis": "Kevin is lighter than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is cunning than Edith but not Anna.",
+        "hypothesis": "Gary is honest than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is complicated than Dorothy but not Frances.",
+        "hypothesis": "Amanda is simple than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is beautiful than Christine but not Tony.",
+        "hypothesis": "Ann is ugly than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is poorer than Hugh but not Kelly.",
+        "hypothesis": "Deborah is richer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is younger than Dick but not Elaine.",
+        "hypothesis": "Tony is elder than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is intelligent than Victoria but not Catherine.",
+        "hypothesis": "Emily is foolish than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Don is crazy than Sally but not Matt.",
+        "hypothesis": "Don is normal than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is complicated than Brian but not Charles.",
+        "hypothesis": "Julie is simple than Charles.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is beautiful than Jane but not Edward.",
+        "hypothesis": "Ed is ugly than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is older than Marie but not Hugh.",
+        "hypothesis": "Robin is younger than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is tougher than Christine but not Ben.",
+        "hypothesis": "Ian is softer than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is slower than Ben but not Grace.",
+        "hypothesis": "Colin is faster than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is poorer than Lucy but not Steven.",
+        "hypothesis": "Frank is richer than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is heavier than Henry but not Ann.",
+        "hypothesis": "Ben is lighter than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is bigger than Susan but not Andrew.",
+        "hypothesis": "Edwin is tinier than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is slower than Deborah but not Louis.",
+        "hypothesis": "Anne is faster than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is weaker than Karen but not Frank.",
+        "hypothesis": "Paul is stronger than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is older than Judy but not Sue.",
+        "hypothesis": "Jack is younger than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is poorer than Edward but not Kenneth.",
+        "hypothesis": "Ellen is richer than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is funny than Charles but not Donna.",
+        "hypothesis": "Heather is boring than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is younger than Louise but not Jennifer.",
+        "hypothesis": "Ryan is elder than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is quieter than Jean but not Nancy.",
+        "hypothesis": "Pamela is louder than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is louder than Lisa but not Fred.",
+        "hypothesis": "Annie is quieter than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "David is shorter than Al but not Grace.",
+        "hypothesis": "David is taller than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is thinner than Susan but not Jill.",
+        "hypothesis": "Julie is fatter than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is cunning than Don but not Elaine.",
+        "hypothesis": "Wendy is honest than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is crazy than Amanda but not Frances.",
+        "hypothesis": "Janet is normal than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Don is richer than Gary but not Lawrence.",
+        "hypothesis": "Don is poorer than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is smarter than Kevin but not Emily.",
+        "hypothesis": "Kathleen is dumber than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is nicer than Marilyn but not Peter.",
+        "hypothesis": "Ray is ruder than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is clever than Ann but not Adam.",
+        "hypothesis": "Helen is dumb than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is poorer than Elizabeth but not Leslie.",
+        "hypothesis": "Eleanor is richer than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is thinner than Florence but not Ellen.",
+        "hypothesis": "Katherine is fatter than Ellen.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is intelligent than Bobby but not Ken.",
+        "hypothesis": "Alexander is foolish than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is clever than Jill but not Tim.",
+        "hypothesis": "Diana is dumb than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is intelligent than Henry but not Edwin.",
+        "hypothesis": "Ben is foolish than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is shorter than Julie but not Evelyn.",
+        "hypothesis": "Dan is taller than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is normal than Colin but not Harry.",
+        "hypothesis": "Jill is crazy than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is intelligent than Deborah but not Matthew.",
+        "hypothesis": "Marie is foolish than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is richer than Roy but not Victoria.",
+        "hypothesis": "Tony is poorer than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is wealthier than Harriet but not Thomas.",
+        "hypothesis": "Carol is poorer than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is nicer than Kenneth but not David.",
+        "hypothesis": "Victoria is ruder than David.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is cunning than Angela but not Helen.",
+        "hypothesis": "Henry is honest than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is bigger than Ellen but not Kathryn.",
+        "hypothesis": "Keith is tinier than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is quicker than Andrea but not Jim.",
+        "hypothesis": "Alexandra is slower than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is tougher than Dan but not Margaret.",
+        "hypothesis": "Matt is softer than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is older than Alison but not Edwin.",
+        "hypothesis": "Tim is younger than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is poorer than Louise but not Christine.",
+        "hypothesis": "Henry is richer than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is complicated than Heather but not Chris.",
+        "hypothesis": "Stephanie is simple than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is quieter than Jeff but not Christine.",
+        "hypothesis": "Ed is louder than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is nicer than Paul but not Jack.",
+        "hypothesis": "Amy is ruder than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is stronger than Jean but not George.",
+        "hypothesis": "Carl is weaker than George.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is shorter than Andrew but not Jack.",
+        "hypothesis": "Robin is taller than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is tinier than Laura but not Keith.",
+        "hypothesis": "Ellen is bigger than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is richer than Louis but not Elizabeth.",
+        "hypothesis": "Nick is poorer than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is stronger than Jay but not Virginia.",
+        "hypothesis": "Ralph is weaker than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is shorter than Harry but not Alexandra.",
+        "hypothesis": "Eleanor is taller than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is faster than Christine but not Ben.",
+        "hypothesis": "Janet is slower than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is tinier than Cynthia but not Stephanie.",
+        "hypothesis": "Kathy is bigger than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is heavier than Chris but not Maria.",
+        "hypothesis": "Ryan is lighter than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is heavier than Mary but not Sue.",
+        "hypothesis": "Howard is lighter than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is quicker than Martin but not Christopher.",
+        "hypothesis": "Walter is slower than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is quieter than Samuel but not Barbara.",
+        "hypothesis": "Jerry is louder than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is nicer than Sam but not Florence.",
+        "hypothesis": "Katie is ruder than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is taller than Martin but not Virginia.",
+        "hypothesis": "Bill is shorter than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is cunning than Louis but not Roger.",
+        "hypothesis": "Bruce is honest than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is smarter than Ann but not Edith.",
+        "hypothesis": "Betty is dumber than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is shorter than Ben but not Anna.",
+        "hypothesis": "Adam is taller than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is smarter than James but not Kathy.",
+        "hypothesis": "Larry is dumber than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is poorer than Jerry but not Ed.",
+        "hypothesis": "Roy is richer than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is beautiful than Susan but not Ben.",
+        "hypothesis": "Dave is ugly than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is slower than Eleanor but not Ron.",
+        "hypothesis": "Jay is faster than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is quicker than Amanda but not Dick.",
+        "hypothesis": "Marilyn is slower than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is nicer than Nick but not Jeff.",
+        "hypothesis": "Adam is ruder than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is faster than Ryan but not Annie.",
+        "hypothesis": "Larry is slower than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is younger than Carol but not Alan.",
+        "hypothesis": "Jim is elder than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is normal than Jessica but not Christopher.",
+        "hypothesis": "Susan is crazy than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is nicer than Fred but not Wendy.",
+        "hypothesis": "Martin is ruder than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is weaker than Heather but not Joe.",
+        "hypothesis": "Ian is stronger than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is cunning than Alison but not Catherine.",
+        "hypothesis": "Carolyn is honest than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Don is happier than Eric but not Lynn.",
+        "hypothesis": "Don is sadder than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is complicated than Joe but not Christopher.",
+        "hypothesis": "Virginia is simple than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is older than Edith but not Simon.",
+        "hypothesis": "Kathy is younger than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is happier than Jennifer but not Ralph.",
+        "hypothesis": "Hugh is sadder than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is heavier than Kim but not Ruth.",
+        "hypothesis": "Barbara is lighter than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is real than Judy but not Grace.",
+        "hypothesis": "Kelly is fake than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is older than Stephanie but not Ryan.",
+        "hypothesis": "Sophie is younger than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is stronger than Fred but not Lawrence.",
+        "hypothesis": "Peter is weaker than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is cunning than Howard but not Jennifer.",
+        "hypothesis": "Hugh is honest than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is louder than Larry but not Jessica.",
+        "hypothesis": "Diana is quieter than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is taller than Alison but not Katherine.",
+        "hypothesis": "Emily is shorter than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is smart than Donna but not Angela.",
+        "hypothesis": "Albert is dumb than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is complicated than Jack but not Elaine.",
+        "hypothesis": "Samuel is simple than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is interesting than Joseph but not Claire.",
+        "hypothesis": "Judith is boring than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is clever than Marilyn but not Victoria.",
+        "hypothesis": "Samuel is dumb than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is younger than Jessica but not Ian.",
+        "hypothesis": "Ray is elder than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is faster than Charles but not Christine.",
+        "hypothesis": "Anthony is slower than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is poorer than Sally but not Harriet.",
+        "hypothesis": "Kathy is richer than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is wealthier than Carolyn but not Frances.",
+        "hypothesis": "Alex is poorer than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is smart than Eric but not Alfred.",
+        "hypothesis": "Adam is dumb than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is louder than Ryan but not Matthew.",
+        "hypothesis": "Patrick is quieter than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is older than Mary but not Harry.",
+        "hypothesis": "Hugh is younger than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is louder than Roger but not Larry.",
+        "hypothesis": "Sam is quieter than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is intelligent than Fiona but not Alison.",
+        "hypothesis": "Lawrence is foolish than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is real than Grace but not Roger.",
+        "hypothesis": "Lynn is fake than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is heavier than Amy but not Alfred.",
+        "hypothesis": "Karen is lighter than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is louder than Alan but not Philip.",
+        "hypothesis": "Susan is quieter than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Don is tougher than Dick but not Ralph.",
+        "hypothesis": "Don is softer than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is heavier than Sam but not Stephen.",
+        "hypothesis": "Carl is lighter than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is weaker than Alexandra but not Scott.",
+        "hypothesis": "Alice is stronger than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is weaker than Fiona but not Stephanie.",
+        "hypothesis": "Mary is stronger than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is younger than Robin but not Janet.",
+        "hypothesis": "Michael is elder than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is interesting than Charlotte but not Cynthia.",
+        "hypothesis": "Ralph is boring than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is interesting than Pamela but not Barbara.",
+        "hypothesis": "Maria is boring than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is nicer than Richard but not Walter.",
+        "hypothesis": "Eric is ruder than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is slower than Peter but not Julia.",
+        "hypothesis": "Samuel is faster than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is powerful than Sara but not Henry.",
+        "hypothesis": "Katie is weak than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is real than Virginia but not Harry.",
+        "hypothesis": "Evelyn is fake than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "James is funny than Alan but not Sophie.",
+        "hypothesis": "James is boring than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is slower than Paul but not Dave.",
+        "hypothesis": "Suzanne is faster than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is smart than Martin but not Florence.",
+        "hypothesis": "Ryan is dumb than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is slower than Joseph but not Sam.",
+        "hypothesis": "Katherine is faster than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is complicated than Sara but not Fred.",
+        "hypothesis": "Francis is simple than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is thinner than Elizabeth but not Edith.",
+        "hypothesis": "Nick is fatter than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is bigger than David but not Janet.",
+        "hypothesis": "Sharon is tinier than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is intelligent than Claire but not Brian.",
+        "hypothesis": "Kim is foolish than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is older than Frank but not Mike.",
+        "hypothesis": "Marie is younger than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is cunning than Catherine but not James.",
+        "hypothesis": "Andrew is honest than James.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is crazy than Nick but not Betty.",
+        "hypothesis": "Frances is normal than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is interesting than Billy but not Steve.",
+        "hypothesis": "Bill is boring than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is stronger than Francis but not Daniel.",
+        "hypothesis": "Julie is weaker than Daniel.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is quieter than Tony but not Mark.",
+        "hypothesis": "Harry is louder than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is heavier than Steve but not Mike.",
+        "hypothesis": "Bruce is lighter than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is crazy than Daniel but not Patrick.",
+        "hypothesis": "Ellen is normal than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is beautiful than Bruce but not Howard.",
+        "hypothesis": "Catherine is ugly than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is faster than Walter but not Nick.",
+        "hypothesis": "Kevin is slower than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is younger than Stephanie but not Wendy.",
+        "hypothesis": "Leslie is elder than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is smarter than Helen but not Don.",
+        "hypothesis": "Mark is dumber than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is intelligent than Judy but not Steve.",
+        "hypothesis": "Evelyn is foolish than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is richer than Harry but not Charlie.",
+        "hypothesis": "Kathryn is poorer than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is crazy than Janet but not Carol.",
+        "hypothesis": "Joan is normal than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is quieter than Ralph but not Henry.",
+        "hypothesis": "Ray is louder than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is nicer than Harriet but not Virginia.",
+        "hypothesis": "Larry is ruder than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is richer than Betty but not Heather.",
+        "hypothesis": "Henry is poorer than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is bigger than Barbara but not Lisa.",
+        "hypothesis": "Tom is tinier than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is powerful than Don but not Elizabeth.",
+        "hypothesis": "Sophie is weak than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is real than Ray but not Bruce.",
+        "hypothesis": "Sam is fake than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is younger than Paul but not Charlie.",
+        "hypothesis": "Amanda is elder than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is interesting than Robin but not Larry.",
+        "hypothesis": "Brian is boring than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is funny than Heather but not John.",
+        "hypothesis": "Louise is boring than John.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is normal than Michael but not Greg.",
+        "hypothesis": "Hugh is crazy than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is clever than Linda but not Karen.",
+        "hypothesis": "Ann is dumb than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is older than Charlie but not Jim.",
+        "hypothesis": "Scott is younger than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is smart than Jimmy but not Karen.",
+        "hypothesis": "Edward is dumb than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is interesting than Jay but not Ian.",
+        "hypothesis": "Diane is boring than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is nicer than Anthony but not Steve.",
+        "hypothesis": "Stephen is ruder than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is thinner than Alice but not Ryan.",
+        "hypothesis": "Howard is fatter than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is real than Jeff but not Susan.",
+        "hypothesis": "Chris is fake than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is heavier than Jay but not Elaine.",
+        "hypothesis": "Francis is lighter than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is normal than Jennifer but not Eleanor.",
+        "hypothesis": "Harold is crazy than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is thinner than Jean but not Emily.",
+        "hypothesis": "Stephen is fatter than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is crazy than Kathryn but not Dorothy.",
+        "hypothesis": "Lawrence is normal than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is louder than Frances but not Joe.",
+        "hypothesis": "Fred is quieter than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is quieter than Karen but not Dave.",
+        "hypothesis": "Jennifer is louder than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is complicated than Samuel but not Katie.",
+        "hypothesis": "Tim is simple than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is tougher than Charlotte but not Fiona.",
+        "hypothesis": "Rose is softer than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is slower than Joseph but not Keith.",
+        "hypothesis": "Diana is faster than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is beautiful than Lisa but not Albert.",
+        "hypothesis": "Roy is ugly than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is funny than Jane but not Sarah.",
+        "hypothesis": "Katherine is boring than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is tougher than Amanda but not Emma.",
+        "hypothesis": "Hugh is softer than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is younger than Philip but not Mary.",
+        "hypothesis": "Richard is elder than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is funny than Karen but not Martin.",
+        "hypothesis": "Paul is boring than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "John is quieter than Florence but not Patricia.",
+        "hypothesis": "John is louder than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "George is shorter than David but not Anna.",
+        "hypothesis": "George is taller than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is shorter than Deborah but not Bruce.",
+        "hypothesis": "Diana is taller than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is poorer than Jay but not Gary.",
+        "hypothesis": "Harold is richer than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is clever than Greg but not Edwin.",
+        "hypothesis": "Roger is dumb than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is interesting than Carl but not Cynthia.",
+        "hypothesis": "Bob is boring than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is cunning than Don but not Billy.",
+        "hypothesis": "Samuel is honest than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is heavier than Joan but not Peter.",
+        "hypothesis": "Ann is lighter than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Don is real than Andrew but not Anthony.",
+        "hypothesis": "Don is fake than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is younger than Katie but not Don.",
+        "hypothesis": "Jeff is elder than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is richer than Nick but not Kathryn.",
+        "hypothesis": "Virginia is poorer than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "William is tougher than George but not Patricia.",
+        "hypothesis": "William is softer than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is heavier than Marie but not Benjamin.",
+        "hypothesis": "Johnny is lighter than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "James is thinner than Jean but not Tony.",
+        "hypothesis": "James is fatter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is louder than Frederick but not Sharon.",
+        "hypothesis": "Ian is quieter than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is powerful than Katherine but not Kathryn.",
+        "hypothesis": "Judy is weak than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is quicker than Michael but not Ashley.",
+        "hypothesis": "Dan is slower than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is complicated than Jean but not Benjamin.",
+        "hypothesis": "Alexander is simple than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is quicker than Martin but not Frank.",
+        "hypothesis": "Martha is slower than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is cunning than Michael but not Francis.",
+        "hypothesis": "Frank is honest than Francis.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is happier than Edith but not Michelle.",
+        "hypothesis": "Robin is sadder than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is stronger than Anthony but not Ben.",
+        "hypothesis": "Stephanie is weaker than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is tinier than Anthony but not Mark.",
+        "hypothesis": "Alexandra is bigger than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is interesting than Alex but not Albert.",
+        "hypothesis": "Betty is boring than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is funny than Mark but not Lucy.",
+        "hypothesis": "Harold is boring than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Al is bigger than Edward but not Arthur.",
+        "hypothesis": "Al is tinier than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is richer than Daniel but not Marilyn.",
+        "hypothesis": "Dorothy is poorer than Marilyn.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is younger than Jessica but not Bill.",
+        "hypothesis": "Andrew is elder than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is quieter than Jane but not Leslie.",
+        "hypothesis": "Sandra is louder than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "William is normal than Betty but not Grace.",
+        "hypothesis": "William is crazy than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is tinier than William but not Roger.",
+        "hypothesis": "Stephen is bigger than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is cunning than Alan but not Christopher.",
+        "hypothesis": "Dave is honest than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is older than Amanda but not Alexandra.",
+        "hypothesis": "Andrea is younger than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is real than Mark but not Stephanie.",
+        "hypothesis": "Anthony is fake than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is richer than Kathy but not Ron.",
+        "hypothesis": "Jane is poorer than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is louder than Bill but not Louise.",
+        "hypothesis": "Alfred is quieter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is complicated than Harold but not Kate.",
+        "hypothesis": "Richard is simple than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is interesting than Paul but not Anthony.",
+        "hypothesis": "Diane is boring than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is smarter than Mark but not Julie.",
+        "hypothesis": "Matt is dumber than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is interesting than Judith but not Thomas.",
+        "hypothesis": "Stephanie is boring than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is heavier than Rebecca but not Bill.",
+        "hypothesis": "Diane is lighter than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is interesting than Dave but not Ashley.",
+        "hypothesis": "Pamela is boring than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is richer than Claire but not Kenneth.",
+        "hypothesis": "Charlie is poorer than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is younger than Angela but not Kate.",
+        "hypothesis": "Ron is elder than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is slower than Paul but not Rose.",
+        "hypothesis": "Melissa is faster than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is richer than Marie but not Steven.",
+        "hypothesis": "Elaine is poorer than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is richer than Johnny but not David.",
+        "hypothesis": "Emily is poorer than David.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is powerful than Dick but not Amy.",
+        "hypothesis": "Alison is weak than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "David is real than Alan but not Lauren.",
+        "hypothesis": "David is fake than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is normal than Pamela but not Walter.",
+        "hypothesis": "Colin is crazy than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is poorer than Judith but not Robert.",
+        "hypothesis": "Florence is richer than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is older than Betty but not Alexander.",
+        "hypothesis": "Stephanie is younger than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is shorter than Jean but not Bobby.",
+        "hypothesis": "Fred is taller than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is nicer than Martha but not Ruth.",
+        "hypothesis": "Kathleen is ruder than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is slower than Walter but not Rachel.",
+        "hypothesis": "Julia is faster than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is faster than Keith but not Steven.",
+        "hypothesis": "Lauren is slower than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is smarter than Alison but not Margaret.",
+        "hypothesis": "Claire is dumber than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is heavier than Julia but not Jason.",
+        "hypothesis": "Diana is lighter than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is happier than Chris but not Steve.",
+        "hypothesis": "Stephen is sadder than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is older than Emily but not Tony.",
+        "hypothesis": "Arthur is younger than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is complicated than Deborah but not Colin.",
+        "hypothesis": "Harry is simple than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is crazy than Ryan but not Ian.",
+        "hypothesis": "Mark is normal than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is happier than Frederick but not Lawrence.",
+        "hypothesis": "Judy is sadder than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is powerful than Evelyn but not Anne.",
+        "hypothesis": "Ken is weak than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is happier than Ruth but not Joan.",
+        "hypothesis": "Katie is sadder than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is crazy than Robert but not Heather.",
+        "hypothesis": "Nick is normal than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is funny than Anne but not Ann.",
+        "hypothesis": "Nick is boring than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is younger than Steven but not Harry.",
+        "hypothesis": "Sophie is elder than Harry.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is normal than David but not Ryan.",
+        "hypothesis": "Katherine is crazy than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is tougher than Christopher but not Donald.",
+        "hypothesis": "Philip is softer than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is quieter than Louis but not Martha.",
+        "hypothesis": "Sandra is louder than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is crazy than Amanda but not Ruth.",
+        "hypothesis": "Anne is normal than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is funny than Edith but not Kim.",
+        "hypothesis": "Carl is boring than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is normal than Keith but not Matthew.",
+        "hypothesis": "Carol is crazy than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is older than Wendy but not Carol.",
+        "hypothesis": "Helen is younger than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is older than Emma but not Sam.",
+        "hypothesis": "Martin is younger than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is real than Cynthia but not Kenneth.",
+        "hypothesis": "Annie is fake than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is smart than Nancy but not Peter.",
+        "hypothesis": "Joe is dumb than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is stronger than Tony but not Lawrence.",
+        "hypothesis": "Nancy is weaker than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is wealthier than Ryan but not Ian.",
+        "hypothesis": "Lauren is poorer than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is nicer than Chris but not Rachel.",
+        "hypothesis": "Julia is ruder than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is weaker than Simon but not Thomas.",
+        "hypothesis": "Virginia is stronger than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is smarter than Sue but not Karen.",
+        "hypothesis": "Patrick is dumber than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is powerful than Johnny but not Laura.",
+        "hypothesis": "Harold is weak than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is real than Johnny but not Ray.",
+        "hypothesis": "Cynthia is fake than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is smarter than Adam but not Anne.",
+        "hypothesis": "Colin is dumber than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is funny than Eleanor but not Ryan.",
+        "hypothesis": "Katherine is boring than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is nicer than Victoria but not Claire.",
+        "hypothesis": "Helen is ruder than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is older than Margaret but not Colin.",
+        "hypothesis": "Robin is younger than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is thinner than Tom but not Ken.",
+        "hypothesis": "Howard is fatter than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is interesting than Nancy but not Lucy.",
+        "hypothesis": "Carl is boring than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is cunning than Emma but not Rebecca.",
+        "hypothesis": "Kevin is honest than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is nicer than Jim but not Katherine.",
+        "hypothesis": "Sandra is ruder than Katherine.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is older than Jonathan but not Gary.",
+        "hypothesis": "Mark is younger than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is shorter than Tim but not Karen.",
+        "hypothesis": "Joe is taller than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is complicated than Judy but not Anthony.",
+        "hypothesis": "Helen is simple than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is beautiful than Lisa but not Thomas.",
+        "hypothesis": "Judith is ugly than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "David is taller than Rebecca but not Dick.",
+        "hypothesis": "David is shorter than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is smart than Kathryn but not Jonathan.",
+        "hypothesis": "Jane is dumb than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "James is crazy than Chris but not John.",
+        "hypothesis": "James is normal than John.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is cunning than Roger but not Emily.",
+        "hypothesis": "Alfred is honest than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is weaker than Maria but not Lawrence.",
+        "hypothesis": "Elaine is stronger than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is younger than Alex but not Lynn.",
+        "hypothesis": "Roger is elder than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is real than Katie but not Andrew.",
+        "hypothesis": "Cynthia is fake than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is slower than Ben but not Colin.",
+        "hypothesis": "Catherine is faster than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is slower than Sandra but not Alex.",
+        "hypothesis": "Judith is faster than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is thinner than Evelyn but not Matt.",
+        "hypothesis": "Elaine is fatter than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is funny than Sharon but not Mike.",
+        "hypothesis": "Ralph is boring than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is richer than Bruce but not Frederick.",
+        "hypothesis": "Susan is poorer than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is interesting than Rebecca but not Jay.",
+        "hypothesis": "Gary is boring than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is shorter than Emma but not Barbara.",
+        "hypothesis": "Anna is taller than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is older than Ellen but not Barbara.",
+        "hypothesis": "Jessica is younger than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is complicated than Joseph but not Charlie.",
+        "hypothesis": "Rose is simple than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is normal than Michael but not Stephen.",
+        "hypothesis": "Jim is crazy than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is tinier than Johnny but not Harold.",
+        "hypothesis": "Kathy is bigger than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is weaker than Billy but not Virginia.",
+        "hypothesis": "Alfred is stronger than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is younger than Robert but not Caroline.",
+        "hypothesis": "Hugh is elder than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is clever than Kenneth but not Dave.",
+        "hypothesis": "Rachel is dumb than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is shorter than Sam but not Jim.",
+        "hypothesis": "Evelyn is taller than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is real than Anne but not Amy.",
+        "hypothesis": "Pamela is fake than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is happier than Helen but not Martin.",
+        "hypothesis": "Bobby is sadder than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is tougher than Larry but not Kelly.",
+        "hypothesis": "Sara is softer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is faster than Eleanor but not Jeff.",
+        "hypothesis": "Dan is slower than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is funny than Christine but not Harold.",
+        "hypothesis": "Christopher is boring than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is faster than Kim but not Michael.",
+        "hypothesis": "Mary is slower than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is normal than Ralph but not Tony.",
+        "hypothesis": "Ruth is crazy than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is shorter than Melissa but not Kim.",
+        "hypothesis": "Charlie is taller than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is taller than Barbara but not Matt.",
+        "hypothesis": "Andrew is shorter than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is shorter than Jonathan but not James.",
+        "hypothesis": "Ralph is taller than James.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is tougher than Adam but not Dick.",
+        "hypothesis": "Judith is softer than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is older than Martha but not Pamela.",
+        "hypothesis": "Patrick is younger than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is crazy than Anthony but not Dan.",
+        "hypothesis": "Albert is normal than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is real than Julie but not Tony.",
+        "hypothesis": "Jane is fake than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is clever than Elaine but not Kathryn.",
+        "hypothesis": "Leslie is dumb than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "William is happier than Frances but not Ann.",
+        "hypothesis": "William is sadder than Ann.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is happier than Arthur but not Elizabeth.",
+        "hypothesis": "Annie is sadder than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is slower than Thomas but not Jay.",
+        "hypothesis": "Ben is faster than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is bigger than Bob but not David.",
+        "hypothesis": "Joseph is tinier than David.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is slower than Lawrence but not Nancy.",
+        "hypothesis": "Bruce is faster than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is smart than Philip but not Sharon.",
+        "hypothesis": "Elizabeth is dumb than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "William is real than Pamela but not Fred.",
+        "hypothesis": "William is fake than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is tinier than Kim but not Kelly.",
+        "hypothesis": "Dick is bigger than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is interesting than Sue but not Andrea.",
+        "hypothesis": "Charlotte is boring than Andrea.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is slower than Walter but not Tim.",
+        "hypothesis": "Karen is faster than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is interesting than Daniel but not Harriet.",
+        "hypothesis": "Janet is boring than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is happier than Walter but not Jennifer.",
+        "hypothesis": "Thomas is sadder than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is beautiful than Michelle but not Heather.",
+        "hypothesis": "Florence is ugly than Heather.",
+        "label": 0
+    },
+    {
+        "premise": "John is smart than Charlotte but not Dave.",
+        "hypothesis": "John is dumb than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is complicated than Keith but not Dan.",
+        "hypothesis": "Helen is simple than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is cunning than Rose but not Deborah.",
+        "hypothesis": "Harry is honest than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is poorer than Louise but not Jessica.",
+        "hypothesis": "Judith is richer than Jessica.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is intelligent than Ben but not Sara.",
+        "hypothesis": "Bill is foolish than Sara.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is poorer than Kathy but not Frederick.",
+        "hypothesis": "Charles is richer than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is quieter than Ann but not Jennifer.",
+        "hypothesis": "Jason is louder than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is tougher than Judith but not Jennifer.",
+        "hypothesis": "Carol is softer than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is smart than Victoria but not Larry.",
+        "hypothesis": "Colin is dumb than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is funny than Matt but not Leslie.",
+        "hypothesis": "Richard is boring than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is older than Jennifer but not Alexandra.",
+        "hypothesis": "Florence is younger than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is tougher than Rachel but not Kim.",
+        "hypothesis": "Bob is softer than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is real than Charles but not Sally.",
+        "hypothesis": "Johnny is fake than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is heavier than Donald but not Charlie.",
+        "hypothesis": "Philip is lighter than Charlie.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is stronger than Ralph but not Gary.",
+        "hypothesis": "Marie is weaker than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is quicker than Betty but not Fred.",
+        "hypothesis": "Edwin is slower than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is normal than Roger but not Kelly.",
+        "hypothesis": "Bobby is crazy than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is older than Frederick but not Chris.",
+        "hypothesis": "Virginia is younger than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is crazy than Annie but not Harriet.",
+        "hypothesis": "Harry is normal than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is cunning than Harriet but not Sam.",
+        "hypothesis": "Daniel is honest than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is clever than Johnny but not Stephen.",
+        "hypothesis": "Roy is dumb than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is smarter than Johnny but not Alex.",
+        "hypothesis": "Jack is dumber than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is older than Patricia but not Philip.",
+        "hypothesis": "Ken is younger than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is stronger than Ellen but not Richard.",
+        "hypothesis": "Barbara is weaker than Richard.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is older than Alexander but not Frederick.",
+        "hypothesis": "Harriet is younger than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is thinner than Scott but not Kate.",
+        "hypothesis": "Johnny is fatter than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is quicker than Grace but not Carl.",
+        "hypothesis": "Maria is slower than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is nicer than Julie but not Amy.",
+        "hypothesis": "Ryan is ruder than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is tinier than Louis but not James.",
+        "hypothesis": "Jay is bigger than James.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is powerful than Steve but not Matt.",
+        "hypothesis": "Bill is weak than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is older than Lauren but not Emily.",
+        "hypothesis": "Lisa is younger than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is cunning than Angela but not Jim.",
+        "hypothesis": "Edith is honest than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is bigger than Kim but not Elizabeth.",
+        "hypothesis": "Harriet is tinier than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is crazy than Ruth but not Gary.",
+        "hypothesis": "Mark is normal than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is quicker than Joe but not Matt.",
+        "hypothesis": "Helen is slower than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is cunning than Jane but not Julia.",
+        "hypothesis": "Ellen is honest than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is richer than Joan but not Sam.",
+        "hypothesis": "Deborah is poorer than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is wealthier than James but not Fred.",
+        "hypothesis": "Annie is poorer than Fred.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is slower than Kathleen but not Lucy.",
+        "hypothesis": "Joe is faster than Lucy.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is faster than Victoria but not Benjamin.",
+        "hypothesis": "Jason is slower than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is weaker than Nicole but not Ryan.",
+        "hypothesis": "Lynn is stronger than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is stronger than Jean but not Lisa.",
+        "hypothesis": "Lucy is weaker than Lisa.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is complicated than Francis but not Jeff.",
+        "hypothesis": "Carl is simple than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is tinier than Stephanie but not Bill.",
+        "hypothesis": "Nicole is bigger than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is complicated than Alexandra but not Philip.",
+        "hypothesis": "Catherine is simple than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is intelligent than Howard but not Mike.",
+        "hypothesis": "Christine is foolish than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is real than David but not Deborah.",
+        "hypothesis": "Joe is fake than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is tougher than Stephanie but not Margaret.",
+        "hypothesis": "Kelly is softer than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is tougher than Kenneth but not Matt.",
+        "hypothesis": "Jason is softer than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is tougher than Simon but not Diana.",
+        "hypothesis": "Robin is softer than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is bigger than Anne but not Nick.",
+        "hypothesis": "Sarah is tinier than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is powerful than Harry but not Alexandra.",
+        "hypothesis": "Jessica is weak than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is faster than Heather but not Caroline.",
+        "hypothesis": "Tony is slower than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is intelligent than Donald but not Janet.",
+        "hypothesis": "Ben is foolish than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is older than Stephanie but not Sally.",
+        "hypothesis": "Susan is younger than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is nicer than Jonathan but not Charlotte.",
+        "hypothesis": "Gary is ruder than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is shorter than Ed but not Bruce.",
+        "hypothesis": "Eleanor is taller than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is louder than Ann but not Matt.",
+        "hypothesis": "Stephanie is quieter than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is heavier than Amanda but not Tony.",
+        "hypothesis": "Joe is lighter than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is normal than Al but not Nancy.",
+        "hypothesis": "Ralph is crazy than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is stronger than Sally but not Dick.",
+        "hypothesis": "Charles is weaker than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is powerful than Ashley but not Caroline.",
+        "hypothesis": "Gary is weak than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is faster than Greg but not Brian.",
+        "hypothesis": "Sally is slower than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is bigger than Julia but not Victoria.",
+        "hypothesis": "Harriet is tinier than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is taller than Edwin but not Gary.",
+        "hypothesis": "Michael is shorter than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is thinner than Emma but not Stephen.",
+        "hypothesis": "Arthur is fatter than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is clever than Emma but not Anna.",
+        "hypothesis": "Frederick is dumb than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is tinier than Amanda but not Steve.",
+        "hypothesis": "Patricia is bigger than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is richer than Alison but not Ashley.",
+        "hypothesis": "Carolyn is poorer than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is quieter than Martin but not Ed.",
+        "hypothesis": "Caroline is louder than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is interesting than Jean but not Jill.",
+        "hypothesis": "Eric is boring than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is richer than Kathy but not Emily.",
+        "hypothesis": "Frances is poorer than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is happier than Thomas but not Evelyn.",
+        "hypothesis": "Leslie is sadder than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "John is tinier than Alison but not Frederick.",
+        "hypothesis": "John is bigger than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is smarter than Simon but not Ashley.",
+        "hypothesis": "Lawrence is dumber than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is thinner than Kathryn but not Don.",
+        "hypothesis": "Rachel is fatter than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is younger than Bob but not Keith.",
+        "hypothesis": "Gary is elder than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is louder than Roy but not Jimmy.",
+        "hypothesis": "Brian is quieter than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is older than Alexander but not Sally.",
+        "hypothesis": "Martha is younger than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is tougher than Betty but not Elizabeth.",
+        "hypothesis": "Daniel is softer than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is cunning than Alan but not Ed.",
+        "hypothesis": "Fred is honest than Ed.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is smart than Jill but not Betty.",
+        "hypothesis": "Laura is dumb than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is bigger than Judith but not Jason.",
+        "hypothesis": "Christopher is tinier than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is taller than Jonathan but not Louis.",
+        "hypothesis": "Joe is shorter than Louis.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is normal than Grace but not Martha.",
+        "hypothesis": "Linda is crazy than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is slower than Bob but not Catherine.",
+        "hypothesis": "Ian is faster than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is interesting than Kate but not Jerry.",
+        "hypothesis": "Maria is boring than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is quieter than Marie but not Robert.",
+        "hypothesis": "Deborah is louder than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is quieter than Kathleen but not Hugh.",
+        "hypothesis": "Jack is louder than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is intelligent than Sara but not Patricia.",
+        "hypothesis": "Edwin is foolish than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is crazy than Wendy but not Harold.",
+        "hypothesis": "Dan is normal than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is interesting than Charlotte but not Tony.",
+        "hypothesis": "Jennifer is boring than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is intelligent than Rebecca but not Jennifer.",
+        "hypothesis": "Mark is foolish than Jennifer.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is funny than Thomas but not Fiona.",
+        "hypothesis": "Patricia is boring than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is shorter than Lucy but not Ian.",
+        "hypothesis": "Mary is taller than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is older than Jeff but not Elizabeth.",
+        "hypothesis": "Alison is younger than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is complicated than Julie but not Jill.",
+        "hypothesis": "Ashley is simple than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is shorter than Margaret but not Sarah.",
+        "hypothesis": "Kenneth is taller than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is interesting than Donald but not Diane.",
+        "hypothesis": "Elizabeth is boring than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is smart than Sally but not Nick.",
+        "hypothesis": "Patrick is dumb than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is smarter than Melissa but not Michael.",
+        "hypothesis": "Lynn is dumber than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is slower than Kelly but not Mark.",
+        "hypothesis": "Donna is faster than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is tougher than Mark but not Ruth.",
+        "hypothesis": "Florence is softer than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is powerful than Samuel but not Ken.",
+        "hypothesis": "Sam is weak than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is bigger than Alan but not Susan.",
+        "hypothesis": "Sue is tinier than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is slower than Grace but not Diana.",
+        "hypothesis": "Nicole is faster than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is interesting than Katie but not Alexandra.",
+        "hypothesis": "Donna is boring than Alexandra.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is tougher than Kim but not Sam.",
+        "hypothesis": "Gary is softer than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is tinier than Janet but not Jerry.",
+        "hypothesis": "Jill is bigger than Jerry.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is smart than Evelyn but not Anthony.",
+        "hypothesis": "Frances is dumb than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is normal than Jay but not Greg.",
+        "hypothesis": "Arthur is crazy than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is normal than Nick but not Margaret.",
+        "hypothesis": "Sharon is crazy than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is happier than Sam but not Robin.",
+        "hypothesis": "Ken is sadder than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is older than Dick but not Caroline.",
+        "hypothesis": "Charlotte is younger than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is weaker than Jim but not Michael.",
+        "hypothesis": "Harold is stronger than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is clever than Heather but not Bob.",
+        "hypothesis": "Claire is dumb than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is shorter than Maria but not Jean.",
+        "hypothesis": "Fiona is taller than Jean.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is quieter than Victoria but not Nancy.",
+        "hypothesis": "Kathy is louder than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is beautiful than Ashley but not Jay.",
+        "hypothesis": "Martha is ugly than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is quicker than Caroline but not Simon.",
+        "hypothesis": "Matt is slower than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "David is intelligent than Ryan but not Caroline.",
+        "hypothesis": "David is foolish than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is powerful than Evelyn but not William.",
+        "hypothesis": "Jane is weak than William.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is happier than Jean but not Don.",
+        "hypothesis": "Roy is sadder than Don.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is poorer than Annie but not Rachel.",
+        "hypothesis": "Richard is richer than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is interesting than Susan but not Martin.",
+        "hypothesis": "Alice is boring than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is complicated than Martha but not Steve.",
+        "hypothesis": "Margaret is simple than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is smart than Stephanie but not Anna.",
+        "hypothesis": "Jennifer is dumb than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is smarter than Kenneth but not Edith.",
+        "hypothesis": "Florence is dumber than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is stronger than Simon but not Sophie.",
+        "hypothesis": "Claire is weaker than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is tougher than Harold but not Kim.",
+        "hypothesis": "Patricia is softer than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is thinner than Billy but not Nicole.",
+        "hypothesis": "Tom is fatter than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is normal than Lynn but not Leslie.",
+        "hypothesis": "Sam is crazy than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is thinner than Ruth but not Hugh.",
+        "hypothesis": "Sarah is fatter than Hugh.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is complicated than Sara but not Benjamin.",
+        "hypothesis": "Melissa is simple than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is complicated than Adam but not Robin.",
+        "hypothesis": "Angela is simple than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is smarter than Donald but not Elizabeth.",
+        "hypothesis": "Diana is dumber than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is shorter than Florence but not Rachel.",
+        "hypothesis": "Alice is taller than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is tougher than Alex but not Annie.",
+        "hypothesis": "Frank is softer than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is heavier than Frances but not Roy.",
+        "hypothesis": "Judith is lighter than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is cunning than Dick but not Eleanor.",
+        "hypothesis": "Jill is honest than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "William is crazy than Gary but not Sue.",
+        "hypothesis": "William is normal than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is heavier than Carolyn but not Kate.",
+        "hypothesis": "Pamela is lighter than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is bigger than Katie but not Sue.",
+        "hypothesis": "Jay is tinier than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is happier than Louis but not Edward.",
+        "hypothesis": "Donna is sadder than Edward.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is real than Mary but not Dave.",
+        "hypothesis": "Helen is fake than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is thinner than Dan but not Diana.",
+        "hypothesis": "Dave is fatter than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is interesting than Diana but not Larry.",
+        "hypothesis": "Andrea is boring than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is beautiful than Kim but not Virginia.",
+        "hypothesis": "Thomas is ugly than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is interesting than Roger but not Sue.",
+        "hypothesis": "Patrick is boring than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is poorer than Alexander but not Howard.",
+        "hypothesis": "Bobby is richer than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is heavier than Joan but not Ron.",
+        "hypothesis": "Sara is lighter than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is smarter than Wendy but not Judy.",
+        "hypothesis": "Mary is dumber than Judy.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is slower than Larry but not Philip.",
+        "hypothesis": "Matt is faster than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is smarter than Leslie but not Eric.",
+        "hypothesis": "Elaine is dumber than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is happier than Steven but not Jane.",
+        "hypothesis": "Sandra is sadder than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is powerful than Joe but not Stephanie.",
+        "hypothesis": "Larry is weak than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is smarter than Charlie but not Lynn.",
+        "hypothesis": "Deborah is dumber than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is clever than Rebecca but not Jason.",
+        "hypothesis": "Emma is dumb than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is happier than Amanda but not Ken.",
+        "hypothesis": "Rose is sadder than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Al is thinner than Sarah but not Sally.",
+        "hypothesis": "Al is fatter than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is tougher than Jimmy but not Diana.",
+        "hypothesis": "Jason is softer than Diana.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is wealthier than Grace but not Howard.",
+        "hypothesis": "Leslie is poorer than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is smarter than Helen but not Sophie.",
+        "hypothesis": "Lisa is dumber than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is beautiful than Dick but not Patricia.",
+        "hypothesis": "Pamela is ugly than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is smart than Ben but not Keith.",
+        "hypothesis": "Katie is dumb than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "John is tinier than Mark but not Adam.",
+        "hypothesis": "John is bigger than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is clever than Louise but not Alfred.",
+        "hypothesis": "Mark is dumb than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is quieter than Leslie but not Caroline.",
+        "hypothesis": "Sue is louder than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is thinner than Amanda but not Emily.",
+        "hypothesis": "Ed is fatter than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is shorter than Simon but not Rachel.",
+        "hypothesis": "Mike is taller than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is faster than Mark but not Janet.",
+        "hypothesis": "Martin is slower than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is heavier than Jane but not Albert.",
+        "hypothesis": "Alison is lighter than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is complicated than Al but not Michael.",
+        "hypothesis": "Johnny is simple than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is taller than Jerry but not William.",
+        "hypothesis": "Sam is shorter than William.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is richer than Jerry but not Arthur.",
+        "hypothesis": "Greg is poorer than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is quieter than Donna but not Gary.",
+        "hypothesis": "Ed is louder than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is clever than Dick but not Tony.",
+        "hypothesis": "Rebecca is dumb than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is intelligent than Robert but not Janet.",
+        "hypothesis": "Alexandra is foolish than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "John is powerful than Karen but not Kate.",
+        "hypothesis": "John is weak than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is louder than Kelly but not Dick.",
+        "hypothesis": "Patricia is quieter than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is normal than Ben but not Emma.",
+        "hypothesis": "Harriet is crazy than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "James is beautiful than Ian but not Evelyn.",
+        "hypothesis": "James is ugly than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is bigger than Thomas but not Alice.",
+        "hypothesis": "Nancy is tinier than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is bigger than Martin but not Florence.",
+        "hypothesis": "Rebecca is tinier than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is crazy than Jerry but not John.",
+        "hypothesis": "Alan is normal than John.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is slower than Deborah but not Peter.",
+        "hypothesis": "Robert is faster than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is quieter than Chris but not Bob.",
+        "hypothesis": "Julia is louder than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is heavier than Elizabeth but not Stephen.",
+        "hypothesis": "Katherine is lighter than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is smarter than Lawrence but not Melissa.",
+        "hypothesis": "Daniel is dumber than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is stronger than Don but not Kenneth.",
+        "hypothesis": "Lauren is weaker than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is beautiful than Lauren but not Mary.",
+        "hypothesis": "Bill is ugly than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is poorer than Roy but not Donna.",
+        "hypothesis": "Julie is richer than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is cunning than Lisa but not Martha.",
+        "hypothesis": "Marie is honest than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is interesting than Donna but not Steven.",
+        "hypothesis": "Ryan is boring than Steven.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is faster than Sandra but not Larry.",
+        "hypothesis": "Tim is slower than Larry.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is smart than Margaret but not Bruce.",
+        "hypothesis": "Elizabeth is dumb than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is bigger than Philip but not Bruce.",
+        "hypothesis": "Rebecca is tinier than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is beautiful than Frances but not Keith.",
+        "hypothesis": "Ann is ugly than Keith.",
+        "label": 0
+    },
+    {
+        "premise": "William is taller than Carolyn but not Harriet.",
+        "hypothesis": "William is shorter than Harriet.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is tougher than Cynthia but not Al.",
+        "hypothesis": "Kathleen is softer than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is quieter than Frances but not Tony.",
+        "hypothesis": "Keith is louder than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is beautiful than Jay but not Michael.",
+        "hypothesis": "Andrea is ugly than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is intelligent than Katie but not Dave.",
+        "hypothesis": "Andrew is foolish than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is interesting than Simon but not Kathy.",
+        "hypothesis": "Jay is boring than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is cunning than Anna but not Martha.",
+        "hypothesis": "Alexandra is honest than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is cunning than Rebecca but not Peter.",
+        "hypothesis": "Ann is honest than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is faster than Walter but not Alice.",
+        "hypothesis": "Eleanor is slower than Alice.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is smarter than Martha but not Ray.",
+        "hypothesis": "Brian is dumber than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is older than Carl but not Lawrence.",
+        "hypothesis": "Frank is younger than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is shorter than Jill but not Maria.",
+        "hypothesis": "Sandra is taller than Maria.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is thinner than Rachel but not Arthur.",
+        "hypothesis": "Donna is fatter than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is wealthier than Barbara but not Janet.",
+        "hypothesis": "Tony is poorer than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is quieter than Judith but not Colin.",
+        "hypothesis": "Suzanne is louder than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is richer than Dick but not Rachel.",
+        "hypothesis": "Ryan is poorer than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is older than Michelle but not Tom.",
+        "hypothesis": "Richard is younger than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is louder than Anthony but not Colin.",
+        "hypothesis": "Ed is quieter than Colin.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is poorer than Joseph but not Karen.",
+        "hypothesis": "Stephanie is richer than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is quicker than Florence but not Eleanor.",
+        "hypothesis": "Adam is slower than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is clever than Ken but not Lauren.",
+        "hypothesis": "Jonathan is dumb than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is weaker than Kathleen but not Mike.",
+        "hypothesis": "Emma is stronger than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is real than Joseph but not Thomas.",
+        "hypothesis": "Sarah is fake than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is faster than Mark but not Ashley.",
+        "hypothesis": "Carolyn is slower than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is beautiful than Ken but not Sandra.",
+        "hypothesis": "Leslie is ugly than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is quicker than Alice but not Rachel.",
+        "hypothesis": "Michelle is slower than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is cunning than Jill but not Nicole.",
+        "hypothesis": "Kathryn is honest than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is shorter than Larry but not Kenneth.",
+        "hypothesis": "Kathy is taller than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is crazy than Elizabeth but not Jay.",
+        "hypothesis": "Ruth is normal than Jay.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is older than George but not Peter.",
+        "hypothesis": "Lisa is younger than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is real than Robin but not Amy.",
+        "hypothesis": "Hugh is fake than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is tougher than Ray but not Christopher.",
+        "hypothesis": "Wendy is softer than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is shorter than Ann but not Howard.",
+        "hypothesis": "Leslie is taller than Howard.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is crazy than Eleanor but not Henry.",
+        "hypothesis": "Jack is normal than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is older than Robert but not Joseph.",
+        "hypothesis": "Hugh is younger than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is older than Steven but not Jill.",
+        "hypothesis": "Martin is younger than Jill.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is smarter than Keith but not Claire.",
+        "hypothesis": "Andrea is dumber than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is older than Tom but not Kate.",
+        "hypothesis": "Ian is younger than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is richer than Grace but not Stephen.",
+        "hypothesis": "Paul is poorer than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is heavier than Marilyn but not Sue.",
+        "hypothesis": "Harriet is lighter than Sue.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is shorter than Jerry but not Christopher.",
+        "hypothesis": "Kenneth is taller than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is quieter than Chris but not Kevin.",
+        "hypothesis": "Martha is louder than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is smarter than Joseph but not Elaine.",
+        "hypothesis": "Dick is dumber than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is intelligent than Angela but not John.",
+        "hypothesis": "Samuel is foolish than John.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is wealthier than Simon but not Melissa.",
+        "hypothesis": "Donald is poorer than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is clever than Fiona but not Simon.",
+        "hypothesis": "Martin is dumb than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is stronger than Ben but not Jack.",
+        "hypothesis": "Anna is weaker than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is smart than Maria but not Simon.",
+        "hypothesis": "Marilyn is dumb than Simon.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is taller than Kathy but not Andrew.",
+        "hypothesis": "Frank is shorter than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is slower than Annie but not John.",
+        "hypothesis": "Grace is faster than John.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is heavier than Martha but not Kathleen.",
+        "hypothesis": "Jason is lighter than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is shorter than Samuel but not Peter.",
+        "hypothesis": "Jane is taller than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is weaker than James but not Kathleen.",
+        "hypothesis": "Sandra is stronger than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is taller than Dave but not Louise.",
+        "hypothesis": "Greg is shorter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is interesting than Larry but not Frances.",
+        "hypothesis": "Sara is boring than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is bigger than Louise but not Michelle.",
+        "hypothesis": "Heather is tinier than Michelle.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is louder than Joan but not Claire.",
+        "hypothesis": "Robin is quieter than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is thinner than Simon but not Martha.",
+        "hypothesis": "Alexandra is fatter than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is cunning than Stephanie but not Christopher.",
+        "hypothesis": "Ruth is honest than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is stronger than Anne but not Karen.",
+        "hypothesis": "Ron is weaker than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is tinier than Harry but not Sharon.",
+        "hypothesis": "Kenneth is bigger than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is thinner than Louis but not Alan.",
+        "hypothesis": "Jill is fatter than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is older than Donna but not Amy.",
+        "hypothesis": "Fred is younger than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is weaker than Kate but not Joan.",
+        "hypothesis": "Hugh is stronger than Joan.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is older than Robin but not Matt.",
+        "hypothesis": "Matthew is younger than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is older than Lucy but not Charlotte.",
+        "hypothesis": "Barbara is younger than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is funny than Walter but not Deborah.",
+        "hypothesis": "Melissa is boring than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is crazy than Diana but not Edwin.",
+        "hypothesis": "Stephen is normal than Edwin.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is wealthier than Dick but not Melissa.",
+        "hypothesis": "Lisa is poorer than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is clever than Kathleen but not Henry.",
+        "hypothesis": "Nicole is dumb than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is smarter than Florence but not Alfred.",
+        "hypothesis": "Anna is dumber than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is intelligent than Frank but not Peter.",
+        "hypothesis": "Keith is foolish than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is richer than Lynn but not Kim.",
+        "hypothesis": "Bob is poorer than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is smarter than Evelyn but not Peter.",
+        "hypothesis": "Jay is dumber than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is quieter than Emily but not Bob.",
+        "hypothesis": "Jeff is louder than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is complicated than Adam but not Caroline.",
+        "hypothesis": "Frederick is simple than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is wealthier than Marilyn but not Julie.",
+        "hypothesis": "Gary is poorer than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is quieter than Carol but not Ashley.",
+        "hypothesis": "Judith is louder than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is happier than Anthony but not Alexander.",
+        "hypothesis": "Ian is sadder than Alexander.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is normal than Patricia but not Anna.",
+        "hypothesis": "Alan is crazy than Anna.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is real than Dave but not Julie.",
+        "hypothesis": "Jay is fake than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is thinner than Don but not Mary.",
+        "hypothesis": "Ken is fatter than Mary.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is stronger than Jason but not Jack.",
+        "hypothesis": "Leslie is weaker than Jack.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is younger than Alison but not Patricia.",
+        "hypothesis": "Arthur is elder than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is younger than Nicole but not Sally.",
+        "hypothesis": "Grace is elder than Sally.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is clever than Sophie but not Rose.",
+        "hypothesis": "Marie is dumb than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Al is quieter than Ralph but not Betty.",
+        "hypothesis": "Al is louder than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is smart than Barbara but not Rachel.",
+        "hypothesis": "Jim is dumb than Rachel.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is crazy than Andrea but not Lynn.",
+        "hypothesis": "Diana is normal than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is slower than Joan but not Greg.",
+        "hypothesis": "Colin is faster than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is interesting than Jim but not Amy.",
+        "hypothesis": "Dorothy is boring than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is richer than Karen but not Ben.",
+        "hypothesis": "Harold is poorer than Ben.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is wealthier than Amy but not Joseph.",
+        "hypothesis": "Lisa is poorer than Joseph.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is thinner than Steven but not Angela.",
+        "hypothesis": "Harriet is fatter than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is wealthier than Fiona but not Donald.",
+        "hypothesis": "Sam is poorer than Donald.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is happier than Ken but not Anne.",
+        "hypothesis": "Louis is sadder than Anne.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is bigger than Florence but not Betty.",
+        "hypothesis": "Charlie is tinier than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is smarter than Simon but not Sarah.",
+        "hypothesis": "Greg is dumber than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is happier than Arthur but not Lauren.",
+        "hypothesis": "Martha is sadder than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "James is interesting than Sue but not Bruce.",
+        "hypothesis": "James is boring than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is thinner than Richard but not Kate.",
+        "hypothesis": "Laura is fatter than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is bigger than Elizabeth but not Julia.",
+        "hypothesis": "Kathleen is tinier than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is cunning than Simon but not Elaine.",
+        "hypothesis": "Donald is honest than Elaine.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is weaker than Alison but not Brian.",
+        "hypothesis": "Victoria is stronger than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is intelligent than Judy but not Lawrence.",
+        "hypothesis": "Samuel is foolish than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is heavier than Robert but not Amanda.",
+        "hypothesis": "Lawrence is lighter than Amanda.",
+        "label": 0
+    },
+    {
+        "premise": "James is nicer than Charles but not Chris.",
+        "hypothesis": "James is ruder than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Don is younger than Carolyn but not Andrew.",
+        "hypothesis": "Don is elder than Andrew.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is wealthier than Amanda but not Donna.",
+        "hypothesis": "Sandra is poorer than Donna.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is older than Francis but not Greg.",
+        "hypothesis": "Keith is younger than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is intelligent than Joseph but not Victoria.",
+        "hypothesis": "Frederick is foolish than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is tougher than Don but not Victoria.",
+        "hypothesis": "Ray is softer than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is bigger than Alan but not Katie.",
+        "hypothesis": "Andrew is tinier than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is taller than Don but not Judith.",
+        "hypothesis": "Mark is shorter than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is stronger than Leslie but not Alan.",
+        "hypothesis": "Alex is weaker than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is thinner than Ben but not Deborah.",
+        "hypothesis": "Diane is fatter than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "David is smarter than Julia but not Bill.",
+        "hypothesis": "David is dumber than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is real than Susan but not Matt.",
+        "hypothesis": "Stephen is fake than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is heavier than Kathy but not Paul.",
+        "hypothesis": "Eleanor is lighter than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is shorter than Mike but not Bob.",
+        "hypothesis": "Lisa is taller than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is beautiful than Billy but not Peter.",
+        "hypothesis": "Lucy is ugly than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is wealthier than Brian but not Kelly.",
+        "hypothesis": "Eleanor is poorer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is older than Paul but not Helen.",
+        "hypothesis": "Johnny is younger than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is tinier than Fiona but not Evelyn.",
+        "hypothesis": "Tim is bigger than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is beautiful than Adam but not Kathryn.",
+        "hypothesis": "Ruth is ugly than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is shorter than Sarah but not Albert.",
+        "hypothesis": "Ryan is taller than Albert.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is heavier than Sophie but not Thomas.",
+        "hypothesis": "Michael is lighter than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is taller than Andrew but not Kim.",
+        "hypothesis": "Greg is shorter than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is shorter than Jean but not Emma.",
+        "hypothesis": "Eleanor is taller than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is taller than Ralph but not Lawrence.",
+        "hypothesis": "Kelly is shorter than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is tinier than Betty but not Eric.",
+        "hypothesis": "Lisa is bigger than Eric.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is beautiful than Judy but not Christopher.",
+        "hypothesis": "Julie is ugly than Christopher.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is smarter than Katherine but not Ray.",
+        "hypothesis": "Rachel is dumber than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is older than Christopher but not Martha.",
+        "hypothesis": "Marilyn is younger than Martha.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is powerful than Lawrence but not Billy.",
+        "hypothesis": "Emily is weak than Billy.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is crazy than Alfred but not Edith.",
+        "hypothesis": "Evelyn is normal than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is real than Helen but not Frederick.",
+        "hypothesis": "Kenneth is fake than Frederick.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is heavier than Michelle but not Alex.",
+        "hypothesis": "Ralph is lighter than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is older than Fred but not Robin.",
+        "hypothesis": "Robert is younger than Robin.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is beautiful than Lynn but not Rebecca.",
+        "hypothesis": "Jim is ugly than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is crazy than Howard but not Frances.",
+        "hypothesis": "Pamela is normal than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is older than Grace but not Tony.",
+        "hypothesis": "Amy is younger than Tony.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is quicker than Frances but not Ryan.",
+        "hypothesis": "Virginia is slower than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is quicker than Caroline but not George.",
+        "hypothesis": "Jerry is slower than George.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is intelligent than Alexander but not Fiona.",
+        "hypothesis": "Pamela is foolish than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is richer than Martin but not Kelly.",
+        "hypothesis": "Fred is poorer than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is real than Kelly but not Joe.",
+        "hypothesis": "Ralph is fake than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is intelligent than Tony but not Nicole.",
+        "hypothesis": "Colin is foolish than Nicole.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is intelligent than Rachel but not Kathryn.",
+        "hypothesis": "Ray is foolish than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is poorer than Marilyn but not Louise.",
+        "hypothesis": "Kelly is richer than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is bigger than Deborah but not Wendy.",
+        "hypothesis": "Ruth is tinier than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Don is bigger than Greg but not Nancy.",
+        "hypothesis": "Don is tinier than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is normal than Johnny but not Cynthia.",
+        "hypothesis": "Simon is crazy than Cynthia.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is interesting than Benjamin but not Eleanor.",
+        "hypothesis": "Arthur is boring than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is happier than Christopher but not Greg.",
+        "hypothesis": "Sara is sadder than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is older than Jack but not Evelyn.",
+        "hypothesis": "Mary is younger than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is nicer than Howard but not Emma.",
+        "hypothesis": "Jane is ruder than Emma.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is happier than Albert but not Martin.",
+        "hypothesis": "Philip is sadder than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is older than Kim but not Ashley.",
+        "hypothesis": "Tim is younger than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is stronger than Diana but not Paul.",
+        "hypothesis": "Ken is weaker than Paul.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is bigger than Francis but not Bobby.",
+        "hypothesis": "Scott is tinier than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is heavier than Jerry but not Patricia.",
+        "hypothesis": "Jack is lighter than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is thinner than Larry but not Wendy.",
+        "hypothesis": "Sharon is fatter than Wendy.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is crazy than Angela but not Jason.",
+        "hypothesis": "Steve is normal than Jason.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is complicated than Charlie but not Roger.",
+        "hypothesis": "Ruth is simple than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is clever than David but not Karen.",
+        "hypothesis": "Steven is dumb than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is nicer than Jason but not Pamela.",
+        "hypothesis": "Sophie is ruder than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is faster than Annie but not Evelyn.",
+        "hypothesis": "Dave is slower than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is cunning than Elizabeth but not George.",
+        "hypothesis": "Ralph is honest than George.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is clever than Jay but not Evelyn.",
+        "hypothesis": "Lynn is dumb than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is interesting than Johnny but not Steve.",
+        "hypothesis": "Janet is boring than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is clever than Dave but not Carolyn.",
+        "hypothesis": "Betty is dumb than Carolyn.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is intelligent than Eleanor but not Carl.",
+        "hypothesis": "Kathleen is foolish than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is smarter than Evelyn but not Matthew.",
+        "hypothesis": "Bruce is dumber than Matthew.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is interesting than Carolyn but not Christine.",
+        "hypothesis": "Linda is boring than Christine.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is smarter than Walter but not Brian.",
+        "hypothesis": "Katherine is dumber than Brian.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is thinner than Catherine but not Thomas.",
+        "hypothesis": "Alice is fatter than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Al is nicer than Benjamin but not Thomas.",
+        "hypothesis": "Al is ruder than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "William is tinier than Jane but not Marie.",
+        "hypothesis": "William is bigger than Marie.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is poorer than Claire but not Michael.",
+        "hypothesis": "Kathy is richer than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is richer than Judy but not Peter.",
+        "hypothesis": "Amanda is poorer than Peter.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is tinier than Susan but not Scott.",
+        "hypothesis": "Tony is bigger than Scott.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is thinner than Howard but not Fiona.",
+        "hypothesis": "Alison is fatter than Fiona.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is taller than Christine but not Mark.",
+        "hypothesis": "Greg is shorter than Mark.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is bigger than Hugh but not Jim.",
+        "hypothesis": "Jonathan is tinier than Jim.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is thinner than Greg but not Michael.",
+        "hypothesis": "Edwin is fatter than Michael.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is quicker than Catherine but not Ron.",
+        "hypothesis": "Daniel is slower than Ron.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is heavier than Leslie but not Kate.",
+        "hypothesis": "Michael is lighter than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is powerful than Jessica but not Amy.",
+        "hypothesis": "Bob is weak than Amy.",
+        "label": 0
+    },
+    {
+        "premise": "George is complicated than Frank but not Kim.",
+        "hypothesis": "George is simple than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is quicker than Dan but not Samuel.",
+        "hypothesis": "Leslie is slower than Samuel.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is interesting than Brian but not Pamela.",
+        "hypothesis": "Arthur is boring than Pamela.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is thinner than Bill but not Jonathan.",
+        "hypothesis": "Sally is fatter than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is weaker than Catherine but not Melissa.",
+        "hypothesis": "Patricia is stronger than Melissa.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is smarter than Amanda but not Kelly.",
+        "hypothesis": "Kate is dumber than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is weaker than Charlie but not Margaret.",
+        "hypothesis": "Richard is stronger than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Don is younger than Carl but not Tom.",
+        "hypothesis": "Don is elder than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is cunning than Jill but not Joe.",
+        "hypothesis": "Dick is honest than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is funny than Michelle but not Robert.",
+        "hypothesis": "Tom is boring than Robert.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is tougher than Susan but not David.",
+        "hypothesis": "Carl is softer than David.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is quicker than Sarah but not Bruce.",
+        "hypothesis": "Charles is slower than Bruce.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is nicer than Charlotte but not Sam.",
+        "hypothesis": "Tim is ruder than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is taller than Susan but not Roy.",
+        "hypothesis": "Thomas is shorter than Roy.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is wealthier than Don but not Carol.",
+        "hypothesis": "Matt is poorer than Carol.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is quieter than Martin but not Louise.",
+        "hypothesis": "Michael is louder than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is stronger than Jane but not Jonathan.",
+        "hypothesis": "Marilyn is weaker than Jonathan.",
+        "label": 0
+    },
+    {
+        "premise": "David is younger than Matt but not Kathryn.",
+        "hypothesis": "David is elder than Kathryn.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is quieter than Julie but not Thomas.",
+        "hypothesis": "Ian is louder than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is funny than Henry but not Katie.",
+        "hypothesis": "Gary is boring than Katie.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is smarter than Lauren but not Walter.",
+        "hypothesis": "Jimmy is dumber than Walter.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is clever than Kevin but not Evelyn.",
+        "hypothesis": "Nick is dumb than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is quicker than Emily but not Kim.",
+        "hypothesis": "Suzanne is slower than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is complicated than Martha but not Ruth.",
+        "hypothesis": "Christopher is simple than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is powerful than Eleanor but not Catherine.",
+        "hypothesis": "Ralph is weak than Catherine.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is smarter than Michelle but not James.",
+        "hypothesis": "Sally is dumber than James.",
+        "label": 0
+    },
+    {
+        "premise": "Scott is younger than Joseph but not Steve.",
+        "hypothesis": "Scott is elder than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is faster than Kenneth but not Benjamin.",
+        "hypothesis": "Mike is slower than Benjamin.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is older than Victoria but not Diane.",
+        "hypothesis": "Samuel is younger than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is slower than Jerry but not Patricia.",
+        "hypothesis": "Eleanor is faster than Patricia.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is powerful than Catherine but not Mike.",
+        "hypothesis": "Rebecca is weak than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is bigger than Greg but not Emily.",
+        "hypothesis": "Simon is tinier than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is crazy than Ken but not Sam.",
+        "hypothesis": "Frederick is normal than Sam.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is funny than Suzanne but not Edith.",
+        "hypothesis": "Kathryn is boring than Edith.",
+        "label": 0
+    },
+    {
+        "premise": "David is powerful than Tony but not Ryan.",
+        "hypothesis": "David is weak than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is smarter than Melissa but not Kate.",
+        "hypothesis": "Brian is dumber than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is nicer than Mike but not Alex.",
+        "hypothesis": "Claire is ruder than Alex.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is taller than Ken but not Dorothy.",
+        "hypothesis": "Jack is shorter than Dorothy.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is stronger than Julie but not Kenneth.",
+        "hypothesis": "Judith is weaker than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is normal than Ralph but not Helen.",
+        "hypothesis": "Mary is crazy than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is happier than Louise but not Angela.",
+        "hypothesis": "Annie is sadder than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is weaker than Donald but not Betty.",
+        "hypothesis": "Ian is stronger than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is older than Louise but not Ryan.",
+        "hypothesis": "Martin is younger than Ryan.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is intelligent than Annie but not Carl.",
+        "hypothesis": "Sharon is foolish than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is poorer than Rachel but not Joe.",
+        "hypothesis": "Judith is richer than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Fiona is slower than Bobby but not Alan.",
+        "hypothesis": "Fiona is faster than Alan.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is poorer than Alison but not Laura.",
+        "hypothesis": "Ellen is richer than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is complicated than Kim but not Sophie.",
+        "hypothesis": "Howard is simple than Sophie.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is older than Barbara but not Jane.",
+        "hypothesis": "Matt is younger than Jane.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is smarter than Adam but not Carl.",
+        "hypothesis": "Andrea is dumber than Carl.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is stronger than Angela but not Janet.",
+        "hypothesis": "Lucy is weaker than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is stronger than William but not Bobby.",
+        "hypothesis": "Jerry is weaker than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "William is heavier than Harold but not George.",
+        "hypothesis": "William is lighter than George.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is crazy than Kathleen but not James.",
+        "hypothesis": "Lucy is normal than James.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is funny than Ruth but not Anthony.",
+        "hypothesis": "Jay is boring than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is crazy than Samuel but not Eleanor.",
+        "hypothesis": "Sue is normal than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is shorter than Kathryn but not Emily.",
+        "hypothesis": "Nick is taller than Emily.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is richer than Andrea but not Alfred.",
+        "hypothesis": "Francis is poorer than Alfred.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is interesting than Christopher but not Sarah.",
+        "hypothesis": "Edward is boring than Sarah.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is wealthier than Louise but not Bob.",
+        "hypothesis": "Anna is poorer than Bob.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is poorer than Nicole but not Nancy.",
+        "hypothesis": "Emma is richer than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is smart than Ruth but not Annie.",
+        "hypothesis": "Lynn is dumb than Annie.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is beautiful than Joe but not Ray.",
+        "hypothesis": "Kate is ugly than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is happier than Anne but not Kenneth.",
+        "hypothesis": "Lawrence is sadder than Kenneth.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is weaker than Kate but not Rose.",
+        "hypothesis": "Lawrence is stronger than Rose.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is faster than Jonathan but not Tom.",
+        "hypothesis": "Ron is slower than Tom.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is tinier than Edwin but not Bill.",
+        "hypothesis": "Annie is bigger than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is cunning than Annie but not David.",
+        "hypothesis": "Virginia is honest than David.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is clever than Kate but not Jeff.",
+        "hypothesis": "Stephanie is dumb than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is heavier than Claire but not Louise.",
+        "hypothesis": "Susan is lighter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is slower than Dan but not Joe.",
+        "hypothesis": "Jean is faster than Joe.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is interesting than Harriet but not Charlotte.",
+        "hypothesis": "Amy is boring than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is quicker than Karen but not Leslie.",
+        "hypothesis": "Jay is slower than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is funny than Wendy but not Kathleen.",
+        "hypothesis": "Leslie is boring than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is thinner than Alison but not Adam.",
+        "hypothesis": "Linda is fatter than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is beautiful than Maria but not Jeff.",
+        "hypothesis": "Karen is ugly than Jeff.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is quieter than Alex but not Ruth.",
+        "hypothesis": "Sophie is louder than Ruth.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is smart than Michael but not Stephen.",
+        "hypothesis": "Kathy is dumb than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is quieter than Keith but not Thomas.",
+        "hypothesis": "Jerry is louder than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is crazy than Jay but not Adam.",
+        "hypothesis": "Bruce is normal than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is crazy than Betty but not Kate.",
+        "hypothesis": "Ellen is normal than Kate.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is smart than Laura but not Grace.",
+        "hypothesis": "Mark is dumb than Grace.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is faster than Richard but not Kathy.",
+        "hypothesis": "Ralph is slower than Kathy.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is powerful than Christopher but not Lauren.",
+        "hypothesis": "Alison is weak than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is nicer than Johnny but not Louise.",
+        "hypothesis": "Lynn is ruder than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is interesting than Brian but not Arthur.",
+        "hypothesis": "Ron is boring than Arthur.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is taller than Edwin but not William.",
+        "hypothesis": "Martin is shorter than William.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is beautiful than Alice but not Nancy.",
+        "hypothesis": "Heather is ugly than Nancy.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is quieter than Johnny but not Julie.",
+        "hypothesis": "Laura is louder than Julie.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is louder than Sophie but not Frank.",
+        "hypothesis": "Julia is quieter than Frank.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is happier than Peter but not Ashley.",
+        "hypothesis": "Roy is sadder than Ashley.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is quieter than Ian but not Frances.",
+        "hypothesis": "Heather is louder than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is cunning than Alexander but not Leslie.",
+        "hypothesis": "Janet is honest than Leslie.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is funny than Jonathan but not Victoria.",
+        "hypothesis": "Roy is boring than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is faster than Frederick but not Louise.",
+        "hypothesis": "Betty is slower than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is smart than Henry but not Lauren.",
+        "hypothesis": "Louise is dumb than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is tougher than Maria but not Judith.",
+        "hypothesis": "Nicole is softer than Judith.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is louder than Frances but not Kathleen.",
+        "hypothesis": "Charlie is quieter than Kathleen.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is louder than Susan but not Tim.",
+        "hypothesis": "Judith is quieter than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is cunning than Ryan but not Ken.",
+        "hypothesis": "Simon is honest than Ken.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is quicker than Thomas but not Barbara.",
+        "hypothesis": "Maria is slower than Barbara.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is crazy than Ruth but not Steve.",
+        "hypothesis": "Alex is normal than Steve.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is stronger than Linda but not Adam.",
+        "hypothesis": "Harry is weaker than Adam.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is poorer than Virginia but not Henry.",
+        "hypothesis": "Kim is richer than Henry.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is quicker than Roy but not Eleanor.",
+        "hypothesis": "Louis is slower than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is slower than James but not Lynn.",
+        "hypothesis": "Katie is faster than Lynn.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is cunning than Kathryn but not Matt.",
+        "hypothesis": "Walter is honest than Matt.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is complicated than Sue but not David.",
+        "hypothesis": "Helen is simple than David.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is crazy than Kathleen but not Angela.",
+        "hypothesis": "Carol is normal than Angela.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is tougher than Carolyn but not Nick.",
+        "hypothesis": "Diana is softer than Nick.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is stronger than Benjamin but not Julia.",
+        "hypothesis": "Mike is weaker than Julia.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is cunning than Mary but not Virginia.",
+        "hypothesis": "Larry is honest than Virginia.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is richer than Gary but not Thomas.",
+        "hypothesis": "Charles is poorer than Thomas.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is funny than Ray but not Susan.",
+        "hypothesis": "Maria is boring than Susan.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is intelligent than Tony but not Dave.",
+        "hypothesis": "Bob is foolish than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is weaker than Jay but not Florence.",
+        "hypothesis": "Christopher is stronger than Florence.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is happier than Rose but not Tim.",
+        "hypothesis": "Dick is sadder than Tim.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is younger than Jane but not Margaret.",
+        "hypothesis": "Larry is elder than Margaret.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is louder than Philip but not Janet.",
+        "hypothesis": "Virginia is quieter than Janet.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is taller than Bob but not Gary.",
+        "hypothesis": "Diane is shorter than Gary.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is quicker than Colin but not Caroline.",
+        "hypothesis": "Stephanie is slower than Caroline.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is wealthier than Victoria but not Ian.",
+        "hypothesis": "Julie is poorer than Ian.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is shorter than Patricia but not Philip.",
+        "hypothesis": "Christopher is taller than Philip.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is taller than Rebecca but not Elizabeth.",
+        "hypothesis": "Jimmy is shorter than Elizabeth.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is thinner than Julie but not Kelly.",
+        "hypothesis": "Harold is fatter than Kelly.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is heavier than Grace but not Stephanie.",
+        "hypothesis": "Sally is lighter than Stephanie.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is wealthier than William but not Stephen.",
+        "hypothesis": "Nancy is poorer than Stephen.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is nicer than Charlie but not Victoria.",
+        "hypothesis": "Emily is ruder than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is tougher than Bill but not Diane.",
+        "hypothesis": "Mark is softer than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is quicker than Kate but not Dick.",
+        "hypothesis": "Howard is slower than Dick.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is slower than Virginia but not Alison.",
+        "hypothesis": "Rose is faster than Alison.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is faster than Brian but not Laura.",
+        "hypothesis": "Ed is slower than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is smart than Hugh but not Sharon.",
+        "hypothesis": "Gary is dumb than Sharon.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is happier than Harry but not Evelyn.",
+        "hypothesis": "Jennifer is sadder than Evelyn.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is stronger than Amy but not Ralph.",
+        "hypothesis": "Linda is weaker than Ralph.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is louder than Eleanor but not Claire.",
+        "hypothesis": "Amy is quieter than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is beautiful than Jonathan but not Frances.",
+        "hypothesis": "Julia is ugly than Frances.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is interesting than Ralph but not Lauren.",
+        "hypothesis": "Joan is boring than Lauren.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is tougher than Philip but not Patrick.",
+        "hypothesis": "Grace is softer than Patrick.",
+        "label": 0
+    },
+    {
+        "premise": "William is slower than Jimmy but not Chris.",
+        "hypothesis": "William is faster than Chris.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is powerful than Julia but not Mike.",
+        "hypothesis": "Donald is weak than Mike.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is heavier than Lauren but not Louise.",
+        "hypothesis": "Mark is lighter than Louise.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is poorer than Annie but not Deborah.",
+        "hypothesis": "Christine is richer than Deborah.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is smart than Elaine but not Claire.",
+        "hypothesis": "Simon is dumb than Claire.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is smarter than Eric but not Sandra.",
+        "hypothesis": "Roger is dumber than Sandra.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is happier than Jerry but not Kim.",
+        "hypothesis": "Sarah is sadder than Kim.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is complicated than Edward but not Martin.",
+        "hypothesis": "Fred is simple than Martin.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is normal than Jessica but not Karen.",
+        "hypothesis": "Kathleen is crazy than Karen.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is thinner than Joan but not Linda.",
+        "hypothesis": "Francis is fatter than Linda.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is cunning than Dorothy but not Bobby.",
+        "hypothesis": "Harold is honest than Bobby.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is nicer than Elaine but not Helen.",
+        "hypothesis": "Alan is ruder than Helen.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is slower than Keith but not Dan.",
+        "hypothesis": "Margaret is faster than Dan.",
+        "label": 0
+    },
+    {
+        "premise": "William is older than Linda but not Betty.",
+        "hypothesis": "William is younger than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is quicker than Greg but not Dave.",
+        "hypothesis": "Steven is slower than Dave.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is bigger than Kenneth but not Eleanor.",
+        "hypothesis": "Sharon is tinier than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is thinner than Nick but not Rebecca.",
+        "hypothesis": "Kathryn is fatter than Rebecca.",
+        "label": 0
+    },
+    {
+        "premise": "John is louder than Hugh but not David.",
+        "hypothesis": "John is quieter than David.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is stronger than Diane but not Greg.",
+        "hypothesis": "Kathy is weaker than Greg.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is funny than Harriet but not James.",
+        "hypothesis": "Matt is boring than James.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is funny than Frank but not Eleanor.",
+        "hypothesis": "Jeff is boring than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is thinner than Andrew but not Victoria.",
+        "hypothesis": "Bobby is fatter than Victoria.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is slower than Maria but not Laura.",
+        "hypothesis": "Jim is faster than Laura.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is thinner than Ben but not Charlotte.",
+        "hypothesis": "Jonathan is fatter than Charlotte.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is poorer than Martin but not Betty.",
+        "hypothesis": "Anna is richer than Betty.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is taller than Richard but not Jimmy.",
+        "hypothesis": "Bob is shorter than Jimmy.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is slower than Jean but not Al.",
+        "hypothesis": "Cynthia is faster than Al.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is nicer than Philip but not Roger.",
+        "hypothesis": "Larry is ruder than Roger.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is funny than Ryan but not Anthony.",
+        "hypothesis": "Matthew is boring than Anthony.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is taller than Ashley but not Diane.",
+        "hypothesis": "Amanda is shorter than Diane.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is tinier than Jim but not Bill.",
+        "hypothesis": "Eric is bigger than Bill.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is complicated than Charlotte but not Harold.",
+        "hypothesis": "Evelyn is simple than Harold.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is tougher than Benjamin but not Kevin.",
+        "hypothesis": "Michael is softer than Kevin.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is happier than John but not Eleanor.",
+        "hypothesis": "Frances is sadder than Eleanor.",
+        "label": 0
+    },
+    {
+        "premise": "George is shorter than Matt but not Ray.",
+        "hypothesis": "George is taller than Ray.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is younger than William but not Lawrence.",
+        "hypothesis": "Ruth is elder than Lawrence.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is intelligent than John but not Jill.",
+        "hypothesis": "Matthew is foolish than Jill.",
+        "label": 0
+    }
+]

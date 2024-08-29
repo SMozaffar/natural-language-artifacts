@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Thomas is groggy. Thomas is unaffected.",
+        "hypothesis": "Thomas is groggy and unaffected.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is crafty. Ashley is old-fashioned.",
+        "hypothesis": "Ashley is crafty and old-fashioned.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is tactful. Johnny is unbalanced.",
+        "hypothesis": "Johnny is tactful and unbalanced.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is nosy. Chris is silly.",
+        "hypothesis": "Chris is nosy and silly.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is slothful. Amy is amazing.",
+        "hypothesis": "Amy is slothful and amazing.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is morose. Julia is self-assured.",
+        "hypothesis": "Julia is morose and self-assured.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is somber. Dick is reluctant.",
+        "hypothesis": "Dick is somber and reluctant.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is motivated. Leslie is listless.",
+        "hypothesis": "Leslie is motivated and listless.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is blue. Patrick is clumsy.",
+        "hypothesis": "Patrick is blue and clumsy.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is judgmental. Bob is curious.",
+        "hypothesis": "Bob is judgmental and curious.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is deep. Chris is powerful.",
+        "hypothesis": "Chris is deep and powerful.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is content. Louise is leery.",
+        "hypothesis": "Louise is content and leery.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is polite. Charlotte is generous.",
+        "hypothesis": "Charlotte is polite and generous.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is diligent. Betty is judgmental.",
+        "hypothesis": "Betty is diligent and judgmental.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is balanced. Mark is selfish.",
+        "hypothesis": "Mark is balanced and selfish.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is dirty. Frank is boisterous.",
+        "hypothesis": "Frank is dirty and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is helpful. Albert is gentle.",
+        "hypothesis": "Albert is helpful and gentle.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is proud. Tom is somber.",
+        "hypothesis": "Tom is proud and somber.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is sentimental. Steve is sturdy.",
+        "hypothesis": "Steve is sentimental and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is thinking. Pamela is boisterous.",
+        "hypothesis": "Pamela is thinking and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is sober. Chris is obliging.",
+        "hypothesis": "Chris is sober and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is unsophisticated. Sara is inactive.",
+        "hypothesis": "Sara is unsophisticated and inactive.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is punctual. Charlie is surly.",
+        "hypothesis": "Charlie is punctual and surly.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is naive. Carolyn is delicate.",
+        "hypothesis": "Carolyn is naive and delicate.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is careless. Alan is imperturbable.",
+        "hypothesis": "Alan is careless and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is sharp. Joseph is funny.",
+        "hypothesis": "Joseph is sharp and funny.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is unsure. Johnny is dirty.",
+        "hypothesis": "Johnny is unsure and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is slight. Katie is callous.",
+        "hypothesis": "Katie is slight and callous.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is superficial. Katherine is composed.",
+        "hypothesis": "Katherine is superficial and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is picky. Louis is unthinking.",
+        "hypothesis": "Louis is picky and unthinking.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is unmotivated. Hugh is motivated.",
+        "hypothesis": "Hugh is unmotivated and motivated.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is passionate. Paul is mean.",
+        "hypothesis": "Paul is passionate and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Sally is caustic. Sally is interesting.",
+        "hypothesis": "Sally is caustic and interesting.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is stoic. Alan is charming.",
+        "hypothesis": "Alan is stoic and charming.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is unwilling. Eleanor is curious.",
+        "hypothesis": "Eleanor is unwilling and curious.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is idle. Grace is coherent.",
+        "hypothesis": "Grace is idle and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is quick-tempered. Cynthia is mild.",
+        "hypothesis": "Cynthia is quick-tempered and mild.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is serene. Ruth is artistic.",
+        "hypothesis": "Ruth is serene and artistic.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is abnormal. Frederick is clumsy.",
+        "hypothesis": "Frederick is abnormal and clumsy.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is considerate. Bob is versatile.",
+        "hypothesis": "Bob is considerate and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is inconsiderate. Robert is condescending.",
+        "hypothesis": "Robert is inconsiderate and condescending.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is querulous. Kathryn is plain-speaking.",
+        "hypothesis": "Kathryn is querulous and plain-speaking.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is well-developed. Jimmy is uncooperative.",
+        "hypothesis": "Jimmy is well-developed and uncooperative.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is indefatigable. Laura is lean.",
+        "hypothesis": "Laura is indefatigable and lean.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is unhelpful. Arthur is ardent.",
+        "hypothesis": "Arthur is unhelpful and ardent.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is unpleasant. Joe is dreary.",
+        "hypothesis": "Joe is unpleasant and dreary.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is lovable. Katie is disruptive.",
+        "hypothesis": "Katie is lovable and disruptive.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is sedate. Sandra is long-winded.",
+        "hypothesis": "Sandra is sedate and long-winded.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is shrewd. Jimmy is serene.",
+        "hypothesis": "Jimmy is shrewd and serene.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is impressive. Susan is lively.",
+        "hypothesis": "Susan is impressive and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is beautiful. Ralph is dirty.",
+        "hypothesis": "Ralph is beautiful and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is devoted. Joan is disagreeable.",
+        "hypothesis": "Joan is devoted and disagreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is vigilant. Alexandra is beautiful.",
+        "hypothesis": "Alexandra is vigilant and beautiful.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is enterprising. Virginia is hot-headed.",
+        "hypothesis": "Virginia is enterprising and hot-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is indiscreet. Tim is disagreeable.",
+        "hypothesis": "Tim is indiscreet and disagreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is dutiful. Sophie is lazy.",
+        "hypothesis": "Sophie is dutiful and lazy.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is egotistical. Jay is boisterous.",
+        "hypothesis": "Jay is egotistical and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is playful. Dorothy is boisterous.",
+        "hypothesis": "Dorothy is playful and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is analytical. Chris is amusing.",
+        "hypothesis": "Chris is analytical and amusing.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is slow. Caroline is positive.",
+        "hypothesis": "Caroline is slow and positive.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is plucky. Frances is competent.",
+        "hypothesis": "Frances is plucky and competent.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is indiscreet. Judith is flashy.",
+        "hypothesis": "Judith is indiscreet and flashy.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is cool. Tim is nervous.",
+        "hypothesis": "Tim is cool and nervous.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is level-headed. Ashley is cynical.",
+        "hypothesis": "Ashley is level-headed and cynical.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is absent-minded. Jeff is coherent.",
+        "hypothesis": "Jeff is absent-minded and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is earnest. Carolyn is conscientious.",
+        "hypothesis": "Carolyn is earnest and conscientious.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is sober. Kathleen is mean.",
+        "hypothesis": "Kathleen is sober and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is judgmental. Harold is mild.",
+        "hypothesis": "Harold is judgmental and mild.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is agreeable. Brian is dirty.",
+        "hypothesis": "Brian is agreeable and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is conceited. Keith is impulsive.",
+        "hypothesis": "Keith is conceited and impulsive.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is flaky. Roy is quiet.",
+        "hypothesis": "Roy is flaky and quiet.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is realistic. Anthony is sedate.",
+        "hypothesis": "Anthony is realistic and sedate.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is tranquil. Christopher is excellent.",
+        "hypothesis": "Christopher is tranquil and excellent.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is evasive. Harold is average.",
+        "hypothesis": "Harold is evasive and average.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is funny. Joe is paternalistic.",
+        "hypothesis": "Joe is funny and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is generous. Carolyn is striking.",
+        "hypothesis": "Carolyn is generous and striking.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is patient. Bill is undependable.",
+        "hypothesis": "Bill is patient and undependable.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is crabby. Ron is imperturbable.",
+        "hypothesis": "Ron is crabby and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is affectionate. Ian is unthinking.",
+        "hypothesis": "Ian is affectionate and unthinking.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is passive. Matthew is staid.",
+        "hypothesis": "Matthew is passive and staid.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is groggy. Christopher is sad.",
+        "hypothesis": "Christopher is groggy and sad.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is naughty. Virginia is hot-headed.",
+        "hypothesis": "Virginia is naughty and hot-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is patient. Lynn is naughty.",
+        "hypothesis": "Lynn is patient and naughty.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is well-behaved. Steven is wary.",
+        "hypothesis": "Steven is well-behaved and wary.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is pensive. Marie is resentful.",
+        "hypothesis": "Marie is pensive and resentful.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is modest. Lauren is unsophisticated.",
+        "hypothesis": "Lauren is modest and unsophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is pretty. Jennifer is sedate.",
+        "hypothesis": "Jennifer is pretty and sedate.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is dull. Bill is smart.",
+        "hypothesis": "Bill is dull and smart.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is staid. Carolyn is unstable.",
+        "hypothesis": "Carolyn is staid and unstable.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is sloppy. Tony is warmhearted.",
+        "hypothesis": "Tony is sloppy and warmhearted.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is stoic. Charles is coherent.",
+        "hypothesis": "Charles is stoic and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is uncertain. Heather is cheerful.",
+        "hypothesis": "Heather is uncertain and cheerful.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is sturdy. Marilyn is energetic.",
+        "hypothesis": "Marilyn is sturdy and energetic.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is distraught. Donald is slovenly.",
+        "hypothesis": "Donald is distraught and slovenly.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is prejudiced. Alison is blunt.",
+        "hypothesis": "Alison is prejudiced and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is delightful. Billy is peevish.",
+        "hypothesis": "Billy is delightful and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is mercurial. Kate is hesitant.",
+        "hypothesis": "Kate is mercurial and hesitant.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is independent. Mark is obliging.",
+        "hypothesis": "Mark is independent and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is ugly. Ruth is friendly.",
+        "hypothesis": "Ruth is ugly and friendly.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is cowardly. Amy is composed.",
+        "hypothesis": "Amy is cowardly and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is interesting. Ed is incisive.",
+        "hypothesis": "Ed is interesting and incisive.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is civil. Lawrence is leery.",
+        "hypothesis": "Lawrence is civil and leery.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is nervous. Diane is impressive.",
+        "hypothesis": "Diane is nervous and impressive.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is drugged. Greg is evasive.",
+        "hypothesis": "Greg is drugged and evasive.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is diligent. Kate is joyous.",
+        "hypothesis": "Kate is diligent and joyous.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is motivated. Carl is even-tempered.",
+        "hypothesis": "Carl is motivated and even-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is hearty. Martha is prudent.",
+        "hypothesis": "Martha is hearty and prudent.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is awful. Heather is dextrous.",
+        "hypothesis": "Heather is awful and dextrous.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is cool. Carl is cynical.",
+        "hypothesis": "Carl is cool and cynical.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is cowardly. Alexander is devoted.",
+        "hypothesis": "Alexander is cowardly and devoted.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is steady. Cynthia is serious.",
+        "hypothesis": "Cynthia is steady and serious.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is unmotivated. Jessica is unhelpful.",
+        "hypothesis": "Jessica is unmotivated and unhelpful.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is flaky. Donald is plain-speaking.",
+        "hypothesis": "Donald is flaky and plain-speaking.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is quarrelsome. Jay is dirty.",
+        "hypothesis": "Jay is quarrelsome and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is clumsy. Billy is wary.",
+        "hypothesis": "Billy is clumsy and wary.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is inventive. Julia is cooperative.",
+        "hypothesis": "Julia is inventive and cooperative.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is musical. Steve is idle.",
+        "hypothesis": "Steve is musical and idle.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is well-intentioned. Frances is fervent.",
+        "hypothesis": "Frances is well-intentioned and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is curious. Chris is sassy.",
+        "hypothesis": "Chris is curious and sassy.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is pretty. Kim is listless.",
+        "hypothesis": "Kim is pretty and listless.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is judgmental. Henry is sedate.",
+        "hypothesis": "Henry is judgmental and sedate.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is sour. Alice is obnoxious.",
+        "hypothesis": "Alice is sour and obnoxious.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is outspoken. Christine is reassuring.",
+        "hypothesis": "Christine is outspoken and reassuring.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is clumsy. Sara is adventurous.",
+        "hypothesis": "Sara is clumsy and adventurous.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is unpleasant. Katie is pensive.",
+        "hypothesis": "Katie is unpleasant and pensive.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is capable. Karen is grouchy.",
+        "hypothesis": "Karen is capable and grouchy.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is suspicious. Brian is unsophisticated.",
+        "hypothesis": "Brian is suspicious and unsophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is nervous. Dave is unbalanced.",
+        "hypothesis": "Dave is nervous and unbalanced.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is thoughtful. Arthur is talented.",
+        "hypothesis": "Arthur is thoughtful and talented.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is miserable. Caroline is paternalistic.",
+        "hypothesis": "Caroline is miserable and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is dirty. Frederick is interesting.",
+        "hypothesis": "Frederick is dirty and interesting.",
+        "label": 0
+    },
+    {
+        "premise": "William is caustic. William is frank.",
+        "hypothesis": "William is caustic and frank.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is attentive. Charlie is cheerful.",
+        "hypothesis": "Charlie is attentive and cheerful.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is impetuous. Carol is direct.",
+        "hypothesis": "Carol is impetuous and direct.",
+        "label": 0
+    },
+    {
+        "premise": "George is soulful. George is intelligent.",
+        "hypothesis": "George is soulful and intelligent.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is impressionable. Dave is confused.",
+        "hypothesis": "Dave is impressionable and confused.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is one-sided. Helen is blunt.",
+        "hypothesis": "Helen is one-sided and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "James is spirited. James is unbalanced.",
+        "hypothesis": "James is spirited and unbalanced.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is earnest. Andrew is clever.",
+        "hypothesis": "Andrew is earnest and clever.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is smart. Harold is drunk.",
+        "hypothesis": "Harold is smart and drunk.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is attentive. Adam is lively.",
+        "hypothesis": "Adam is attentive and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is cold. Paul is circumspect.",
+        "hypothesis": "Paul is cold and circumspect.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is analytical. Carl is callous.",
+        "hypothesis": "Carl is analytical and callous.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is playful. Victoria is sweet.",
+        "hypothesis": "Victoria is playful and sweet.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is testy. Jill is efficient.",
+        "hypothesis": "Jill is testy and efficient.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is gluttonous. Jimmy is lively.",
+        "hypothesis": "Jimmy is gluttonous and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is dirty. Florence is delightful.",
+        "hypothesis": "Florence is dirty and delightful.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is unhelpful. Stephanie is impetuous.",
+        "hypothesis": "Stephanie is unhelpful and impetuous.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is saucy. Emma is maternal.",
+        "hypothesis": "Emma is saucy and maternal.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is unemotional. Stephanie is love-lorn.",
+        "hypothesis": "Stephanie is unemotional and love-lorn.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is impulsive. Melissa is obnoxious.",
+        "hypothesis": "Melissa is impulsive and obnoxious.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is sharp. Dick is vigilant.",
+        "hypothesis": "Dick is sharp and vigilant.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is natural. Dave is musical.",
+        "hypothesis": "Dave is natural and musical.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is peevish. Sue is alert.",
+        "hypothesis": "Sue is peevish and alert.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is cynical. Janet is nasty.",
+        "hypothesis": "Janet is cynical and nasty.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is selfish. Richard is devoted.",
+        "hypothesis": "Richard is selfish and devoted.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is competent. Robin is cantankerous.",
+        "hypothesis": "Robin is competent and cantankerous.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is capable. Ruth is old-fashioned.",
+        "hypothesis": "Ruth is capable and old-fashioned.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is confused. Steve is ambitious.",
+        "hypothesis": "Steve is confused and ambitious.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is fastidious. Rose is touchy.",
+        "hypothesis": "Rose is fastidious and touchy.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is pleasant. Nicole is provocative.",
+        "hypothesis": "Nicole is pleasant and provocative.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is energetic. Mary is plain.",
+        "hypothesis": "Mary is energetic and plain.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is affectionate. Ashley is exacting.",
+        "hypothesis": "Ashley is affectionate and exacting.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is irritable. Roy is clean.",
+        "hypothesis": "Roy is irritable and clean.",
+        "label": 0
+    },
+    {
+        "premise": "Mary is charming. Mary is cool.",
+        "hypothesis": "Mary is charming and cool.",
+        "label": 0
+    },
+    {
+        "premise": "James is proud. James is silly.",
+        "hypothesis": "James is proud and silly.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is subtle. Bill is composed.",
+        "hypothesis": "Bill is subtle and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is artistic. Anna is thoughtful.",
+        "hypothesis": "Anna is artistic and thoughtful.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is dowdy. Mark is versatile.",
+        "hypothesis": "Mark is dowdy and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is clean. Jill is respected.",
+        "hypothesis": "Jill is clean and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is moronic. Carol is popular.",
+        "hypothesis": "Carol is moronic and popular.",
+        "label": 0
+    },
+    {
+        "premise": "George is intelligent. George is uncertain.",
+        "hypothesis": "George is intelligent and uncertain.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is impetuous. Judith is joyous.",
+        "hypothesis": "Judith is impetuous and joyous.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is suspicious. Ken is mild.",
+        "hypothesis": "Ken is suspicious and mild.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is amiable. Caroline is naive.",
+        "hypothesis": "Caroline is amiable and naive.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is unwilling. Lynn is cheerful.",
+        "hypothesis": "Lynn is unwilling and cheerful.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is slow. Michael is affectionate.",
+        "hypothesis": "Michael is slow and affectionate.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is ambitious. Frank is miserable.",
+        "hypothesis": "Frank is ambitious and miserable.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is ferocious. Bruce is quiet.",
+        "hypothesis": "Bruce is ferocious and quiet.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is analytical. Louis is intelligent.",
+        "hypothesis": "Louis is analytical and intelligent.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is idle. Patricia is apprehensive.",
+        "hypothesis": "Patricia is idle and apprehensive.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is stern. Bob is lively.",
+        "hypothesis": "Bob is stern and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is fussy. Carl is well-developed.",
+        "hypothesis": "Carl is fussy and well-developed.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is careless. Roy is insensitive.",
+        "hypothesis": "Roy is careless and insensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is volcanic. Peter is dutiful.",
+        "hypothesis": "Peter is volcanic and dutiful.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is conscientious. Jean is meddlesome.",
+        "hypothesis": "Jean is conscientious and meddlesome.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is intolerant. Charlie is sad.",
+        "hypothesis": "Charlie is intolerant and sad.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is grave. Lisa is cold.",
+        "hypothesis": "Lisa is grave and cold.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is intelligent. Louise is pleasant.",
+        "hypothesis": "Louise is intelligent and pleasant.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is coherent. Martin is naughty.",
+        "hypothesis": "Martin is coherent and naughty.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is morose. Jane is paternalistic.",
+        "hypothesis": "Jane is morose and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is easy-going. Fred is tactful.",
+        "hypothesis": "Fred is easy-going and tactful.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is unreliable. Angela is friendly.",
+        "hypothesis": "Angela is unreliable and friendly.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is picky. Jimmy is sophisticated.",
+        "hypothesis": "Jimmy is picky and sophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is clean. Susan is immodest.",
+        "hypothesis": "Susan is clean and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is grouchy. Ed is coherent.",
+        "hypothesis": "Ed is grouchy and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is popular. Wendy is positive.",
+        "hypothesis": "Wendy is popular and positive.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is naive. Alexandra is well-behaved.",
+        "hypothesis": "Alexandra is naive and well-behaved.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is patient. Katherine is unwilling.",
+        "hypothesis": "Katherine is patient and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is supercilious. Billy is lean.",
+        "hypothesis": "Billy is supercilious and lean.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is long-winded. Kathy is artificial.",
+        "hypothesis": "Kathy is long-winded and artificial.",
+        "label": 0
+    },
+    {
+        "premise": "George is sour. George is zealous.",
+        "hypothesis": "George is sour and zealous.",
+        "label": 0
+    },
+    {
+        "premise": "David is delightful. David is guarded.",
+        "hypothesis": "David is delightful and guarded.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is warmhearted. Donald is inexperienced.",
+        "hypothesis": "Donald is warmhearted and inexperienced.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is stupid. Edith is imperturbable.",
+        "hypothesis": "Edith is stupid and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is pretty. Tony is silly.",
+        "hypothesis": "Tony is pretty and silly.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is nasty. Julia is mature.",
+        "hypothesis": "Julia is nasty and mature.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is absent-minded. Judith is fussy.",
+        "hypothesis": "Judith is absent-minded and fussy.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is fabulous. Sue is resourceful.",
+        "hypothesis": "Sue is fabulous and resourceful.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is hysterical. Roy is smart.",
+        "hypothesis": "Roy is hysterical and smart.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is unguarded. Lynn is adventurous.",
+        "hypothesis": "Lynn is unguarded and adventurous.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is playful. Kathleen is demure.",
+        "hypothesis": "Kathleen is playful and demure.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is idle. Frank is unhelpful.",
+        "hypothesis": "Frank is idle and unhelpful.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is confident. Walter is normal.",
+        "hypothesis": "Walter is confident and normal.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is inconsiderate. Suzanne is fervent.",
+        "hypothesis": "Suzanne is inconsiderate and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is subtle. Frederick is emotional.",
+        "hypothesis": "Frederick is subtle and emotional.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is thoughtful. Michael is chic.",
+        "hypothesis": "Michael is thoughtful and chic.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is flashy. Roger is demure.",
+        "hypothesis": "Roger is flashy and demure.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is nasty. Grace is playful.",
+        "hypothesis": "Grace is nasty and playful.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is delicate. Peter is childish.",
+        "hypothesis": "Peter is delicate and childish.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is hot-headed. Edwin is reclusive.",
+        "hypothesis": "Edwin is hot-headed and reclusive.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is uncertain. Kathryn is shy.",
+        "hypothesis": "Kathryn is uncertain and shy.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is prudent. Anthony is staid.",
+        "hypothesis": "Anthony is prudent and staid.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is well-behaved. Hugh is buff.",
+        "hypothesis": "Hugh is well-behaved and buff.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is snazzy. Dick is nervous.",
+        "hypothesis": "Dick is snazzy and nervous.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is intolerant. Katie is careless.",
+        "hypothesis": "Katie is intolerant and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is patient. Virginia is sharp.",
+        "hypothesis": "Virginia is patient and sharp.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is well-intentioned. Mike is cold.",
+        "hypothesis": "Mike is well-intentioned and cold.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is content. Tony is peevish.",
+        "hypothesis": "Tony is content and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is great. Helen is industrious.",
+        "hypothesis": "Helen is great and industrious.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is boisterous. Bruce is lithe.",
+        "hypothesis": "Bruce is boisterous and lithe.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is sophisticated. Christopher is obliging.",
+        "hypothesis": "Christopher is sophisticated and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is unbalanced. Charlotte is touchy.",
+        "hypothesis": "Charlotte is unbalanced and touchy.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is revered. Martha is industrious.",
+        "hypothesis": "Martha is revered and industrious.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is unbalanced. Roy is sensible.",
+        "hypothesis": "Roy is unbalanced and sensible.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is critical. Robert is excitable.",
+        "hypothesis": "Robert is critical and excitable.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is striking. Gary is inconsiderate.",
+        "hypothesis": "Gary is striking and inconsiderate.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is unstable. Joe is reliable.",
+        "hypothesis": "Joe is unstable and reliable.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is undependable. Ruth is stable.",
+        "hypothesis": "Ruth is undependable and stable.",
+        "label": 0
+    },
+    {
+        "premise": "David is lame. David is incompetent.",
+        "hypothesis": "David is lame and incompetent.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is provocative. Benjamin is deep.",
+        "hypothesis": "Benjamin is provocative and deep.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is distraught. Alex is modest.",
+        "hypothesis": "Alex is distraught and modest.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is serene. Katherine is proficient.",
+        "hypothesis": "Katherine is serene and proficient.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is impulsive. Keith is emotional.",
+        "hypothesis": "Keith is impulsive and emotional.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is even-tempered. Rose is imperturbable.",
+        "hypothesis": "Rose is even-tempered and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is pensive. Ben is caustic.",
+        "hypothesis": "Ben is pensive and caustic.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is imperturbable. Kenneth is composed.",
+        "hypothesis": "Kenneth is imperturbable and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is unaffected. Karen is impressive.",
+        "hypothesis": "Karen is unaffected and impressive.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is keen. Bob is assertive.",
+        "hypothesis": "Bob is keen and assertive.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is guarded. Michael is impressive.",
+        "hypothesis": "Michael is guarded and impressive.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is grave. Alexander is affectionate.",
+        "hypothesis": "Alexander is grave and affectionate.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is sentimental. Jay is artistic.",
+        "hypothesis": "Jay is sentimental and artistic.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is sassy. Claire is impatient.",
+        "hypothesis": "Claire is sassy and impatient.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is apprehensive. Edward is passionate.",
+        "hypothesis": "Edward is apprehensive and passionate.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is conscientious. Margaret is evasive.",
+        "hypothesis": "Margaret is conscientious and evasive.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is cool-headed. Katie is blue.",
+        "hypothesis": "Katie is cool-headed and blue.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is unwilling. Diane is willing.",
+        "hypothesis": "Diane is unwilling and willing.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is miserable. Ellen is industrious.",
+        "hypothesis": "Ellen is miserable and industrious.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is prudent. Jack is fabulous.",
+        "hypothesis": "Jack is prudent and fabulous.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is gloomy. Stephen is angelic.",
+        "hypothesis": "Stephen is gloomy and angelic.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is churlish. Patricia is elfin.",
+        "hypothesis": "Patricia is churlish and elfin.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is unpleasant. Simon is warmhearted.",
+        "hypothesis": "Simon is unpleasant and warmhearted.",
+        "label": 0
+    },
+    {
+        "premise": "Rachel is somber. Rachel is methodical.",
+        "hypothesis": "Rachel is somber and methodical.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is talented. Katherine is stern.",
+        "hypothesis": "Katherine is talented and stern.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is sulky. Colin is joyous.",
+        "hypothesis": "Colin is sulky and joyous.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is motivated. Joe is imaginative.",
+        "hypothesis": "Joe is motivated and imaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is insensitive. Alex is slow.",
+        "hypothesis": "Alex is insensitive and slow.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is outgoing. Anne is sad.",
+        "hypothesis": "Anne is outgoing and sad.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is well-intentioned. Arthur is striking.",
+        "hypothesis": "Arthur is well-intentioned and striking.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is awful. Lauren is drowsy.",
+        "hypothesis": "Lauren is awful and drowsy.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is lazy. Chris is hearty.",
+        "hypothesis": "Chris is lazy and hearty.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is moronic. Alfred is numb.",
+        "hypothesis": "Alfred is moronic and numb.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is vulnerable. Samuel is unwilling.",
+        "hypothesis": "Samuel is vulnerable and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is powerful. Charlotte is wonderful.",
+        "hypothesis": "Charlotte is powerful and wonderful.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is inexperienced. Arthur is warmhearted.",
+        "hypothesis": "Arthur is inexperienced and warmhearted.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is analytical. Albert is nosy.",
+        "hypothesis": "Albert is analytical and nosy.",
+        "label": 0
+    },
+    {
+        "premise": "Alex is sturdy. Alex is alert.",
+        "hypothesis": "Alex is sturdy and alert.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is impressive. Katherine is lovable.",
+        "hypothesis": "Katherine is impressive and lovable.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is demonic. Simon is paternalistic.",
+        "hypothesis": "Simon is demonic and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is depressed. Helen is ostentatious.",
+        "hypothesis": "Helen is depressed and ostentatious.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is below average. Caroline is condescending.",
+        "hypothesis": "Caroline is below average and condescending.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is stoic. Laura is awesome.",
+        "hypothesis": "Laura is stoic and awesome.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is absent-minded. Barbara is unguarded.",
+        "hypothesis": "Barbara is absent-minded and unguarded.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is grave. Eleanor is respectful.",
+        "hypothesis": "Eleanor is grave and respectful.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is stable. Andrea is unthinking.",
+        "hypothesis": "Andrea is stable and unthinking.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is fussy. Ruth is cowardly.",
+        "hypothesis": "Ruth is fussy and cowardly.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is elfin. Charlie is fervent.",
+        "hypothesis": "Charlie is elfin and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Al is unwilling. Al is resentful.",
+        "hypothesis": "Al is unwilling and resentful.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is self-assured. Victoria is intolerant.",
+        "hypothesis": "Victoria is self-assured and intolerant.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is quarrelsome. Lynn is slothful.",
+        "hypothesis": "Lynn is quarrelsome and slothful.",
+        "label": 0
+    },
+    {
+        "premise": "Al is civil. Al is inconsiderate.",
+        "hypothesis": "Al is civil and inconsiderate.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is interesting. Kenneth is staid.",
+        "hypothesis": "Kenneth is interesting and staid.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is jovial. Walter is quick-tempered.",
+        "hypothesis": "Walter is jovial and quick-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is old-fashioned. Ashley is natural.",
+        "hypothesis": "Ashley is old-fashioned and natural.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is sleepy. Jessica is agreeable.",
+        "hypothesis": "Jessica is sleepy and agreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is decisive. Kathleen is thoughtful.",
+        "hypothesis": "Kathleen is decisive and thoughtful.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is reserved. Michael is musical.",
+        "hypothesis": "Michael is reserved and musical.",
+        "label": 0
+    },
+    {
+        "premise": "John is amusing. John is ridiculous.",
+        "hypothesis": "John is amusing and ridiculous.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is cold. Carl is timid.",
+        "hypothesis": "Carl is cold and timid.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is prejudiced. Samuel is apprehensive.",
+        "hypothesis": "Samuel is prejudiced and apprehensive.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is dutiful. Keith is lively.",
+        "hypothesis": "Keith is dutiful and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is playful. Laura is critical.",
+        "hypothesis": "Laura is playful and critical.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is snobby. Christopher is nasty.",
+        "hypothesis": "Christopher is snobby and nasty.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is eager. Lucy is chic.",
+        "hypothesis": "Lucy is eager and chic.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is excellent. Patrick is respected.",
+        "hypothesis": "Patrick is excellent and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is cheerful. Jimmy is childish.",
+        "hypothesis": "Jimmy is cheerful and childish.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is illogical. Patrick is frank.",
+        "hypothesis": "Patrick is illogical and frank.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is persevering. Virginia is illogical.",
+        "hypothesis": "Virginia is persevering and illogical.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is agile. Michelle is nosy.",
+        "hypothesis": "Michelle is agile and nosy.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is apprehensive. Johnny is inexperienced.",
+        "hypothesis": "Johnny is apprehensive and inexperienced.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is conscientious. Bill is able.",
+        "hypothesis": "Bill is conscientious and able.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is uncertain. Louis is cautious.",
+        "hypothesis": "Louis is uncertain and cautious.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is sentimental. Cynthia is egotistical.",
+        "hypothesis": "Cynthia is sentimental and egotistical.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is sensitive. Jason is alert.",
+        "hypothesis": "Jason is sensitive and alert.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is gluttonous. Melissa is volcanic.",
+        "hypothesis": "Melissa is gluttonous and volcanic.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is dreary. Barbara is apathetic.",
+        "hypothesis": "Barbara is dreary and apathetic.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is dutiful. Bob is inconsistent.",
+        "hypothesis": "Bob is dutiful and inconsistent.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is slovenly. Florence is numb.",
+        "hypothesis": "Florence is slovenly and numb.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is proficient. Alfred is frank.",
+        "hypothesis": "Alfred is proficient and frank.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is attentive. Bobby is good.",
+        "hypothesis": "Bobby is attentive and good.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is picky. Jack is uncooperative.",
+        "hypothesis": "Jack is picky and uncooperative.",
+        "label": 0
+    },
+    {
+        "premise": "George is fabulous. George is incisive.",
+        "hypothesis": "George is fabulous and incisive.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is dull. Lauren is gloomy.",
+        "hypothesis": "Lauren is dull and gloomy.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is judgmental. Elizabeth is unstable.",
+        "hypothesis": "Elizabeth is judgmental and unstable.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is slothful. Alexandra is mean.",
+        "hypothesis": "Alexandra is slothful and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is illogical. Richard is noisy.",
+        "hypothesis": "Richard is illogical and noisy.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is modest. Jason is condescending.",
+        "hypothesis": "Jason is modest and condescending.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is sloppy. Sara is clever.",
+        "hypothesis": "Sara is sloppy and clever.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is one-sided. Frank is mean.",
+        "hypothesis": "Frank is one-sided and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is distant. Roy is lovable.",
+        "hypothesis": "Roy is distant and lovable.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is confident. Anna is short-tempered.",
+        "hypothesis": "Anna is confident and short-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is warmhearted. Christopher is surly.",
+        "hypothesis": "Christopher is warmhearted and surly.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is revered. Virginia is versatile.",
+        "hypothesis": "Virginia is revered and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is irritating. Judith is lethargic.",
+        "hypothesis": "Judith is irritating and lethargic.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is dependent. Matthew is amusing.",
+        "hypothesis": "Matthew is dependent and amusing.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is capable. Jonathan is conceited.",
+        "hypothesis": "Jonathan is capable and conceited.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is willing. Keith is vulnerable.",
+        "hypothesis": "Keith is willing and vulnerable.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is short-tempered. Joseph is agreeable.",
+        "hypothesis": "Joseph is short-tempered and agreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is venal. Dorothy is well-behaved.",
+        "hypothesis": "Dorothy is venal and well-behaved.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is jocular. Alison is timid.",
+        "hypothesis": "Alison is jocular and timid.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is versatile. Eric is unhelpful.",
+        "hypothesis": "Eric is versatile and unhelpful.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is imaginative. Ben is confused.",
+        "hypothesis": "Ben is imaginative and confused.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is boisterous. Keith is average.",
+        "hypothesis": "Keith is boisterous and average.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is kind. Steven is intolerant.",
+        "hypothesis": "Steven is kind and intolerant.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is unimaginative. Ben is unpleasant.",
+        "hypothesis": "Ben is unimaginative and unpleasant.",
+        "label": 0
+    },
+    {
+        "premise": "Pamela is cool-headed. Pamela is sour.",
+        "hypothesis": "Pamela is cool-headed and sour.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is strong. Larry is enthusiastic.",
+        "hypothesis": "Larry is strong and enthusiastic.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is old-fashioned. Kathy is awesome.",
+        "hypothesis": "Kathy is old-fashioned and awesome.",
+        "label": 0
+    },
+    {
+        "premise": "James is generous. James is outgoing.",
+        "hypothesis": "James is generous and outgoing.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is affectionate. Daniel is inactive.",
+        "hypothesis": "Daniel is affectionate and inactive.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is sensitive. Donald is sweet.",
+        "hypothesis": "Donald is sensitive and sweet.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is normal. Alexander is immodest.",
+        "hypothesis": "Alexander is normal and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is sensitive. Marie is decisive.",
+        "hypothesis": "Marie is sensitive and decisive.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is amazing. Frances is playful.",
+        "hypothesis": "Frances is amazing and playful.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is unguarded. Ken is pleasant.",
+        "hypothesis": "Ken is unguarded and pleasant.",
+        "label": 0
+    },
+    {
+        "premise": "Brian is popular. Brian is kind.",
+        "hypothesis": "Brian is popular and kind.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is paternal. Kathryn is hypercritical.",
+        "hypothesis": "Kathryn is paternal and hypercritical.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is callous. Florence is watchful.",
+        "hypothesis": "Florence is callous and watchful.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is cooperative. Louis is efficient.",
+        "hypothesis": "Louis is cooperative and efficient.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is inventive. Colin is paternalistic.",
+        "hypothesis": "Colin is inventive and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is conceited. Jennifer is sloppy.",
+        "hypothesis": "Jennifer is conceited and sloppy.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is unpopular. Michael is negative.",
+        "hypothesis": "Michael is unpopular and negative.",
+        "label": 0
+    },
+    {
+        "premise": "James is thinking. James is cool.",
+        "hypothesis": "James is thinking and cool.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is naive. Emma is flabby.",
+        "hypothesis": "Emma is naive and flabby.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is warmhearted. Frances is insensitive.",
+        "hypothesis": "Frances is warmhearted and insensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is lazy. Andrea is moronic.",
+        "hypothesis": "Andrea is lazy and moronic.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is maternal. Heather is hearty.",
+        "hypothesis": "Heather is maternal and hearty.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is positive. Richard is pensive.",
+        "hypothesis": "Richard is positive and pensive.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is unwilling. Nicole is unreliable.",
+        "hypothesis": "Nicole is unwilling and unreliable.",
+        "label": 0
+    },
+    {
+        "premise": "George is sensitive. George is unsophisticated.",
+        "hypothesis": "George is sensitive and unsophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is sedate. Anne is sharp.",
+        "hypothesis": "Anne is sedate and sharp.",
+        "label": 0
+    },
+    {
+        "premise": "Edward is circumspect. Edward is able.",
+        "hypothesis": "Edward is circumspect and able.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is hypercritical. Fred is plain.",
+        "hypothesis": "Fred is hypercritical and plain.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is soulful. Ralph is resigned.",
+        "hypothesis": "Ralph is soulful and resigned.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is dull. Tim is careful.",
+        "hypothesis": "Tim is dull and careful.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is willing. Rebecca is industrious.",
+        "hypothesis": "Rebecca is willing and industrious.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is careless. Ray is thoughtful.",
+        "hypothesis": "Ray is careless and thoughtful.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is candid. Charlotte is unguarded.",
+        "hypothesis": "Charlotte is candid and unguarded.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is dainty. Michael is peevish.",
+        "hypothesis": "Michael is dainty and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is listless. Ralph is deferential.",
+        "hypothesis": "Ralph is listless and deferential.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is timid. Lucy is demonic.",
+        "hypothesis": "Lucy is timid and demonic.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is unsophisticated. Ashley is thoughtless.",
+        "hypothesis": "Ashley is unsophisticated and thoughtless.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is amiable. Ray is awful.",
+        "hypothesis": "Ray is amiable and awful.",
+        "label": 0
+    },
+    {
+        "premise": "David is churlish. David is crabby.",
+        "hypothesis": "David is churlish and crabby.",
+        "label": 0
+    },
+    {
+        "premise": "Alexandra is irritable. Alexandra is ridiculous.",
+        "hypothesis": "Alexandra is irritable and ridiculous.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is caustic. Lucy is weak.",
+        "hypothesis": "Lucy is caustic and weak.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is good. Arthur is sleepy.",
+        "hypothesis": "Arthur is good and sleepy.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is unmotivated. Dave is pretty.",
+        "hypothesis": "Dave is unmotivated and pretty.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is sophisticated. Martin is unaffected.",
+        "hypothesis": "Martin is sophisticated and unaffected.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is agile. Steve is sensible.",
+        "hypothesis": "Steve is agile and sensible.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is miserable. Julie is sad.",
+        "hypothesis": "Julie is miserable and sad.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is guarded. Alfred is beautiful.",
+        "hypothesis": "Alfred is guarded and beautiful.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is tired. Ryan is generous.",
+        "hypothesis": "Ryan is tired and generous.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is buff. Julia is shy.",
+        "hypothesis": "Julia is buff and shy.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is kind. Jane is crass.",
+        "hypothesis": "Jane is kind and crass.",
+        "label": 0
+    },
+    {
+        "premise": "William is alert. William is self-assured.",
+        "hypothesis": "William is alert and self-assured.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is naive. Stephen is deferential.",
+        "hypothesis": "Stephen is naive and deferential.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is serious. Bob is caustic.",
+        "hypothesis": "Bob is serious and caustic.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is balanced. Maria is obliging.",
+        "hypothesis": "Maria is balanced and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is snobby. Joe is even-tempered.",
+        "hypothesis": "Joe is snobby and even-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is analytical. Harry is artistic.",
+        "hypothesis": "Harry is analytical and artistic.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is passionate. Marie is deep.",
+        "hypothesis": "Marie is passionate and deep.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is grouchy. Henry is stoic.",
+        "hypothesis": "Henry is grouchy and stoic.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is hysterical. Gary is pretty.",
+        "hypothesis": "Gary is hysterical and pretty.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is impressionable. Marie is dull.",
+        "hypothesis": "Marie is impressionable and dull.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is mean. Andrew is experienced.",
+        "hypothesis": "Andrew is mean and experienced.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is friendly. Marie is quick-tempered.",
+        "hypothesis": "Marie is friendly and quick-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is deferential. Sue is soulful.",
+        "hypothesis": "Sue is deferential and soulful.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is reclusive. Eleanor is evasive.",
+        "hypothesis": "Eleanor is reclusive and evasive.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is judgmental. Edwin is childlike.",
+        "hypothesis": "Edwin is judgmental and childlike.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is gloomy. Ralph is ostentatious.",
+        "hypothesis": "Ralph is gloomy and ostentatious.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is elfin. Martha is local.",
+        "hypothesis": "Martha is elfin and local.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is soulless. Larry is logical.",
+        "hypothesis": "Larry is soulless and logical.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is local. Carolyn is gluttonous.",
+        "hypothesis": "Carolyn is local and gluttonous.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is churlish. Louis is coherent.",
+        "hypothesis": "Louis is churlish and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is paternalistic. Alan is insensitive.",
+        "hypothesis": "Alan is paternalistic and insensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is cold. Peter is numb.",
+        "hypothesis": "Peter is cold and numb.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is indiscreet. Louis is ardent.",
+        "hypothesis": "Louis is indiscreet and ardent.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is serene. Laura is apprehensive.",
+        "hypothesis": "Laura is serene and apprehensive.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is reassuring. Christine is noisy.",
+        "hypothesis": "Christine is reassuring and noisy.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is ardent. Johnny is inactive.",
+        "hypothesis": "Johnny is ardent and inactive.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is indefatigable. Caroline is disagreeable.",
+        "hypothesis": "Caroline is indefatigable and disagreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is dainty. Jane is proud.",
+        "hypothesis": "Jane is dainty and proud.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is ridiculous. Kenneth is well-intentioned.",
+        "hypothesis": "Kenneth is ridiculous and well-intentioned.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is quick. Nicole is assertive.",
+        "hypothesis": "Nicole is quick and assertive.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is indiscreet. Simon is tired.",
+        "hypothesis": "Simon is indiscreet and tired.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is sensitive. Dan is apathetic.",
+        "hypothesis": "Dan is sensitive and apathetic.",
+        "label": 0
+    },
+    {
+        "premise": "Alfred is sentimental. Alfred is cool.",
+        "hypothesis": "Alfred is sentimental and cool.",
+        "label": 0
+    },
+    {
+        "premise": "George is sedate. George is miserable.",
+        "hypothesis": "George is sedate and miserable.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is petulant. Bobby is sulky.",
+        "hypothesis": "Bobby is petulant and sulky.",
+        "label": 0
+    },
+    {
+        "premise": "David is lazy. David is cheerful.",
+        "hypothesis": "David is lazy and cheerful.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is abnormal. Alexander is conceited.",
+        "hypothesis": "Alexander is abnormal and conceited.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is ambitious. Florence is boisterous.",
+        "hypothesis": "Florence is ambitious and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is uncertain. Robin is respected.",
+        "hypothesis": "Robin is uncertain and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is naughty. Samuel is able.",
+        "hypothesis": "Samuel is naughty and able.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is mercurial. Karen is discreet.",
+        "hypothesis": "Karen is mercurial and discreet.",
+        "label": 0
+    },
+    {
+        "premise": "George is gluttonous. George is sharp.",
+        "hypothesis": "George is gluttonous and sharp.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is fervent. Bill is immodest.",
+        "hypothesis": "Bill is fervent and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is careful. Elaine is talented.",
+        "hypothesis": "Elaine is careful and talented.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is artistic. Dave is nasty.",
+        "hypothesis": "Dave is artistic and nasty.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is pretty. Larry is boisterous.",
+        "hypothesis": "Larry is pretty and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is surly. Kenneth is careless.",
+        "hypothesis": "Kenneth is surly and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Benjamin is cautious. Benjamin is moronic.",
+        "hypothesis": "Benjamin is cautious and moronic.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is impetuous. Louis is indolent.",
+        "hypothesis": "Louis is impetuous and indolent.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is zealous. Jane is crass.",
+        "hypothesis": "Jane is zealous and crass.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is plain-speaking. Sandra is naughty.",
+        "hypothesis": "Sandra is plain-speaking and naughty.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is fastidious. Judith is inconsistent.",
+        "hypothesis": "Judith is fastidious and inconsistent.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is cheerful. Dorothy is sophisticated.",
+        "hypothesis": "Dorothy is cheerful and sophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is sad. Florence is funny.",
+        "hypothesis": "Florence is sad and funny.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is inactive. Walter is venal.",
+        "hypothesis": "Walter is inactive and venal.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is fussy. Alison is illogical.",
+        "hypothesis": "Alison is fussy and illogical.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is modest. Richard is even-tempered.",
+        "hypothesis": "Richard is modest and even-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is responsible. Sam is tired.",
+        "hypothesis": "Sam is responsible and tired.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is cranky. Joan is willing.",
+        "hypothesis": "Joan is cranky and willing.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is keen. Samuel is persevering.",
+        "hypothesis": "Samuel is keen and persevering.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is imperturbable. Julia is circumspect.",
+        "hypothesis": "Julia is imperturbable and circumspect.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is balanced. Barbara is competent.",
+        "hypothesis": "Barbara is balanced and competent.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is hypercritical. Steve is superficial.",
+        "hypothesis": "Steve is hypercritical and superficial.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is persnickety. Diane is dirty.",
+        "hypothesis": "Diane is persnickety and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is conscientious. Jason is volcanic.",
+        "hypothesis": "Jason is conscientious and volcanic.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is nervous. Donna is mature.",
+        "hypothesis": "Donna is nervous and mature.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is ferocious. Robert is unwilling.",
+        "hypothesis": "Robert is ferocious and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is supercilious. Dick is amiable.",
+        "hypothesis": "Dick is supercilious and amiable.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is nasty. Johnny is meddlesome.",
+        "hypothesis": "Johnny is nasty and meddlesome.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is cooperative. Carolyn is indolent.",
+        "hypothesis": "Carolyn is cooperative and indolent.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is superficial. Adam is dutiful.",
+        "hypothesis": "Adam is superficial and dutiful.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is silly. Alice is kind.",
+        "hypothesis": "Alice is silly and kind.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is snobby. Christine is prudent.",
+        "hypothesis": "Christine is snobby and prudent.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is pretty. Janet is picky.",
+        "hypothesis": "Janet is pretty and picky.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is smart. Susan is flabby.",
+        "hypothesis": "Susan is smart and flabby.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is impressionable. Karen is capable.",
+        "hypothesis": "Karen is impressionable and capable.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is pleasant. Jimmy is thoughtless.",
+        "hypothesis": "Jimmy is pleasant and thoughtless.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is paternalistic. Joan is alert.",
+        "hypothesis": "Joan is paternalistic and alert.",
+        "label": 0
+    },
+    {
+        "premise": "John is analytical. John is idle.",
+        "hypothesis": "John is analytical and idle.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is competent. Charlie is energetic.",
+        "hypothesis": "Charlie is competent and energetic.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is realistic. Chris is natural.",
+        "hypothesis": "Chris is realistic and natural.",
+        "label": 0
+    },
+    {
+        "premise": "Jim is gloomy. Jim is picky.",
+        "hypothesis": "Jim is gloomy and picky.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is warmhearted. Billy is conscientious.",
+        "hypothesis": "Billy is warmhearted and conscientious.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is fabulous. Sharon is volcanic.",
+        "hypothesis": "Sharon is fabulous and volcanic.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is obnoxious. Alexander is irascible.",
+        "hypothesis": "Alexander is obnoxious and irascible.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is immodest. Louise is versatile.",
+        "hypothesis": "Louise is immodest and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is wary. Dorothy is paternal.",
+        "hypothesis": "Dorothy is wary and paternal.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is careless. Henry is peevish.",
+        "hypothesis": "Henry is careless and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is selfish. Annie is sophisticated.",
+        "hypothesis": "Annie is selfish and sophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is shy. Carolyn is love-lorn.",
+        "hypothesis": "Carolyn is shy and love-lorn.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is intelligent. Steven is elfin.",
+        "hypothesis": "Steven is intelligent and elfin.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is absent-minded. Kenneth is brilliant.",
+        "hypothesis": "Kenneth is absent-minded and brilliant.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is cheerful. Bill is crabby.",
+        "hypothesis": "Bill is cheerful and crabby.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is above average. Julie is one-sided.",
+        "hypothesis": "Julie is above average and one-sided.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is venal. Virginia is lethargic.",
+        "hypothesis": "Virginia is venal and lethargic.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is slight. Joseph is sulky.",
+        "hypothesis": "Joseph is slight and sulky.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is picky. Joe is careless.",
+        "hypothesis": "Joe is picky and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is frank. Kim is cranky.",
+        "hypothesis": "Kim is frank and cranky.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is fussy. Ashley is cowardly.",
+        "hypothesis": "Ashley is fussy and cowardly.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is great. Carl is inventive.",
+        "hypothesis": "Carl is great and inventive.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is egotistical. Elaine is friendly.",
+        "hypothesis": "Elaine is egotistical and friendly.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is thinking. Charlie is lazy.",
+        "hypothesis": "Charlie is thinking and lazy.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is unpleasant. Heather is quarrelsome.",
+        "hypothesis": "Heather is unpleasant and quarrelsome.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is crass. Harold is thoughtful.",
+        "hypothesis": "Harold is crass and thoughtful.",
+        "label": 0
+    },
+    {
+        "premise": "Christine is distraught. Christine is subtle.",
+        "hypothesis": "Christine is distraught and subtle.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is suspicious. Fred is immature.",
+        "hypothesis": "Fred is suspicious and immature.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is lovely. Suzanne is impulsive.",
+        "hypothesis": "Suzanne is lovely and impulsive.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is apprehensive. Henry is strong.",
+        "hypothesis": "Henry is apprehensive and strong.",
+        "label": 0
+    },
+    {
+        "premise": "George is clean. George is nosy.",
+        "hypothesis": "George is clean and nosy.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is distraught. Simon is childish.",
+        "hypothesis": "Simon is distraught and childish.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is unhelpful. Jack is evasive.",
+        "hypothesis": "Jack is unhelpful and evasive.",
+        "label": 0
+    },
+    {
+        "premise": "Jane is uncertain. Jane is distraught.",
+        "hypothesis": "Jane is uncertain and distraught.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is sober. Karen is illogical.",
+        "hypothesis": "Karen is sober and illogical.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is inexperienced. Lauren is cynical.",
+        "hypothesis": "Lauren is inexperienced and cynical.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is respectful. Nancy is old-fashioned.",
+        "hypothesis": "Nancy is respectful and old-fashioned.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is snobby. Sharon is ugly.",
+        "hypothesis": "Sharon is snobby and ugly.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is imperturbable. Francis is indefatigable.",
+        "hypothesis": "Francis is imperturbable and indefatigable.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is sentimental. Emily is watchful.",
+        "hypothesis": "Emily is sentimental and watchful.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is plucky. Judy is assertive.",
+        "hypothesis": "Judy is plucky and assertive.",
+        "label": 0
+    },
+    {
+        "premise": "George is nosy. George is petulant.",
+        "hypothesis": "George is nosy and petulant.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is uncertain. Katherine is reclusive.",
+        "hypothesis": "Katherine is uncertain and reclusive.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is obnoxious. Julia is methodical.",
+        "hypothesis": "Julia is obnoxious and methodical.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is querulous. Helen is imperturbable.",
+        "hypothesis": "Helen is querulous and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is indolent. Jerry is moronic.",
+        "hypothesis": "Jerry is indolent and moronic.",
+        "label": 0
+    },
+    {
+        "premise": "William is unsophisticated. William is stoic.",
+        "hypothesis": "William is unsophisticated and stoic.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is naughty. Steve is obnoxious.",
+        "hypothesis": "Steve is naughty and obnoxious.",
+        "label": 0
+    },
+    {
+        "premise": "Paul is uncertain. Paul is versatile.",
+        "hypothesis": "Paul is uncertain and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is well-intentioned. Keith is blunt.",
+        "hypothesis": "Keith is well-intentioned and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is ferocious. Howard is gloomy.",
+        "hypothesis": "Howard is ferocious and gloomy.",
+        "label": 0
+    },
+    {
+        "premise": "James is maternal. James is unsophisticated.",
+        "hypothesis": "James is maternal and unsophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is unstable. Hugh is willing.",
+        "hypothesis": "Hugh is unstable and willing.",
+        "label": 0
+    },
+    {
+        "premise": "Jill is dextrous. Jill is diligent.",
+        "hypothesis": "Jill is dextrous and diligent.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is excitable. Robin is grave.",
+        "hypothesis": "Robin is excitable and grave.",
+        "label": 0
+    },
+    {
+        "premise": "Donna is revered. Donna is fervent.",
+        "hypothesis": "Donna is revered and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is leery. Patricia is watchful.",
+        "hypothesis": "Patricia is leery and watchful.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is wary. Sue is deft.",
+        "hypothesis": "Sue is wary and deft.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is idle. Andrea is leery.",
+        "hypothesis": "Andrea is idle and leery.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is lethargic. Martha is awful.",
+        "hypothesis": "Martha is lethargic and awful.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is confused. Adam is dependent.",
+        "hypothesis": "Adam is confused and dependent.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is punctual. Suzanne is plain-speaking.",
+        "hypothesis": "Suzanne is punctual and plain-speaking.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is beneficent. Dave is dreary.",
+        "hypothesis": "Dave is beneficent and dreary.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is spirited. Andrew is amusing.",
+        "hypothesis": "Andrew is spirited and amusing.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is impulsive. Ron is polite.",
+        "hypothesis": "Ron is impulsive and polite.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is lively. Bruce is delightful.",
+        "hypothesis": "Bruce is lively and delightful.",
+        "label": 0
+    },
+    {
+        "premise": "Matt is saucy. Matt is willing.",
+        "hypothesis": "Matt is saucy and willing.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is picky. Kevin is respected.",
+        "hypothesis": "Kevin is picky and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is lethargic. Larry is incompetent.",
+        "hypothesis": "Larry is lethargic and incompetent.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is reclusive. Leslie is sloppy.",
+        "hypothesis": "Leslie is reclusive and sloppy.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is one-sided. Betty is tactful.",
+        "hypothesis": "Betty is one-sided and tactful.",
+        "label": 0
+    },
+    {
+        "premise": "Andrew is stoic. Andrew is proud.",
+        "hypothesis": "Andrew is stoic and proud.",
+        "label": 0
+    },
+    {
+        "premise": "Melissa is immodest. Melissa is unwilling.",
+        "hypothesis": "Melissa is immodest and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is positive. Claire is self-assured.",
+        "hypothesis": "Claire is positive and self-assured.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is careless. Hugh is crabby.",
+        "hypothesis": "Hugh is careless and crabby.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is brave. Hugh is cautious.",
+        "hypothesis": "Hugh is brave and cautious.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is restless. Virginia is flaky.",
+        "hypothesis": "Virginia is restless and flaky.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is dreary. Judy is provocative.",
+        "hypothesis": "Judy is dreary and provocative.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is querulous. Johnny is great.",
+        "hypothesis": "Johnny is querulous and great.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is keen. Harry is sharp.",
+        "hypothesis": "Harry is keen and sharp.",
+        "label": 0
+    },
+    {
+        "premise": "Katie is impulsive. Katie is shrewd.",
+        "hypothesis": "Katie is impulsive and shrewd.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is steady. Alexander is musical.",
+        "hypothesis": "Alexander is steady and musical.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is disruptive. Peter is immodest.",
+        "hypothesis": "Peter is disruptive and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is irritating. Heather is self-assured.",
+        "hypothesis": "Heather is irritating and self-assured.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is cantankerous. Jean is surly.",
+        "hypothesis": "Jean is cantankerous and surly.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is unstable. Jerry is direct.",
+        "hypothesis": "Jerry is unstable and direct.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is somber. Louis is obliging.",
+        "hypothesis": "Louis is somber and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is groggy. Sharon is well-behaved.",
+        "hypothesis": "Sharon is groggy and well-behaved.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is dramatic. Joseph is lame.",
+        "hypothesis": "Joseph is dramatic and lame.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is hearty. Ray is artificial.",
+        "hypothesis": "Ray is hearty and artificial.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is judgmental. Heather is sensitive.",
+        "hypothesis": "Heather is judgmental and sensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is discerning. Philip is warm.",
+        "hypothesis": "Philip is discerning and warm.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is selfish. Leslie is respectful.",
+        "hypothesis": "Leslie is selfish and respectful.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is pleasant. Daniel is unwilling.",
+        "hypothesis": "Daniel is pleasant and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is well-behaved. Betty is obliging.",
+        "hypothesis": "Betty is well-behaved and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is ridiculous. Martin is cool.",
+        "hypothesis": "Martin is ridiculous and cool.",
+        "label": 0
+    },
+    {
+        "premise": "Kevin is touchy. Kevin is sullen.",
+        "hypothesis": "Kevin is touchy and sullen.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is fabulous. Frank is beneficent.",
+        "hypothesis": "Frank is fabulous and beneficent.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is natural. Helen is childlike.",
+        "hypothesis": "Helen is natural and childlike.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is gloomy. Virginia is lively.",
+        "hypothesis": "Virginia is gloomy and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is amazing. Cynthia is lame.",
+        "hypothesis": "Cynthia is amazing and lame.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is serious. Ian is subtle.",
+        "hypothesis": "Ian is serious and subtle.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is immodest. Andrea is positive.",
+        "hypothesis": "Andrea is immodest and positive.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is inspiring. Amy is cranky.",
+        "hypothesis": "Amy is inspiring and cranky.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is direct. Jean is crabby.",
+        "hypothesis": "Jean is direct and crabby.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is somber. Joseph is picky.",
+        "hypothesis": "Joseph is somber and picky.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is sedate. Harold is circumspect.",
+        "hypothesis": "Harold is sedate and circumspect.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is cowardly. Laura is miserable.",
+        "hypothesis": "Laura is cowardly and miserable.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is provocative. Ryan is sullen.",
+        "hypothesis": "Ryan is provocative and sullen.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is friendly. Nicole is suspicious.",
+        "hypothesis": "Nicole is friendly and suspicious.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is sour. Stephen is querulous.",
+        "hypothesis": "Stephen is sour and querulous.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is content. Kathryn is composed.",
+        "hypothesis": "Kathryn is content and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is snobby. Harry is beautiful.",
+        "hypothesis": "Harry is snobby and beautiful.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is responsible. Joseph is lame.",
+        "hypothesis": "Joseph is responsible and lame.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is deft. Albert is well-behaved.",
+        "hypothesis": "Albert is deft and well-behaved.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is enterprising. Kathryn is stoic.",
+        "hypothesis": "Kathryn is enterprising and stoic.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is delightful. Peter is playful.",
+        "hypothesis": "Peter is delightful and playful.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is circumspect. Robert is emotional.",
+        "hypothesis": "Robert is circumspect and emotional.",
+        "label": 0
+    },
+    {
+        "premise": "Patrick is diligent. Patrick is chic.",
+        "hypothesis": "Patrick is diligent and chic.",
+        "label": 0
+    },
+    {
+        "premise": "Ian is paternalistic. Ian is versatile.",
+        "hypothesis": "Ian is paternalistic and versatile.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is lethargic. Alice is indolent.",
+        "hypothesis": "Alice is lethargic and indolent.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is vigilant. Amy is sophisticated.",
+        "hypothesis": "Amy is vigilant and sophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is confident. Johnny is resigned.",
+        "hypothesis": "Johnny is confident and resigned.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is disruptive. Angela is meticulous.",
+        "hypothesis": "Angela is disruptive and meticulous.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is cranky. Carl is agreeable.",
+        "hypothesis": "Carl is cranky and agreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Lucy is dutiful. Lucy is unsophisticated.",
+        "hypothesis": "Lucy is dutiful and unsophisticated.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is quick-tempered. Patricia is unaffected.",
+        "hypothesis": "Patricia is quick-tempered and unaffected.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is fabulous. Annie is staid.",
+        "hypothesis": "Annie is fabulous and staid.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is sharp. Elizabeth is prudent.",
+        "hypothesis": "Elizabeth is sharp and prudent.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is judgmental. Albert is incisive.",
+        "hypothesis": "Albert is judgmental and incisive.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is friendly. Helen is incompetent.",
+        "hypothesis": "Helen is friendly and incompetent.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is well-developed. Ruth is adventurous.",
+        "hypothesis": "Ruth is well-developed and adventurous.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is sharp. Kelly is reclusive.",
+        "hypothesis": "Kelly is sharp and reclusive.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is playful. Cynthia is sincere.",
+        "hypothesis": "Cynthia is playful and sincere.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is sweet. Robert is deferential.",
+        "hypothesis": "Robert is sweet and deferential.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is watchful. Rose is mean.",
+        "hypothesis": "Rose is watchful and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is sneering. Annie is egotistical.",
+        "hypothesis": "Annie is sneering and egotistical.",
+        "label": 0
+    },
+    {
+        "premise": "Al is thoughtful. Al is persnickety.",
+        "hypothesis": "Al is thoughtful and persnickety.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is slight. Suzanne is lovely.",
+        "hypothesis": "Suzanne is slight and lovely.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is enthusiastic. Ray is unfriendly.",
+        "hypothesis": "Ray is enthusiastic and unfriendly.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is zealous. Kim is polite.",
+        "hypothesis": "Kim is zealous and polite.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is outspoken. Kelly is immodest.",
+        "hypothesis": "Kelly is outspoken and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is love-lorn. Mike is passionate.",
+        "hypothesis": "Mike is love-lorn and passionate.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is subtle. Katherine is clever.",
+        "hypothesis": "Katherine is subtle and clever.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is sentimental. Kenneth is slow.",
+        "hypothesis": "Kenneth is sentimental and slow.",
+        "label": 0
+    },
+    {
+        "premise": "Anna is short-tempered. Anna is resigned.",
+        "hypothesis": "Anna is short-tempered and resigned.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is obnoxious. Marie is ferocious.",
+        "hypothesis": "Marie is obnoxious and ferocious.",
+        "label": 0
+    },
+    {
+        "premise": "Marilyn is friendly. Marilyn is ostentatious.",
+        "hypothesis": "Marilyn is friendly and ostentatious.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is condescending. Louis is fiery.",
+        "hypothesis": "Louis is condescending and fiery.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is patient. Elizabeth is indefatigable.",
+        "hypothesis": "Elizabeth is patient and indefatigable.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is disruptive. Florence is imaginative.",
+        "hypothesis": "Florence is disruptive and imaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is bright. Carl is slothful.",
+        "hypothesis": "Carl is bright and slothful.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is decisive. Chris is striking.",
+        "hypothesis": "Chris is decisive and striking.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is dreary. Rose is angelic.",
+        "hypothesis": "Rose is dreary and angelic.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is deferential. Nancy is lean.",
+        "hypothesis": "Nancy is deferential and lean.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is cranky. Amanda is irascible.",
+        "hypothesis": "Amanda is cranky and irascible.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is excitable. Bobby is mercurial.",
+        "hypothesis": "Bobby is excitable and mercurial.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is unthinking. Johnny is churlish.",
+        "hypothesis": "Johnny is unthinking and churlish.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is ardent. Dan is unaffected.",
+        "hypothesis": "Dan is ardent and unaffected.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is judgmental. Jason is hot-headed.",
+        "hypothesis": "Jason is judgmental and hot-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Jason is restless. Jason is judgmental.",
+        "hypothesis": "Jason is restless and judgmental.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is mercurial. Kathy is cooperative.",
+        "hypothesis": "Kathy is mercurial and cooperative.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is keen. Larry is normal.",
+        "hypothesis": "Larry is keen and normal.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is fabulous. Joe is decisive.",
+        "hypothesis": "Joe is fabulous and decisive.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is generous. Margaret is ostentatious.",
+        "hypothesis": "Margaret is generous and ostentatious.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is dreary. Kenneth is dowdy.",
+        "hypothesis": "Kenneth is dreary and dowdy.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is hearty. Caroline is reserved.",
+        "hypothesis": "Caroline is hearty and reserved.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is uncertain. Sandra is dirty.",
+        "hypothesis": "Sandra is uncertain and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is paternalistic. Frederick is shy.",
+        "hypothesis": "Frederick is paternalistic and shy.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is inspiring. Patricia is composed.",
+        "hypothesis": "Patricia is inspiring and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is sentimental. Sharon is lithe.",
+        "hypothesis": "Sharon is sentimental and lithe.",
+        "label": 0
+    },
+    {
+        "premise": "Marie is patient. Marie is superficial.",
+        "hypothesis": "Marie is patient and superficial.",
+        "label": 0
+    },
+    {
+        "premise": "Daniel is sensitive. Daniel is easy-going.",
+        "hypothesis": "Daniel is sensitive and easy-going.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is indolent. Elizabeth is mature.",
+        "hypothesis": "Elizabeth is indolent and mature.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is outspoken. Robin is proud.",
+        "hypothesis": "Robin is outspoken and proud.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is lively. Dorothy is easy-going.",
+        "hypothesis": "Dorothy is lively and easy-going.",
+        "label": 0
+    },
+    {
+        "premise": "Sue is gluttonous. Sue is resentful.",
+        "hypothesis": "Sue is gluttonous and resentful.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is deep. Jennifer is caustic.",
+        "hypothesis": "Jennifer is deep and caustic.",
+        "label": 0
+    },
+    {
+        "premise": "Larry is surly. Larry is lazy.",
+        "hypothesis": "Larry is surly and lazy.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is outgoing. Samuel is cranky.",
+        "hypothesis": "Samuel is outgoing and cranky.",
+        "label": 0
+    },
+    {
+        "premise": "Edith is impetuous. Edith is plucky.",
+        "hypothesis": "Edith is impetuous and plucky.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is interesting. Nancy is kind.",
+        "hypothesis": "Nancy is interesting and kind.",
+        "label": 0
+    },
+    {
+        "premise": "Diane is revered. Diane is inspiring.",
+        "hypothesis": "Diane is revered and inspiring.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is composed. Elaine is inconsiderate.",
+        "hypothesis": "Elaine is composed and inconsiderate.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is insensitive. Kenneth is distant.",
+        "hypothesis": "Kenneth is insensitive and distant.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is sad. Andrea is cautious.",
+        "hypothesis": "Andrea is sad and cautious.",
+        "label": 0
+    },
+    {
+        "premise": "Katherine is old-fashioned. Katherine is dutiful.",
+        "hypothesis": "Katherine is old-fashioned and dutiful.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is analytical. Harry is confused.",
+        "hypothesis": "Harry is analytical and confused.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is restless. Jerry is gluttonous.",
+        "hypothesis": "Jerry is restless and gluttonous.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is meticulous. Harold is outspoken.",
+        "hypothesis": "Harold is meticulous and outspoken.",
+        "label": 0
+    },
+    {
+        "premise": "Ben is peaceful. Ben is awesome.",
+        "hypothesis": "Ben is peaceful and awesome.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is stable. Stephen is paternalistic.",
+        "hypothesis": "Stephen is stable and paternalistic.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is old-fashioned. Louise is easy-going.",
+        "hypothesis": "Louise is old-fashioned and easy-going.",
+        "label": 0
+    },
+    {
+        "premise": "Maria is competent. Maria is circumspect.",
+        "hypothesis": "Maria is competent and circumspect.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is suspicious. Arthur is lithe.",
+        "hypothesis": "Arthur is suspicious and lithe.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is hearty. Philip is hypercritical.",
+        "hypothesis": "Philip is hearty and hypercritical.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is buff. Frank is dextrous.",
+        "hypothesis": "Frank is buff and dextrous.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is weak. Arthur is chic.",
+        "hypothesis": "Arthur is weak and chic.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is indefatigable. Arthur is moronic.",
+        "hypothesis": "Arthur is indefatigable and moronic.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is ferocious. Jay is impatient.",
+        "hypothesis": "Jay is ferocious and impatient.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is selfish. Lisa is dreary.",
+        "hypothesis": "Lisa is selfish and dreary.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is sour. Janet is confused.",
+        "hypothesis": "Janet is sour and confused.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is apathetic. Robert is intelligent.",
+        "hypothesis": "Robert is apathetic and intelligent.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is somber. Caroline is impulsive.",
+        "hypothesis": "Caroline is somber and impulsive.",
+        "label": 0
+    },
+    {
+        "premise": "Charles is gluttonous. Charles is petulant.",
+        "hypothesis": "Charles is gluttonous and petulant.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is immodest. Elaine is snobby.",
+        "hypothesis": "Elaine is immodest and snobby.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is wary. Jennifer is reassuring.",
+        "hypothesis": "Jennifer is wary and reassuring.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is idiotic. Albert is sharp.",
+        "hypothesis": "Albert is idiotic and sharp.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is delicate. Emily is dull.",
+        "hypothesis": "Emily is delicate and dull.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is revered. Kate is querulous.",
+        "hypothesis": "Kate is revered and querulous.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is gluttonous. Grace is unsure.",
+        "hypothesis": "Grace is gluttonous and unsure.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is unhelpful. Louis is naughty.",
+        "hypothesis": "Louis is unhelpful and naughty.",
+        "label": 0
+    },
+    {
+        "premise": "John is tired. John is irritable.",
+        "hypothesis": "John is tired and irritable.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is quick. Patricia is kind.",
+        "hypothesis": "Patricia is quick and kind.",
+        "label": 0
+    },
+    {
+        "premise": "Richard is curious. Richard is indiscreet.",
+        "hypothesis": "Richard is curious and indiscreet.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is punctual. Robin is below average.",
+        "hypothesis": "Robin is punctual and below average.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is helpful. Joan is lean.",
+        "hypothesis": "Joan is helpful and lean.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is agreeable. Eleanor is unbalanced.",
+        "hypothesis": "Eleanor is agreeable and unbalanced.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is dreary. Barbara is unreliable.",
+        "hypothesis": "Barbara is dreary and unreliable.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is unpleasant. Martha is practical.",
+        "hypothesis": "Martha is unpleasant and practical.",
+        "label": 0
+    },
+    {
+        "premise": "Greg is gentle. Greg is unstable.",
+        "hypothesis": "Greg is gentle and unstable.",
+        "label": 0
+    },
+    {
+        "premise": "Bill is obliging. Bill is grouchy.",
+        "hypothesis": "Bill is obliging and grouchy.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is impulsive. Kathy is content.",
+        "hypothesis": "Kathy is impulsive and content.",
+        "label": 0
+    },
+    {
+        "premise": "Steven is unaffected. Steven is tactless.",
+        "hypothesis": "Steven is unaffected and tactless.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is nervous. Patricia is motivated.",
+        "hypothesis": "Patricia is nervous and motivated.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is energetic. Evelyn is irritating.",
+        "hypothesis": "Evelyn is energetic and irritating.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is artificial. Kim is abnormal.",
+        "hypothesis": "Kim is artificial and abnormal.",
+        "label": 0
+    },
+    {
+        "premise": "Mike is stoic. Mike is quick-tempered.",
+        "hypothesis": "Mike is stoic and quick-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Martin is sloppy. Martin is short-tempered.",
+        "hypothesis": "Martin is sloppy and short-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Margaret is irritable. Margaret is slight.",
+        "hypothesis": "Margaret is irritable and slight.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is awesome. Jessica is restless.",
+        "hypothesis": "Jessica is awesome and restless.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is excitable. Jessica is earnest.",
+        "hypothesis": "Jessica is excitable and earnest.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is restless. Keith is careful.",
+        "hypothesis": "Keith is restless and careful.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is supercilious. Betty is normal.",
+        "hypothesis": "Betty is supercilious and normal.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is soulful. Robert is reclusive.",
+        "hypothesis": "Robert is soulful and reclusive.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is dreary. Eleanor is spiteful.",
+        "hypothesis": "Eleanor is dreary and spiteful.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is unstable. Eric is inconsiderate.",
+        "hypothesis": "Eric is unstable and inconsiderate.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is logical. Sophie is ugly.",
+        "hypothesis": "Sophie is logical and ugly.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is insensitive. Roger is snobby.",
+        "hypothesis": "Roger is insensitive and snobby.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is tactless. Tony is dextrous.",
+        "hypothesis": "Tony is tactless and dextrous.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is ferocious. Charlie is crabby.",
+        "hypothesis": "Charlie is ferocious and crabby.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is decisive. Peter is maternal.",
+        "hypothesis": "Peter is decisive and maternal.",
+        "label": 0
+    },
+    {
+        "premise": "Harold is inactive. Harold is lethargic.",
+        "hypothesis": "Harold is inactive and lethargic.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is amiable. Rose is able.",
+        "hypothesis": "Rose is amiable and able.",
+        "label": 0
+    },
+    {
+        "premise": "Carolyn is condescending. Carolyn is tranquil.",
+        "hypothesis": "Carolyn is condescending and tranquil.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is stupid. Jonathan is analytical.",
+        "hypothesis": "Jonathan is stupid and analytical.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is patient. Walter is well-intentioned.",
+        "hypothesis": "Walter is patient and well-intentioned.",
+        "label": 0
+    },
+    {
+        "premise": "Lynn is dutiful. Lynn is wonderful.",
+        "hypothesis": "Lynn is dutiful and wonderful.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is vulnerable. Jeff is discerning.",
+        "hypothesis": "Jeff is vulnerable and discerning.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is average. Roy is sullen.",
+        "hypothesis": "Roy is average and sullen.",
+        "label": 0
+    },
+    {
+        "premise": "Eleanor is evasive. Eleanor is inexperienced.",
+        "hypothesis": "Eleanor is evasive and inexperienced.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is unemotional. Alice is curious.",
+        "hypothesis": "Alice is unemotional and curious.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is delicate. Christopher is superficial.",
+        "hypothesis": "Christopher is delicate and superficial.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is discerning. Frances is miserable.",
+        "hypothesis": "Frances is discerning and miserable.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is methodical. Jonathan is punctual.",
+        "hypothesis": "Jonathan is methodical and punctual.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is civil. Peter is deft.",
+        "hypothesis": "Peter is civil and deft.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is short-tempered. Ron is paternal.",
+        "hypothesis": "Ron is short-tempered and paternal.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is reluctant. Dorothy is egotistical.",
+        "hypothesis": "Dorothy is reluctant and egotistical.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is flaky. Victoria is lively.",
+        "hypothesis": "Victoria is flaky and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is resentful. Deborah is lively.",
+        "hypothesis": "Deborah is resentful and lively.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is mean. Charlie is love-lorn.",
+        "hypothesis": "Charlie is mean and love-lorn.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is prejudiced. Kate is easy-going.",
+        "hypothesis": "Kate is prejudiced and easy-going.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is logical. Steve is responsible.",
+        "hypothesis": "Steve is logical and responsible.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is love-lorn. Heather is respected.",
+        "hypothesis": "Heather is love-lorn and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is unguarded. Kim is restless.",
+        "hypothesis": "Kim is unguarded and restless.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is sour. Gary is imperturbable.",
+        "hypothesis": "Gary is sour and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is leery. Jean is angelic.",
+        "hypothesis": "Jean is leery and angelic.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is industrious. Alison is eager.",
+        "hypothesis": "Alison is industrious and eager.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is courageous. Nancy is stupid.",
+        "hypothesis": "Nancy is courageous and stupid.",
+        "label": 0
+    },
+    {
+        "premise": "Jeff is cordial. Jeff is delicate.",
+        "hypothesis": "Jeff is cordial and delicate.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is sad. Adam is peevish.",
+        "hypothesis": "Adam is sad and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Gary is amazing. Gary is fabulous.",
+        "hypothesis": "Gary is amazing and fabulous.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is enthusiastic. Anne is morose.",
+        "hypothesis": "Anne is enthusiastic and morose.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is obliging. Michelle is uncertain.",
+        "hypothesis": "Michelle is obliging and uncertain.",
+        "label": 0
+    },
+    {
+        "premise": "Louise is disruptive. Louise is obliging.",
+        "hypothesis": "Louise is disruptive and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Leslie is composed. Leslie is impulsive.",
+        "hypothesis": "Leslie is composed and impulsive.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is warm. Frances is artificial.",
+        "hypothesis": "Frances is warm and artificial.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is patient. Betty is assertive.",
+        "hypothesis": "Betty is patient and assertive.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is ostentatious. Judith is quarrelsome.",
+        "hypothesis": "Judith is ostentatious and quarrelsome.",
+        "label": 0
+    },
+    {
+        "premise": "Samuel is fussy. Samuel is discreet.",
+        "hypothesis": "Samuel is fussy and discreet.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is cordial. Roger is tired.",
+        "hypothesis": "Roger is cordial and tired.",
+        "label": 0
+    },
+    {
+        "premise": "Charlie is demonic. Charlie is blunt.",
+        "hypothesis": "Charlie is demonic and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is helpful. Virginia is motivated.",
+        "hypothesis": "Virginia is helpful and motivated.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is mean. Jerry is devoted.",
+        "hypothesis": "Jerry is mean and devoted.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is intolerant. Dave is sturdy.",
+        "hypothesis": "Dave is intolerant and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is talented. Alexander is positive.",
+        "hypothesis": "Alexander is talented and positive.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is love-lorn. Janet is above average.",
+        "hypothesis": "Janet is love-lorn and above average.",
+        "label": 0
+    },
+    {
+        "premise": "James is naive. James is callous.",
+        "hypothesis": "James is naive and callous.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is sentimental. Wendy is immodest.",
+        "hypothesis": "Wendy is sentimental and immodest.",
+        "label": 0
+    },
+    {
+        "premise": "James is unsophisticated. James is interesting.",
+        "hypothesis": "James is unsophisticated and interesting.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is enterprising. Jessica is deft.",
+        "hypothesis": "Jessica is enterprising and deft.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is devoted. Ashley is sedate.",
+        "hypothesis": "Ashley is devoted and sedate.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is warmhearted. Helen is cantankerous.",
+        "hypothesis": "Helen is warmhearted and cantankerous.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is dainty. Bobby is charming.",
+        "hypothesis": "Bobby is dainty and charming.",
+        "label": 0
+    },
+    {
+        "premise": "Al is somber. Al is demonic.",
+        "hypothesis": "Al is somber and demonic.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is petulant. Jonathan is silly.",
+        "hypothesis": "Jonathan is petulant and silly.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is irascible. Edwin is deferential.",
+        "hypothesis": "Edwin is irascible and deferential.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is childish. Deborah is incompetent.",
+        "hypothesis": "Deborah is childish and incompetent.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is proficient. Hugh is drowsy.",
+        "hypothesis": "Hugh is proficient and drowsy.",
+        "label": 0
+    },
+    {
+        "premise": "Dick is depressed. Dick is respectful.",
+        "hypothesis": "Dick is depressed and respectful.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is imperturbable. Catherine is unguarded.",
+        "hypothesis": "Catherine is imperturbable and unguarded.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is wary. Grace is dainty.",
+        "hypothesis": "Grace is wary and dainty.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is level-headed. Jack is confident.",
+        "hypothesis": "Jack is level-headed and confident.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is thoughtful. Grace is weak.",
+        "hypothesis": "Grace is thoughtful and weak.",
+        "label": 0
+    },
+    {
+        "premise": "Virginia is punctual. Virginia is unsure.",
+        "hypothesis": "Virginia is punctual and unsure.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is friendly. Matthew is warmhearted.",
+        "hypothesis": "Matthew is friendly and warmhearted.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is considerate. Sara is saucy.",
+        "hypothesis": "Sara is considerate and saucy.",
+        "label": 0
+    },
+    {
+        "premise": "Carl is serious. Carl is respectful.",
+        "hypothesis": "Carl is serious and respectful.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is sneering. Louis is cantankerous.",
+        "hypothesis": "Louis is sneering and cantankerous.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is enterprising. Angela is insensitive.",
+        "hypothesis": "Angela is enterprising and insensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is artificial. Stephanie is unstable.",
+        "hypothesis": "Stephanie is artificial and unstable.",
+        "label": 0
+    },
+    {
+        "premise": "Jonathan is testy. Jonathan is immature.",
+        "hypothesis": "Jonathan is testy and immature.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is careless. Bruce is subtle.",
+        "hypothesis": "Bruce is careless and subtle.",
+        "label": 0
+    },
+    {
+        "premise": "Betty is assertive. Betty is slothful.",
+        "hypothesis": "Betty is assertive and slothful.",
+        "label": 0
+    },
+    {
+        "premise": "Christopher is long-winded. Christopher is impressive.",
+        "hypothesis": "Christopher is long-winded and impressive.",
+        "label": 0
+    },
+    {
+        "premise": "Philip is supercilious. Philip is polite.",
+        "hypothesis": "Philip is supercilious and polite.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is reassuring. Jimmy is candid.",
+        "hypothesis": "Jimmy is reassuring and candid.",
+        "label": 0
+    },
+    {
+        "premise": "Emma is exacting. Emma is childish.",
+        "hypothesis": "Emma is exacting and childish.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is civil. Roger is decisive.",
+        "hypothesis": "Roger is civil and decisive.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is stable. Alison is passionate.",
+        "hypothesis": "Alison is stable and passionate.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is serene. Julia is vigilant.",
+        "hypothesis": "Julia is serene and vigilant.",
+        "label": 0
+    },
+    {
+        "premise": "Judith is ostentatious. Judith is respected.",
+        "hypothesis": "Judith is ostentatious and respected.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is inconsiderate. Arthur is fussy.",
+        "hypothesis": "Arthur is inconsiderate and fussy.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is beneficent. Ray is supercilious.",
+        "hypothesis": "Ray is beneficent and supercilious.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is affectionate. Jessica is ridiculous.",
+        "hypothesis": "Jessica is affectionate and ridiculous.",
+        "label": 0
+    },
+    {
+        "premise": "Rose is stupid. Rose is careful.",
+        "hypothesis": "Rose is stupid and careful.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is passionate. Angela is quiet.",
+        "hypothesis": "Angela is passionate and quiet.",
+        "label": 0
+    },
+    {
+        "premise": "Victoria is drugged. Victoria is brilliant.",
+        "hypothesis": "Victoria is drugged and brilliant.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is methodical. Kelly is well-rounded.",
+        "hypothesis": "Kelly is methodical and well-rounded.",
+        "label": 0
+    },
+    {
+        "premise": "Florence is energetic. Florence is plain-speaking.",
+        "hypothesis": "Florence is energetic and plain-speaking.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is civil. Francis is illogical.",
+        "hypothesis": "Francis is civil and illogical.",
+        "label": 0
+    },
+    {
+        "premise": "Nicole is inexperienced. Nicole is long-winded.",
+        "hypothesis": "Nicole is inexperienced and long-winded.",
+        "label": 0
+    },
+    {
+        "premise": "Julie is lazy. Julie is sentimental.",
+        "hypothesis": "Julie is lazy and sentimental.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is assertive. Elizabeth is flaky.",
+        "hypothesis": "Elizabeth is assertive and flaky.",
+        "label": 0
+    },
+    {
+        "premise": "Michelle is staid. Michelle is sturdy.",
+        "hypothesis": "Michelle is staid and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is numb. Kelly is artificial.",
+        "hypothesis": "Kelly is numb and artificial.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is venal. Kelly is quiet.",
+        "hypothesis": "Kelly is venal and quiet.",
+        "label": 0
+    },
+    {
+        "premise": "Claire is slovenly. Claire is natural.",
+        "hypothesis": "Claire is slovenly and natural.",
+        "label": 0
+    },
+    {
+        "premise": "William is dowdy. William is dainty.",
+        "hypothesis": "William is dowdy and dainty.",
+        "label": 0
+    },
+    {
+        "premise": "Ruth is quick-tempered. Ruth is inexperienced.",
+        "hypothesis": "Ruth is quick-tempered and inexperienced.",
+        "label": 0
+    },
+    {
+        "premise": "Peter is serene. Peter is naive.",
+        "hypothesis": "Peter is serene and naive.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is depressed. Sam is volcanic.",
+        "hypothesis": "Sam is depressed and volcanic.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is courageous. Stephen is hot-headed.",
+        "hypothesis": "Stephen is courageous and hot-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is indefatigable. Tony is boisterous.",
+        "hypothesis": "Tony is indefatigable and boisterous.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is dainty. Elaine is groggy.",
+        "hypothesis": "Elaine is dainty and groggy.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is superficial. Dan is self-assured.",
+        "hypothesis": "Dan is superficial and self-assured.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is able. Keith is dirty.",
+        "hypothesis": "Keith is able and dirty.",
+        "label": 0
+    },
+    {
+        "premise": "Lisa is angelic. Lisa is revered.",
+        "hypothesis": "Lisa is angelic and revered.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is impressive. Cynthia is dainty.",
+        "hypothesis": "Cynthia is impressive and dainty.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is sloppy. Amy is quick.",
+        "hypothesis": "Amy is sloppy and quick.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is circumspect. Susan is crafty.",
+        "hypothesis": "Susan is circumspect and crafty.",
+        "label": 0
+    },
+    {
+        "premise": "Carol is outgoing. Carol is tranquil.",
+        "hypothesis": "Carol is outgoing and tranquil.",
+        "label": 0
+    },
+    {
+        "premise": "Andrea is provocative. Andrea is mean.",
+        "hypothesis": "Andrea is provocative and mean.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is brave. Sarah is impetuous.",
+        "hypothesis": "Sarah is brave and impetuous.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is caustic. Donald is deferential.",
+        "hypothesis": "Donald is caustic and deferential.",
+        "label": 0
+    },
+    {
+        "premise": "Kathleen is deft. Kathleen is patient.",
+        "hypothesis": "Kathleen is deft and patient.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is impressive. Ryan is imperturbable.",
+        "hypothesis": "Ryan is impressive and imperturbable.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is sassy. Ellen is modest.",
+        "hypothesis": "Ellen is sassy and modest.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is unimaginative. Dan is careful.",
+        "hypothesis": "Dan is unimaginative and careful.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is sweet. Amanda is resigned.",
+        "hypothesis": "Amanda is sweet and resigned.",
+        "label": 0
+    },
+    {
+        "premise": "Eric is unpleasant. Eric is polite.",
+        "hypothesis": "Eric is unpleasant and polite.",
+        "label": 0
+    },
+    {
+        "premise": "Bobby is cool. Bobby is testy.",
+        "hypothesis": "Bobby is cool and testy.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is immature. Kathryn is jovial.",
+        "hypothesis": "Kathryn is immature and jovial.",
+        "label": 0
+    },
+    {
+        "premise": "Bruce is hesitant. Bruce is unimaginative.",
+        "hypothesis": "Bruce is hesitant and unimaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Frank is tired. Frank is hysterical.",
+        "hypothesis": "Frank is tired and hysterical.",
+        "label": 0
+    },
+    {
+        "premise": "Tom is vigilant. Tom is grave.",
+        "hypothesis": "Tom is vigilant and grave.",
+        "label": 0
+    },
+    {
+        "premise": "Annie is noisy. Annie is sad.",
+        "hypothesis": "Annie is noisy and sad.",
+        "label": 0
+    },
+    {
+        "premise": "Edwin is caustic. Edwin is amiable.",
+        "hypothesis": "Edwin is caustic and amiable.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is smart. Joseph is agile.",
+        "hypothesis": "Joseph is smart and agile.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is coherent. Kelly is discreet.",
+        "hypothesis": "Kelly is coherent and discreet.",
+        "label": 0
+    },
+    {
+        "premise": "Ellen is condescending. Ellen is sincere.",
+        "hypothesis": "Ellen is condescending and sincere.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is sensitive. Sara is blunt.",
+        "hypothesis": "Sara is sensitive and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "Lauren is practical. Lauren is careless.",
+        "hypothesis": "Lauren is practical and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is well-respected. Tony is peevish.",
+        "hypothesis": "Tony is well-respected and peevish.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is sentimental. Cynthia is suspicious.",
+        "hypothesis": "Cynthia is sentimental and suspicious.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is artificial. Ryan is cooperative.",
+        "hypothesis": "Ryan is artificial and cooperative.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is patient. Dave is good.",
+        "hypothesis": "Dave is patient and good.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is reluctant. Emily is below average.",
+        "hypothesis": "Emily is reluctant and below average.",
+        "label": 0
+    },
+    {
+        "premise": "Hugh is fervent. Hugh is ugly.",
+        "hypothesis": "Hugh is fervent and ugly.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is sincere. Grace is hypercritical.",
+        "hypothesis": "Grace is sincere and hypercritical.",
+        "label": 0
+    },
+    {
+        "premise": "Thomas is impetuous. Thomas is nosy.",
+        "hypothesis": "Thomas is impetuous and nosy.",
+        "label": 0
+    },
+    {
+        "premise": "Charlotte is interesting. Charlotte is intolerant.",
+        "hypothesis": "Charlotte is interesting and intolerant.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is inconsiderate. Arthur is unemotional.",
+        "hypothesis": "Arthur is inconsiderate and unemotional.",
+        "label": 0
+    },
+    {
+        "premise": "Frederick is depressed. Frederick is dependent.",
+        "hypothesis": "Frederick is depressed and dependent.",
+        "label": 0
+    },
+    {
+        "premise": "Johnny is pretty. Johnny is below average.",
+        "hypothesis": "Johnny is pretty and below average.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is paternalistic. Roger is dutiful.",
+        "hypothesis": "Roger is paternalistic and dutiful.",
+        "label": 0
+    },
+    {
+        "premise": "Catherine is quick. Catherine is steady.",
+        "hypothesis": "Catherine is quick and steady.",
+        "label": 0
+    },
+    {
+        "premise": "Dave is resigned. Dave is uncertain.",
+        "hypothesis": "Dave is resigned and uncertain.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is bright. Donald is below average.",
+        "hypothesis": "Donald is bright and below average.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is pleasant. Roger is disagreeable.",
+        "hypothesis": "Roger is pleasant and disagreeable.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is wary. Angela is patient.",
+        "hypothesis": "Angela is wary and patient.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is soulless. Sam is morose.",
+        "hypothesis": "Sam is soulless and morose.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is ardent. Stephen is lovable.",
+        "hypothesis": "Stephen is ardent and lovable.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is zealous. Ann is fervent.",
+        "hypothesis": "Ann is zealous and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Kelly is lively. Kelly is irritable.",
+        "hypothesis": "Kelly is lively and irritable.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is outgoing. Jean is sedate.",
+        "hypothesis": "Jean is outgoing and sedate.",
+        "label": 0
+    },
+    {
+        "premise": "Robin is idle. Robin is inconsistent.",
+        "hypothesis": "Robin is idle and inconsistent.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is sentimental. Jennifer is long-winded.",
+        "hypothesis": "Jennifer is sentimental and long-winded.",
+        "label": 0
+    },
+    {
+        "premise": "Sara is funny. Sara is critical.",
+        "hypothesis": "Sara is funny and critical.",
+        "label": 0
+    },
+    {
+        "premise": "Francis is outspoken. Francis is soulful.",
+        "hypothesis": "Francis is outspoken and soulful.",
+        "label": 0
+    },
+    {
+        "premise": "Robert is generous. Robert is wonderful.",
+        "hypothesis": "Robert is generous and wonderful.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is quick-tempered. Kate is querulous.",
+        "hypothesis": "Kate is quick-tempered and querulous.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is staid. Harry is fervent.",
+        "hypothesis": "Harry is staid and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Sophie is mercurial. Sophie is impressive.",
+        "hypothesis": "Sophie is mercurial and impressive.",
+        "label": 0
+    },
+    {
+        "premise": "Jimmy is serene. Jimmy is drugged.",
+        "hypothesis": "Jimmy is serene and drugged.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is superficial. Ann is confused.",
+        "hypothesis": "Ann is superficial and confused.",
+        "label": 0
+    },
+    {
+        "premise": "Ken is obnoxious. Ken is slovenly.",
+        "hypothesis": "Ken is obnoxious and slovenly.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is miserable. Kenneth is keen.",
+        "hypothesis": "Kenneth is miserable and keen.",
+        "label": 0
+    },
+    {
+        "premise": "Michael is imperturbable. Michael is unimaginative.",
+        "hypothesis": "Michael is imperturbable and unimaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Sandra is irascible. Sandra is unguarded.",
+        "hypothesis": "Sandra is irascible and unguarded.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is experienced. Albert is ferocious.",
+        "hypothesis": "Albert is experienced and ferocious.",
+        "label": 0
+    },
+    {
+        "premise": "Evelyn is well-behaved. Evelyn is normal.",
+        "hypothesis": "Evelyn is well-behaved and normal.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is illogical. Louis is idiotic.",
+        "hypothesis": "Louis is illogical and idiotic.",
+        "label": 0
+    },
+    {
+        "premise": "Don is persnickety. Don is practical.",
+        "hypothesis": "Don is persnickety and practical.",
+        "label": 0
+    },
+    {
+        "premise": "Kathy is hearty. Kathy is venal.",
+        "hypothesis": "Kathy is hearty and venal.",
+        "label": 0
+    },
+    {
+        "premise": "Alice is impressionable. Alice is long-winded.",
+        "hypothesis": "Alice is impressionable and long-winded.",
+        "label": 0
+    },
+    {
+        "premise": "Elizabeth is careful. Elizabeth is demonic.",
+        "hypothesis": "Elizabeth is careful and demonic.",
+        "label": 0
+    },
+    {
+        "premise": "Deborah is below average. Deborah is sleepy.",
+        "hypothesis": "Deborah is below average and sleepy.",
+        "label": 0
+    },
+    {
+        "premise": "Louis is weak. Louis is incisive.",
+        "hypothesis": "Louis is weak and incisive.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is beneficent. Susan is unwilling.",
+        "hypothesis": "Susan is beneficent and unwilling.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is hearty. Patricia is condescending.",
+        "hypothesis": "Patricia is hearty and condescending.",
+        "label": 0
+    },
+    {
+        "premise": "Harry is direct. Harry is incompetent.",
+        "hypothesis": "Harry is direct and incompetent.",
+        "label": 0
+    },
+    {
+        "premise": "Kathryn is suspicious. Kathryn is spiteful.",
+        "hypothesis": "Kathryn is suspicious and spiteful.",
+        "label": 0
+    },
+    {
+        "premise": "Janet is grouchy. Janet is tranquil.",
+        "hypothesis": "Janet is grouchy and tranquil.",
+        "label": 0
+    },
+    {
+        "premise": "Mark is energetic. Mark is indiscreet.",
+        "hypothesis": "Mark is energetic and indiscreet.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is proficient. Steve is coherent.",
+        "hypothesis": "Steve is proficient and coherent.",
+        "label": 0
+    },
+    {
+        "premise": "Wendy is orderly. Wendy is irritating.",
+        "hypothesis": "Wendy is orderly and irritating.",
+        "label": 0
+    },
+    {
+        "premise": "Walter is proficient. Walter is sullen.",
+        "hypothesis": "Walter is proficient and sullen.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is volcanic. Jay is immature.",
+        "hypothesis": "Jay is volcanic and immature.",
+        "label": 0
+    },
+    {
+        "premise": "Martha is blue. Martha is negative.",
+        "hypothesis": "Martha is blue and negative.",
+        "label": 0
+    },
+    {
+        "premise": "Kenneth is well-developed. Kenneth is energetic.",
+        "hypothesis": "Kenneth is well-developed and energetic.",
+        "label": 0
+    },
+    {
+        "premise": "Joe is playful. Joe is elfin.",
+        "hypothesis": "Joe is playful and elfin.",
+        "label": 0
+    },
+    {
+        "premise": "Roy is kind. Roy is cool-headed.",
+        "hypothesis": "Roy is kind and cool-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Dan is childlike. Dan is persevering.",
+        "hypothesis": "Dan is childlike and persevering.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is cool-headed. Anthony is serene.",
+        "hypothesis": "Anthony is cool-headed and serene.",
+        "label": 0
+    },
+    {
+        "premise": "Sharon is decisive. Sharon is careless.",
+        "hypothesis": "Sharon is decisive and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is dependent. Fred is unimaginative.",
+        "hypothesis": "Fred is dependent and unimaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is inexperienced. Heather is conscientious.",
+        "hypothesis": "Heather is inexperienced and conscientious.",
+        "label": 0
+    },
+    {
+        "premise": "Rebecca is enterprising. Rebecca is reserved.",
+        "hypothesis": "Rebecca is enterprising and reserved.",
+        "label": 0
+    },
+    {
+        "premise": "Bob is thinking. Bob is cruel.",
+        "hypothesis": "Bob is thinking and cruel.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is agreeable. Billy is sturdy.",
+        "hypothesis": "Billy is agreeable and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "Kim is sharp. Kim is shy.",
+        "hypothesis": "Kim is sharp and shy.",
+        "label": 0
+    },
+    {
+        "premise": "Ashley is quiet. Ashley is nervous.",
+        "hypothesis": "Ashley is quiet and nervous.",
+        "label": 0
+    },
+    {
+        "premise": "Julia is orderly. Julia is candid.",
+        "hypothesis": "Julia is orderly and candid.",
+        "label": 0
+    },
+    {
+        "premise": "Simon is mild. Simon is frank.",
+        "hypothesis": "Simon is mild and frank.",
+        "label": 0
+    },
+    {
+        "premise": "Billy is prudent. Billy is idle.",
+        "hypothesis": "Billy is prudent and idle.",
+        "label": 0
+    },
+    {
+        "premise": "Sarah is love-lorn. Sarah is stoic.",
+        "hypothesis": "Sarah is love-lorn and stoic.",
+        "label": 0
+    },
+    {
+        "premise": "Jack is discreet. Jack is imaginative.",
+        "hypothesis": "Jack is discreet and imaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is subtle. Nick is weak.",
+        "hypothesis": "Nick is subtle and weak.",
+        "label": 0
+    },
+    {
+        "premise": "Keith is helpful. Keith is careless.",
+        "hypothesis": "Keith is helpful and careless.",
+        "label": 0
+    },
+    {
+        "premise": "Jennifer is composed. Jennifer is suspicious.",
+        "hypothesis": "Jennifer is composed and suspicious.",
+        "label": 0
+    },
+    {
+        "premise": "Alison is cold. Alison is fervent.",
+        "hypothesis": "Alison is cold and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is uncertain. Donald is passive.",
+        "hypothesis": "Donald is uncertain and passive.",
+        "label": 0
+    },
+    {
+        "premise": "Chris is positive. Chris is indolent.",
+        "hypothesis": "Chris is positive and indolent.",
+        "label": 0
+    },
+    {
+        "premise": "Joan is reclusive. Joan is lame.",
+        "hypothesis": "Joan is reclusive and lame.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is peaceful. Caroline is competent.",
+        "hypothesis": "Caroline is peaceful and competent.",
+        "label": 0
+    },
+    {
+        "premise": "Joseph is unpopular. Joseph is inventive.",
+        "hypothesis": "Joseph is unpopular and inventive.",
+        "label": 0
+    },
+    {
+        "premise": "Amy is picky. Amy is awesome.",
+        "hypothesis": "Amy is picky and awesome.",
+        "label": 0
+    },
+    {
+        "premise": "Jay is distrustful. Jay is soulless.",
+        "hypothesis": "Jay is distrustful and soulless.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is plucky. Steve is assertive.",
+        "hypothesis": "Steve is plucky and assertive.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is grouchy. Albert is drowsy.",
+        "hypothesis": "Albert is grouchy and drowsy.",
+        "label": 0
+    },
+    {
+        "premise": "Ed is ardent. Ed is leery.",
+        "hypothesis": "Ed is ardent and leery.",
+        "label": 0
+    },
+    {
+        "premise": "Barbara is resourceful. Barbara is keen.",
+        "hypothesis": "Barbara is resourceful and keen.",
+        "label": 0
+    },
+    {
+        "premise": "Arthur is prejudiced. Arthur is impressionable.",
+        "hypothesis": "Arthur is prejudiced and impressionable.",
+        "label": 0
+    },
+    {
+        "premise": "Roger is local. Roger is silly.",
+        "hypothesis": "Roger is local and silly.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is venal. Alan is delicate.",
+        "hypothesis": "Alan is venal and delicate.",
+        "label": 0
+    },
+    {
+        "premise": "Dorothy is critical. Dorothy is keen.",
+        "hypothesis": "Dorothy is critical and keen.",
+        "label": 0
+    },
+    {
+        "premise": "Linda is sulky. Linda is inventive.",
+        "hypothesis": "Linda is sulky and inventive.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is hypercritical. Ron is cool-headed.",
+        "hypothesis": "Ron is hypercritical and cool-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Stephanie is cordial. Stephanie is sturdy.",
+        "hypothesis": "Stephanie is cordial and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "John is abnormal. John is cautious.",
+        "hypothesis": "John is abnormal and cautious.",
+        "label": 0
+    },
+    {
+        "premise": "Helen is illogical. Helen is circumspect.",
+        "hypothesis": "Helen is illogical and circumspect.",
+        "label": 0
+    },
+    {
+        "premise": "Albert is independent. Albert is negative.",
+        "hypothesis": "Albert is independent and negative.",
+        "label": 0
+    },
+    {
+        "premise": "Nick is distraught. Nick is touchy.",
+        "hypothesis": "Nick is distraught and touchy.",
+        "label": 0
+    },
+    {
+        "premise": "Anne is unmotivated. Anne is short-tempered.",
+        "hypothesis": "Anne is unmotivated and short-tempered.",
+        "label": 0
+    },
+    {
+        "premise": "Alan is childlike. Alan is sturdy.",
+        "hypothesis": "Alan is childlike and sturdy.",
+        "label": 0
+    },
+    {
+        "premise": "Stephen is striking. Stephen is sloppy.",
+        "hypothesis": "Stephen is striking and sloppy.",
+        "label": 0
+    },
+    {
+        "premise": "Sam is cool. Sam is fervent.",
+        "hypothesis": "Sam is cool and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Suzanne is timid. Suzanne is dependent.",
+        "hypothesis": "Suzanne is timid and dependent.",
+        "label": 0
+    },
+    {
+        "premise": "Jean is cool-headed. Jean is irascible.",
+        "hypothesis": "Jean is cool-headed and irascible.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is shy. Emily is reliable.",
+        "hypothesis": "Emily is shy and reliable.",
+        "label": 0
+    },
+    {
+        "premise": "Adam is stupid. Adam is venal.",
+        "hypothesis": "Adam is stupid and venal.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is revered. Howard is agile.",
+        "hypothesis": "Howard is revered and agile.",
+        "label": 0
+    },
+    {
+        "premise": "Don is sweet. Don is mature.",
+        "hypothesis": "Don is sweet and mature.",
+        "label": 0
+    },
+    {
+        "premise": "Howard is supercilious. Howard is blunt.",
+        "hypothesis": "Howard is supercilious and blunt.",
+        "label": 0
+    },
+    {
+        "premise": "Anthony is deft. Anthony is stoic.",
+        "hypothesis": "Anthony is deft and stoic.",
+        "label": 0
+    },
+    {
+        "premise": "Alexander is unaffected. Alexander is sensitive.",
+        "hypothesis": "Alexander is unaffected and sensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Judy is dreary. Judy is patient.",
+        "hypothesis": "Judy is dreary and patient.",
+        "label": 0
+    },
+    {
+        "premise": "Kate is nosy. Kate is slothful.",
+        "hypothesis": "Kate is nosy and slothful.",
+        "label": 0
+    },
+    {
+        "premise": "Ray is unsure. Ray is methodical.",
+        "hypothesis": "Ray is unsure and methodical.",
+        "label": 0
+    },
+    {
+        "premise": "William is even-tempered. William is plucky.",
+        "hypothesis": "William is even-tempered and plucky.",
+        "label": 0
+    },
+    {
+        "premise": "Ryan is independent. Ryan is lethargic.",
+        "hypothesis": "Ryan is independent and lethargic.",
+        "label": 0
+    },
+    {
+        "premise": "Emily is attentive. Emily is passive.",
+        "hypothesis": "Emily is attentive and passive.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is modest. Donald is nervous.",
+        "hypothesis": "Donald is modest and nervous.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is balanced. Patricia is obliging.",
+        "hypothesis": "Patricia is balanced and obliging.",
+        "label": 0
+    },
+    {
+        "premise": "Tony is plucky. Tony is depressed.",
+        "hypothesis": "Tony is plucky and depressed.",
+        "label": 0
+    },
+    {
+        "premise": "Grace is abnormal. Grace is unimaginative.",
+        "hypothesis": "Grace is abnormal and unimaginative.",
+        "label": 0
+    },
+    {
+        "premise": "Ann is childlike. Ann is lazy.",
+        "hypothesis": "Ann is childlike and lazy.",
+        "label": 0
+    },
+    {
+        "premise": "Henry is exacting. Henry is thoughtful.",
+        "hypothesis": "Henry is exacting and thoughtful.",
+        "label": 0
+    },
+    {
+        "premise": "Frances is unsophisticated. Frances is thoughtless.",
+        "hypothesis": "Frances is unsophisticated and thoughtless.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is delicate. Ralph is plain.",
+        "hypothesis": "Ralph is delicate and plain.",
+        "label": 0
+    },
+    {
+        "premise": "Fred is naughty. Fred is brave.",
+        "hypothesis": "Fred is naughty and brave.",
+        "label": 0
+    },
+    {
+        "premise": "Ron is slothful. Ron is deep.",
+        "hypothesis": "Ron is slothful and deep.",
+        "label": 0
+    },
+    {
+        "premise": "Karen is idiotic. Karen is positive.",
+        "hypothesis": "Karen is idiotic and positive.",
+        "label": 0
+    },
+    {
+        "premise": "Diana is stern. Diana is deft.",
+        "hypothesis": "Diana is stern and deft.",
+        "label": 0
+    },
+    {
+        "premise": "Caroline is gluttonous. Caroline is local.",
+        "hypothesis": "Caroline is gluttonous and local.",
+        "label": 0
+    },
+    {
+        "premise": "Steve is sassy. Steve is impetuous.",
+        "hypothesis": "Steve is sassy and impetuous.",
+        "label": 0
+    },
+    {
+        "premise": "Jerry is staid. Jerry is fervent.",
+        "hypothesis": "Jerry is staid and fervent.",
+        "label": 0
+    },
+    {
+        "premise": "Donald is sensible. Donald is blue.",
+        "hypothesis": "Donald is sensible and blue.",
+        "label": 0
+    },
+    {
+        "premise": "Matthew is capable. Matthew is ferocious.",
+        "hypothesis": "Matthew is capable and ferocious.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is soulful. Susan is sensitive.",
+        "hypothesis": "Susan is soulful and sensitive.",
+        "label": 0
+    },
+    {
+        "premise": "Ralph is soulful. Ralph is cantankerous.",
+        "hypothesis": "Ralph is soulful and cantankerous.",
+        "label": 0
+    },
+    {
+        "premise": "Tim is candid. Tim is saucy.",
+        "hypothesis": "Tim is candid and saucy.",
+        "label": 0
+    },
+    {
+        "premise": "Laura is sensible. Laura is punctual.",
+        "hypothesis": "Laura is sensible and punctual.",
+        "label": 0
+    },
+    {
+        "premise": "Colin is flabby. Colin is tired.",
+        "hypothesis": "Colin is flabby and tired.",
+        "label": 0
+    },
+    {
+        "premise": "Angela is hysterical. Angela is unreliable.",
+        "hypothesis": "Angela is hysterical and unreliable.",
+        "label": 0
+    },
+    {
+        "premise": "David is exacting. David is responsible.",
+        "hypothesis": "David is exacting and responsible.",
+        "label": 0
+    },
+    {
+        "premise": "Nancy is serious. Nancy is civil.",
+        "hypothesis": "Nancy is serious and civil.",
+        "label": 0
+    },
+    {
+        "premise": "Cynthia is balanced. Cynthia is irascible.",
+        "hypothesis": "Cynthia is balanced and irascible.",
+        "label": 0
+    },
+    {
+        "premise": "Patricia is selfish. Patricia is hot-headed.",
+        "hypothesis": "Patricia is selfish and hot-headed.",
+        "label": 0
+    },
+    {
+        "premise": "Harriet is excellent. Harriet is courageous.",
+        "hypothesis": "Harriet is excellent and courageous.",
+        "label": 0
+    },
+    {
+        "premise": "Susan is good. Susan is soulful.",
+        "hypothesis": "Susan is good and soulful.",
+        "label": 0
+    },
+    {
+        "premise": "Jessica is nasty. Jessica is composed.",
+        "hypothesis": "Jessica is nasty and composed.",
+        "label": 0
+    },
+    {
+        "premise": "Lawrence is mild. Lawrence is thinking.",
+        "hypothesis": "Lawrence is mild and thinking.",
+        "label": 0
+    },
+    {
+        "premise": "Elaine is unsure. Elaine is reclusive.",
+        "hypothesis": "Elaine is unsure and reclusive.",
+        "label": 0
+    },
+    {
+        "premise": "Amanda is mean. Amanda is clean.",
+        "hypothesis": "Amanda is mean and clean.",
+        "label": 0
+    },
+    {
+        "premise": "Heather is responsible. Heather is well-developed.",
+        "hypothesis": "Heather is responsible and well-developed.",
+        "label": 0
+    }
+]

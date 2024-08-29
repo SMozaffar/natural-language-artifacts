@@ -1,0 +1,5002 @@
+[
+    {
+        "premise": "Patrick reached theatre at 7 AM whereas Howard reached at 7:30 AM.",
+        "hypothesis": "Patrick reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached school at 8 AM whereas Louis reached at 3:30 PM.",
+        "hypothesis": "Charlotte reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached hospital at 8 AM whereas Karen reached at 11 AM.",
+        "hypothesis": "Paul reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached hospital at 9 AM whereas Diana reached at 10:30 AM.",
+        "hypothesis": "Jill reached after Diana.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan reached museum at 3 PM whereas Victoria reached at 5 PM.",
+        "hypothesis": "Ryan reached after Victoria.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached hospital at 6 AM whereas Andrea reached at 7 AM.",
+        "hypothesis": "Nancy reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne reached hospital at 6 AM whereas Ray reached at 6:30 AM.",
+        "hypothesis": "Suzanne reached after Ray.",
+        "label": 2
+    },
+    {
+        "premise": "Judith reached hotel at 11 AM whereas Francis reached at 11:30 AM.",
+        "hypothesis": "Judith reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached hospital at 11 AM whereas Andrea reached at 2 PM.",
+        "hypothesis": "Francis reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Alex reached museum at 6:30 AM whereas Hugh reached at 1:30 PM.",
+        "hypothesis": "Alex reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Alice reached park at 6:30 AM whereas Leslie reached at 11 AM.",
+        "hypothesis": "Alice reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Julie reached office at 6 AM whereas Sue reached at 12 noon.",
+        "hypothesis": "Julie reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Robin reached office at 12:30 PM whereas Steven reached at 3:30 PM.",
+        "hypothesis": "Robin reached after Steven.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached school at 6:30 AM whereas Julia reached at 9 AM.",
+        "hypothesis": "Anne reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Jason reached hotel at 2 PM whereas Billy reached at 3:30 PM.",
+        "hypothesis": "Jason reached after Billy.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached hotel at 12 noon whereas Greg reached at 4 PM.",
+        "hypothesis": "Martha reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached museum at 9 AM whereas Deborah reached at 10 AM.",
+        "hypothesis": "Edwin reached after Deborah.",
+        "label": 2
+    },
+    {
+        "premise": "Mark reached office at 6 AM whereas Ruth reached at 6:30 AM.",
+        "hypothesis": "Mark reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached park at 3 PM whereas Lawrence reached at 3:30 PM.",
+        "hypothesis": "Roy reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached hotel at 7:30 AM whereas Patricia reached at 9:30 AM.",
+        "hypothesis": "Paul reached after Patricia.",
+        "label": 2
+    },
+    {
+        "premise": "Angela reached hospital at 11:30 AM whereas Scott reached at 3 PM.",
+        "hypothesis": "Angela reached after Scott.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached school at 6:30 AM whereas Martin reached at 6 PM.",
+        "hypothesis": "Francis reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached hotel at 9 AM whereas Kim reached at 11:30 AM.",
+        "hypothesis": "Stephanie reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached school at 6 AM whereas Alexandra reached at 2 PM.",
+        "hypothesis": "Anne reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Larry reached office at 8 AM whereas Don reached at 2 PM.",
+        "hypothesis": "Larry reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached hospital at 8:30 AM whereas Alex reached at 1 PM.",
+        "hypothesis": "Paul reached after Alex.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached hospital at 9 AM whereas Emily reached at 11 AM.",
+        "hypothesis": "Nancy reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached office at 9:30 AM whereas Laura reached at 12 noon.",
+        "hypothesis": "Alison reached after Laura.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached office at 12:30 PM whereas Christopher reached at 2 PM.",
+        "hypothesis": "Thomas reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Judith reached office at 3 PM whereas Frank reached at 6 PM.",
+        "hypothesis": "Judith reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Adam reached museum at 10:30 AM whereas Catherine reached at 1 PM.",
+        "hypothesis": "Adam reached after Catherine.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin reached park at 4 PM whereas Arthur reached at 4:30 PM.",
+        "hypothesis": "Benjamin reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached park at 6:30 AM whereas Marilyn reached at 10 AM.",
+        "hypothesis": "Deborah reached after Marilyn.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached park at 6:30 AM whereas Henry reached at 3 PM.",
+        "hypothesis": "Mike reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick reached museum at 10 AM whereas Ron reached at 11 AM.",
+        "hypothesis": "Frederick reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Jason reached museum at 9:30 AM whereas Joe reached at 4:30 PM.",
+        "hypothesis": "Jason reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached school at 2 PM whereas Roger reached at 3:30 PM.",
+        "hypothesis": "Harriet reached after Roger.",
+        "label": 2
+    },
+    {
+        "premise": "Harold reached museum at 10 AM whereas Harry reached at 11 AM.",
+        "hypothesis": "Harold reached after Harry.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred reached hotel at 8:30 AM whereas Sharon reached at 1 PM.",
+        "hypothesis": "Alfred reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Louise reached theatre at 3 PM whereas Robert reached at 4 PM.",
+        "hypothesis": "Louise reached after Robert.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached hotel at 7:30 AM whereas Francis reached at 9 AM.",
+        "hypothesis": "Florence reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached museum at 6 AM whereas Arthur reached at 4:30 PM.",
+        "hypothesis": "Jack reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Walter reached hotel at 6 AM whereas Louise reached at 8 AM.",
+        "hypothesis": "Walter reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached office at 6 AM whereas Lisa reached at 1:30 PM.",
+        "hypothesis": "Jill reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela reached school at 2:30 PM whereas Bruce reached at 4:30 PM.",
+        "hypothesis": "Pamela reached after Bruce.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica reached office at 8 AM whereas Laura reached at 8:30 AM.",
+        "hypothesis": "Jessica reached after Laura.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff reached hotel at 8:30 AM whereas Catherine reached at 1:30 PM.",
+        "hypothesis": "Jeff reached after Catherine.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached hotel at 6 AM whereas Sue reached at 8:30 AM.",
+        "hypothesis": "Barbara reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached hospital at 10 AM whereas Annie reached at 11 AM.",
+        "hypothesis": "Charlotte reached after Annie.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached office at 10 AM whereas Tim reached at 2 PM.",
+        "hypothesis": "Christine reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached hotel at 8:30 AM whereas Edith reached at 4 PM.",
+        "hypothesis": "Jennifer reached after Edith.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia reached park at 6 AM whereas Jonathan reached at 4 PM.",
+        "hypothesis": "Virginia reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached office at 2 PM whereas Chris reached at 4 PM.",
+        "hypothesis": "Paul reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached hotel at 9:30 AM whereas Francis reached at 2:30 PM.",
+        "hypothesis": "Florence reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached office at 6 AM whereas Richard reached at 10 AM.",
+        "hypothesis": "Margaret reached after Richard.",
+        "label": 2
+    },
+    {
+        "premise": "Victoria reached park at 1 PM whereas Greg reached at 2 PM.",
+        "hypothesis": "Victoria reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached hotel at 8:30 AM whereas Sam reached at 12 noon.",
+        "hypothesis": "Jay reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached museum at 10:30 AM whereas Roy reached at 1 PM.",
+        "hypothesis": "Donna reached after Roy.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached hospital at 6 AM whereas Julie reached at 6:30 AM.",
+        "hypothesis": "Charlotte reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached school at 8 AM whereas Sue reached at 9 AM.",
+        "hypothesis": "Jay reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Tony reached theatre at 8:30 AM whereas Robin reached at 10 AM.",
+        "hypothesis": "Tony reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached office at 2 PM whereas Linda reached at 4 PM.",
+        "hypothesis": "Elizabeth reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached hospital at 11 AM whereas Harold reached at 3:30 PM.",
+        "hypothesis": "Barbara reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached theatre at 7:30 AM whereas Ellen reached at 2 PM.",
+        "hypothesis": "Helen reached after Ellen.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached hotel at 2 PM whereas Brian reached at 3:30 PM.",
+        "hypothesis": "Ben reached after Brian.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa reached museum at 7 AM whereas Alex reached at 9:30 AM.",
+        "hypothesis": "Melissa reached after Alex.",
+        "label": 2
+    },
+    {
+        "premise": "Frank reached office at 7:30 AM whereas Robin reached at 11 AM.",
+        "hypothesis": "Frank reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached theatre at 9:30 AM whereas Robin reached at 2:30 PM.",
+        "hypothesis": "Peter reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "John reached hotel at 6:30 AM whereas Tony reached at 10 AM.",
+        "hypothesis": "John reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached office at 11 AM whereas Elaine reached at 6 PM.",
+        "hypothesis": "Edwin reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached park at 8:30 AM whereas Matthew reached at 9 AM.",
+        "hypothesis": "Betty reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached park at 10 AM whereas Elaine reached at 11 AM.",
+        "hypothesis": "Henry reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Billy reached museum at 6 AM whereas Jason reached at 7 AM.",
+        "hypothesis": "Billy reached after Jason.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached park at 11 AM whereas Charlotte reached at 5:30 PM.",
+        "hypothesis": "Lisa reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached park at 9:30 AM whereas Arthur reached at 11 AM.",
+        "hypothesis": "Charlotte reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached school at 11:30 AM whereas Jim reached at 2:30 PM.",
+        "hypothesis": "Sara reached after Jim.",
+        "label": 2
+    },
+    {
+        "premise": "Laura reached school at 6 AM whereas Harold reached at 9:30 AM.",
+        "hypothesis": "Laura reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached hotel at 6 AM whereas Linda reached at 6:30 AM.",
+        "hypothesis": "Grace reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Ed reached theatre at 12:30 PM whereas Ryan reached at 3 PM.",
+        "hypothesis": "Ed reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Adam reached theatre at 9 AM whereas Dan reached at 12 noon.",
+        "hypothesis": "Adam reached after Dan.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached park at 12:30 PM whereas Carolyn reached at 2 PM.",
+        "hypothesis": "Anne reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Sally reached park at 6:30 AM whereas Carl reached at 7 AM.",
+        "hypothesis": "Sally reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached hospital at 7 AM whereas Lucy reached at 7:30 AM.",
+        "hypothesis": "Diana reached after Lucy.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel reached hotel at 8 AM whereas Henry reached at 9 AM.",
+        "hypothesis": "Samuel reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred reached museum at 10 AM whereas Kathy reached at 4 PM.",
+        "hypothesis": "Alfred reached after Kathy.",
+        "label": 2
+    },
+    {
+        "premise": "Amy reached office at 9:30 AM whereas Benjamin reached at 1 PM.",
+        "hypothesis": "Amy reached after Benjamin.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached hotel at 6 AM whereas Heather reached at 12 noon.",
+        "hypothesis": "Stephanie reached after Heather.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached hospital at 1 PM whereas Michael reached at 5:30 PM.",
+        "hypothesis": "Harry reached after Michael.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached theatre at 8 AM whereas Virginia reached at 5 PM.",
+        "hypothesis": "Elaine reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Charles reached hotel at 8:30 AM whereas Kenneth reached at 11:30 AM.",
+        "hypothesis": "Charles reached after Kenneth.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached school at 12:30 PM whereas Anna reached at 4 PM.",
+        "hypothesis": "Deborah reached after Anna.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached hotel at 7:30 AM whereas Ann reached at 12 noon.",
+        "hypothesis": "Jennifer reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached hotel at 6:30 AM whereas Jean reached at 9 AM.",
+        "hypothesis": "Sarah reached after Jean.",
+        "label": 2
+    },
+    {
+        "premise": "Frances reached hospital at 7 AM whereas Linda reached at 1:30 PM.",
+        "hypothesis": "Frances reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached hospital at 6:30 AM whereas Ryan reached at 11:30 AM.",
+        "hypothesis": "Arthur reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached theatre at 8:30 AM whereas Francis reached at 10 AM.",
+        "hypothesis": "Jerry reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick reached hotel at 6 AM whereas Barbara reached at 8:30 AM.",
+        "hypothesis": "Patrick reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached hospital at 8:30 AM whereas Jane reached at 12:30 PM.",
+        "hypothesis": "Elaine reached after Jane.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached office at 12 noon whereas Philip reached at 5 PM.",
+        "hypothesis": "Henry reached after Philip.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached hotel at 6 AM whereas Evelyn reached at 6:30 AM.",
+        "hypothesis": "Roy reached after Evelyn.",
+        "label": 2
+    },
+    {
+        "premise": "John reached museum at 6:30 AM whereas Nancy reached at 4 PM.",
+        "hypothesis": "John reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached museum at 7:30 AM whereas Margaret reached at 11:30 AM.",
+        "hypothesis": "Thomas reached after Margaret.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached park at 11:30 AM whereas Lauren reached at 12:30 PM.",
+        "hypothesis": "Brian reached after Lauren.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached theatre at 7 AM whereas Joe reached at 9 AM.",
+        "hypothesis": "Jack reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Tim reached office at 9 AM whereas Sharon reached at 1:30 PM.",
+        "hypothesis": "Tim reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew reached school at 2 PM whereas Gary reached at 2:30 PM.",
+        "hypothesis": "Matthew reached after Gary.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached museum at 12:30 PM whereas Henry reached at 3 PM.",
+        "hypothesis": "Susan reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "James reached hotel at 6 AM whereas Ruth reached at 11:30 AM.",
+        "hypothesis": "James reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia reached park at 12:30 PM whereas Laura reached at 4:30 PM.",
+        "hypothesis": "Cynthia reached after Laura.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached office at 8:30 AM whereas Claire reached at 1 PM.",
+        "hypothesis": "Kathleen reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly reached theatre at 7 AM whereas Jonathan reached at 9:30 AM.",
+        "hypothesis": "Kelly reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached school at 9 AM whereas Alice reached at 12 noon.",
+        "hypothesis": "Susan reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached hotel at 8 AM whereas Sam reached at 10 AM.",
+        "hypothesis": "Diana reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached school at 6:30 AM whereas Katherine reached at 7:30 AM.",
+        "hypothesis": "Harriet reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Richard reached hospital at 6 AM whereas Alan reached at 6:30 AM.",
+        "hypothesis": "Richard reached after Alan.",
+        "label": 2
+    },
+    {
+        "premise": "Laura reached school at 9:30 AM whereas Linda reached at 2:30 PM.",
+        "hypothesis": "Laura reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached theatre at 7:30 AM whereas Ron reached at 9:30 AM.",
+        "hypothesis": "Steven reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached office at 8 AM whereas Joseph reached at 10:30 AM.",
+        "hypothesis": "Maria reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached hospital at 7 AM whereas Elaine reached at 9 AM.",
+        "hypothesis": "Henry reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached hospital at 6 AM whereas Lisa reached at 9:30 AM.",
+        "hypothesis": "Leslie reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached theatre at 9:30 AM whereas Alfred reached at 5 PM.",
+        "hypothesis": "Fiona reached after Alfred.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached theatre at 6 AM whereas Julie reached at 7:30 AM.",
+        "hypothesis": "Harriet reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached park at 8 AM whereas Lynn reached at 10:30 AM.",
+        "hypothesis": "Dorothy reached after Lynn.",
+        "label": 2
+    },
+    {
+        "premise": "Dave reached hotel at 8 AM whereas Ann reached at 8:30 AM.",
+        "hypothesis": "Dave reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Kevin reached theatre at 9 AM whereas Janet reached at 12 noon.",
+        "hypothesis": "Kevin reached after Janet.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached theatre at 11 AM whereas Edward reached at 3:30 PM.",
+        "hypothesis": "Julia reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Howard reached theatre at 6:30 AM whereas Marie reached at 7 AM.",
+        "hypothesis": "Howard reached after Marie.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached park at 9:30 AM whereas Evelyn reached at 5:30 PM.",
+        "hypothesis": "Betty reached after Evelyn.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached theatre at 11 AM whereas Elizabeth reached at 1 PM.",
+        "hypothesis": "Thomas reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Matt reached museum at 6 AM whereas Andrew reached at 6:30 AM.",
+        "hypothesis": "Matt reached after Andrew.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy reached school at 10:30 AM whereas Marilyn reached at 12 noon.",
+        "hypothesis": "Lucy reached after Marilyn.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached hospital at 4:30 PM whereas Jessica reached at 5:30 PM.",
+        "hypothesis": "Margaret reached after Jessica.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached office at 12 noon whereas Jason reached at 5 PM.",
+        "hypothesis": "Janet reached after Jason.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny reached school at 6:30 AM whereas Ron reached at 9:30 AM.",
+        "hypothesis": "Johnny reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached office at 9:30 AM whereas Emily reached at 11 AM.",
+        "hypothesis": "Joan reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached museum at 12 noon whereas Hugh reached at 3 PM.",
+        "hypothesis": "Bob reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "George reached hospital at 1:30 PM whereas Adam reached at 4:30 PM.",
+        "hypothesis": "George reached after Adam.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached school at 7:30 AM whereas Ann reached at 8 AM.",
+        "hypothesis": "Jerry reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached office at 8 AM whereas Don reached at 10:30 AM.",
+        "hypothesis": "Sara reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Frank reached hotel at 6 AM whereas Jay reached at 6:30 AM.",
+        "hypothesis": "Frank reached after Jay.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached museum at 6 AM whereas Florence reached at 7 AM.",
+        "hypothesis": "Martin reached after Florence.",
+        "label": 2
+    },
+    {
+        "premise": "Chris reached hotel at 1:30 PM whereas Louise reached at 6 PM.",
+        "hypothesis": "Chris reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley reached hotel at 7 AM whereas Carl reached at 1 PM.",
+        "hypothesis": "Ashley reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine reached museum at 8 AM whereas Alison reached at 4 PM.",
+        "hypothesis": "Catherine reached after Alison.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached museum at 8:30 AM whereas Amanda reached at 9 AM.",
+        "hypothesis": "Hugh reached after Amanda.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached museum at 11:30 AM whereas Mary reached at 5:30 PM.",
+        "hypothesis": "Michael reached after Mary.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia reached school at 10 AM whereas Diane reached at 12 noon.",
+        "hypothesis": "Cynthia reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached hospital at 10:30 AM whereas Daniel reached at 12 noon.",
+        "hypothesis": "Arthur reached after Daniel.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa reached museum at 12 noon whereas Roy reached at 5 PM.",
+        "hypothesis": "Melissa reached after Roy.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached office at 7:30 AM whereas Leslie reached at 12:30 PM.",
+        "hypothesis": "Albert reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached hotel at 7:30 AM whereas Sophie reached at 11 AM.",
+        "hypothesis": "Jean reached after Sophie.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached hospital at 6:30 AM whereas Emily reached at 8 AM.",
+        "hypothesis": "Florence reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached museum at 7 AM whereas Diane reached at 12:30 PM.",
+        "hypothesis": "Leslie reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa reached hotel at 2:30 PM whereas Joseph reached at 4 PM.",
+        "hypothesis": "Melissa reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached theatre at 1:30 PM whereas Wendy reached at 6 PM.",
+        "hypothesis": "Jennifer reached after Wendy.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne reached school at 6:30 AM whereas Elaine reached at 10:30 AM.",
+        "hypothesis": "Suzanne reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached hotel at 12 noon whereas Frances reached at 1 PM.",
+        "hypothesis": "Carolyn reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached office at 7 AM whereas Eleanor reached at 7:30 AM.",
+        "hypothesis": "Jonathan reached after Eleanor.",
+        "label": 2
+    },
+    {
+        "premise": "Colin reached park at 2 PM whereas Sara reached at 3 PM.",
+        "hypothesis": "Colin reached after Sara.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached theatre at 8 AM whereas Don reached at 4:30 PM.",
+        "hypothesis": "Michael reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached theatre at 11:30 AM whereas Keith reached at 5 PM.",
+        "hypothesis": "Nicole reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Emma reached office at 7 AM whereas Claire reached at 9:30 AM.",
+        "hypothesis": "Emma reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached hospital at 7:30 AM whereas Ann reached at 8:30 AM.",
+        "hypothesis": "Ken reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Emma reached school at 8:30 AM whereas Jill reached at 12:30 PM.",
+        "hypothesis": "Emma reached after Jill.",
+        "label": 2
+    },
+    {
+        "premise": "Nick reached office at 6 AM whereas Lawrence reached at 4 PM.",
+        "hypothesis": "Nick reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached museum at 1:30 PM whereas Nicole reached at 5 PM.",
+        "hypothesis": "Evelyn reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Charles reached hotel at 6 AM whereas Christine reached at 10 AM.",
+        "hypothesis": "Charles reached after Christine.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached museum at 6:30 AM whereas Evelyn reached at 7 AM.",
+        "hypothesis": "Kate reached after Evelyn.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached museum at 8:30 AM whereas Jay reached at 10:30 AM.",
+        "hypothesis": "Mike reached after Jay.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel reached office at 8:30 AM whereas Kathleen reached at 6 PM.",
+        "hypothesis": "Daniel reached after Kathleen.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew reached museum at 10 AM whereas Robin reached at 2 PM.",
+        "hypothesis": "Matthew reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea reached hospital at 6 AM whereas Frederick reached at 7:30 AM.",
+        "hypothesis": "Andrea reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached hotel at 10:30 AM whereas Jane reached at 4:30 PM.",
+        "hypothesis": "Louis reached after Jane.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth reached school at 7 AM whereas Jennifer reached at 8:30 AM.",
+        "hypothesis": "Kenneth reached after Jennifer.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached museum at 6 AM whereas Henry reached at 1 PM.",
+        "hypothesis": "Ron reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached office at 7:30 AM whereas Alice reached at 10 AM.",
+        "hypothesis": "Ron reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Dave reached hotel at 6:30 AM whereas Nick reached at 12:30 PM.",
+        "hypothesis": "Dave reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached museum at 6 AM whereas Ashley reached at 10 AM.",
+        "hypothesis": "Carolyn reached after Ashley.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached theatre at 11 AM whereas Anna reached at 12 noon.",
+        "hypothesis": "Evelyn reached after Anna.",
+        "label": 2
+    },
+    {
+        "premise": "Linda reached museum at 6 AM whereas Rachel reached at 7 AM.",
+        "hypothesis": "Linda reached after Rachel.",
+        "label": 2
+    },
+    {
+        "premise": "Laura reached hotel at 9 AM whereas Ralph reached at 11:30 AM.",
+        "hypothesis": "Laura reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached park at 7:30 AM whereas Caroline reached at 2 PM.",
+        "hypothesis": "Peter reached after Caroline.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached museum at 7 AM whereas Dan reached at 10 AM.",
+        "hypothesis": "Caroline reached after Dan.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached park at 4 PM whereas Sally reached at 5 PM.",
+        "hypothesis": "Alexandra reached after Sally.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached office at 8 AM whereas Karen reached at 1 PM.",
+        "hypothesis": "Martin reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached hospital at 7 AM whereas George reached at 10 AM.",
+        "hypothesis": "Alison reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor reached hospital at 6 AM whereas Sharon reached at 11 AM.",
+        "hypothesis": "Eleanor reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached school at 10 AM whereas Dan reached at 2:30 PM.",
+        "hypothesis": "Jay reached after Dan.",
+        "label": 2
+    },
+    {
+        "premise": "David reached hospital at 6:30 AM whereas Alfred reached at 8 AM.",
+        "hypothesis": "David reached after Alfred.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached museum at 6:30 AM whereas Katie reached at 8:30 AM.",
+        "hypothesis": "Dorothy reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached school at 7 AM whereas Emma reached at 6 PM.",
+        "hypothesis": "Anthony reached after Emma.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached theatre at 7 AM whereas Mike reached at 6 PM.",
+        "hypothesis": "Arthur reached after Mike.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached hospital at 6 AM whereas Francis reached at 6:30 AM.",
+        "hypothesis": "Peter reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached hospital at 9:30 AM whereas Frank reached at 1 PM.",
+        "hypothesis": "Bruce reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached theatre at 10 AM whereas Caroline reached at 2:30 PM.",
+        "hypothesis": "Brian reached after Caroline.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny reached hotel at 7:30 AM whereas Harry reached at 9:30 AM.",
+        "hypothesis": "Johnny reached after Harry.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached office at 10 AM whereas Charlie reached at 10:30 AM.",
+        "hypothesis": "Sue reached after Charlie.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached school at 10:30 AM whereas Francis reached at 5:30 PM.",
+        "hypothesis": "Florence reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "William reached hospital at 12 noon whereas Ben reached at 2 PM.",
+        "hypothesis": "William reached after Ben.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley reached hospital at 7 AM whereas Carol reached at 7:30 AM.",
+        "hypothesis": "Ashley reached after Carol.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached hospital at 7:30 AM whereas Martha reached at 8 AM.",
+        "hypothesis": "Jennifer reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Alan reached museum at 9:30 AM whereas Louis reached at 5 PM.",
+        "hypothesis": "Alan reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached school at 9 AM whereas Matthew reached at 11 AM.",
+        "hypothesis": "Martha reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela reached theatre at 8:30 AM whereas Lucy reached at 10 AM.",
+        "hypothesis": "Pamela reached after Lucy.",
+        "label": 2
+    },
+    {
+        "premise": "Steve reached school at 3 PM whereas Billy reached at 4:30 PM.",
+        "hypothesis": "Steve reached after Billy.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached museum at 6 AM whereas Sara reached at 8:30 AM.",
+        "hypothesis": "Rachel reached after Sara.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached school at 10:30 AM whereas Judy reached at 1:30 PM.",
+        "hypothesis": "Nancy reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached theatre at 6:30 AM whereas Ralph reached at 8 AM.",
+        "hypothesis": "Bob reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached school at 7 AM whereas Harry reached at 11:30 AM.",
+        "hypothesis": "Sue reached after Harry.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached hotel at 11:30 AM whereas Ed reached at 1 PM.",
+        "hypothesis": "Jimmy reached after Ed.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached museum at 8 AM whereas Deborah reached at 11 AM.",
+        "hypothesis": "Lauren reached after Deborah.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached theatre at 6:30 AM whereas Hugh reached at 9:30 AM.",
+        "hypothesis": "Diana reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia reached hospital at 12 noon whereas Thomas reached at 4:30 PM.",
+        "hypothesis": "Cynthia reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached office at 2 PM whereas Elizabeth reached at 5 PM.",
+        "hypothesis": "Thomas reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached museum at 6 AM whereas Diane reached at 10:30 AM.",
+        "hypothesis": "Peter reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "James reached museum at 10 AM whereas Fiona reached at 2 PM.",
+        "hypothesis": "James reached after Fiona.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached theatre at 6 AM whereas Angela reached at 6:30 AM.",
+        "hypothesis": "Christopher reached after Angela.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached museum at 11:30 AM whereas Florence reached at 12:30 PM.",
+        "hypothesis": "Jerry reached after Florence.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached park at 10:30 AM whereas Barbara reached at 5:30 PM.",
+        "hypothesis": "Henry reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached theatre at 11:30 AM whereas Rachel reached at 12:30 PM.",
+        "hypothesis": "Heather reached after Rachel.",
+        "label": 2
+    },
+    {
+        "premise": "Harold reached theatre at 6 AM whereas Nicole reached at 6:30 AM.",
+        "hypothesis": "Harold reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley reached hospital at 7 AM whereas Jean reached at 7:30 AM.",
+        "hypothesis": "Ashley reached after Jean.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached park at 8:30 AM whereas Jennifer reached at 10 AM.",
+        "hypothesis": "Christopher reached after Jennifer.",
+        "label": 2
+    },
+    {
+        "premise": "Walter reached theatre at 8 AM whereas Linda reached at 1 PM.",
+        "hypothesis": "Walter reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Greg reached museum at 2 PM whereas Jean reached at 3 PM.",
+        "hypothesis": "Greg reached after Jean.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached park at 3:30 PM whereas Nancy reached at 4:30 PM.",
+        "hypothesis": "Bob reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Billy reached hospital at 2 PM whereas Michelle reached at 2:30 PM.",
+        "hypothesis": "Billy reached after Michelle.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached museum at 7:30 AM whereas Ann reached at 10 AM.",
+        "hypothesis": "Alexander reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached museum at 4 PM whereas Nancy reached at 4:30 PM.",
+        "hypothesis": "Jean reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached hotel at 7 AM whereas Kate reached at 8 AM.",
+        "hypothesis": "Lawrence reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached school at 12 noon whereas Tony reached at 1 PM.",
+        "hypothesis": "Edward reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "William reached office at 7:30 AM whereas Donna reached at 2 PM.",
+        "hypothesis": "William reached after Donna.",
+        "label": 2
+    },
+    {
+        "premise": "Tom reached office at 6:30 AM whereas Nicole reached at 10:30 AM.",
+        "hypothesis": "Tom reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie reached school at 12:30 PM whereas Howard reached at 2 PM.",
+        "hypothesis": "Charlie reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Charles reached hotel at 7 AM whereas Donald reached at 10 AM.",
+        "hypothesis": "Charles reached after Donald.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached hospital at 6:30 AM whereas Tim reached at 4:30 PM.",
+        "hypothesis": "Ralph reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached office at 6 AM whereas Jill reached at 7 AM.",
+        "hypothesis": "Alexandra reached after Jill.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle reached museum at 1:30 PM whereas Anthony reached at 4 PM.",
+        "hypothesis": "Michelle reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached museum at 6 AM whereas Sam reached at 10:30 AM.",
+        "hypothesis": "Ben reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached office at 9:30 AM whereas Tom reached at 1:30 PM.",
+        "hypothesis": "Grace reached after Tom.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn reached museum at 6 AM whereas Thomas reached at 6:30 AM.",
+        "hypothesis": "Marilyn reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin reached park at 10:30 AM whereas Dan reached at 12 noon.",
+        "hypothesis": "Benjamin reached after Dan.",
+        "label": 2
+    },
+    {
+        "premise": "Walter reached theatre at 1:30 PM whereas Carl reached at 4:30 PM.",
+        "hypothesis": "Walter reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached office at 12 noon whereas Sam reached at 5 PM.",
+        "hypothesis": "Evelyn reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela reached park at 8:30 AM whereas Lynn reached at 9 AM.",
+        "hypothesis": "Pamela reached after Lynn.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached hotel at 8:30 AM whereas Charles reached at 11:30 AM.",
+        "hypothesis": "Stephanie reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan reached hotel at 8:30 AM whereas Christine reached at 10 AM.",
+        "hypothesis": "Ryan reached after Christine.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached hotel at 1:30 PM whereas Christopher reached at 5:30 PM.",
+        "hypothesis": "Carolyn reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached school at 6:30 AM whereas Peter reached at 12:30 PM.",
+        "hypothesis": "Sharon reached after Peter.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached office at 7 AM whereas Alice reached at 3:30 PM.",
+        "hypothesis": "Edwin reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached school at 6:30 AM whereas Ken reached at 1 PM.",
+        "hypothesis": "Marie reached after Ken.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached theatre at 4 PM whereas Alexander reached at 5:30 PM.",
+        "hypothesis": "Christine reached after Alexander.",
+        "label": 2
+    },
+    {
+        "premise": "Sam reached park at 8:30 AM whereas Emily reached at 9:30 AM.",
+        "hypothesis": "Sam reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Alan reached school at 6 AM whereas Tom reached at 6:30 AM.",
+        "hypothesis": "Alan reached after Tom.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached park at 6:30 AM whereas Ron reached at 10 AM.",
+        "hypothesis": "Francis reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Dave reached museum at 1:30 PM whereas Nicole reached at 5 PM.",
+        "hypothesis": "Dave reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached museum at 9 AM whereas Katherine reached at 11 AM.",
+        "hypothesis": "Julia reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Frederick reached museum at 7:30 AM whereas Alan reached at 6 PM.",
+        "hypothesis": "Frederick reached after Alan.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached office at 8 AM whereas Tim reached at 9:30 AM.",
+        "hypothesis": "Marie reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached museum at 6 AM whereas Steve reached at 4 PM.",
+        "hypothesis": "Alexander reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached school at 9 AM whereas Ralph reached at 10 AM.",
+        "hypothesis": "Thomas reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached school at 12 noon whereas Jonathan reached at 5 PM.",
+        "hypothesis": "Ralph reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached park at 12:30 PM whereas Jeff reached at 3 PM.",
+        "hypothesis": "Heather reached after Jeff.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached theatre at 7 AM whereas Alice reached at 7:30 AM.",
+        "hypothesis": "Leslie reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached office at 6:30 AM whereas Philip reached at 11:30 AM.",
+        "hypothesis": "Janet reached after Philip.",
+        "label": 2
+    },
+    {
+        "premise": "Gary reached park at 6:30 AM whereas Larry reached at 3:30 PM.",
+        "hypothesis": "Gary reached after Larry.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached museum at 6 AM whereas Rose reached at 7:30 AM.",
+        "hypothesis": "Stephanie reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Howard reached hospital at 6 AM whereas Marie reached at 7:30 AM.",
+        "hypothesis": "Howard reached after Marie.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor reached theatre at 8 AM whereas Colin reached at 1 PM.",
+        "hypothesis": "Eleanor reached after Colin.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie reached park at 4 PM whereas Ashley reached at 5 PM.",
+        "hypothesis": "Charlie reached after Ashley.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached hotel at 2:30 PM whereas Michael reached at 5 PM.",
+        "hypothesis": "Dorothy reached after Michael.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached theatre at 6 AM whereas Judy reached at 3:30 PM.",
+        "hypothesis": "Nicole reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Edith reached school at 7 AM whereas Ruth reached at 8 AM.",
+        "hypothesis": "Edith reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached park at 2 PM whereas Ian reached at 2:30 PM.",
+        "hypothesis": "Grace reached after Ian.",
+        "label": 2
+    },
+    {
+        "premise": "Steve reached hospital at 6:30 AM whereas Johnny reached at 1:30 PM.",
+        "hypothesis": "Steve reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached school at 7 AM whereas Albert reached at 12 noon.",
+        "hypothesis": "Al reached after Albert.",
+        "label": 2
+    },
+    {
+        "premise": "Annie reached hotel at 7 AM whereas Kelly reached at 8 AM.",
+        "hypothesis": "Annie reached after Kelly.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached park at 6 AM whereas Lauren reached at 9:30 AM.",
+        "hypothesis": "Alison reached after Lauren.",
+        "label": 2
+    },
+    {
+        "premise": "Colin reached theatre at 11 AM whereas Amanda reached at 2 PM.",
+        "hypothesis": "Colin reached after Amanda.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached hotel at 6 AM whereas Donna reached at 7 AM.",
+        "hypothesis": "Heather reached after Donna.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached office at 7 AM whereas Peter reached at 7:30 AM.",
+        "hypothesis": "Marie reached after Peter.",
+        "label": 2
+    },
+    {
+        "premise": "Judy reached office at 6 AM whereas Linda reached at 7 AM.",
+        "hypothesis": "Judy reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached hotel at 6 AM whereas Bill reached at 6:30 AM.",
+        "hypothesis": "Hugh reached after Bill.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached museum at 1 PM whereas Anne reached at 5:30 PM.",
+        "hypothesis": "Sara reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached theatre at 8:30 AM whereas Ken reached at 11:30 AM.",
+        "hypothesis": "Fiona reached after Ken.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached office at 9 AM whereas Jennifer reached at 11:30 AM.",
+        "hypothesis": "Julia reached after Jennifer.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached hotel at 7:30 AM whereas Ray reached at 2 PM.",
+        "hypothesis": "Michael reached after Ray.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached hospital at 3:30 PM whereas Lawrence reached at 4 PM.",
+        "hypothesis": "Ellen reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Keith reached museum at 12 noon whereas Julia reached at 1:30 PM.",
+        "hypothesis": "Keith reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached hotel at 6 AM whereas Kathleen reached at 7 AM.",
+        "hypothesis": "Sara reached after Kathleen.",
+        "label": 2
+    },
+    {
+        "premise": "Sally reached theatre at 9 AM whereas Lucy reached at 11:30 AM.",
+        "hypothesis": "Sally reached after Lucy.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached office at 10:30 AM whereas Dave reached at 11 AM.",
+        "hypothesis": "Elizabeth reached after Dave.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley reached hospital at 2 PM whereas Betty reached at 4 PM.",
+        "hypothesis": "Ashley reached after Betty.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached hospital at 12 noon whereas Keith reached at 2:30 PM.",
+        "hypothesis": "Jay reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached theatre at 6 AM whereas Edith reached at 7 AM.",
+        "hypothesis": "Caroline reached after Edith.",
+        "label": 2
+    },
+    {
+        "premise": "Anna reached school at 11:30 AM whereas Sophie reached at 4 PM.",
+        "hypothesis": "Anna reached after Sophie.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached hospital at 6:30 AM whereas Matt reached at 11:30 AM.",
+        "hypothesis": "Carl reached after Matt.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached office at 2:30 PM whereas Katherine reached at 5:30 PM.",
+        "hypothesis": "Anne reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan reached museum at 9 AM whereas Helen reached at 4:30 PM.",
+        "hypothesis": "Ryan reached after Helen.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached theatre at 7:30 AM whereas Patrick reached at 8 AM.",
+        "hypothesis": "Marie reached after Patrick.",
+        "label": 2
+    },
+    {
+        "premise": "Angela reached museum at 6:30 AM whereas Katherine reached at 5 PM.",
+        "hypothesis": "Angela reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached hospital at 3:30 PM whereas Victoria reached at 5 PM.",
+        "hypothesis": "Brian reached after Victoria.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached hospital at 8 AM whereas Ed reached at 3:30 PM.",
+        "hypothesis": "Betty reached after Ed.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached park at 11 AM whereas Francis reached at 1 PM.",
+        "hypothesis": "Sue reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Larry reached museum at 8 AM whereas William reached at 8:30 AM.",
+        "hypothesis": "Larry reached after William.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached museum at 11 AM whereas Leslie reached at 1:30 PM.",
+        "hypothesis": "Don reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached theatre at 1:30 PM whereas Billy reached at 2:30 PM.",
+        "hypothesis": "Julia reached after Billy.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached office at 10:30 AM whereas Wendy reached at 2 PM.",
+        "hypothesis": "Albert reached after Wendy.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached office at 9 AM whereas Maria reached at 11 AM.",
+        "hypothesis": "Caroline reached after Maria.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached hotel at 6 AM whereas Sandra reached at 8 AM.",
+        "hypothesis": "Rachel reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached hotel at 1:30 PM whereas Matthew reached at 5:30 PM.",
+        "hypothesis": "Peter reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Alan reached museum at 6:30 AM whereas Ann reached at 3 PM.",
+        "hypothesis": "Alan reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia reached hospital at 6 AM whereas Fred reached at 6:30 AM.",
+        "hypothesis": "Cynthia reached after Fred.",
+        "label": 2
+    },
+    {
+        "premise": "Robert reached office at 9:30 AM whereas Lawrence reached at 1:30 PM.",
+        "hypothesis": "Robert reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Joe reached museum at 6:30 AM whereas Michael reached at 7 AM.",
+        "hypothesis": "Joe reached after Michael.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached theatre at 6 AM whereas Eric reached at 10 AM.",
+        "hypothesis": "Ben reached after Eric.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached office at 11 AM whereas Albert reached at 3 PM.",
+        "hypothesis": "Nancy reached after Albert.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached hotel at 10 AM whereas Dave reached at 4:30 PM.",
+        "hypothesis": "Elizabeth reached after Dave.",
+        "label": 2
+    },
+    {
+        "premise": "Philip reached theatre at 6:30 AM whereas Amy reached at 12 noon.",
+        "hypothesis": "Philip reached after Amy.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie reached school at 6 AM whereas Ryan reached at 5:30 PM.",
+        "hypothesis": "Charlie reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached theatre at 1 PM whereas Bob reached at 4:30 PM.",
+        "hypothesis": "Margaret reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Kim reached theatre at 9 AM whereas Don reached at 11:30 AM.",
+        "hypothesis": "Kim reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Tony reached museum at 12 noon whereas Alexandra reached at 1 PM.",
+        "hypothesis": "Tony reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached hospital at 5 PM whereas Mark reached at 6 PM.",
+        "hypothesis": "Hugh reached after Mark.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached school at 8:30 AM whereas Edward reached at 5 PM.",
+        "hypothesis": "Kathleen reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached museum at 6 AM whereas Mark reached at 6:30 AM.",
+        "hypothesis": "Alexandra reached after Mark.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached office at 7:30 AM whereas Tom reached at 6 PM.",
+        "hypothesis": "Christine reached after Tom.",
+        "label": 2
+    },
+    {
+        "premise": "Linda reached hospital at 6 AM whereas Leslie reached at 6:30 AM.",
+        "hypothesis": "Linda reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached school at 7 AM whereas Al reached at 12 noon.",
+        "hypothesis": "Elaine reached after Al.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached theatre at 7 AM whereas Johnny reached at 4 PM.",
+        "hypothesis": "Elizabeth reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached museum at 9 AM whereas Claire reached at 4:30 PM.",
+        "hypothesis": "Hugh reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached museum at 8:30 AM whereas Nick reached at 2:30 PM.",
+        "hypothesis": "Jonathan reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached park at 8:30 AM whereas Henry reached at 4 PM.",
+        "hypothesis": "Ben reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached park at 6:30 AM whereas Andrea reached at 9 AM.",
+        "hypothesis": "Elaine reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy reached park at 12:30 PM whereas Daniel reached at 5:30 PM.",
+        "hypothesis": "Lucy reached after Daniel.",
+        "label": 2
+    },
+    {
+        "premise": "Dan reached school at 8:30 AM whereas Sally reached at 2:30 PM.",
+        "hypothesis": "Dan reached after Sally.",
+        "label": 2
+    },
+    {
+        "premise": "Diane reached hospital at 7:30 AM whereas Julie reached at 10 AM.",
+        "hypothesis": "Diane reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Julie reached school at 4 PM whereas Ron reached at 6 PM.",
+        "hypothesis": "Julie reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Tony reached park at 11 AM whereas Kim reached at 2 PM.",
+        "hypothesis": "Tony reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Larry reached theatre at 11:30 AM whereas Greg reached at 1 PM.",
+        "hypothesis": "Larry reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached school at 6 AM whereas Simon reached at 8 AM.",
+        "hypothesis": "Charlotte reached after Simon.",
+        "label": 2
+    },
+    {
+        "premise": "Eric reached school at 7:30 AM whereas Nancy reached at 9 AM.",
+        "hypothesis": "Eric reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached park at 7 AM whereas David reached at 1 PM.",
+        "hypothesis": "Martha reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Fred reached park at 6 AM whereas Elizabeth reached at 8 AM.",
+        "hypothesis": "Fred reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached school at 3:30 PM whereas Matthew reached at 5:30 PM.",
+        "hypothesis": "Sharon reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Robin reached hospital at 8:30 AM whereas Peter reached at 10:30 AM.",
+        "hypothesis": "Robin reached after Peter.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached hospital at 6 AM whereas Victoria reached at 10:30 AM.",
+        "hypothesis": "Carl reached after Victoria.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached office at 6:30 AM whereas Al reached at 5 PM.",
+        "hypothesis": "Nicole reached after Al.",
+        "label": 2
+    },
+    {
+        "premise": "Karen reached office at 10 AM whereas Stephen reached at 5 PM.",
+        "hypothesis": "Karen reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached park at 9:30 AM whereas Hugh reached at 1 PM.",
+        "hypothesis": "Deborah reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached hospital at 7 AM whereas Ben reached at 9:30 AM.",
+        "hypothesis": "Christine reached after Ben.",
+        "label": 2
+    },
+    {
+        "premise": "Greg reached hotel at 9 AM whereas Bruce reached at 9:30 AM.",
+        "hypothesis": "Greg reached after Bruce.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached park at 8:30 AM whereas Frank reached at 2:30 PM.",
+        "hypothesis": "Peter reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached theatre at 11 AM whereas Christopher reached at 12 noon.",
+        "hypothesis": "Bobby reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Louise reached museum at 6:30 AM whereas Charlotte reached at 7 AM.",
+        "hypothesis": "Louise reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "David reached museum at 6:30 AM whereas Carl reached at 10 AM.",
+        "hypothesis": "David reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached theatre at 7 AM whereas Carolyn reached at 11 AM.",
+        "hypothesis": "Barbara reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph reached park at 6:30 AM whereas Heather reached at 10 AM.",
+        "hypothesis": "Joseph reached after Heather.",
+        "label": 2
+    },
+    {
+        "premise": "Simon reached school at 6 AM whereas Margaret reached at 8 AM.",
+        "hypothesis": "Simon reached after Margaret.",
+        "label": 2
+    },
+    {
+        "premise": "Diane reached office at 9 AM whereas Julia reached at 6 PM.",
+        "hypothesis": "Diane reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached school at 10:30 AM whereas Frances reached at 12:30 PM.",
+        "hypothesis": "Arthur reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Angela reached theatre at 8 AM whereas Carolyn reached at 5:30 PM.",
+        "hypothesis": "Angela reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached museum at 7:30 AM whereas Martin reached at 12:30 PM.",
+        "hypothesis": "Heather reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached hospital at 9 AM whereas Nicole reached at 10:30 AM.",
+        "hypothesis": "Helen reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached theatre at 1:30 PM whereas Ann reached at 4:30 PM.",
+        "hypothesis": "Dick reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Frank reached park at 7:30 AM whereas Martha reached at 9 AM.",
+        "hypothesis": "Frank reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Steve reached museum at 6 AM whereas Mark reached at 10:30 AM.",
+        "hypothesis": "Steve reached after Mark.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew reached hotel at 7 AM whereas Diane reached at 6 PM.",
+        "hypothesis": "Matthew reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached school at 8:30 AM whereas Johnny reached at 4 PM.",
+        "hypothesis": "Janet reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached school at 10:30 AM whereas Kathleen reached at 11 AM.",
+        "hypothesis": "Martha reached after Kathleen.",
+        "label": 2
+    },
+    {
+        "premise": "Alice reached hotel at 11 AM whereas Henry reached at 1 PM.",
+        "hypothesis": "Alice reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached park at 7 AM whereas Charlotte reached at 6 PM.",
+        "hypothesis": "Betty reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached hospital at 6 AM whereas Julie reached at 6:30 AM.",
+        "hypothesis": "Evelyn reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached park at 5:30 PM whereas Joseph reached at 6 PM.",
+        "hypothesis": "Susan reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached school at 9 AM whereas Ryan reached at 3 PM.",
+        "hypothesis": "Ellen reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached theatre at 7 AM whereas Dorothy reached at 9:30 AM.",
+        "hypothesis": "Don reached after Dorothy.",
+        "label": 2
+    },
+    {
+        "premise": "Judy reached hospital at 10 AM whereas Walter reached at 1:30 PM.",
+        "hypothesis": "Judy reached after Walter.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle reached theatre at 6 AM whereas Ryan reached at 7 AM.",
+        "hypothesis": "Michelle reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached office at 7 AM whereas David reached at 7:30 AM.",
+        "hypothesis": "Dorothy reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "William reached park at 7:30 AM whereas Chris reached at 10 AM.",
+        "hypothesis": "William reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached school at 6:30 AM whereas Janet reached at 7 AM.",
+        "hypothesis": "Alexandra reached after Janet.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached hotel at 8:30 AM whereas Melissa reached at 11:30 AM.",
+        "hypothesis": "Deborah reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca reached hotel at 6 AM whereas Elizabeth reached at 8 AM.",
+        "hypothesis": "Rebecca reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached park at 7 AM whereas Maria reached at 8:30 AM.",
+        "hypothesis": "Lisa reached after Maria.",
+        "label": 2
+    },
+    {
+        "premise": "Rose reached museum at 8 AM whereas Charles reached at 9:30 AM.",
+        "hypothesis": "Rose reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached hospital at 7:30 AM whereas Amy reached at 9:30 AM.",
+        "hypothesis": "Elizabeth reached after Amy.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached hotel at 7 AM whereas Roger reached at 10:30 AM.",
+        "hypothesis": "Alison reached after Roger.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached hotel at 6:30 AM whereas Anthony reached at 7:30 AM.",
+        "hypothesis": "Janet reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached hotel at 7 AM whereas Cynthia reached at 9:30 AM.",
+        "hypothesis": "Edward reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached museum at 1 PM whereas Alison reached at 3:30 PM.",
+        "hypothesis": "Ron reached after Alison.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached office at 11:30 AM whereas Bill reached at 3:30 PM.",
+        "hypothesis": "Maria reached after Bill.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached office at 6:30 AM whereas Jerry reached at 12:30 PM.",
+        "hypothesis": "Dorothy reached after Jerry.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached park at 9:30 AM whereas Emily reached at 3:30 PM.",
+        "hypothesis": "Paul reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached theatre at 7 AM whereas Ann reached at 12 noon.",
+        "hypothesis": "Kathleen reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Jane reached office at 7:30 AM whereas Sophie reached at 8 AM.",
+        "hypothesis": "Jane reached after Sophie.",
+        "label": 2
+    },
+    {
+        "premise": "Keith reached school at 7:30 AM whereas Elizabeth reached at 8 AM.",
+        "hypothesis": "Keith reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Diane reached hospital at 10:30 AM whereas Andrea reached at 1 PM.",
+        "hypothesis": "Diane reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached theatre at 11:30 AM whereas Louise reached at 6 PM.",
+        "hypothesis": "Jonathan reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy reached museum at 9:30 AM whereas Lisa reached at 12:30 PM.",
+        "hypothesis": "Wendy reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached school at 6 AM whereas Jim reached at 3:30 PM.",
+        "hypothesis": "Maria reached after Jim.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached school at 9 AM whereas Scott reached at 5:30 PM.",
+        "hypothesis": "Elizabeth reached after Scott.",
+        "label": 2
+    },
+    {
+        "premise": "Jane reached park at 11 AM whereas Donald reached at 4 PM.",
+        "hypothesis": "Jane reached after Donald.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela reached school at 11 AM whereas Charlotte reached at 1 PM.",
+        "hypothesis": "Pamela reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached school at 1:30 PM whereas Ruth reached at 4:30 PM.",
+        "hypothesis": "Martin reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Anna reached park at 7:30 AM whereas Christopher reached at 10:30 AM.",
+        "hypothesis": "Anna reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached museum at 1 PM whereas Pamela reached at 3:30 PM.",
+        "hypothesis": "Margaret reached after Pamela.",
+        "label": 2
+    },
+    {
+        "premise": "Sam reached hospital at 7 AM whereas Cynthia reached at 8:30 AM.",
+        "hypothesis": "Sam reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Amy reached office at 9:30 AM whereas Francis reached at 10 AM.",
+        "hypothesis": "Amy reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached theatre at 8 AM whereas Martha reached at 11:30 AM.",
+        "hypothesis": "Paul reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached school at 10:30 AM whereas Jessica reached at 12 noon.",
+        "hypothesis": "Alexander reached after Jessica.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached office at 7:30 AM whereas John reached at 8 AM.",
+        "hypothesis": "Bobby reached after John.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached hotel at 8:30 AM whereas Joe reached at 12:30 PM.",
+        "hypothesis": "Anthony reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Fred reached hospital at 6 AM whereas Joseph reached at 7 AM.",
+        "hypothesis": "Fred reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached office at 6:30 AM whereas Ruth reached at 10 AM.",
+        "hypothesis": "Sue reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Philip reached hotel at 7:30 AM whereas Katie reached at 9:30 AM.",
+        "hypothesis": "Philip reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Chris reached hospital at 11 AM whereas Julia reached at 5:30 PM.",
+        "hypothesis": "Chris reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Jason reached museum at 6 AM whereas Harry reached at 6:30 AM.",
+        "hypothesis": "Jason reached after Harry.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy reached hospital at 11 AM whereas Harold reached at 5:30 PM.",
+        "hypothesis": "Wendy reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth reached museum at 6 AM whereas Claire reached at 11 AM.",
+        "hypothesis": "Kenneth reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached office at 7:30 AM whereas Henry reached at 2 PM.",
+        "hypothesis": "Louis reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached hospital at 10 AM whereas Diane reached at 2 PM.",
+        "hypothesis": "Michael reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached museum at 12:30 PM whereas Diana reached at 2 PM.",
+        "hypothesis": "Anne reached after Diana.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached museum at 12 noon whereas Frances reached at 3:30 PM.",
+        "hypothesis": "Jean reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Dave reached theatre at 1 PM whereas Katie reached at 5 PM.",
+        "hypothesis": "Dave reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached park at 6 AM whereas Edwin reached at 6:30 AM.",
+        "hypothesis": "Henry reached after Edwin.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached hotel at 12 noon whereas Frederick reached at 3 PM.",
+        "hypothesis": "Alexander reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached hospital at 9:30 AM whereas Victoria reached at 10 AM.",
+        "hypothesis": "Charlotte reached after Victoria.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached park at 9 AM whereas Kathy reached at 2:30 PM.",
+        "hypothesis": "Jimmy reached after Kathy.",
+        "label": 2
+    },
+    {
+        "premise": "Richard reached museum at 7:30 AM whereas George reached at 10:30 AM.",
+        "hypothesis": "Richard reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Karen reached office at 6 AM whereas Jessica reached at 6:30 AM.",
+        "hypothesis": "Karen reached after Jessica.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached office at 11 AM whereas Elizabeth reached at 5:30 PM.",
+        "hypothesis": "Edwin reached after Elizabeth.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached hospital at 6 AM whereas Suzanne reached at 11:30 AM.",
+        "hypothesis": "Martha reached after Suzanne.",
+        "label": 2
+    },
+    {
+        "premise": "Patrick reached hospital at 12 noon whereas Anna reached at 1 PM.",
+        "hypothesis": "Patrick reached after Anna.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached museum at 11 AM whereas Martin reached at 1:30 PM.",
+        "hypothesis": "Harriet reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached theatre at 9 AM whereas Suzanne reached at 1:30 PM.",
+        "hypothesis": "Bruce reached after Suzanne.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached hotel at 6:30 AM whereas Patricia reached at 8 AM.",
+        "hypothesis": "Ken reached after Patricia.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached school at 6:30 AM whereas Suzanne reached at 7:30 AM.",
+        "hypothesis": "Louis reached after Suzanne.",
+        "label": 2
+    },
+    {
+        "premise": "Nick reached office at 10 AM whereas Donald reached at 3:30 PM.",
+        "hypothesis": "Nick reached after Donald.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached museum at 10:30 AM whereas Dan reached at 6 PM.",
+        "hypothesis": "Nancy reached after Dan.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached school at 1 PM whereas Judy reached at 5:30 PM.",
+        "hypothesis": "Sarah reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Linda reached hotel at 11:30 AM whereas Eric reached at 5 PM.",
+        "hypothesis": "Linda reached after Eric.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached park at 1:30 PM whereas Anne reached at 6 PM.",
+        "hypothesis": "Leslie reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached school at 1:30 PM whereas Ruth reached at 2:30 PM.",
+        "hypothesis": "Jack reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached school at 6 AM whereas Frederick reached at 12:30 PM.",
+        "hypothesis": "Joan reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Alan reached hotel at 9:30 AM whereas Jerry reached at 4:30 PM.",
+        "hypothesis": "Alan reached after Jerry.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy reached hotel at 6 AM whereas Greg reached at 6:30 AM.",
+        "hypothesis": "Lucy reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Louise reached hotel at 12 noon whereas Judy reached at 12:30 PM.",
+        "hypothesis": "Louise reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor reached park at 8:30 AM whereas Robert reached at 1 PM.",
+        "hypothesis": "Eleanor reached after Robert.",
+        "label": 2
+    },
+    {
+        "premise": "Mark reached office at 11 AM whereas Anthony reached at 12:30 PM.",
+        "hypothesis": "Mark reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached hospital at 11 AM whereas Cynthia reached at 11:30 AM.",
+        "hypothesis": "Bobby reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached hospital at 8 AM whereas Alice reached at 2 PM.",
+        "hypothesis": "Elizabeth reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached theatre at 6 AM whereas Linda reached at 10 AM.",
+        "hypothesis": "Jonathan reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached school at 11 AM whereas Alexandra reached at 2 PM.",
+        "hypothesis": "Rachel reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached theatre at 7:30 AM whereas Wendy reached at 6 PM.",
+        "hypothesis": "Martin reached after Wendy.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached hotel at 3:30 PM whereas Melissa reached at 5:30 PM.",
+        "hypothesis": "Donna reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached school at 2:30 PM whereas Robin reached at 3 PM.",
+        "hypothesis": "Alison reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached park at 6 AM whereas James reached at 9 AM.",
+        "hypothesis": "Susan reached after James.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached hotel at 12:30 PM whereas David reached at 3 PM.",
+        "hypothesis": "Bobby reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached school at 7 AM whereas Kathleen reached at 5:30 PM.",
+        "hypothesis": "Donna reached after Kathleen.",
+        "label": 2
+    },
+    {
+        "premise": "Greg reached school at 6:30 AM whereas Ruth reached at 7 AM.",
+        "hypothesis": "Greg reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph reached museum at 6:30 AM whereas Ruth reached at 7 AM.",
+        "hypothesis": "Joseph reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached hospital at 11:30 AM whereas Albert reached at 6 PM.",
+        "hypothesis": "Bruce reached after Albert.",
+        "label": 2
+    },
+    {
+        "premise": "Carol reached museum at 12 noon whereas Stephanie reached at 12:30 PM.",
+        "hypothesis": "Carol reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Judith reached theatre at 1:30 PM whereas Arthur reached at 6 PM.",
+        "hypothesis": "Judith reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Scott reached office at 8:30 AM whereas Henry reached at 4 PM.",
+        "hypothesis": "Scott reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached theatre at 6:30 AM whereas Matthew reached at 4 PM.",
+        "hypothesis": "Grace reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached theatre at 7 AM whereas Don reached at 2 PM.",
+        "hypothesis": "Albert reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached park at 9:30 AM whereas Stephen reached at 3 PM.",
+        "hypothesis": "Carl reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "William reached theatre at 12:30 PM whereas Catherine reached at 6 PM.",
+        "hypothesis": "William reached after Catherine.",
+        "label": 2
+    },
+    {
+        "premise": "Frances reached park at 11:30 AM whereas Matt reached at 2:30 PM.",
+        "hypothesis": "Frances reached after Matt.",
+        "label": 2
+    },
+    {
+        "premise": "Claire reached museum at 6 AM whereas Greg reached at 6:30 AM.",
+        "hypothesis": "Claire reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor reached park at 1:30 PM whereas Philip reached at 3:30 PM.",
+        "hypothesis": "Eleanor reached after Philip.",
+        "label": 2
+    },
+    {
+        "premise": "Lynn reached office at 11:30 AM whereas Ralph reached at 3:30 PM.",
+        "hypothesis": "Lynn reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Robert reached theatre at 11:30 AM whereas Patrick reached at 4:30 PM.",
+        "hypothesis": "Robert reached after Patrick.",
+        "label": 2
+    },
+    {
+        "premise": "Louise reached hotel at 8:30 AM whereas Donald reached at 10 AM.",
+        "hypothesis": "Louise reached after Donald.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached hospital at 9:30 AM whereas Ashley reached at 10 AM.",
+        "hypothesis": "Roy reached after Ashley.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached hotel at 11 AM whereas Don reached at 6 PM.",
+        "hypothesis": "Bob reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel reached museum at 6:30 AM whereas Andrea reached at 2 PM.",
+        "hypothesis": "Daniel reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra reached museum at 9 AM whereas Martha reached at 1 PM.",
+        "hypothesis": "Sandra reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached theatre at 6:30 AM whereas John reached at 8 AM.",
+        "hypothesis": "Steven reached after John.",
+        "label": 2
+    },
+    {
+        "premise": "William reached museum at 6:30 AM whereas Helen reached at 6 PM.",
+        "hypothesis": "William reached after Helen.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached school at 6:30 AM whereas Jerry reached at 1 PM.",
+        "hypothesis": "Fiona reached after Jerry.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached school at 6 AM whereas Ryan reached at 6:30 AM.",
+        "hypothesis": "Donna reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Judith reached hotel at 9:30 AM whereas Susan reached at 1 PM.",
+        "hypothesis": "Judith reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached office at 11 AM whereas Alex reached at 4:30 PM.",
+        "hypothesis": "Andrew reached after Alex.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached museum at 5 PM whereas Eleanor reached at 5:30 PM.",
+        "hypothesis": "Francis reached after Eleanor.",
+        "label": 2
+    },
+    {
+        "premise": "Greg reached park at 10:30 AM whereas Joan reached at 1:30 PM.",
+        "hypothesis": "Greg reached after Joan.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached hospital at 8 AM whereas Melissa reached at 9:30 AM.",
+        "hypothesis": "Andrew reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Eric reached hospital at 12:30 PM whereas Melissa reached at 3:30 PM.",
+        "hypothesis": "Eric reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Ray reached office at 9 AM whereas Lucy reached at 11 AM.",
+        "hypothesis": "Ray reached after Lucy.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached school at 6 AM whereas Sue reached at 7 AM.",
+        "hypothesis": "Al reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached theatre at 8 AM whereas Stephanie reached at 9 AM.",
+        "hypothesis": "Dick reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached office at 8:30 AM whereas Kim reached at 3 PM.",
+        "hypothesis": "Charlotte reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached school at 9:30 AM whereas Christopher reached at 10:30 AM.",
+        "hypothesis": "Martin reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Mary reached hotel at 1 PM whereas Ruth reached at 2:30 PM.",
+        "hypothesis": "Mary reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Tim reached hospital at 8 AM whereas Jessica reached at 8:30 AM.",
+        "hypothesis": "Tim reached after Jessica.",
+        "label": 2
+    },
+    {
+        "premise": "Colin reached park at 8 AM whereas Kim reached at 10:30 AM.",
+        "hypothesis": "Colin reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Billy reached school at 8:30 AM whereas Chris reached at 2:30 PM.",
+        "hypothesis": "Billy reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached museum at 9:30 AM whereas Caroline reached at 2 PM.",
+        "hypothesis": "Nicole reached after Caroline.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached school at 8 AM whereas John reached at 9:30 AM.",
+        "hypothesis": "Carolyn reached after John.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached office at 7:30 AM whereas Bill reached at 3:30 PM.",
+        "hypothesis": "Ellen reached after Bill.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached museum at 9:30 AM whereas Martin reached at 2 PM.",
+        "hypothesis": "Bob reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca reached office at 6 AM whereas Susan reached at 10 AM.",
+        "hypothesis": "Rebecca reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Adam reached hotel at 7:30 AM whereas Eleanor reached at 12:30 PM.",
+        "hypothesis": "Adam reached after Eleanor.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached park at 10:30 AM whereas Joseph reached at 3:30 PM.",
+        "hypothesis": "Ken reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel reached office at 6:30 AM whereas Charles reached at 7 AM.",
+        "hypothesis": "Daniel reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached theatre at 1:30 PM whereas Ruth reached at 5:30 PM.",
+        "hypothesis": "Ralph reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached theatre at 8 AM whereas Jeff reached at 1 PM.",
+        "hypothesis": "Sue reached after Jeff.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached museum at 12 noon whereas Diana reached at 1:30 PM.",
+        "hypothesis": "Brian reached after Diana.",
+        "label": 2
+    },
+    {
+        "premise": "William reached park at 1 PM whereas Mike reached at 1:30 PM.",
+        "hypothesis": "William reached after Mike.",
+        "label": 2
+    },
+    {
+        "premise": "Anna reached museum at 6 AM whereas Bob reached at 6:30 AM.",
+        "hypothesis": "Anna reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Mary reached hospital at 10 AM whereas Caroline reached at 11:30 AM.",
+        "hypothesis": "Mary reached after Caroline.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached hotel at 10 AM whereas Ed reached at 5 PM.",
+        "hypothesis": "Anne reached after Ed.",
+        "label": 2
+    },
+    {
+        "premise": "Robert reached office at 1:30 PM whereas Frank reached at 4 PM.",
+        "hypothesis": "Robert reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Annie reached hotel at 10 AM whereas Robert reached at 12 noon.",
+        "hypothesis": "Annie reached after Robert.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached theatre at 8:30 AM whereas Margaret reached at 4 PM.",
+        "hypothesis": "Dick reached after Margaret.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached hotel at 10:30 AM whereas Christopher reached at 11 AM.",
+        "hypothesis": "Jimmy reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Larry reached office at 8 AM whereas Sue reached at 12:30 PM.",
+        "hypothesis": "Larry reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph reached hotel at 3 PM whereas Jennifer reached at 4:30 PM.",
+        "hypothesis": "Joseph reached after Jennifer.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle reached museum at 10 AM whereas Angela reached at 1:30 PM.",
+        "hypothesis": "Michelle reached after Angela.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached theatre at 10 AM whereas Stephanie reached at 1 PM.",
+        "hypothesis": "Betty reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached hotel at 9 AM whereas Lisa reached at 9:30 AM.",
+        "hypothesis": "Sarah reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached hospital at 1:30 PM whereas Marilyn reached at 5 PM.",
+        "hypothesis": "Sharon reached after Marilyn.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached park at 6 AM whereas Leslie reached at 8:30 AM.",
+        "hypothesis": "Sharon reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Joe reached hotel at 7:30 AM whereas Judy reached at 9:30 AM.",
+        "hypothesis": "Joe reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached museum at 10:30 AM whereas Patricia reached at 12:30 PM.",
+        "hypothesis": "Paul reached after Patricia.",
+        "label": 2
+    },
+    {
+        "premise": "Frank reached school at 6:30 AM whereas Rose reached at 7 AM.",
+        "hypothesis": "Frank reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached park at 12:30 PM whereas Barbara reached at 1:30 PM.",
+        "hypothesis": "Peter reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy reached hotel at 6 AM whereas Amy reached at 6:30 AM.",
+        "hypothesis": "Kathy reached after Amy.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached hotel at 1 PM whereas Jim reached at 3 PM.",
+        "hypothesis": "Diana reached after Jim.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached office at 6 AM whereas Alexander reached at 7 AM.",
+        "hypothesis": "Stephanie reached after Alexander.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached hotel at 6 AM whereas Joseph reached at 8 AM.",
+        "hypothesis": "Ron reached after Joseph.",
+        "label": 2
+    },
+    {
+        "premise": "Walter reached office at 1 PM whereas Rebecca reached at 5 PM.",
+        "hypothesis": "Walter reached after Rebecca.",
+        "label": 2
+    },
+    {
+        "premise": "Anna reached hotel at 7 AM whereas Lisa reached at 11:30 AM.",
+        "hypothesis": "Anna reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached park at 6:30 AM whereas Karen reached at 1:30 PM.",
+        "hypothesis": "Edwin reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached park at 10:30 AM whereas Jonathan reached at 5 PM.",
+        "hypothesis": "Ken reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Eric reached theatre at 4 PM whereas Ruth reached at 6 PM.",
+        "hypothesis": "Eric reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached park at 8:30 AM whereas David reached at 2:30 PM.",
+        "hypothesis": "Sara reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached hotel at 1:30 PM whereas Frank reached at 4:30 PM.",
+        "hypothesis": "Edwin reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached museum at 3:30 PM whereas Chris reached at 4 PM.",
+        "hypothesis": "Hugh reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached hospital at 11:30 AM whereas Roger reached at 1 PM.",
+        "hypothesis": "Betty reached after Roger.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra reached hospital at 6 AM whereas Keith reached at 11 AM.",
+        "hypothesis": "Sandra reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached park at 12:30 PM whereas Ellen reached at 2 PM.",
+        "hypothesis": "Carl reached after Ellen.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached office at 8:30 AM whereas Catherine reached at 1:30 PM.",
+        "hypothesis": "Ralph reached after Catherine.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached school at 6 AM whereas David reached at 7 AM.",
+        "hypothesis": "Martin reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached park at 11 AM whereas Jennifer reached at 3 PM.",
+        "hypothesis": "Rachel reached after Jennifer.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached hospital at 8:30 AM whereas Scott reached at 5:30 PM.",
+        "hypothesis": "Lisa reached after Scott.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached museum at 3 PM whereas Ian reached at 3:30 PM.",
+        "hypothesis": "Andrew reached after Ian.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached hospital at 8 AM whereas Barbara reached at 10:30 AM.",
+        "hypothesis": "Jean reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff reached park at 6 AM whereas Donna reached at 12:30 PM.",
+        "hypothesis": "Jeff reached after Donna.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached hospital at 7:30 AM whereas Ian reached at 9 AM.",
+        "hypothesis": "Don reached after Ian.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached office at 6:30 AM whereas Lucy reached at 7 AM.",
+        "hypothesis": "Al reached after Lucy.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached school at 8:30 AM whereas Sandra reached at 2:30 PM.",
+        "hypothesis": "Barbara reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached hospital at 8:30 AM whereas Christopher reached at 4:30 PM.",
+        "hypothesis": "Ralph reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached school at 1:30 PM whereas Ray reached at 4:30 PM.",
+        "hypothesis": "Al reached after Ray.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached theatre at 8:30 AM whereas Larry reached at 9:30 AM.",
+        "hypothesis": "Rachel reached after Larry.",
+        "label": 2
+    },
+    {
+        "premise": "Frances reached hospital at 6 AM whereas Pamela reached at 8 AM.",
+        "hypothesis": "Frances reached after Pamela.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached theatre at 8:30 AM whereas Emma reached at 12:30 PM.",
+        "hypothesis": "Evelyn reached after Emma.",
+        "label": 2
+    },
+    {
+        "premise": "Simon reached office at 8:30 AM whereas Grace reached at 12 noon.",
+        "hypothesis": "Simon reached after Grace.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia reached hotel at 10:30 AM whereas Chris reached at 4 PM.",
+        "hypothesis": "Virginia reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached office at 2 PM whereas Greg reached at 2:30 PM.",
+        "hypothesis": "Francis reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "Donald reached hotel at 6:30 AM whereas Chris reached at 7 AM.",
+        "hypothesis": "Donald reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached theatre at 7 AM whereas Frances reached at 7:30 AM.",
+        "hypothesis": "Sue reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached office at 12:30 PM whereas Steve reached at 3 PM.",
+        "hypothesis": "Jill reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached park at 12:30 PM whereas Michael reached at 1 PM.",
+        "hypothesis": "Lawrence reached after Michael.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached theatre at 9:30 AM whereas George reached at 10 AM.",
+        "hypothesis": "Julia reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny reached hotel at 9:30 AM whereas Virginia reached at 10:30 AM.",
+        "hypothesis": "Johnny reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine reached office at 10:30 AM whereas Alexander reached at 6 PM.",
+        "hypothesis": "Katherine reached after Alexander.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached hospital at 6:30 AM whereas Samuel reached at 7 AM.",
+        "hypothesis": "Carl reached after Samuel.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached hospital at 2 PM whereas Charles reached at 3 PM.",
+        "hypothesis": "Mike reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Colin reached museum at 6 AM whereas Marie reached at 11:30 AM.",
+        "hypothesis": "Colin reached after Marie.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy reached hospital at 12 noon whereas Thomas reached at 5 PM.",
+        "hypothesis": "Wendy reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached school at 7:30 AM whereas Cynthia reached at 2:30 PM.",
+        "hypothesis": "Sarah reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Annie reached hospital at 10:30 AM whereas Rose reached at 5:30 PM.",
+        "hypothesis": "Annie reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached park at 11 AM whereas Jean reached at 2:30 PM.",
+        "hypothesis": "Jimmy reached after Jean.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached hotel at 1:30 PM whereas Karen reached at 2 PM.",
+        "hypothesis": "Thomas reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda reached hospital at 6 AM whereas Mike reached at 12 noon.",
+        "hypothesis": "Amanda reached after Mike.",
+        "label": 2
+    },
+    {
+        "premise": "John reached hotel at 10:30 AM whereas Patrick reached at 2:30 PM.",
+        "hypothesis": "John reached after Patrick.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached hospital at 10 AM whereas Sharon reached at 4 PM.",
+        "hypothesis": "Jean reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached hospital at 3:30 PM whereas Frances reached at 6 PM.",
+        "hypothesis": "Charlotte reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Annie reached hotel at 6:30 AM whereas Tom reached at 12 noon.",
+        "hypothesis": "Annie reached after Tom.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached museum at 6 AM whereas Cynthia reached at 3 PM.",
+        "hypothesis": "Jill reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached theatre at 9 AM whereas Susan reached at 2 PM.",
+        "hypothesis": "Anthony reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Robin reached museum at 11 AM whereas Ann reached at 12:30 PM.",
+        "hypothesis": "Robin reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Larry reached theatre at 10 AM whereas Patrick reached at 3:30 PM.",
+        "hypothesis": "Larry reached after Patrick.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached office at 6:30 AM whereas Pamela reached at 7 AM.",
+        "hypothesis": "Evelyn reached after Pamela.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached office at 7:30 AM whereas Michael reached at 4:30 PM.",
+        "hypothesis": "Albert reached after Michael.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached hospital at 10 AM whereas Ann reached at 3 PM.",
+        "hypothesis": "Arthur reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Tim reached hospital at 11:30 AM whereas Brian reached at 3 PM.",
+        "hypothesis": "Tim reached after Brian.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached theatre at 11:30 AM whereas Bob reached at 12 noon.",
+        "hypothesis": "Julia reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached museum at 6 AM whereas Patrick reached at 7:30 AM.",
+        "hypothesis": "Edward reached after Patrick.",
+        "label": 2
+    },
+    {
+        "premise": "Matt reached hotel at 12 noon whereas Martin reached at 3:30 PM.",
+        "hypothesis": "Matt reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Laura reached office at 6:30 AM whereas Jack reached at 10 AM.",
+        "hypothesis": "Laura reached after Jack.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached park at 12 noon whereas Kathryn reached at 4:30 PM.",
+        "hypothesis": "Louis reached after Kathryn.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached school at 6 AM whereas Keith reached at 7:30 AM.",
+        "hypothesis": "Helen reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached office at 12 noon whereas Anne reached at 3:30 PM.",
+        "hypothesis": "Al reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached theatre at 11:30 AM whereas Jane reached at 1:30 PM.",
+        "hypothesis": "Ron reached after Jane.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached theatre at 7:30 AM whereas Janet reached at 12 noon.",
+        "hypothesis": "Sharon reached after Janet.",
+        "label": 2
+    },
+    {
+        "premise": "Jean reached office at 6 AM whereas Jerry reached at 7 AM.",
+        "hypothesis": "Jean reached after Jerry.",
+        "label": 2
+    },
+    {
+        "premise": "Claire reached office at 9 AM whereas Anne reached at 12 noon.",
+        "hypothesis": "Claire reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached office at 11 AM whereas Tim reached at 2 PM.",
+        "hypothesis": "Elizabeth reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached hotel at 2 PM whereas Francis reached at 4:30 PM.",
+        "hypothesis": "Susan reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached park at 6 AM whereas Ashley reached at 2:30 PM.",
+        "hypothesis": "Harry reached after Ashley.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy reached hotel at 10 AM whereas Deborah reached at 3:30 PM.",
+        "hypothesis": "Kathy reached after Deborah.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached school at 7:30 AM whereas Steven reached at 1 PM.",
+        "hypothesis": "Ben reached after Steven.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached theatre at 8:30 AM whereas Ruth reached at 4 PM.",
+        "hypothesis": "Margaret reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy reached hotel at 6 AM whereas Edith reached at 1 PM.",
+        "hypothesis": "Lucy reached after Edith.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached hotel at 6 AM whereas Daniel reached at 11 AM.",
+        "hypothesis": "Dick reached after Daniel.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia reached hotel at 11:30 AM whereas Thomas reached at 12:30 PM.",
+        "hypothesis": "Patricia reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn reached park at 6 AM whereas Thomas reached at 7:30 AM.",
+        "hypothesis": "Kathryn reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "George reached school at 1 PM whereas Sandra reached at 3:30 PM.",
+        "hypothesis": "George reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached museum at 7:30 AM whereas Alexandra reached at 3 PM.",
+        "hypothesis": "Harry reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached office at 6 AM whereas Angela reached at 7 AM.",
+        "hypothesis": "Paul reached after Angela.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached museum at 8 AM whereas Bob reached at 9:30 AM.",
+        "hypothesis": "Betty reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached office at 6 AM whereas Jack reached at 4 PM.",
+        "hypothesis": "Alexander reached after Jack.",
+        "label": 2
+    },
+    {
+        "premise": "Katie reached hospital at 3:30 PM whereas Barbara reached at 5 PM.",
+        "hypothesis": "Katie reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Jason reached hospital at 7 AM whereas Paul reached at 9:30 AM.",
+        "hypothesis": "Jason reached after Paul.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached office at 8:30 AM whereas Thomas reached at 10 AM.",
+        "hypothesis": "Heather reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Colin reached hotel at 8 AM whereas Alex reached at 8:30 AM.",
+        "hypothesis": "Colin reached after Alex.",
+        "label": 2
+    },
+    {
+        "premise": "Claire reached hospital at 8 AM whereas Joan reached at 2 PM.",
+        "hypothesis": "Claire reached after Joan.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached museum at 9:30 AM whereas Diane reached at 12:30 PM.",
+        "hypothesis": "Leslie reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie reached theatre at 10:30 AM whereas Margaret reached at 12:30 PM.",
+        "hypothesis": "Sophie reached after Margaret.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached museum at 7 AM whereas Harold reached at 8:30 AM.",
+        "hypothesis": "Christine reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached park at 6:30 AM whereas Betty reached at 12:30 PM.",
+        "hypothesis": "Anthony reached after Betty.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached hotel at 7 AM whereas Al reached at 7:30 AM.",
+        "hypothesis": "Fiona reached after Al.",
+        "label": 2
+    },
+    {
+        "premise": "Nancy reached theatre at 6 AM whereas David reached at 5 PM.",
+        "hypothesis": "Nancy reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached park at 12:30 PM whereas Don reached at 4:30 PM.",
+        "hypothesis": "Hugh reached after Don.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached theatre at 7 AM whereas Grace reached at 10 AM.",
+        "hypothesis": "Albert reached after Grace.",
+        "label": 2
+    },
+    {
+        "premise": "Linda reached hotel at 8:30 AM whereas Cynthia reached at 3:30 PM.",
+        "hypothesis": "Linda reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached school at 6 AM whereas Julie reached at 11:30 AM.",
+        "hypothesis": "Helen reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Paul reached school at 9 AM whereas Angela reached at 12:30 PM.",
+        "hypothesis": "Paul reached after Angela.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached school at 6 AM whereas Nick reached at 10:30 AM.",
+        "hypothesis": "Ellen reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia reached hotel at 8:30 AM whereas Carl reached at 9:30 AM.",
+        "hypothesis": "Patricia reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Sara reached museum at 9 AM whereas Francis reached at 4:30 PM.",
+        "hypothesis": "Sara reached after Francis.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached school at 7 AM whereas Steven reached at 7:30 AM.",
+        "hypothesis": "Joan reached after Steven.",
+        "label": 2
+    },
+    {
+        "premise": "Gary reached theatre at 1 PM whereas Robin reached at 2:30 PM.",
+        "hypothesis": "Gary reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached theatre at 9 AM whereas Tony reached at 12:30 PM.",
+        "hypothesis": "Ron reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa reached museum at 6:30 AM whereas Barbara reached at 9:30 AM.",
+        "hypothesis": "Melissa reached after Barbara.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached hospital at 2:30 PM whereas Peter reached at 4 PM.",
+        "hypothesis": "Christopher reached after Peter.",
+        "label": 2
+    },
+    {
+        "premise": "Dan reached school at 6 AM whereas Susan reached at 7:30 AM.",
+        "hypothesis": "Dan reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Emily reached hospital at 11:30 AM whereas Bob reached at 4:30 PM.",
+        "hypothesis": "Emily reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached school at 10:30 AM whereas Larry reached at 6 PM.",
+        "hypothesis": "Leslie reached after Larry.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached hotel at 9:30 AM whereas Ken reached at 10 AM.",
+        "hypothesis": "Rachel reached after Ken.",
+        "label": 2
+    },
+    {
+        "premise": "Henry reached hotel at 6:30 AM whereas Steve reached at 9:30 AM.",
+        "hypothesis": "Henry reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached hospital at 6:30 AM whereas Ed reached at 11 AM.",
+        "hypothesis": "Dick reached after Ed.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached hospital at 6 AM whereas Jay reached at 6:30 AM.",
+        "hypothesis": "Bruce reached after Jay.",
+        "label": 2
+    },
+    {
+        "premise": "Charles reached hospital at 6 AM whereas Frederick reached at 6:30 AM.",
+        "hypothesis": "Charles reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Al reached park at 8:30 AM whereas Thomas reached at 10 AM.",
+        "hypothesis": "Al reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached office at 1 PM whereas Victoria reached at 2 PM.",
+        "hypothesis": "Sarah reached after Victoria.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred reached hotel at 6:30 AM whereas Henry reached at 7:30 AM.",
+        "hypothesis": "Alfred reached after Henry.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached theatre at 7:30 AM whereas Frances reached at 9 AM.",
+        "hypothesis": "Sue reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Matt reached museum at 1:30 PM whereas Lynn reached at 3 PM.",
+        "hypothesis": "Matt reached after Lynn.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached museum at 8:30 AM whereas Jean reached at 11 AM.",
+        "hypothesis": "Harry reached after Jean.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached hospital at 8 AM whereas Harold reached at 1:30 PM.",
+        "hypothesis": "Grace reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached park at 6 AM whereas Stephanie reached at 6:30 AM.",
+        "hypothesis": "Carolyn reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached hospital at 6:30 AM whereas Jonathan reached at 2 PM.",
+        "hypothesis": "Deborah reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Dorothy reached office at 6:30 AM whereas Louise reached at 7 AM.",
+        "hypothesis": "Dorothy reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Richard reached school at 1:30 PM whereas Roger reached at 2 PM.",
+        "hypothesis": "Richard reached after Roger.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached park at 6 AM whereas Elaine reached at 6:30 AM.",
+        "hypothesis": "Carolyn reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Philip reached school at 10:30 AM whereas Martha reached at 5 PM.",
+        "hypothesis": "Philip reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached museum at 7:30 AM whereas Billy reached at 8 AM.",
+        "hypothesis": "Marie reached after Billy.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached hotel at 6 AM whereas Andrea reached at 7:30 AM.",
+        "hypothesis": "Kate reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached park at 7 AM whereas Simon reached at 4 PM.",
+        "hypothesis": "Lawrence reached after Simon.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached hotel at 9:30 AM whereas Joe reached at 11 AM.",
+        "hypothesis": "Lauren reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Karen reached office at 6:30 AM whereas Louise reached at 8 AM.",
+        "hypothesis": "Karen reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached museum at 8:30 AM whereas Sue reached at 1:30 PM.",
+        "hypothesis": "Carolyn reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Eleanor reached park at 11:30 AM whereas Joe reached at 5:30 PM.",
+        "hypothesis": "Eleanor reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached hotel at 8 AM whereas Alexandra reached at 8:30 AM.",
+        "hypothesis": "Florence reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached park at 9 AM whereas Nancy reached at 12:30 PM.",
+        "hypothesis": "Jerry reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached museum at 7:30 AM whereas Sue reached at 9 AM.",
+        "hypothesis": "Arthur reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached hospital at 10:30 AM whereas Howard reached at 2 PM.",
+        "hypothesis": "Harriet reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached theatre at 7 AM whereas Edward reached at 8:30 AM.",
+        "hypothesis": "Charlotte reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Jim reached theatre at 8:30 AM whereas Ralph reached at 1 PM.",
+        "hypothesis": "Jim reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached office at 6:30 AM whereas Karen reached at 11 AM.",
+        "hypothesis": "Edward reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached hospital at 4 PM whereas Harold reached at 5:30 PM.",
+        "hypothesis": "Deborah reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin reached office at 9:30 AM whereas Hugh reached at 5:30 PM.",
+        "hypothesis": "Benjamin reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth reached park at 6 AM whereas Rose reached at 6:30 AM.",
+        "hypothesis": "Kenneth reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached park at 6 AM whereas Bob reached at 8 AM.",
+        "hypothesis": "Anthony reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Stephen reached school at 6 AM whereas Amanda reached at 7:30 AM.",
+        "hypothesis": "Stephen reached after Amanda.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny reached office at 7 AM whereas Cynthia reached at 12:30 PM.",
+        "hypothesis": "Johnny reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached hospital at 8 AM whereas Sue reached at 10 AM.",
+        "hypothesis": "Anthony reached after Sue.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached hotel at 6 AM whereas Alan reached at 12:30 PM.",
+        "hypothesis": "Ellen reached after Alan.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached theatre at 7:30 AM whereas Ryan reached at 12 noon.",
+        "hypothesis": "Edward reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached museum at 7:30 AM whereas Virginia reached at 1:30 PM.",
+        "hypothesis": "Nicole reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached office at 6 AM whereas Nick reached at 6:30 AM.",
+        "hypothesis": "Lisa reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached hotel at 7:30 AM whereas Kenneth reached at 2:30 PM.",
+        "hypothesis": "Carolyn reached after Kenneth.",
+        "label": 2
+    },
+    {
+        "premise": "John reached hotel at 6 AM whereas Dorothy reached at 1 PM.",
+        "hypothesis": "John reached after Dorothy.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached hospital at 6:30 AM whereas Tony reached at 7 AM.",
+        "hypothesis": "Peter reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached hotel at 8:30 AM whereas Sharon reached at 9:30 AM.",
+        "hypothesis": "Janet reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth reached park at 6 AM whereas Nicole reached at 7 AM.",
+        "hypothesis": "Kenneth reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached hotel at 6 AM whereas Jessica reached at 8:30 AM.",
+        "hypothesis": "Caroline reached after Jessica.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached hospital at 7:30 AM whereas Jeff reached at 12 noon.",
+        "hypothesis": "Carolyn reached after Jeff.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached museum at 6 AM whereas Katherine reached at 10:30 AM.",
+        "hypothesis": "Ken reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Hugh reached office at 6 AM whereas Emma reached at 6:30 AM.",
+        "hypothesis": "Hugh reached after Emma.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda reached park at 1 PM whereas Kevin reached at 2 PM.",
+        "hypothesis": "Amanda reached after Kevin.",
+        "label": 2
+    },
+    {
+        "premise": "Kim reached hospital at 10:30 AM whereas James reached at 1 PM.",
+        "hypothesis": "Kim reached after James.",
+        "label": 2
+    },
+    {
+        "premise": "Ray reached hospital at 1:30 PM whereas Charlie reached at 5 PM.",
+        "hypothesis": "Ray reached after Charlie.",
+        "label": 2
+    },
+    {
+        "premise": "Cynthia reached office at 6 AM whereas Simon reached at 6:30 AM.",
+        "hypothesis": "Cynthia reached after Simon.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn reached hospital at 3:30 PM whereas Kathy reached at 4:30 PM.",
+        "hypothesis": "Marilyn reached after Kathy.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea reached hospital at 6:30 AM whereas Martha reached at 9 AM.",
+        "hypothesis": "Andrea reached after Martha.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached school at 7 AM whereas Hugh reached at 6 PM.",
+        "hypothesis": "Martha reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached hospital at 7 AM whereas Eleanor reached at 4 PM.",
+        "hypothesis": "Susan reached after Eleanor.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached hospital at 1:30 PM whereas Edwin reached at 5:30 PM.",
+        "hypothesis": "Roy reached after Edwin.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached theatre at 9 AM whereas Bobby reached at 1 PM.",
+        "hypothesis": "Kate reached after Bobby.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached park at 8:30 AM whereas Hugh reached at 10:30 AM.",
+        "hypothesis": "Evelyn reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached hotel at 6:30 AM whereas Kathryn reached at 12 noon.",
+        "hypothesis": "Ellen reached after Kathryn.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached school at 9 AM whereas Kate reached at 9:30 AM.",
+        "hypothesis": "Heather reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached school at 1 PM whereas Carolyn reached at 6 PM.",
+        "hypothesis": "Jonathan reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Rose reached school at 9 AM whereas Scott reached at 2 PM.",
+        "hypothesis": "Rose reached after Scott.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine reached hotel at 6 AM whereas Janet reached at 12 noon.",
+        "hypothesis": "Katherine reached after Janet.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached hospital at 6 AM whereas Ken reached at 7 AM.",
+        "hypothesis": "Kathleen reached after Ken.",
+        "label": 2
+    },
+    {
+        "premise": "Pamela reached park at 8:30 AM whereas Melissa reached at 12:30 PM.",
+        "hypothesis": "Pamela reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached hotel at 9 AM whereas Richard reached at 5:30 PM.",
+        "hypothesis": "Steven reached after Richard.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached theatre at 7 AM whereas Steve reached at 2 PM.",
+        "hypothesis": "Andrew reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Lucy reached office at 8 AM whereas Wendy reached at 10 AM.",
+        "hypothesis": "Lucy reached after Wendy.",
+        "label": 2
+    },
+    {
+        "premise": "Amy reached school at 7 AM whereas Harry reached at 7:30 AM.",
+        "hypothesis": "Amy reached after Harry.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached theatre at 8:30 AM whereas Thomas reached at 1 PM.",
+        "hypothesis": "Susan reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached theatre at 7:30 AM whereas Ken reached at 8 AM.",
+        "hypothesis": "Ron reached after Ken.",
+        "label": 2
+    },
+    {
+        "premise": "Elizabeth reached office at 1 PM whereas Marie reached at 3:30 PM.",
+        "hypothesis": "Elizabeth reached after Marie.",
+        "label": 2
+    },
+    {
+        "premise": "Ann reached office at 8:30 AM whereas Ron reached at 2 PM.",
+        "hypothesis": "Ann reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached hotel at 7 AM whereas Sam reached at 8:30 AM.",
+        "hypothesis": "Arthur reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Alison reached hospital at 6 AM whereas Amy reached at 6:30 AM.",
+        "hypothesis": "Alison reached after Amy.",
+        "label": 2
+    },
+    {
+        "premise": "Carl reached museum at 6:30 AM whereas Lisa reached at 2:30 PM.",
+        "hypothesis": "Carl reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Simon reached theatre at 11:30 AM whereas Amy reached at 1:30 PM.",
+        "hypothesis": "Simon reached after Amy.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached park at 10:30 AM whereas Linda reached at 1:30 PM.",
+        "hypothesis": "Evelyn reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew reached school at 6:30 AM whereas Nancy reached at 7:30 AM.",
+        "hypothesis": "Matthew reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached museum at 6 AM whereas William reached at 6:30 AM.",
+        "hypothesis": "Diana reached after William.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached museum at 7:30 AM whereas Kathryn reached at 2:30 PM.",
+        "hypothesis": "Donna reached after Kathryn.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel reached hotel at 8 AM whereas Anthony reached at 10:30 AM.",
+        "hypothesis": "Samuel reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Rose reached museum at 7 AM whereas Dorothy reached at 9 AM.",
+        "hypothesis": "Rose reached after Dorothy.",
+        "label": 2
+    },
+    {
+        "premise": "Ellen reached theatre at 7 AM whereas Stephanie reached at 11 AM.",
+        "hypothesis": "Ellen reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Nick reached museum at 12:30 PM whereas Arthur reached at 1:30 PM.",
+        "hypothesis": "Nick reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Margaret reached school at 7 AM whereas Bobby reached at 11:30 AM.",
+        "hypothesis": "Margaret reached after Bobby.",
+        "label": 2
+    },
+    {
+        "premise": "Fred reached school at 10 AM whereas Anne reached at 2:30 PM.",
+        "hypothesis": "Fred reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Janet reached hospital at 6 AM whereas Tim reached at 7:30 AM.",
+        "hypothesis": "Janet reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached museum at 8:30 AM whereas Matt reached at 10:30 AM.",
+        "hypothesis": "Harry reached after Matt.",
+        "label": 2
+    },
+    {
+        "premise": "Donna reached theatre at 11 AM whereas Charlotte reached at 11:30 AM.",
+        "hypothesis": "Donna reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "Diane reached school at 9 AM whereas Eric reached at 2:30 PM.",
+        "hypothesis": "Diane reached after Eric.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached museum at 8:30 AM whereas Anthony reached at 12 noon.",
+        "hypothesis": "Kathleen reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached park at 6 AM whereas Louis reached at 9:30 AM.",
+        "hypothesis": "Jennifer reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached school at 11:30 AM whereas Colin reached at 4:30 PM.",
+        "hypothesis": "Bobby reached after Colin.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached theatre at 9 AM whereas Benjamin reached at 1 PM.",
+        "hypothesis": "Joan reached after Benjamin.",
+        "label": 2
+    },
+    {
+        "premise": "Kelly reached office at 7 AM whereas Paul reached at 10 AM.",
+        "hypothesis": "Kelly reached after Paul.",
+        "label": 2
+    },
+    {
+        "premise": "John reached museum at 6 AM whereas Benjamin reached at 6:30 AM.",
+        "hypothesis": "John reached after Benjamin.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached theatre at 8:30 AM whereas Martin reached at 12:30 PM.",
+        "hypothesis": "Anthony reached after Martin.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached museum at 6:30 AM whereas Kenneth reached at 8:30 AM.",
+        "hypothesis": "Kate reached after Kenneth.",
+        "label": 2
+    },
+    {
+        "premise": "Scott reached hospital at 6 AM whereas Frank reached at 6:30 AM.",
+        "hypothesis": "Scott reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Suzanne reached theatre at 4 PM whereas Johnny reached at 4:30 PM.",
+        "hypothesis": "Suzanne reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Matt reached school at 6:30 AM whereas Florence reached at 11 AM.",
+        "hypothesis": "Matt reached after Florence.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached hospital at 6 AM whereas Philip reached at 6:30 AM.",
+        "hypothesis": "Leslie reached after Philip.",
+        "label": 2
+    },
+    {
+        "premise": "Charlotte reached hotel at 6:30 AM whereas Dorothy reached at 9 AM.",
+        "hypothesis": "Charlotte reached after Dorothy.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached hotel at 12:30 PM whereas Ben reached at 3 PM.",
+        "hypothesis": "Jimmy reached after Ben.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached office at 6 AM whereas Jonathan reached at 7:30 AM.",
+        "hypothesis": "Louis reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached school at 8 AM whereas Stephen reached at 3 PM.",
+        "hypothesis": "Don reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "Sally reached hospital at 11:30 AM whereas Stephen reached at 6 PM.",
+        "hypothesis": "Sally reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "Melissa reached museum at 10 AM whereas Ralph reached at 10:30 AM.",
+        "hypothesis": "Melissa reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Kathryn reached park at 6:30 AM whereas Alexandra reached at 2 PM.",
+        "hypothesis": "Kathryn reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Edith reached office at 7 AM whereas Nicole reached at 1:30 PM.",
+        "hypothesis": "Edith reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Chris reached school at 7 AM whereas Marilyn reached at 7:30 AM.",
+        "hypothesis": "Chris reached after Marilyn.",
+        "label": 2
+    },
+    {
+        "premise": "Chris reached school at 8:30 AM whereas Howard reached at 2:30 PM.",
+        "hypothesis": "Chris reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Jim reached hotel at 9:30 AM whereas Annie reached at 10:30 AM.",
+        "hypothesis": "Jim reached after Annie.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached school at 6 AM whereas Hugh reached at 2:30 PM.",
+        "hypothesis": "Arthur reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Arthur reached school at 9 AM whereas Sophie reached at 5 PM.",
+        "hypothesis": "Arthur reached after Sophie.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached museum at 8:30 AM whereas Wendy reached at 5 PM.",
+        "hypothesis": "Ben reached after Wendy.",
+        "label": 2
+    },
+    {
+        "premise": "Dan reached museum at 9 AM whereas Susan reached at 2 PM.",
+        "hypothesis": "Dan reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Ian reached office at 6 AM whereas Kenneth reached at 1 PM.",
+        "hypothesis": "Ian reached after Kenneth.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached office at 10 AM whereas Mark reached at 2:30 PM.",
+        "hypothesis": "Caroline reached after Mark.",
+        "label": 2
+    },
+    {
+        "premise": "Alex reached hotel at 9 AM whereas Samuel reached at 10:30 AM.",
+        "hypothesis": "Alex reached after Samuel.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel reached hospital at 5 PM whereas Mike reached at 6 PM.",
+        "hypothesis": "Samuel reached after Mike.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached museum at 7 AM whereas Ellen reached at 7:30 AM.",
+        "hypothesis": "Edward reached after Ellen.",
+        "label": 2
+    },
+    {
+        "premise": "Steve reached theatre at 6:30 AM whereas Pamela reached at 8 AM.",
+        "hypothesis": "Steve reached after Pamela.",
+        "label": 2
+    },
+    {
+        "premise": "Nick reached theatre at 6 AM whereas Frances reached at 9:30 AM.",
+        "hypothesis": "Nick reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Rose reached school at 9 AM whereas Greg reached at 4 PM.",
+        "hypothesis": "Rose reached after Greg.",
+        "label": 2
+    },
+    {
+        "premise": "William reached office at 9 AM whereas Al reached at 9:30 AM.",
+        "hypothesis": "William reached after Al.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached hotel at 8 AM whereas Frederick reached at 11 AM.",
+        "hypothesis": "Barbara reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached office at 3:30 PM whereas Sharon reached at 4 PM.",
+        "hypothesis": "Bobby reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Howard reached park at 8 AM whereas Elaine reached at 2:30 PM.",
+        "hypothesis": "Howard reached after Elaine.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea reached theatre at 7:30 AM whereas Diane reached at 8:30 AM.",
+        "hypothesis": "Andrea reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached school at 7:30 AM whereas Joan reached at 6 PM.",
+        "hypothesis": "Harriet reached after Joan.",
+        "label": 2
+    },
+    {
+        "premise": "Alice reached hospital at 3 PM whereas Dorothy reached at 5 PM.",
+        "hypothesis": "Alice reached after Dorothy.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached park at 7:30 AM whereas Cynthia reached at 10 AM.",
+        "hypothesis": "Kathleen reached after Cynthia.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached park at 3:30 PM whereas Frank reached at 4 PM.",
+        "hypothesis": "Jack reached after Frank.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached museum at 11:30 AM whereas Anne reached at 5:30 PM.",
+        "hypothesis": "Michael reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached office at 8:30 AM whereas Alfred reached at 9 AM.",
+        "hypothesis": "Sarah reached after Alfred.",
+        "label": 2
+    },
+    {
+        "premise": "Diana reached office at 6 AM whereas Angela reached at 7 AM.",
+        "hypothesis": "Diana reached after Angela.",
+        "label": 2
+    },
+    {
+        "premise": "Evelyn reached hotel at 8 AM whereas James reached at 9 AM.",
+        "hypothesis": "Evelyn reached after James.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached theatre at 7 AM whereas Virginia reached at 8 AM.",
+        "hypothesis": "Elaine reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Catherine reached theatre at 6 AM whereas Howard reached at 7:30 AM.",
+        "hypothesis": "Catherine reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached park at 2 PM whereas Kevin reached at 3:30 PM.",
+        "hypothesis": "Jennifer reached after Kevin.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached hospital at 12 noon whereas Emma reached at 3 PM.",
+        "hypothesis": "Michael reached after Emma.",
+        "label": 2
+    },
+    {
+        "premise": "Dave reached school at 11 AM whereas Virginia reached at 5:30 PM.",
+        "hypothesis": "Dave reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Jane reached school at 6:30 AM whereas Louise reached at 2:30 PM.",
+        "hypothesis": "Jane reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached office at 6:30 AM whereas Ben reached at 11 AM.",
+        "hypothesis": "Louis reached after Ben.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached park at 6 AM whereas George reached at 8 AM.",
+        "hypothesis": "Jay reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached hotel at 6:30 AM whereas Jimmy reached at 7 AM.",
+        "hypothesis": "Jay reached after Jimmy.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached theatre at 9 AM whereas Christopher reached at 11:30 AM.",
+        "hypothesis": "Thomas reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached hospital at 6:30 AM whereas Rose reached at 3 PM.",
+        "hypothesis": "Mike reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached hospital at 9 AM whereas Ashley reached at 11 AM.",
+        "hypothesis": "Kathleen reached after Ashley.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached office at 6:30 AM whereas Rose reached at 7:30 AM.",
+        "hypothesis": "Jack reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Ray reached hospital at 7 AM whereas Louis reached at 8:30 AM.",
+        "hypothesis": "Ray reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Matt reached hotel at 10:30 AM whereas Jerry reached at 12:30 PM.",
+        "hypothesis": "Matt reached after Jerry.",
+        "label": 2
+    },
+    {
+        "premise": "Harold reached theatre at 11 AM whereas Jonathan reached at 12 noon.",
+        "hypothesis": "Harold reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Johnny reached theatre at 9:30 AM whereas Tony reached at 12:30 PM.",
+        "hypothesis": "Johnny reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia reached park at 9:30 AM whereas Mark reached at 2 PM.",
+        "hypothesis": "Patricia reached after Mark.",
+        "label": 2
+    },
+    {
+        "premise": "Christine reached school at 11:30 AM whereas Christopher reached at 1:30 PM.",
+        "hypothesis": "Christine reached after Christopher.",
+        "label": 2
+    },
+    {
+        "premise": "Gary reached hotel at 11 AM whereas Edward reached at 3:30 PM.",
+        "hypothesis": "Gary reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Virginia reached office at 6:30 AM whereas Bobby reached at 8:30 AM.",
+        "hypothesis": "Virginia reached after Bobby.",
+        "label": 2
+    },
+    {
+        "premise": "Jim reached school at 10:30 AM whereas Frederick reached at 5:30 PM.",
+        "hypothesis": "Jim reached after Frederick.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached theatre at 7:30 AM whereas Sam reached at 10 AM.",
+        "hypothesis": "Jill reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached hospital at 7:30 AM whereas Rose reached at 3:30 PM.",
+        "hypothesis": "Harry reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached office at 8 AM whereas Charles reached at 2 PM.",
+        "hypothesis": "Roy reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached museum at 3:30 PM whereas Katherine reached at 4 PM.",
+        "hypothesis": "Heather reached after Katherine.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached hospital at 8 AM whereas Tim reached at 2 PM.",
+        "hypothesis": "Heather reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Sally reached theatre at 7:30 AM whereas Louis reached at 11:30 AM.",
+        "hypothesis": "Sally reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached theatre at 8 AM whereas Albert reached at 9:30 AM.",
+        "hypothesis": "Lisa reached after Albert.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached hotel at 7:30 AM whereas Tim reached at 10 AM.",
+        "hypothesis": "Dick reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached museum at 1 PM whereas Alison reached at 1:30 PM.",
+        "hypothesis": "Lisa reached after Alison.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached hotel at 5 PM whereas Catherine reached at 5:30 PM.",
+        "hypothesis": "Lawrence reached after Catherine.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached hotel at 11:30 AM whereas Gary reached at 12 noon.",
+        "hypothesis": "Mike reached after Gary.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached theatre at 6 AM whereas Donald reached at 8:30 AM.",
+        "hypothesis": "Nicole reached after Donald.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached museum at 12:30 PM whereas Kate reached at 1 PM.",
+        "hypothesis": "Jonathan reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Samuel reached museum at 6 AM whereas Johnny reached at 8 AM.",
+        "hypothesis": "Samuel reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Barbara reached hotel at 12 noon whereas Hugh reached at 12:30 PM.",
+        "hypothesis": "Barbara reached after Hugh.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached park at 6 AM whereas Jason reached at 6:30 AM.",
+        "hypothesis": "Brian reached after Jason.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached hospital at 1 PM whereas Karen reached at 2 PM.",
+        "hypothesis": "Elaine reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Jessica reached school at 6 AM whereas Laura reached at 9 AM.",
+        "hypothesis": "Jessica reached after Laura.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached museum at 8 AM whereas Rose reached at 1 PM.",
+        "hypothesis": "Grace reached after Rose.",
+        "label": 2
+    },
+    {
+        "premise": "Martha reached theatre at 6 AM whereas Colin reached at 12:30 PM.",
+        "hypothesis": "Martha reached after Colin.",
+        "label": 2
+    },
+    {
+        "premise": "Nicole reached park at 6 AM whereas David reached at 7 AM.",
+        "hypothesis": "Nicole reached after David.",
+        "label": 2
+    },
+    {
+        "premise": "Katherine reached hotel at 12 noon whereas Andrew reached at 4 PM.",
+        "hypothesis": "Katherine reached after Andrew.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached office at 7 AM whereas Ann reached at 8 AM.",
+        "hypothesis": "Sharon reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Marilyn reached office at 6 AM whereas Andrea reached at 6:30 AM.",
+        "hypothesis": "Marilyn reached after Andrea.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached park at 6 AM whereas Grace reached at 6:30 AM.",
+        "hypothesis": "Anne reached after Grace.",
+        "label": 2
+    },
+    {
+        "premise": "Francis reached park at 6 AM whereas Ralph reached at 7 AM.",
+        "hypothesis": "Francis reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached school at 7 AM whereas William reached at 9 AM.",
+        "hypothesis": "Andrew reached after William.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached theatre at 7:30 AM whereas Joe reached at 9 AM.",
+        "hypothesis": "Martin reached after Joe.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached school at 7 AM whereas Robin reached at 10:30 AM.",
+        "hypothesis": "Steven reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Julia reached office at 3 PM whereas George reached at 3:30 PM.",
+        "hypothesis": "Julia reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached theatre at 8:30 AM whereas Kate reached at 3:30 PM.",
+        "hypothesis": "Albert reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Thomas reached hotel at 9 AM whereas Rachel reached at 5 PM.",
+        "hypothesis": "Thomas reached after Rachel.",
+        "label": 2
+    },
+    {
+        "premise": "William reached theatre at 12 noon whereas Brian reached at 1:30 PM.",
+        "hypothesis": "William reached after Brian.",
+        "label": 2
+    },
+    {
+        "premise": "Andrew reached hotel at 10:30 AM whereas Sally reached at 3:30 PM.",
+        "hypothesis": "Andrew reached after Sally.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached hotel at 7 AM whereas Carol reached at 1 PM.",
+        "hypothesis": "Sarah reached after Carol.",
+        "label": 2
+    },
+    {
+        "premise": "Mark reached theatre at 6 AM whereas Lawrence reached at 8:30 AM.",
+        "hypothesis": "Mark reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached theatre at 6 AM whereas Dick reached at 6:30 AM.",
+        "hypothesis": "Edwin reached after Dick.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached hospital at 1 PM whereas Robin reached at 3 PM.",
+        "hypothesis": "Louis reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached theatre at 9:30 AM whereas Julie reached at 10 AM.",
+        "hypothesis": "Helen reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Lisa reached park at 7 AM whereas Claire reached at 2:30 PM.",
+        "hypothesis": "Lisa reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Scott reached hospital at 7 AM whereas Richard reached at 7:30 AM.",
+        "hypothesis": "Scott reached after Richard.",
+        "label": 2
+    },
+    {
+        "premise": "Caroline reached park at 10 AM whereas Virginia reached at 2:30 PM.",
+        "hypothesis": "Caroline reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Julie reached theatre at 10 AM whereas Ron reached at 3:30 PM.",
+        "hypothesis": "Julie reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Karen reached office at 7 AM whereas Nick reached at 7:30 AM.",
+        "hypothesis": "Karen reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached school at 3:30 PM whereas Tim reached at 4:30 PM.",
+        "hypothesis": "Maria reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Sarah reached hospital at 9:30 AM whereas Stephanie reached at 2 PM.",
+        "hypothesis": "Sarah reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Frances reached hotel at 6:30 AM whereas Ed reached at 8:30 AM.",
+        "hypothesis": "Frances reached after Ed.",
+        "label": 2
+    },
+    {
+        "premise": "Alfred reached school at 9 AM whereas Jonathan reached at 5:30 PM.",
+        "hypothesis": "Alfred reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached museum at 7 AM whereas George reached at 8 AM.",
+        "hypothesis": "Bruce reached after George.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached office at 7 AM whereas Anne reached at 10:30 AM.",
+        "hypothesis": "Fiona reached after Anne.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached museum at 7 AM whereas Stephanie reached at 11:30 AM.",
+        "hypothesis": "Ralph reached after Stephanie.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached park at 6 AM whereas Nancy reached at 8 AM.",
+        "hypothesis": "Heather reached after Nancy.",
+        "label": 2
+    },
+    {
+        "premise": "Robert reached theatre at 7 AM whereas Katie reached at 8 AM.",
+        "hypothesis": "Robert reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Ian reached park at 9:30 AM whereas Tom reached at 1 PM.",
+        "hypothesis": "Ian reached after Tom.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie reached park at 3 PM whereas Tim reached at 5 PM.",
+        "hypothesis": "Charlie reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Carolyn reached park at 10 AM whereas Ralph reached at 3:30 PM.",
+        "hypothesis": "Carolyn reached after Ralph.",
+        "label": 2
+    },
+    {
+        "premise": "Jennifer reached park at 10 AM whereas Jonathan reached at 11:30 AM.",
+        "hypothesis": "Jennifer reached after Jonathan.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached hospital at 6 AM whereas Margaret reached at 9:30 AM.",
+        "hypothesis": "Albert reached after Margaret.",
+        "label": 2
+    },
+    {
+        "premise": "Steve reached hotel at 11 AM whereas Frances reached at 2:30 PM.",
+        "hypothesis": "Steve reached after Frances.",
+        "label": 2
+    },
+    {
+        "premise": "Billy reached hospital at 6:30 AM whereas Karen reached at 8 AM.",
+        "hypothesis": "Billy reached after Karen.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached hospital at 2 PM whereas Janet reached at 2:30 PM.",
+        "hypothesis": "Harry reached after Janet.",
+        "label": 2
+    },
+    {
+        "premise": "Rachel reached museum at 12:30 PM whereas Ryan reached at 4:30 PM.",
+        "hypothesis": "Rachel reached after Ryan.",
+        "label": 2
+    },
+    {
+        "premise": "Ian reached theatre at 7:30 AM whereas Chris reached at 1:30 PM.",
+        "hypothesis": "Ian reached after Chris.",
+        "label": 2
+    },
+    {
+        "premise": "Bill reached office at 11 AM whereas Louise reached at 3 PM.",
+        "hypothesis": "Bill reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Jill reached school at 6 AM whereas Samuel reached at 8 AM.",
+        "hypothesis": "Jill reached after Samuel.",
+        "label": 2
+    },
+    {
+        "premise": "Sandra reached hospital at 6:30 AM whereas Tony reached at 10 AM.",
+        "hypothesis": "Sandra reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Michael reached hotel at 3:30 PM whereas Alexander reached at 4 PM.",
+        "hypothesis": "Michael reached after Alexander.",
+        "label": 2
+    },
+    {
+        "premise": "Peter reached school at 12 noon whereas Melissa reached at 2 PM.",
+        "hypothesis": "Peter reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached hospital at 6:30 AM whereas Kevin reached at 7 AM.",
+        "hypothesis": "Leslie reached after Kevin.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached hospital at 6 AM whereas Virginia reached at 4 PM.",
+        "hypothesis": "Christopher reached after Virginia.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda reached school at 12:30 PM whereas Keith reached at 4 PM.",
+        "hypothesis": "Amanda reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Ron reached school at 11:30 AM whereas Ben reached at 6 PM.",
+        "hypothesis": "Ron reached after Ben.",
+        "label": 2
+    },
+    {
+        "premise": "Judith reached office at 1 PM whereas Alison reached at 1:30 PM.",
+        "hypothesis": "Judith reached after Alison.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached office at 6 AM whereas Diane reached at 10 AM.",
+        "hypothesis": "Kate reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Marie reached school at 7 AM whereas Edward reached at 11 AM.",
+        "hypothesis": "Marie reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached park at 2 PM whereas Samuel reached at 5:30 PM.",
+        "hypothesis": "Fiona reached after Samuel.",
+        "label": 2
+    },
+    {
+        "premise": "Amanda reached hospital at 11:30 AM whereas Edith reached at 5:30 PM.",
+        "hypothesis": "Amanda reached after Edith.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached office at 6 AM whereas Charlotte reached at 7 AM.",
+        "hypothesis": "Maria reached after Charlotte.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached hotel at 12 noon whereas Peter reached at 1:30 PM.",
+        "hypothesis": "Dick reached after Peter.",
+        "label": 2
+    },
+    {
+        "premise": "Dick reached hotel at 11:30 AM whereas Eric reached at 3 PM.",
+        "hypothesis": "Dick reached after Eric.",
+        "label": 2
+    },
+    {
+        "premise": "Charlie reached museum at 6:30 AM whereas Sandra reached at 10:30 AM.",
+        "hypothesis": "Charlie reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Keith reached park at 6:30 AM whereas Sarah reached at 8:30 AM.",
+        "hypothesis": "Keith reached after Sarah.",
+        "label": 2
+    },
+    {
+        "premise": "Julie reached museum at 7 AM whereas Anthony reached at 3 PM.",
+        "hypothesis": "Julie reached after Anthony.",
+        "label": 2
+    },
+    {
+        "premise": "Alexander reached hospital at 9 AM whereas Maria reached at 6 PM.",
+        "hypothesis": "Alexander reached after Maria.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff reached theatre at 2 PM whereas Bill reached at 5 PM.",
+        "hypothesis": "Jeff reached after Bill.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached museum at 7:30 AM whereas Kenneth reached at 10 AM.",
+        "hypothesis": "Don reached after Kenneth.",
+        "label": 2
+    },
+    {
+        "premise": "Anne reached office at 10 AM whereas Heather reached at 11:30 AM.",
+        "hypothesis": "Anne reached after Heather.",
+        "label": 2
+    },
+    {
+        "premise": "Susan reached office at 6 AM whereas Nick reached at 8 AM.",
+        "hypothesis": "Susan reached after Nick.",
+        "label": 2
+    },
+    {
+        "premise": "Kenneth reached school at 9:30 AM whereas Scott reached at 5 PM.",
+        "hypothesis": "Kenneth reached after Scott.",
+        "label": 2
+    },
+    {
+        "premise": "Amy reached museum at 7 AM whereas Adam reached at 11:30 AM.",
+        "hypothesis": "Amy reached after Adam.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached school at 8:30 AM whereas Sam reached at 6 PM.",
+        "hypothesis": "Anthony reached after Sam.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle reached theatre at 6 AM whereas Lauren reached at 6:30 AM.",
+        "hypothesis": "Michelle reached after Lauren.",
+        "label": 2
+    },
+    {
+        "premise": "Joe reached park at 7 AM whereas Louis reached at 9:30 AM.",
+        "hypothesis": "Joe reached after Louis.",
+        "label": 2
+    },
+    {
+        "premise": "Brian reached office at 12 noon whereas Claire reached at 1:30 PM.",
+        "hypothesis": "Brian reached after Claire.",
+        "label": 2
+    },
+    {
+        "premise": "Ashley reached park at 9 AM whereas Richard reached at 3 PM.",
+        "hypothesis": "Ashley reached after Richard.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached park at 7 AM whereas Stephen reached at 2:30 PM.",
+        "hypothesis": "Lauren reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "Emma reached museum at 6 AM whereas Harold reached at 6:30 AM.",
+        "hypothesis": "Emma reached after Harold.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached theatre at 1:30 PM whereas Ruth reached at 4 PM.",
+        "hypothesis": "Elaine reached after Ruth.",
+        "label": 2
+    },
+    {
+        "premise": "Sharon reached hospital at 6:30 AM whereas Charles reached at 2:30 PM.",
+        "hypothesis": "Sharon reached after Charles.",
+        "label": 2
+    },
+    {
+        "premise": "Matthew reached museum at 1:30 PM whereas Dave reached at 2 PM.",
+        "hypothesis": "Matthew reached after Dave.",
+        "label": 2
+    },
+    {
+        "premise": "Stephanie reached theatre at 4 PM whereas Carolyn reached at 6 PM.",
+        "hypothesis": "Stephanie reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Elaine reached theatre at 7:30 AM whereas Julia reached at 1:30 PM.",
+        "hypothesis": "Elaine reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Andrea reached hospital at 6 AM whereas Bruce reached at 8:30 AM.",
+        "hypothesis": "Andrea reached after Bruce.",
+        "label": 2
+    },
+    {
+        "premise": "Jimmy reached hospital at 7 AM whereas Bob reached at 10 AM.",
+        "hypothesis": "Jimmy reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Bruce reached school at 8 AM whereas Lynn reached at 3:30 PM.",
+        "hypothesis": "Bruce reached after Lynn.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached school at 11:30 AM whereas Susan reached at 5 PM.",
+        "hypothesis": "Roy reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached office at 7:30 AM whereas Fiona reached at 1:30 PM.",
+        "hypothesis": "Florence reached after Fiona.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached school at 7 AM whereas Kathryn reached at 2:30 PM.",
+        "hypothesis": "Lawrence reached after Kathryn.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached school at 8 AM whereas Steve reached at 6 PM.",
+        "hypothesis": "Steven reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached park at 7 AM whereas Roy reached at 1 PM.",
+        "hypothesis": "Joan reached after Roy.",
+        "label": 2
+    },
+    {
+        "premise": "Roy reached theatre at 6 AM whereas Matt reached at 6:30 AM.",
+        "hypothesis": "Roy reached after Matt.",
+        "label": 2
+    },
+    {
+        "premise": "Diane reached school at 3:30 PM whereas Matthew reached at 6 PM.",
+        "hypothesis": "Diane reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Bobby reached school at 8:30 AM whereas Carolyn reached at 9 AM.",
+        "hypothesis": "Bobby reached after Carolyn.",
+        "label": 2
+    },
+    {
+        "premise": "Philip reached hotel at 7:30 AM whereas Bob reached at 4 PM.",
+        "hypothesis": "Philip reached after Bob.",
+        "label": 2
+    },
+    {
+        "premise": "Kathleen reached office at 6 AM whereas Eric reached at 7 AM.",
+        "hypothesis": "Kathleen reached after Eric.",
+        "label": 2
+    },
+    {
+        "premise": "Grace reached museum at 6:30 AM whereas Matthew reached at 5:30 PM.",
+        "hypothesis": "Grace reached after Matthew.",
+        "label": 2
+    },
+    {
+        "premise": "Mike reached park at 9:30 AM whereas Stephen reached at 10 AM.",
+        "hypothesis": "Mike reached after Stephen.",
+        "label": 2
+    },
+    {
+        "premise": "Steven reached hospital at 6:30 AM whereas Kathy reached at 12 noon.",
+        "hypothesis": "Steven reached after Kathy.",
+        "label": 2
+    },
+    {
+        "premise": "Anthony reached museum at 11 AM whereas Sandra reached at 12:30 PM.",
+        "hypothesis": "Anthony reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached theatre at 10:30 AM whereas Kim reached at 2:30 PM.",
+        "hypothesis": "Leslie reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached theatre at 10 AM whereas Jill reached at 1 PM.",
+        "hypothesis": "Alexandra reached after Jill.",
+        "label": 2
+    },
+    {
+        "premise": "Philip reached hotel at 7:30 AM whereas Edwin reached at 2:30 PM.",
+        "hypothesis": "Philip reached after Edwin.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached office at 6 AM whereas Lauren reached at 10:30 AM.",
+        "hypothesis": "Jerry reached after Lauren.",
+        "label": 2
+    },
+    {
+        "premise": "Fiona reached hotel at 11:30 AM whereas Louise reached at 3 PM.",
+        "hypothesis": "Fiona reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached hospital at 11:30 AM whereas Lisa reached at 4:30 PM.",
+        "hypothesis": "Christopher reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Ann reached hotel at 2:30 PM whereas Judy reached at 3 PM.",
+        "hypothesis": "Ann reached after Judy.",
+        "label": 2
+    },
+    {
+        "premise": "Angela reached hospital at 6:30 AM whereas Billy reached at 10 AM.",
+        "hypothesis": "Angela reached after Billy.",
+        "label": 2
+    },
+    {
+        "premise": "Ralph reached school at 8:30 AM whereas Kim reached at 9:30 AM.",
+        "hypothesis": "Ralph reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Roger reached park at 6:30 AM whereas Ann reached at 12:30 PM.",
+        "hypothesis": "Roger reached after Ann.",
+        "label": 2
+    },
+    {
+        "premise": "Walter reached hotel at 11 AM whereas Christine reached at 1 PM.",
+        "hypothesis": "Walter reached after Christine.",
+        "label": 2
+    },
+    {
+        "premise": "Tim reached theatre at 10:30 AM whereas Keith reached at 5 PM.",
+        "hypothesis": "Tim reached after Keith.",
+        "label": 2
+    },
+    {
+        "premise": "Robert reached hospital at 6 AM whereas Jim reached at 6:30 AM.",
+        "hypothesis": "Robert reached after Jim.",
+        "label": 2
+    },
+    {
+        "premise": "Julie reached office at 7 AM whereas Michelle reached at 1:30 PM.",
+        "hypothesis": "Julie reached after Michelle.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached theatre at 1 PM whereas Sandra reached at 2 PM.",
+        "hypothesis": "Maria reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Betty reached school at 7 AM whereas Charlie reached at 11:30 AM.",
+        "hypothesis": "Betty reached after Charlie.",
+        "label": 2
+    },
+    {
+        "premise": "Sue reached museum at 7:30 AM whereas Tim reached at 10:30 AM.",
+        "hypothesis": "Sue reached after Tim.",
+        "label": 2
+    },
+    {
+        "premise": "Ben reached hotel at 6 AM whereas Howard reached at 6:30 AM.",
+        "hypothesis": "Ben reached after Howard.",
+        "label": 2
+    },
+    {
+        "premise": "Kate reached theatre at 12:30 PM whereas Kim reached at 4 PM.",
+        "hypothesis": "Kate reached after Kim.",
+        "label": 2
+    },
+    {
+        "premise": "Martin reached museum at 9:30 AM whereas Louise reached at 11:30 AM.",
+        "hypothesis": "Martin reached after Louise.",
+        "label": 2
+    },
+    {
+        "premise": "Claire reached hotel at 1:30 PM whereas Harriet reached at 6 PM.",
+        "hypothesis": "Claire reached after Harriet.",
+        "label": 2
+    },
+    {
+        "premise": "Wendy reached museum at 7:30 AM whereas Pamela reached at 9 AM.",
+        "hypothesis": "Wendy reached after Pamela.",
+        "label": 2
+    },
+    {
+        "premise": "Ken reached park at 6 AM whereas Nicole reached at 7 AM.",
+        "hypothesis": "Ken reached after Nicole.",
+        "label": 2
+    },
+    {
+        "premise": "Florence reached theatre at 12 noon whereas Linda reached at 1:30 PM.",
+        "hypothesis": "Florence reached after Linda.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca reached museum at 12:30 PM whereas Steven reached at 1 PM.",
+        "hypothesis": "Rebecca reached after Steven.",
+        "label": 2
+    },
+    {
+        "premise": "Ryan reached hotel at 6 AM whereas Walter reached at 6:30 AM.",
+        "hypothesis": "Ryan reached after Walter.",
+        "label": 2
+    },
+    {
+        "premise": "Louis reached museum at 6 AM whereas Patricia reached at 6:30 AM.",
+        "hypothesis": "Louis reached after Patricia.",
+        "label": 2
+    },
+    {
+        "premise": "Don reached park at 11:30 AM whereas Julie reached at 12:30 PM.",
+        "hypothesis": "Don reached after Julie.",
+        "label": 2
+    },
+    {
+        "premise": "Kathy reached school at 1 PM whereas Katie reached at 1:30 PM.",
+        "hypothesis": "Kathy reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached park at 1:30 PM whereas Diane reached at 6 PM.",
+        "hypothesis": "Jay reached after Diane.",
+        "label": 2
+    },
+    {
+        "premise": "Jonathan reached hotel at 8:30 AM whereas Florence reached at 1:30 PM.",
+        "hypothesis": "Jonathan reached after Florence.",
+        "label": 2
+    },
+    {
+        "premise": "Lawrence reached hotel at 9:30 AM whereas Robert reached at 12:30 PM.",
+        "hypothesis": "Lawrence reached after Robert.",
+        "label": 2
+    },
+    {
+        "premise": "Jeff reached hotel at 6:30 AM whereas Sandra reached at 7:30 AM.",
+        "hypothesis": "Jeff reached after Sandra.",
+        "label": 2
+    },
+    {
+        "premise": "Linda reached office at 6:30 AM whereas Steven reached at 7 AM.",
+        "hypothesis": "Linda reached after Steven.",
+        "label": 2
+    },
+    {
+        "premise": "Eric reached hospital at 6:30 AM whereas Anna reached at 8 AM.",
+        "hypothesis": "Eric reached after Anna.",
+        "label": 2
+    },
+    {
+        "premise": "Edwin reached theatre at 6:30 AM whereas Robin reached at 10 AM.",
+        "hypothesis": "Edwin reached after Robin.",
+        "label": 2
+    },
+    {
+        "premise": "Roger reached office at 6 AM whereas Thomas reached at 6:30 AM.",
+        "hypothesis": "Roger reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Leslie reached school at 10 AM whereas Alice reached at 2 PM.",
+        "hypothesis": "Leslie reached after Alice.",
+        "label": 2
+    },
+    {
+        "premise": "Sophie reached park at 3 PM whereas Emily reached at 6 PM.",
+        "hypothesis": "Sophie reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Harry reached park at 6:30 AM whereas Julia reached at 8:30 AM.",
+        "hypothesis": "Harry reached after Julia.",
+        "label": 2
+    },
+    {
+        "premise": "Alice reached office at 9 AM whereas Lawrence reached at 11:30 AM.",
+        "hypothesis": "Alice reached after Lawrence.",
+        "label": 2
+    },
+    {
+        "premise": "Alexandra reached park at 6 AM whereas Alex reached at 6 PM.",
+        "hypothesis": "Alexandra reached after Alex.",
+        "label": 2
+    },
+    {
+        "premise": "Patricia reached park at 11 AM whereas Melissa reached at 1:30 PM.",
+        "hypothesis": "Patricia reached after Melissa.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached museum at 6 AM whereas Lisa reached at 10:30 AM.",
+        "hypothesis": "Lauren reached after Lisa.",
+        "label": 2
+    },
+    {
+        "premise": "Adam reached theatre at 6 AM whereas Steve reached at 9:30 AM.",
+        "hypothesis": "Adam reached after Steve.",
+        "label": 2
+    },
+    {
+        "premise": "Bob reached theatre at 6:30 AM whereas Ian reached at 1:30 PM.",
+        "hypothesis": "Bob reached after Ian.",
+        "label": 2
+    },
+    {
+        "premise": "Heather reached museum at 6:30 AM whereas Judith reached at 6 PM.",
+        "hypothesis": "Heather reached after Judith.",
+        "label": 2
+    },
+    {
+        "premise": "Jay reached office at 7 AM whereas Donna reached at 11:30 AM.",
+        "hypothesis": "Jay reached after Donna.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached hospital at 1:30 PM whereas Carl reached at 3 PM.",
+        "hypothesis": "Lauren reached after Carl.",
+        "label": 2
+    },
+    {
+        "premise": "Jack reached hotel at 6:30 AM whereas Dick reached at 8:30 AM.",
+        "hypothesis": "Jack reached after Dick.",
+        "label": 2
+    },
+    {
+        "premise": "Deborah reached theatre at 11:30 AM whereas Johnny reached at 12:30 PM.",
+        "hypothesis": "Deborah reached after Johnny.",
+        "label": 2
+    },
+    {
+        "premise": "Tony reached office at 6 AM whereas Kate reached at 10 AM.",
+        "hypothesis": "Tony reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Benjamin reached office at 7:30 AM whereas Edward reached at 2 PM.",
+        "hypothesis": "Benjamin reached after Edward.",
+        "label": 2
+    },
+    {
+        "premise": "Edward reached hotel at 5 PM whereas Tony reached at 6 PM.",
+        "hypothesis": "Edward reached after Tony.",
+        "label": 2
+    },
+    {
+        "premise": "Christopher reached park at 6 AM whereas Al reached at 6:30 AM.",
+        "hypothesis": "Christopher reached after Al.",
+        "label": 2
+    },
+    {
+        "premise": "Harriet reached school at 8 AM whereas Gary reached at 6 PM.",
+        "hypothesis": "Harriet reached after Gary.",
+        "label": 2
+    },
+    {
+        "premise": "Alex reached theatre at 6 AM whereas Grace reached at 7 AM.",
+        "hypothesis": "Alex reached after Grace.",
+        "label": 2
+    },
+    {
+        "premise": "Rebecca reached hospital at 8 AM whereas Ron reached at 10 AM.",
+        "hypothesis": "Rebecca reached after Ron.",
+        "label": 2
+    },
+    {
+        "premise": "Lauren reached museum at 9 AM whereas Fiona reached at 3 PM.",
+        "hypothesis": "Lauren reached after Fiona.",
+        "label": 2
+    },
+    {
+        "premise": "Laura reached park at 6:30 AM whereas Jimmy reached at 2 PM.",
+        "hypothesis": "Laura reached after Jimmy.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached hotel at 9:30 AM whereas Katie reached at 4 PM.",
+        "hypothesis": "Jerry reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Maria reached park at 9:30 AM whereas Emily reached at 1:30 PM.",
+        "hypothesis": "Maria reached after Emily.",
+        "label": 2
+    },
+    {
+        "premise": "Mary reached hospital at 10:30 AM whereas Katie reached at 12 noon.",
+        "hypothesis": "Mary reached after Katie.",
+        "label": 2
+    },
+    {
+        "premise": "Helen reached hotel at 7:30 AM whereas Arthur reached at 11:30 AM.",
+        "hypothesis": "Helen reached after Arthur.",
+        "label": 2
+    },
+    {
+        "premise": "Chris reached school at 6 AM whereas Leslie reached at 7:30 AM.",
+        "hypothesis": "Chris reached after Leslie.",
+        "label": 2
+    },
+    {
+        "premise": "Jerry reached theatre at 6:30 AM whereas Sharon reached at 11:30 AM.",
+        "hypothesis": "Jerry reached after Sharon.",
+        "label": 2
+    },
+    {
+        "premise": "Jane reached hospital at 10 AM whereas Dave reached at 10:30 AM.",
+        "hypothesis": "Jane reached after Dave.",
+        "label": 2
+    },
+    {
+        "premise": "Albert reached museum at 12:30 PM whereas Susan reached at 2:30 PM.",
+        "hypothesis": "Albert reached after Susan.",
+        "label": 2
+    },
+    {
+        "premise": "Daniel reached park at 6:30 AM whereas Alexandra reached at 10 AM.",
+        "hypothesis": "Daniel reached after Alexandra.",
+        "label": 2
+    },
+    {
+        "premise": "Joan reached office at 7 AM whereas Thomas reached at 7:30 AM.",
+        "hypothesis": "Joan reached after Thomas.",
+        "label": 2
+    },
+    {
+        "premise": "Michelle reached office at 12 noon whereas Deborah reached at 2 PM.",
+        "hypothesis": "Michelle reached after Deborah.",
+        "label": 2
+    },
+    {
+        "premise": "Joseph reached hospital at 8:30 AM whereas Kate reached at 9:30 AM.",
+        "hypothesis": "Joseph reached after Kate.",
+        "label": 2
+    },
+    {
+        "premise": "Scott reached hotel at 2 PM whereas Matt reached at 6 PM.",
+        "hypothesis": "Scott reached after Matt.",
+        "label": 2
+    }
+]
