@@ -50,17 +50,10 @@ def main():
     training_args, args = argp.parse_args_into_dataclasses()
 
     # Dataset selection
-    # IMPORTANT: this code path allows you to load custom datasets different from the standard SQuAD or SNLI ones.
-    # You need to format the dataset appropriately. For SNLI, you can prepare a file with each line containing one
-    # example as follows:
-    # {"premise": "Two women are embracing.", "hypothesis": "The sisters are hugging.", "label": 1}
     if args.dataset.endswith('.json') or args.dataset.endswith('.jsonl'):
         dataset_id = None
         # Load from local json/jsonl file
         dataset = datasets.load_dataset('json', data_files=args.dataset)
-        # By default, the "json" dataset loader places all examples in the train split,
-        # so if we want to use a jsonl file for evaluation we need to get the "train" split
-        # from the loaded dataset
         eval_split = 'train'
     else:
         default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
@@ -74,7 +67,7 @@ def main():
     # NLI models need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
     task_kwargs = {'num_labels': 3} if args.task == 'nli' else {}
 
-    # Here we select the right model fine-tuning head
+    # select the right model fine-tuning head
     model_classes = {'qa': AutoModelForQuestionAnswering,
                      'nli': AutoModelForSequenceClassification}
     model_class = model_classes[args.task]
@@ -82,7 +75,7 @@ def main():
     model = model_class.from_pretrained(args.model, **task_kwargs)
     tokenizer = AutoTokenizer.from_pretrained(args.model, use_fast=True)
 
-    # Select the dataset preprocessing function (these functions are defined in helpers.py)
+    # Select the dataset preprocessing function
     if args.task == 'qa':
         prepare_train_dataset = lambda exs: prepare_train_dataset_qa(exs, tokenizer)
         prepare_eval_dataset = lambda exs: prepare_validation_dataset_qa(exs, tokenizer)
@@ -129,12 +122,8 @@ def main():
     # Select the training configuration
     trainer_class = Trainer
     eval_kwargs = {}
-    # If you want to use custom metrics, you should define your own "compute_metrics" function.
-    # For an example of a valid compute_metrics function, see compute_accuracy in helpers.py.
     compute_metrics = None
     if args.task == 'qa':
-        # For QA, we need to use a tweaked version of the Trainer (defined in helpers.py)
-        # to enable the question-answering specific evaluation metrics
         trainer_class = QuestionAnsweringTrainer
         eval_kwargs['eval_examples'] = eval_dataset
         metric = datasets.load_metric('squad')
@@ -144,7 +133,7 @@ def main():
         compute_metrics = compute_accuracy
     
 
-    # This function wraps the compute_metrics function, storing the model's predictions
+    # wraps the compute_metrics function, storing the model's predictions
     # so that they can be dumped along with the computed metrics
     eval_predictions = None
     def compute_metrics_and_store_predictions(eval_preds):
@@ -152,7 +141,7 @@ def main():
         eval_predictions = eval_preds
         return compute_metrics(eval_preds)
 
-    # Initialize the Trainer object with the specified arguments and the model and dataset we loaded above
+    # Initialize the Trainer object with the specified arguments and the model and dataset
     trainer = trainer_class(
         model=model,
         args=training_args,
@@ -199,14 +188,6 @@ def main():
                     error_info += f"Gold Label: {gold_label}, Predicted Label: {predicted_label}\n"
                     error_info += "----\n"
                     correct_file.write(error_info)
-
-          
-        # To add custom metrics, you should replace the "compute_metrics" function (see comments above).
-        #
-        # If you want to change how predictions are computed, you should subclass Trainer and override the "prediction_step"
-        # method (see https://huggingface.co/transformers/_modules/transformers/trainer.html#Trainer.prediction_step).
-        # If you do this your custom prediction_step should probably start by calling super().prediction_step and modifying the
-        # values that it returns.
 
         print('Evaluation results:')
         print(results)
